@@ -1,8 +1,8 @@
-# CARL v9.1.10112025 - Embodied AI for Personal Robotics
+# CARL v9.9.11172025 - Embodied AI for Personal Robotics
 
 ## Overview
 
-CARL (Cognitive Architecture for Robotics and Learning) is an advanced embodied AI system designed for personal robotics applications. Version 9.1.10112025 represents a major advancement in vision-memory integration, autonomous behavior implementation, and consciousness assessment enhancement. This version was built from v8.2.0 and implements critical vision-memory integration, stochastic self-recognition reactions, and enhanced consciousness evaluation systems.
+CARL (Cognitive Architecture for Robotics and Learning) is an advanced embodied AI system designed for personal robotics applications. Version 9.9.11172025 represents a major advancement in vision-memory integration, autonomous behavior implementation, and consciousness assessment enhancement. This version was built from v8.2.0 and implements critical vision-memory integration, stochastic self-recognition reactions, and enhanced consciousness evaluation systems.
 
 ## Key Features
 
