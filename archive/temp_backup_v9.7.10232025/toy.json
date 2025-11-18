@@ -1,0 +1,258 @@
+{
+    "word": "toy",
+    "type": "thing",
+    "first_seen": "2025-08-23 07:42:48.094821",
+    "last_updated": "2025-08-23 07:42:48.094821",
+    "occurrences": 0,
+    "contexts": [],
+    "emotional_history": [],
+    "conceptnet_data": {
+        "has_data": true,
+        "last_lookup": 1755960210.941255,
+        "edges": [
+            {
+                "target": "plaything",
+                "relationship": "RelatedTo",
+                "weight": 8.734758153492287,
+                "uri": "/a/[/r/RelatedTo/,/c/en/toy/,/c/en/plaything/]"
+            },
+            {
+                "target": "child",
+                "relationship": "RelatedTo",
+                "weight": 7.529940238806679,
+                "uri": "/a/[/r/RelatedTo/,/c/en/toy/,/c/en/child/]"
+            },
+            {
+                "target": "play",
+                "relationship": "RelatedTo",
+                "weight": 7.056061224224177,
+                "uri": "/a/[/r/RelatedTo/,/c/en/toy/,/c/en/play/]"
+            },
+            {
+                "target": "children",
+                "relationship": "RelatedTo",
+                "weight": 6.522576178167643,
+                "uri": "/a/[/r/RelatedTo/,/c/en/toy/,/c/en/children/]"
+            },
+            {
+                "target": "kids",
+                "relationship": "RelatedTo",
+                "weight": 5.9531504264548865,
+                "uri": "/a/[/r/RelatedTo/,/c/en/toy/,/c/en/kids/]"
+            },
+            {
+                "target": "fun",
+                "relationship": "RelatedTo",
+                "weight": 4.971116574774726,
+                "uri": "/a/[/r/RelatedTo/,/c/en/toy/,/c/en/fun/]"
+            },
+            {
+                "target": "object",
+                "relationship": "RelatedTo",
+                "weight": 4.62860670180563,
+                "uri": "/a/[/r/RelatedTo/,/c/en/toy/,/c/en/object/]"
+            },
+            {
+                "target": "playing",
+                "relationship": "RelatedTo",
+                "weight": 4.578646088091981,
+                "uri": "/a/[/r/RelatedTo/,/c/en/toy/,/c/en/playing/]"
+            },
+            {
+                "target": "game",
+                "relationship": "RelatedTo",
+                "weight": 4.285323791733829,
+                "uri": "/a/[/r/RelatedTo/,/c/en/toy/,/c/en/game/]"
+            },
+            {
+                "target": "child plaything",
+                "relationship": "RelatedTo",
+                "weight": 4.101706961741661,
+                "uri": "/a/[/r/RelatedTo/,/c/en/toy/,/c/en/child_plaything/]"
+            }
+        ],
+        "relationships": [
+            "RelatedTo"
+        ],
+        "total_edges_found": 10,
+        "concept_queried": "toy",
+        "single_word_validated": true
+    },
+    "related_concepts": [
+        "children",
+        "play",
+        "fun",
+        "entertainment",
+        "learning",
+        "education",
+        "development",
+        "imagination",
+        "creativity",
+        "motor skills",
+        "game",
+        "doll",
+        "car",
+        "ball",
+        "block",
+        "puzzle",
+        "book",
+        "stuffed animal",
+        "action figure",
+        "building set",
+        "plaything",
+        "child",
+        "kids",
+        "object",
+        "playing",
+        "child plaything"
+    ],
+    "linked_needs": [],
+    "linked_goals": [],
+    "linked_skills": [
+        "observe",
+        "interact",
+        "describe"
+    ],
+    "linked_senses": [],
+    "neucogar_emotional_associations": {
+        "primary": "joy",
+        "sub_emotion": "excitement",
+        "neuro_coordinates": {
+            "dopamine": 0.7,
+            "serotonin": 0.6,
+            "noradrenaline": 0.4
+        },
+        "intensity": 0.6,
+        "triggers": [
+            "seeing children play",
+            "interactive play",
+            "educational activities",
+            "creative expression"
+        ]
+    },
+    "emotional_associations": {
+        "joy": 0.7,
+        "excitement": 0.6,
+        "curiosity": 0.5,
+        "wonder": 0.4,
+        "nostalgia": 0.3
+    },
+    "contextual_usage": [
+        "Children play with toys to learn and have fun",
+        "Toys can be educational tools for development",
+        "Toys encourage imagination and creativity",
+        "Interactive toys help develop motor skills",
+        "Toys provide entertainment and engagement"
+    ],
+    "semantic_relationships": [
+        "object",
+        "play",
+        "entertainment",
+        "education",
+        "children"
+    ],
+    "keywords": [
+        "play",
+        "children",
+        "fun",
+        "entertainment",
+        "learning",
+        "education",
+        "development",
+        "imagination",
+        "creativity",
+        "motor skills",
+        "interactive",
+        "engaging",
+        "colorful",
+        "safe",
+        "age-appropriate"
+    ],
+    "values_alignment": {
+        "value_alignments": {},
+        "belief_alignments": {},
+        "conflicts": [],
+        "overall_alignment": 0.0,
+        "acc_activation": 0.0,
+        "recommendation": "Neutral - minimal alignment or conflict"
+    },
+    "beliefs": [],
+    "Learning_Integration": {
+        "concept_learning_system": {
+            "neurological_basis": {
+                "reward_prediction_error": {
+                    "expected_utility": 0.5,
+                    "prediction_error": 0.0,
+                    "learning_rate": 0.1
+                },
+                "attention_mechanism": {
+                    "salience": 0.5,
+                    "focus_level": 0.5
+                },
+                "memory_consolidation": {
+                    "strength": 0.5,
+                    "retrieval_ease": 0.5
+                }
+            },
+            "concept_learning_system": {
+                "pattern_recognition": {
+                    "feature_extraction": [],
+                    "similarity_threshold": 0.5
+                },
+                "categorization": {
+                    "prototype_formation": {
+                        "primary_features": [],
+                        "secondary_features": []
+                    },
+                    "boundary_adjustment": 0.5
+                },
+                "generalization": {
+                    "transfer_learning": {
+                        "related_activities": []
+                    },
+                    "abstraction_level": 0.5
+                }
+            },
+            "learning_principles": {
+                "information_processing": {
+                    "encoding_depth": 0.5,
+                    "retrieval_practice": {
+                        "spaced_repetition": {
+                            "next_review": "",
+                            "review_interval": 0.5
+                        }
+                    }
+                },
+                "motivational_factors": {
+                    "intrinsic_interest": 0.5,
+                    "extrinsic_rewards": 0.5
+                },
+                "metacognitive_awareness": {
+                    "self_monitoring": 0.5,
+                    "strategy_selection": 0.5
+                }
+            }
+        },
+        "concept_progression": {
+            "current_level": "basic_recognition",
+            "level_progress": 0.0,
+            "mastery_threshold": 0.8,
+            "progression_stages": [
+                "basic_recognition",
+                "contextual_understanding",
+                "flexible_application",
+                "creative_synthesis"
+            ]
+        },
+        "adaptive_learning": {
+            "difficulty_adjustment": {
+                "current_challenge": 0.5,
+                "success_rate": 0.5
+            },
+            "personalization": {
+                "learning_style": "general",
+                "preference_adaptation": 0.5
+            }
+        }
+    }
+}

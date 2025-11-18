@@ -1,0 +1,44 @@
+{
+  "has_data": true,
+  "last_lookup": 1757522601.1654346,
+  "edges": [
+    {
+      "target": "instruct",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/instructing/v/,/c/en/instruct/]"
+    },
+    {
+      "target": "instruct",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/instructing/,/c/en/instruct/v/]"
+    },
+    {
+      "target": "instruct",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/instructing/v/,/c/en/instruct/]"
+    },
+    {
+      "target": "instructing",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/instructing/,/http://en.wiktionary.org/wiki/instructing/]"
+    },
+    {
+      "target": "instructing",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/instructing/,/http://fr.wiktionary.org/wiki/instructing/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "FormOf",
+    "ExternalURL"
+  ],
+  "total_edges_found": 5,
+  "concept_queried": "instructing",
+  "single_word_validated": true
+}

@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1755797249.167207,
+  "edges": [
+    {
+      "target": "kfum",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/ymca/n/,/c/fo/kfum/]"
+    },
+    {
+      "target": "Q157169",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/ymca/,/http://wikidata.dbpedia.org/resource/Q157169/]"
+    },
+    {
+      "target": "cvjm",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/ymca/n/,/c/de/cvjm/]"
+    },
+    {
+      "target": "nmk\u00fc",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/ymca/n/,/c/et/nmk\u00fc/]"
+    },
+    {
+      "target": "nmky",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/ymca/n/,/c/fi/nmky/]"
+    },
+    {
+      "target": "imitate",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/ymca/n/,/c/en/imitate/]"
+    },
+    {
+      "target": "succession",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/ymca/n/,/c/en/succession/]"
+    },
+    {
+      "target": "ymca",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/ymca/n/,/c/sk/ymca/]"
+    },
+    {
+      "target": "\u57fa\u7763\u6559\u9752\u5e74\u6703",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/ymca/n/,/c/zh/\u57fa\u7763\u6559\u9752\u5e74\u6703/]"
+    },
+    {
+      "target": "ywca",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/ymca/n/,/c/en/ywca/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "ExternalURL",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "ymca",
+  "single_word_validated": true
+}

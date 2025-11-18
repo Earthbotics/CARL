@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1762019845.1342673,
+  "edges": [
+    {
+      "target": "a manufacturing plant",
+      "relationship": "AtLocation",
+      "weight": 4.0,
+      "uri": "/a/[/r/AtLocation/,/c/en/robot/,/c/en/manufacturing_plant/]"
+    },
+    {
+      "target": "a factory",
+      "relationship": "AtLocation",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/AtLocation/,/c/en/robot/,/c/en/factory/]"
+    },
+    {
+      "target": "an automation",
+      "relationship": "IsA",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/IsA/,/c/en/robot/,/c/en/automation/]"
+    },
+    {
+      "target": "a laboratory",
+      "relationship": "AtLocation",
+      "weight": 2.0,
+      "uri": "/a/[/r/AtLocation/,/c/en/robot/,/c/en/laboratory/]"
+    },
+    {
+      "target": "robot",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/robot/n/,/c/sh/robot/]"
+    },
+    {
+      "target": "machine",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/robot/,/c/en/machine/]"
+    },
+    {
+      "target": "one type of a machine",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/robot/,/c/en/one_type_of_machine/]"
+    },
+    {
+      "target": "automaton",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/robot/n/wn/artifact/,/c/en/automaton/n/wn/artifact/]"
+    },
+    {
+      "target": "a worker",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/robot/,/c/en/worker/]"
+    },
+    {
+      "target": "mechanical",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/robot/n/,/c/en/mechanical/]"
+    }
+  ],
+  "relationships": [
+    "AtLocation",
+    "IsA",
+    "Synonym",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "robot",
+  "single_word_validated": true
+}

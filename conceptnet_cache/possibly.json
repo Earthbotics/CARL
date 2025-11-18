@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1757817101.3141086,
+  "edges": [
+    {
+      "target": "perchance",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/possibly/r/wn/,/c/en/perchance/r/wn/]"
+    },
+    {
+      "target": "impossibly",
+      "relationship": "Antonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Antonym/,/c/en/possibly/r/,/c/en/impossibly/]"
+    },
+    {
+      "target": "possiblement",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/possibly/r/,/c/fr/possiblement/]"
+    },
+    {
+      "target": "perhaps",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/possibly/r/,/c/en/perhaps/]"
+    },
+    {
+      "target": "conceivably",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/possibly/r/,/c/en/conceivably/]"
+    },
+    {
+      "target": "possible",
+      "relationship": "DerivedFrom",
+      "weight": 1.0,
+      "uri": "/a/[/r/DerivedFrom/,/c/en/possibly/,/c/en/possible/a/]"
+    },
+    {
+      "target": "modifying verb",
+      "relationship": "HasContext",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasContext/,/c/en/possibly/r/,/c/en/modifying_verb/]"
+    },
+    {
+      "target": "certainly",
+      "relationship": "Antonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Antonym/,/c/en/possibly/r/,/c/en/certainly/]"
+    },
+    {
+      "target": "incidentally",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/possibly/r/,/c/en/incidentally/]"
+    },
+    {
+      "target": "inevitably",
+      "relationship": "Antonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Antonym/,/c/en/possibly/r/,/c/en/inevitably/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "Antonym",
+    "RelatedTo",
+    "DerivedFrom",
+    "HasContext"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "possibly",
+  "single_word_validated": true
+}

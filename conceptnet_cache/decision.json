@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1757082872.8685079,
+  "edges": [
+    {
+      "target": "result",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/decision/n/wn/boxing/,/c/en/result/n/wn/event/]"
+    },
+    {
+      "target": "decisiveness",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/decision/n/wn/attribute/,/c/en/decisiveness/n/wn/attribute/]"
+    },
+    {
+      "target": "choice",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/decision/n/wn/act/,/c/en/choice/n/wn/act/]"
+    },
+    {
+      "target": "a choice",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/decision/,/c/en/choice/]"
+    },
+    {
+      "target": "judgment",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/decision/n/wn/cognition/,/c/en/judgment/n/wn/cognition/]"
+    },
+    {
+      "target": "odluka",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/decision/n/,/c/sh/odluka/]"
+    },
+    {
+      "target": "a fork in the road",
+      "relationship": "AtLocation",
+      "weight": 2.0,
+      "uri": "/a/[/r/AtLocation/,/c/en/decision/,/c/en/fork_in_road/]"
+    },
+    {
+      "target": "decide",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/decision/n/,/c/en/decide/]"
+    },
+    {
+      "target": "result",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/decision/n/wn/event/,/c/en/result/n/wn/event/]"
+    },
+    {
+      "target": "boxing",
+      "relationship": "HasContext",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasContext/,/c/en/decision/n/wn/boxing/,/c/en/boxing/n/wn/act/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "Synonym",
+    "AtLocation",
+    "RelatedTo",
+    "HasContext"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "decision",
+  "single_word_validated": true
+}

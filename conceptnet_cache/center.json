@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1757528888.3422787,
+  "edges": [
+    {
+      "target": "middle",
+      "relationship": "RelatedTo",
+      "weight": 2.594609797252758,
+      "uri": "/a/[/r/RelatedTo/,/c/en/center/,/c/en/middle/]"
+    },
+    {
+      "target": "basketball player",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/center/n/wn/basketball/,/c/en/basketball_player/n/wn/person/]"
+    },
+    {
+      "target": "lineman",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/center/n/wn/act/,/c/en/lineman/n/wn/american_football/]"
+    },
+    {
+      "target": "plaza",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/center/n/wn/artifact/,/c/en/plaza/n/wn/artifact/]"
+    },
+    {
+      "target": "area",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/center/n/wn/location/,/c/en/area/n/wn/location/]"
+    },
+    {
+      "target": "halfway",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/center/a/wn/,/c/en/halfway/a/wn/]"
+    },
+    {
+      "target": "position",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/center/n/wn/act/,/c/en/position/n/wn/sport/]"
+    },
+    {
+      "target": "kernel",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/center/n/wn/cognition/,/c/en/kernel/n/wn/cognition/]"
+    },
+    {
+      "target": "formation",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/center/n/wn/military/,/c/en/formation/n/wn/group/]"
+    },
+    {
+      "target": "sweet",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/center/n/wn/food/,/c/en/sweet/n/wn/food/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "IsA",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "center",
+  "single_word_validated": true
+}

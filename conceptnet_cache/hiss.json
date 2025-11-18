@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1757469400.4384246,
+  "edges": [
+    {
+      "target": "travel",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/hiss/v/wn/motion/,/c/en/travel/v/wn/motion/]"
+    },
+    {
+      "target": "talk",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/hiss/v/wn/communication/,/c/en/talk/v/wn/communication/]"
+    },
+    {
+      "target": "boo",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/hiss/v/wn/communication/,/c/en/boo/v/wn/communication/]"
+    },
+    {
+      "target": "boo",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/hiss/n/wn/communication/,/c/en/boo/n/wn/communication/]"
+    },
+    {
+      "target": "utter",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/hiss/v/wn/communication/,/c/en/utter/v/wn/communication/]"
+    },
+    {
+      "target": "noise",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/hiss/n/wn/event/,/c/en/noise/n/wn/event/]"
+    },
+    {
+      "target": "201056058-v",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/hiss/v/wn/communication/,/http://wordnet-rdf.princeton.edu/wn31/201056058-v/]"
+    },
+    {
+      "target": "disapproval",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/hiss/n/,/c/en/disapproval/]"
+    },
+    {
+      "target": "utter",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/hiss/v/,/c/en/utter/]"
+    },
+    {
+      "target": "hv\u00e6se",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/hiss/n/,/c/da/hv\u00e6se/]"
+    }
+  ],
+  "relationships": [
+    "MannerOf",
+    "Synonym",
+    "IsA",
+    "ExternalURL",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "hiss",
+  "single_word_validated": true
+}

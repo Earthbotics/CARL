@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1759722584.2191713,
+  "edges": [
+    {
+      "target": "script",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/scenario/n/wn/communication/,/c/en/script/n/wn/communication/]"
+    },
+    {
+      "target": "premise",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/scenario/n/wn/communication/,/c/en/premise/n/wn/communication/]"
+    },
+    {
+      "target": "setting",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/scenario/n/wn/location/,/c/en/setting/n/wn/location/]"
+    },
+    {
+      "target": "skenaario",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/scenario/n/,/c/fi/skenaario/]"
+    },
+    {
+      "target": "scenario",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/scenario/n/,/c/no/scenario/]"
+    },
+    {
+      "target": "escenario",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/scenario/n/,/c/es/escenario/]"
+    },
+    {
+      "target": "literary",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/scenario/n/,/c/en/literary/]"
+    },
+    {
+      "target": "plot",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/scenario/n/,/c/en/plot/]"
+    },
+    {
+      "target": "\u0441\u0446\u044d\u043d\u0430\u0440\u044b\u0439",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/scenario/n/,/c/be/\u0441\u0446\u044d\u043d\u0430\u0440\u044b\u0439/]"
+    },
+    {
+      "target": "107025251-n",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/scenario/n/wn/communication/,/http://wordnet-rdf.princeton.edu/wn31/107025251-n/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "Synonym",
+    "RelatedTo",
+    "ExternalURL"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "scenario",
+  "single_word_validated": true
+}

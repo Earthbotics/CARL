@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1755745983.40996,
+  "edges": [
+    {
+      "target": "age",
+      "relationship": "RelatedTo",
+      "weight": 3.3472376670920756,
+      "uri": "/a/[/r/RelatedTo/,/c/en/old/,/c/en/age/]"
+    },
+    {
+      "target": "young",
+      "relationship": "DistinctFrom",
+      "weight": 3.037103883636515,
+      "uri": "/a/[/r/DistinctFrom/,/c/en/old/,/c/en/young/]"
+    },
+    {
+      "target": "a museum",
+      "relationship": "AtLocation",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/AtLocation/,/c/en/old/,/c/en/museum/]"
+    },
+    {
+      "target": "experienced",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/old/a/wn/,/c/en/experienced/a/wn/]"
+    },
+    {
+      "target": "gray-haired",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/old/a/wn/,/c/en/gray_haired/a/wn/]"
+    },
+    {
+      "target": "oldish",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/old/a/wn/,/c/en/oldish/a/wn/]"
+    },
+    {
+      "target": "sexagenarian",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/old/a/wn/,/c/en/sexagenarian/a/wn/]"
+    },
+    {
+      "target": "worn",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/old/a/wn/,/c/en/worn/a/wn/]"
+    },
+    {
+      "target": "long-ago",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/old/a/wn/,/c/en/long_ago/a/wn/]"
+    },
+    {
+      "target": "octogenarian",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/old/a/wn/,/c/en/octogenarian/a/wn/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "DistinctFrom",
+    "AtLocation",
+    "SimilarTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "old",
+  "single_word_validated": true
+}

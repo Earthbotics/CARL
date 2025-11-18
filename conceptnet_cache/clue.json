@@ -1,0 +1,77 @@
+{
+  "has_data": true,
+  "last_lookup": 1756763590.42213,
+  "edges": [
+    {
+      "target": "evidence",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/clue/n/wn/communication/,/c/en/evidence/n/wn/communication/]"
+    },
+    {
+      "target": "wind",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/clue/v/wn/contact/,/c/en/wind/v/wn/contact/]"
+    },
+    {
+      "target": "hint",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/clue/n/wn/communication/,/c/en/hint/n/wn/communication/]"
+    },
+    {
+      "target": "hint",
+      "relationship": "SimilarTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/clue/n/,/c/en/hint/]"
+    },
+    {
+      "target": "indicio",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/clue/n/,/c/es/indicio/]"
+    },
+    {
+      "target": "201526189-v",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/clue/v/wn/contact/,/http://wordnet-rdf.princeton.edu/wn31/201526189-v/]"
+    },
+    {
+      "target": "\u043d\u0438\u0442\u044c",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/clue/n/,/c/ru/\u043d\u0438\u0442\u044c/]"
+    },
+    {
+      "target": "have clue",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/clue/n/,/c/en/have_clue/]"
+    },
+    {
+      "target": "\u7dda\u7d22",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/clue/n/,/c/zh/\u7dda\u7d22/]"
+    },
+    {
+      "target": "clue stick",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/clue/n/,/c/en/clue_stick/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "MannerOf",
+    "Synonym",
+    "SimilarTo",
+    "ExternalURL",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "clue",
+  "single_word_validated": true
+}

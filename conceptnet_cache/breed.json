@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1761278165.5566113,
+  "edges": [
+    {
+      "target": "produce",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/breed/v/wn/contact/,/c/en/produce/v/wn/creation/]"
+    },
+    {
+      "target": "engender",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/breed/v/wn/creation/,/c/en/engender/v/wn/creation/]"
+    },
+    {
+      "target": "animal group",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/breed/n/wn/group/,/c/en/animal_group/n/wn/group/]"
+    },
+    {
+      "target": "reproduce",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/breed/v/wn/body/,/c/en/reproduce/v/wn/biology/]"
+    },
+    {
+      "target": "variety",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/breed/n/wn/group/,/c/en/variety/n/wn/biology/]"
+    },
+    {
+      "target": "animal husbandry",
+      "relationship": "HasContext",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasContext/,/c/en/breed/v/wn/animal_husbandry/,/c/en/animal_husbandry/n/wn/act/]"
+    },
+    {
+      "target": "type",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/breed/n/wn/cognition/,/c/en/type/n/wn/cognition/]"
+    },
+    {
+      "target": "copulate",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/breed/v/wn/animal_husbandry/,/c/en/copulate/v/wn/contact/]"
+    },
+    {
+      "target": "race",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/breed/n/,/c/en/race/]"
+    },
+    {
+      "target": "breed in bone",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/breed/v/,/c/en/breed_in_bone/]"
+    }
+  ],
+  "relationships": [
+    "MannerOf",
+    "Synonym",
+    "IsA",
+    "HasContext",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "breed",
+  "single_word_validated": true
+}

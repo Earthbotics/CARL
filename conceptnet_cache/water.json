@@ -1,0 +1,77 @@
+{
+  "has_data": true,
+  "last_lookup": 1758073158.4495645,
+  "edges": [
+    {
+      "target": "a lake",
+      "relationship": "AtLocation",
+      "weight": 9.797958971132712,
+      "uri": "/a/[/r/AtLocation/,/c/en/water/,/c/en/lake/]"
+    },
+    {
+      "target": "drink",
+      "relationship": "UsedFor",
+      "weight": 8.246211251235321,
+      "uri": "/a/[/r/UsedFor/,/c/en/water/,/c/en/drink/]"
+    },
+    {
+      "target": "river",
+      "relationship": "AtLocation",
+      "weight": 7.483314773547882,
+      "uri": "/a/[/r/AtLocation/,/c/en/water/,/c/en/river/]"
+    },
+    {
+      "target": "liquid",
+      "relationship": "RelatedTo",
+      "weight": 7.317376579075319,
+      "uri": "/a/[/r/RelatedTo/,/c/en/water/,/c/en/liquid/]"
+    },
+    {
+      "target": "a pool",
+      "relationship": "AtLocation",
+      "weight": 7.211102550927979,
+      "uri": "/a/[/r/AtLocation/,/c/en/water/,/c/en/pool/]"
+    },
+    {
+      "target": "a waterfall",
+      "relationship": "AtLocation",
+      "weight": 6.6332495807108,
+      "uri": "/a/[/r/AtLocation/,/c/en/water/,/c/en/waterfall/]"
+    },
+    {
+      "target": "liquid",
+      "relationship": "HasProperty",
+      "weight": 6.32455532033676,
+      "uri": "/a/[/r/HasProperty/,/c/en/water/,/c/en/liquid/]"
+    },
+    {
+      "target": "a reflective surface",
+      "relationship": "IsA",
+      "weight": 6.0,
+      "uri": "/a/[/r/IsA/,/c/en/water/,/c/en/reflective_surface/]"
+    },
+    {
+      "target": "essential to all life",
+      "relationship": "HasProperty",
+      "weight": 5.656854249492381,
+      "uri": "/a/[/r/HasProperty/,/c/en/water/,/c/en/essential_to_all_life/]"
+    },
+    {
+      "target": "boiled",
+      "relationship": "ReceivesAction",
+      "weight": 5.291502622129181,
+      "uri": "/a/[/r/ReceivesAction/,/c/en/water/,/c/en/boiled/]"
+    }
+  ],
+  "relationships": [
+    "AtLocation",
+    "UsedFor",
+    "RelatedTo",
+    "HasProperty",
+    "IsA",
+    "ReceivesAction"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "water",
+  "single_word_validated": true
+}

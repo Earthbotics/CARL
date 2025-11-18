@@ -1,0 +1,57 @@
+{
+  "has_data": true,
+  "last_lookup": 1761621745.7694807,
+  "edges": [
+    {
+      "target": "discuss",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/discussing/v/,/c/en/discuss/]"
+    },
+    {
+      "target": "discuss",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/discussing/v/,/c/en/discuss/]"
+    },
+    {
+      "target": "discuss",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/discussing/,/c/en/discuss/v/]"
+    },
+    {
+      "target": "conversation",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/discussing/n/,/c/en/conversation/n/]"
+    },
+    {
+      "target": "ExchangeOfOpinion",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/discussing/n/,/http://sw.opencyc.org/2012/05/10/concept/en/ExchangeOfOpinion/]"
+    },
+    {
+      "target": "discussing",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/discussing/,/http://en.wiktionary.org/wiki/discussing/]"
+    },
+    {
+      "target": "discussing",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/discussing/,/http://fr.wiktionary.org/wiki/discussing/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "FormOf",
+    "IsA",
+    "ExternalURL"
+  ],
+  "total_edges_found": 7,
+  "concept_queried": "discussing",
+  "single_word_validated": true
+}

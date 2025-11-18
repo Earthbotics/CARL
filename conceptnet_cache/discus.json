@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1754020001.4583895,
+  "edges": [
+    {
+      "target": "disk",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/discus/n/wn/artifact/,/c/en/disk/n/wn/artifact/]"
+    },
+    {
+      "target": "field event",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/discus/n/wn/event/,/c/en/field_event/n/wn/event/]"
+    },
+    {
+      "target": "disk",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/discus/n/,/c/sh/disk/]"
+    },
+    {
+      "target": "sports equipment",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/discus/n/wn/artifact/,/c/en/sports_equipment/n/wn/artifact/]"
+    },
+    {
+      "target": "plural discus",
+      "relationship": "HasContext",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasContext/,/c/en/discus/n/,/c/en/plural_discus/]"
+    },
+    {
+      "target": "disc",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/discus/n/,/c/ca/disc/]"
+    },
+    {
+      "target": "\u0921\u093f\u0938\u094d\u0915",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/discus/n/,/c/hi/\u0921\u093f\u0938\u094d\u0915/]"
+    },
+    {
+      "target": "\u5186\u76e4",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/discus/n/,/c/ja/\u5186\u76e4/]"
+    },
+    {
+      "target": "\u062f\u06cc\u0633\u06a9",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/discus/n/,/c/fa/\u062f\u06cc\u0633\u06a9/]"
+    },
+    {
+      "target": "\u0e14\u0e34\u0e2a\u0e01\u0e4c",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/discus/n/,/c/th/\u0e14\u0e34\u0e2a\u0e01\u0e4c/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "Synonym",
+    "HasContext"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "discus",
+  "single_word_validated": true
+}

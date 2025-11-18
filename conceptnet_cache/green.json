@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1758237445.758192,
+  "edges": [
+    {
+      "target": "a color",
+      "relationship": "IsA",
+      "weight": 6.32455532033676,
+      "uri": "/a/[/r/IsA/,/c/en/green/,/c/en/color/]"
+    },
+    {
+      "target": "color",
+      "relationship": "RelatedTo",
+      "weight": 6.270247204058226,
+      "uri": "/a/[/r/RelatedTo/,/c/en/green/,/c/en/color/]"
+    },
+    {
+      "target": "colour",
+      "relationship": "IsA",
+      "weight": 4.0,
+      "uri": "/a/[/r/IsA/,/c/en/green/,/c/en/colour/]"
+    },
+    {
+      "target": "colour",
+      "relationship": "RelatedTo",
+      "weight": 3.4362770551863253,
+      "uri": "/a/[/r/RelatedTo/,/c/en/green/,/c/en/colour/]"
+    },
+    {
+      "target": "grass",
+      "relationship": "RelatedTo",
+      "weight": 2.7040710049848915,
+      "uri": "/a/[/r/RelatedTo/,/c/en/green/,/c/en/grass/]"
+    },
+    {
+      "target": "blue",
+      "relationship": "RelatedTo",
+      "weight": 2.2986952821111366,
+      "uri": "/a/[/r/RelatedTo/,/c/en/green/,/c/en/blue/]"
+    },
+    {
+      "target": "yellow",
+      "relationship": "RelatedTo",
+      "weight": 2.157776633481788,
+      "uri": "/a/[/r/RelatedTo/,/c/en/green/,/c/en/yellow/]"
+    },
+    {
+      "target": "unaged",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/green/a/wn/,/c/en/unaged/a/wn/]"
+    },
+    {
+      "target": "verde",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/green/a/,/c/it/verde/]"
+    },
+    {
+      "target": "park",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/green/n/wn/location/,/c/en/park/n/wn/location/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "RelatedTo",
+    "SimilarTo",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "green",
+  "single_word_validated": true
+}

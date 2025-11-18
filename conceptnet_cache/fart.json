@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1755396660.727982,
+  "edges": [
+    {
+      "target": "eat beans",
+      "relationship": "HasPrerequisite",
+      "weight": 4.898979485566356,
+      "uri": "/a/[/r/HasPrerequisite/,/c/en/fart/,/c/en/eat_beans/]"
+    },
+    {
+      "target": "clear the room",
+      "relationship": "HasSubevent",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/HasSubevent/,/c/en/fart/,/c/en/clear_room/]"
+    },
+    {
+      "target": "eat lots of beans",
+      "relationship": "HasPrerequisite",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/HasPrerequisite/,/c/en/fart/,/c/en/eat_lots_of_beans/]"
+    },
+    {
+      "target": "make a bad smell",
+      "relationship": "HasSubevent",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/HasSubevent/,/c/en/fart/,/c/en/make_bad_smell/]"
+    },
+    {
+      "target": "open the bathroom window",
+      "relationship": "HasSubevent",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/HasSubevent/,/c/en/fart/,/c/en/open_bathroom_window/]"
+    },
+    {
+      "target": "release gas",
+      "relationship": "MotivatedByGoal",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/MotivatedByGoal/,/c/en/fart/,/c/en/release_gas/]"
+    },
+    {
+      "target": "leave the room",
+      "relationship": "HasPrerequisite",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasPrerequisite/,/c/en/fart/,/c/en/leave_room/]"
+    },
+    {
+      "target": "trouser cough",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/fart/v/,/c/en/trouser_cough/]"
+    },
+    {
+      "target": "flatus",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/fart/n/,/c/en/flatus/]"
+    },
+    {
+      "target": "spray the air",
+      "relationship": "HasSubevent",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasSubevent/,/c/en/fart/,/c/en/spray_air/]"
+    }
+  ],
+  "relationships": [
+    "HasPrerequisite",
+    "HasSubevent",
+    "MotivatedByGoal",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "fart",
+  "single_word_validated": true
+}

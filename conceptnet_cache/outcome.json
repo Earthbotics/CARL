@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1757082873.92288,
+  "edges": [
+    {
+      "target": "consequence",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/outcome/n/wn/phenomenon/,/c/en/consequence/n/wn/phenomenon/]"
+    },
+    {
+      "target": "result",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/outcome/n/wn/event/,/c/en/result/n/wn/event/]"
+    },
+    {
+      "target": "end result",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/outcome/n/,/c/en/end_result/]"
+    },
+    {
+      "target": "issue",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/outcome/n/,/c/fr/issue/]"
+    },
+    {
+      "target": "\u0438\u0441\u0445\u043e\u0434",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/outcome/n/,/c/ru/\u0438\u0441\u0445\u043e\u0434/]"
+    },
+    {
+      "target": "rezultat",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/outcome/n/,/c/pl/rezultat/]"
+    },
+    {
+      "target": "sport",
+      "relationship": "HasContext",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasContext/,/c/en/outcome/n/,/c/en/sport/]"
+    },
+    {
+      "target": "r\u00e9sultat",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/outcome/n/,/c/fr/r\u00e9sultat/]"
+    },
+    {
+      "target": "r\u00e9sultat",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/outcome/n/,/c/fr/r\u00e9sultat/]"
+    },
+    {
+      "target": "come out",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/outcome/n/,/c/en/come_out/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "RelatedTo",
+    "HasContext"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "outcome",
+  "single_word_validated": true
+}

@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1754928571.3590505,
+  "edges": [
+    {
+      "target": "interact",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/treat/v/wn/social/,/c/en/interact/v/wn/social/]"
+    },
+    {
+      "target": "happening",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/treat/n/wn/event/,/c/en/happening/n/wn/event/]"
+    },
+    {
+      "target": "process",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/treat/v/wn/change/,/c/en/process/v/wn/change/]"
+    },
+    {
+      "target": "give",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/treat/v/wn/possession/,/c/en/give/v/wn/possession/]"
+    },
+    {
+      "target": "dainty",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/treat/n/wn/food/,/c/en/dainty/n/wn/food/]"
+    },
+    {
+      "target": "negociate",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/treat/v/wn/communication/,/c/en/negociate/v/wn/communication/]"
+    },
+    {
+      "target": "cover",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/treat/v/wn/communication/,/c/en/cover/v/wn/communication/]"
+    },
+    {
+      "target": "react",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/treat/v/wn/cognition/,/c/en/react/v/wn/cognition/]"
+    },
+    {
+      "target": "treaty",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/treat/v/,/c/en/treaty/]"
+    },
+    {
+      "target": "regale",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/treat/v/wn/consumption/,/c/en/regale/v/wn/consumption/]"
+    }
+  ],
+  "relationships": [
+    "MannerOf",
+    "IsA",
+    "Synonym",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "treat",
+  "single_word_validated": true
+}

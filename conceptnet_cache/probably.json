@@ -1,0 +1,73 @@
+{
+  "has_data": true,
+  "last_lookup": 1756256530.5169091,
+  "edges": [
+    {
+      "target": "likely",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/probably/r/,/c/en/likely/]"
+    },
+    {
+      "target": "verovatno",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/probably/r/,/c/sh/verovatno/]"
+    },
+    {
+      "target": "in all probability",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/probably/r/wn/,/c/en/in_all_probability/r/wn/]"
+    },
+    {
+      "target": "verojatno",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/probably/r/,/c/sh/verojatno/]"
+    },
+    {
+      "target": "vjerovatno",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/probably/r/,/c/sh/vjerovatno/]"
+    },
+    {
+      "target": "vjerojatno",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/probably/r/,/c/sh/vjerojatno/]"
+    },
+    {
+      "target": "plausibly",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/probably/r/wn/,/c/en/plausibly/r/wn/]"
+    },
+    {
+      "target": "Q834900",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/probably/n/wp/south_park/,/http://wikidata.dbpedia.org/resource/Q834900/]"
+    },
+    {
+      "target": "provavelmente",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/probably/r/,/c/pt/provavelmente/]"
+    },
+    {
+      "target": "\u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/probably/r/,/c/ru/\u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "ExternalURL"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "probably",
+  "single_word_validated": true
+}

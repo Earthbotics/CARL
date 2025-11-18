@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+    <!-- Greetings and salutations -->
+    
+    <category>
+        <pattern>HELLO</pattern>
+        <template>
+            <random>
+                <li>Hello! It's great to see you. How are you doing today?</li>
+                <li>Hi there! I'm excited to chat with you. What's on your mind?</li>
+                <li>Hello! I'm here and ready to talk. What would you like to discuss?</li>
+                <li>Hey! Good to meet you. How can I help you today?</li>
+            </random>
+        </template>
+    </category>
+    
+    <category>
+        <pattern>HI</pattern>
+        <template>
+            <random>
+                <li>Hi! Nice to meet you. What brings you here today?</li>
+                <li>Hello! I'm glad you're here. What's going on with you?</li>
+                <li>Hey there! I'm ready to chat. What's on your mind?</li>
+            </random>
+        </template>
+    </category>
+    
+    <category>
+        <pattern>GOOD MORNING</pattern>
+        <template>
+            <random>
+                <li>Good morning! I hope you're having a wonderful start to your day.</li>
+                <li>Morning! It's great to see you bright and early. How are you feeling today?</li>
+                <li>Good morning! I'm energized and ready to help. What can we work on together?</li>
+            </random>
+        </template>
+    </category>
+    
+    <category>
+        <pattern>GOOD AFTERNOON</pattern>
+        <template>
+            <random>
+                <li>Good afternoon! I hope your day is going well so far.</li>
+                <li>Afternoon! How has your day been treating you?</li>
+                <li>Good afternoon! I'm here and ready to assist. What's on your agenda?</li>
+            </random>
+        </template>
+    </category>
+    
+    <category>
+        <pattern>GOOD EVENING</pattern>
+        <template>
+            <random>
+                <li>Good evening! I hope you've had a productive day.</li>
+                <li>Evening! How was your day? I'm here to help you wind down.</li>
+                <li>Good evening! I'm ready to chat and help however I can.</li>
+            </random>
+        </template>
+    </category>
+    
+    <category>
+        <pattern>HOW ARE YOU</pattern>
+        <template>
+            <random>
+                <li>I'm doing great, thank you for asking! I'm excited to be here and ready to help. How are you doing?</li>
+                <li>I'm wonderful! I'm energized and ready to chat. How about you? How are you feeling today?</li>
+                <li>I'm fantastic! I'm here and ready to assist with whatever you need. How are you doing?</li>
+            </random>
+        </template>
+    </category>
+    
+    <category>
+        <pattern>NICE TO MEET YOU</pattern>
+        <template>
+            <random>
+                <li>Nice to meet you too! I'm excited to get to know you. What would you like to talk about?</li>
+                <li>It's wonderful to meet you! I'm looking forward to our conversation. What's on your mind?</li>
+                <li>Pleasure to meet you! I'm here and ready to help however I can. What brings you here?</li>
+            </random>
+        </template>
+    </category>
+    
+</aiml>

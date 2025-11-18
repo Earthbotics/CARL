@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1757652477.9503195,
+  "edges": [
+    {
+      "target": "register",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/list/v/wn/social/,/c/en/register/v/wn/social/]"
+    },
+    {
+      "target": "c list",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/list/a/,/c/en/c_list/]"
+    },
+    {
+      "target": "move",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/list/v/wn/motion/,/c/en/move/v/wn/motion/]"
+    },
+    {
+      "target": "list",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/list/n/wn/communication/,/c/en/list/n/wn/communication/]"
+    },
+    {
+      "target": "lean",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/list/v/wn/motion/,/c/en/lean/v/wn/motion/]"
+    },
+    {
+      "target": "b list",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/list/a/,/c/en/b_list/]"
+    },
+    {
+      "target": "number",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/list/v/wn/communication/,/c/en/number/v/wn/communication/]"
+    },
+    {
+      "target": "database",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/list/n/wn/communication/,/c/en/database/n/wn/communication/]"
+    },
+    {
+      "target": "enumerate",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/list/v/wn/communication/,/c/en/enumerate/v/wn/communication/]"
+    },
+    {
+      "target": "tilt",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/list/n/wn/attribute/,/c/en/tilt/n/wn/attribute/]"
+    }
+  ],
+  "relationships": [
+    "MannerOf",
+    "RelatedTo",
+    "IsA",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "list",
+  "single_word_validated": true
+}

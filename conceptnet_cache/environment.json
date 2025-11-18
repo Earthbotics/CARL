@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1759896734.9002817,
+  "edges": [
+    {
+      "target": "situation",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/environment/n/wn/state/,/c/en/situation/n/wn/state/]"
+    },
+    {
+      "target": "geographical area",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/environment/n/wn/location/,/c/en/geographical_area/n/wn/location/]"
+    },
+    {
+      "target": "okolina",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/environment/n/,/c/sh/okolina/]"
+    },
+    {
+      "target": "okru\u017eenje",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/environment/n/,/c/sh/okru\u017eenje/]"
+    },
+    {
+      "target": "computing",
+      "relationship": "HasContext",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasContext/,/c/en/environment/n/,/c/en/computing/]"
+    },
+    {
+      "target": "\u74b0\u5883",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/environment/n/,/c/zh/\u74b0\u5883/]"
+    },
+    {
+      "target": "\u10d2\u10d0\u10e0\u10d4\u10db\u10dd\u10ea\u10d5\u10d0",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/environment/n/,/c/ka/\u10d2\u10d0\u10e0\u10d4\u10db\u10dd\u10ea\u10d5\u10d0/]"
+    },
+    {
+      "target": "prost\u0159ed\u00ed",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/environment/n/,/c/cs/prost\u0159ed\u00ed/]"
+    },
+    {
+      "target": "\u05e1\u05d1\u05d9\u05d1\u05d4",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/environment/n/,/c/yi/\u05e1\u05d1\u05d9\u05d1\u05d4/]"
+    },
+    {
+      "target": "okol\u00ed",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/environment/n/,/c/cs/okol\u00ed/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "Synonym",
+    "HasContext"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "environment",
+  "single_word_validated": true
+}

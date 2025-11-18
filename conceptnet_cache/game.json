@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1759800595.9217908,
+  "edges": [
+    {
+      "target": "play",
+      "relationship": "RelatedTo",
+      "weight": 6.469003014375554,
+      "uri": "/a/[/r/RelatedTo/,/c/en/game/,/c/en/play/]"
+    },
+    {
+      "target": "fun",
+      "relationship": "RelatedTo",
+      "weight": 5.88387627334226,
+      "uri": "/a/[/r/RelatedTo/,/c/en/game/,/c/en/fun/]"
+    },
+    {
+      "target": "activity",
+      "relationship": "RelatedTo",
+      "weight": 4.983974317750845,
+      "uri": "/a/[/r/RelatedTo/,/c/en/game/,/c/en/activity/]"
+    },
+    {
+      "target": "an activity",
+      "relationship": "IsA",
+      "weight": 4.47213595499958,
+      "uri": "/a/[/r/IsA/,/c/en/game/,/c/en/activity/]"
+    },
+    {
+      "target": "playing",
+      "relationship": "RelatedTo",
+      "weight": 4.192374029115245,
+      "uri": "/a/[/r/RelatedTo/,/c/en/game/,/c/en/playing/]"
+    },
+    {
+      "target": "played",
+      "relationship": "ReceivesAction",
+      "weight": 4.0,
+      "uri": "/a/[/r/ReceivesAction/,/c/en/game/,/c/en/played/]"
+    },
+    {
+      "target": "board",
+      "relationship": "RelatedTo",
+      "weight": 3.959292866156783,
+      "uri": "/a/[/r/RelatedTo/,/c/en/game/,/c/en/board/]"
+    },
+    {
+      "target": "contest",
+      "relationship": "RelatedTo",
+      "weight": 3.5485208185946995,
+      "uri": "/a/[/r/RelatedTo/,/c/en/game/,/c/en/contest/]"
+    },
+    {
+      "target": "a toy store",
+      "relationship": "AtLocation",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/AtLocation/,/c/en/game/,/c/en/toy_store/]"
+    },
+    {
+      "target": "entertainment",
+      "relationship": "UsedFor",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/UsedFor/,/c/en/game/,/c/en/entertainment/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "IsA",
+    "ReceivesAction",
+    "AtLocation",
+    "UsedFor"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "game",
+  "single_word_validated": true
+}

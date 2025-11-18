@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1757730119.646949,
+  "edges": [
+    {
+      "target": "sound",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/drone/v/wn/perception/,/c/en/sound/v/wn/perception/]"
+    },
+    {
+      "target": "bee",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/drone/n/wn/animal/,/c/en/bee/n/wn/animal/]"
+    },
+    {
+      "target": "monotone",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/drone/n/wn/communication/,/c/en/monotone/n/wn/communication/]"
+    },
+    {
+      "target": "dawdler",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/drone/n/wn/person/,/c/en/dawdler/n/wn/person/]"
+    },
+    {
+      "target": "trut",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/drone/n/wikt/en_1/,/c/sh/trut/]"
+    },
+    {
+      "target": "pipe",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/drone/n/wn/artifact/,/c/en/pipe/n/wn/artifact/]"
+    },
+    {
+      "target": "heavier-than-air craft",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/drone/n/wn/artifact/,/c/en/heavier_than_air_craft/n/wn/artifact/]"
+    },
+    {
+      "target": "bagpipe",
+      "relationship": "PartOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/PartOf/,/c/en/drone/n/wn/artifact/,/c/en/bagpipe/n/wn/artifact/]"
+    },
+    {
+      "target": "talk",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/drone/v/wn/communication/,/c/en/talk/v/wn/communication/]"
+    },
+    {
+      "target": "dran",
+      "relationship": "EtymologicallyDerivedFrom",
+      "weight": 1.0,
+      "uri": "/a/[/r/EtymologicallyDerivedFrom/,/c/en/drone/,/c/ang/dran/]"
+    }
+  ],
+  "relationships": [
+    "MannerOf",
+    "IsA",
+    "Synonym",
+    "PartOf",
+    "EtymologicallyDerivedFrom"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "drone",
+  "single_word_validated": true
+}

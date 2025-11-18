@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1758302287.2768288,
+  "edges": [
+    {
+      "target": "small",
+      "relationship": "RelatedTo",
+      "weight": 5.307353389402293,
+      "uri": "/a/[/r/RelatedTo/,/c/en/little/,/c/en/small/]"
+    },
+    {
+      "target": "tiny",
+      "relationship": "RelatedTo",
+      "weight": 3.5355339059327378,
+      "uri": "/a/[/r/RelatedTo/,/c/en/little/,/c/en/tiny/]"
+    },
+    {
+      "target": "big",
+      "relationship": "DistinctFrom",
+      "weight": 2.9387071987525397,
+      "uri": "/a/[/r/DistinctFrom/,/c/en/little/,/c/en/big/]"
+    },
+    {
+      "target": "size",
+      "relationship": "RelatedTo",
+      "weight": 2.4811287753762397,
+      "uri": "/a/[/r/RelatedTo/,/c/en/little/,/c/en/size/]"
+    },
+    {
+      "target": "little bit",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/little/r/,/c/en/little_bit/]"
+    },
+    {
+      "target": "young",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/little/a/wn/,/c/en/young/a/wn/living_thing/]"
+    },
+    {
+      "target": "microscopic",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/little/a/wn/,/c/en/microscopic/a/wn/]"
+    },
+    {
+      "target": "big",
+      "relationship": "Antonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Antonym/,/c/en/little/a/,/c/en/big/]"
+    },
+    {
+      "target": "malo",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/little/r/,/c/sh/malo/]"
+    },
+    {
+      "target": "little a ",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/little/a/wn/,/c/en/little/a/wn/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "DistinctFrom",
+    "Synonym",
+    "SimilarTo",
+    "Antonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "little",
+  "single_word_validated": true
+}

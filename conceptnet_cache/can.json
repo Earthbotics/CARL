@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1755146449.4880438,
+  "edges": [
+    {
+      "target": "container",
+      "relationship": "RelatedTo",
+      "weight": 5.846024290062435,
+      "uri": "/a/[/r/RelatedTo/,/c/en/can/,/c/en/container/]"
+    },
+    {
+      "target": "tin",
+      "relationship": "RelatedTo",
+      "weight": 4.24735211631906,
+      "uri": "/a/[/r/RelatedTo/,/c/en/can/,/c/en/tin/]"
+    },
+    {
+      "target": "soda",
+      "relationship": "RelatedTo",
+      "weight": 3.6791303320214137,
+      "uri": "/a/[/r/RelatedTo/,/c/en/can/,/c/en/soda/]"
+    },
+    {
+      "target": "food",
+      "relationship": "RelatedTo",
+      "weight": 3.402939905434711,
+      "uri": "/a/[/r/RelatedTo/,/c/en/can/,/c/en/food/]"
+    },
+    {
+      "target": "aluminum",
+      "relationship": "RelatedTo",
+      "weight": 2.9291637031753623,
+      "uri": "/a/[/r/RelatedTo/,/c/en/can/,/c/en/aluminum/]"
+    },
+    {
+      "target": "metal",
+      "relationship": "RelatedTo",
+      "weight": 2.9271146202361127,
+      "uri": "/a/[/r/RelatedTo/,/c/en/can/,/c/en/metal/]"
+    },
+    {
+      "target": "a cupboard",
+      "relationship": "AtLocation",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/AtLocation/,/c/en/can/,/c/en/cupboard/]"
+    },
+    {
+      "target": "cylinder",
+      "relationship": "RelatedTo",
+      "weight": 2.75826032128949,
+      "uri": "/a/[/r/RelatedTo/,/c/en/can/,/c/en/cylinder/]"
+    },
+    {
+      "target": "able",
+      "relationship": "RelatedTo",
+      "weight": 2.250333308645633,
+      "uri": "/a/[/r/RelatedTo/,/c/en/can/,/c/en/able/]"
+    },
+    {
+      "target": "fire",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/can/v/wn/social/,/c/en/fire/v/wn/social/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "AtLocation",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "can",
+  "single_word_validated": true
+}

@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1761692932.847044,
+  "edges": [
+    {
+      "target": "the newspaper",
+      "relationship": "AtLocation",
+      "weight": 5.291502622129181,
+      "uri": "/a/[/r/AtLocation/,/c/en/puzzle/,/c/en/newspaper/]"
+    },
+    {
+      "target": "a mental challenge",
+      "relationship": "UsedFor",
+      "weight": 4.47213595499958,
+      "uri": "/a/[/r/UsedFor/,/c/en/puzzle/,/c/en/mental_challenge/]"
+    },
+    {
+      "target": "a toy store",
+      "relationship": "AtLocation",
+      "weight": 4.47213595499958,
+      "uri": "/a/[/r/AtLocation/,/c/en/puzzle/,/c/en/toy_store/]"
+    },
+    {
+      "target": "a problem",
+      "relationship": "IsA",
+      "weight": 4.0,
+      "uri": "/a/[/r/IsA/,/c/en/puzzle/,/c/en/problem/]"
+    },
+    {
+      "target": "mental stimulation",
+      "relationship": "UsedFor",
+      "weight": 4.0,
+      "uri": "/a/[/r/UsedFor/,/c/en/puzzle/,/c/en/mental_stimulation/]"
+    },
+    {
+      "target": "entertainment",
+      "relationship": "UsedFor",
+      "weight": 4.0,
+      "uri": "/a/[/r/UsedFor/,/c/en/puzzle/,/c/en/entertainment/]"
+    },
+    {
+      "target": "engaging your mind",
+      "relationship": "UsedFor",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/UsedFor/,/c/en/puzzle/,/c/en/engaging_mind/]"
+    },
+    {
+      "target": "found in a newspaper",
+      "relationship": "ReceivesAction",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/ReceivesAction/,/c/en/puzzle/,/c/en/found_in_newspaper/]"
+    },
+    {
+      "target": "killing time",
+      "relationship": "UsedFor",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/UsedFor/,/c/en/puzzle/,/c/en/killing_time/]"
+    },
+    {
+      "target": "enjoying",
+      "relationship": "UsedFor",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/UsedFor/,/c/en/puzzle/,/c/en/enjoying/]"
+    }
+  ],
+  "relationships": [
+    "AtLocation",
+    "UsedFor",
+    "IsA",
+    "ReceivesAction"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "puzzle",
+  "single_word_validated": true
+}

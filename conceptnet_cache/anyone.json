@@ -1,0 +1,73 @@
+{
+  "has_data": true,
+  "last_lookup": 1756648562.1598022,
+  "edges": [
+    {
+      "target": "voice an opinion",
+      "relationship": "CapableOf",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/CapableOf/,/c/en/anyone/,/c/en/voice_opinion/]"
+    },
+    {
+      "target": "voice their opinions",
+      "relationship": "CapableOf",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/CapableOf/,/c/en/anyone/,/c/en/voice_opinions/]"
+    },
+    {
+      "target": "join a club",
+      "relationship": "CapableOf",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/CapableOf/,/c/en/anyone/,/c/en/join_club/]"
+    },
+    {
+      "target": "answer that question",
+      "relationship": "CapableOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/CapableOf/,/c/en/anyone/,/c/en/answer_question/]"
+    },
+    {
+      "target": "lose his keys",
+      "relationship": "CapableOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/CapableOf/,/c/en/anyone/,/c/en/lose_keys/]"
+    },
+    {
+      "target": "anybody",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/anyone/n/,/c/en/anybody/]"
+    },
+    {
+      "target": "iron their shirts",
+      "relationship": "CapableOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/CapableOf/,/c/en/anyone/,/c/en/iron_shirts/]"
+    },
+    {
+      "target": "\u0647\u0647\u200c\u0631\u0686\u06cc\u06a9\u0647\u200c\u0633",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/anyone/n/,/c/ku/\u0647\u0647\u200c\u0631\u0686\u06cc\u06a9\u0647\u200c\u0633/]"
+    },
+    {
+      "target": "enter a shop",
+      "relationship": "CapableOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/CapableOf/,/c/en/anyone/,/c/en/enter_shop/]"
+    },
+    {
+      "target": "record anything",
+      "relationship": "CapableOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/CapableOf/,/c/en/anyone/,/c/en/record/]"
+    }
+  ],
+  "relationships": [
+    "CapableOf",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "anyone",
+  "single_word_validated": true
+}

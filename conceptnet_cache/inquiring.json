@@ -1,0 +1,77 @@
+{
+  "has_data": true,
+  "last_lookup": 1755961291.4237998,
+  "edges": [
+    {
+      "target": "inquisitory",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/inquiring/a/wn/,/c/en/inquisitory/a/wn/]"
+    },
+    {
+      "target": "inquisitorial",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/inquiring/a/wn/,/c/en/inquisitorial/a/wn/]"
+    },
+    {
+      "target": "curious",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/inquiring/a/wn/,/c/en/curious/a/wn/]"
+    },
+    {
+      "target": "questioning",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/inquiring/n/wn/communication/,/c/en/questioning/n/wn/communication/]"
+    },
+    {
+      "target": "investigative",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/inquiring/a/wn/,/c/en/investigative/a/wn/]"
+    },
+    {
+      "target": "inquisitive",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/inquiring/a/wn/,/c/en/inquisitive/a/wn/]"
+    },
+    {
+      "target": "inquire",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/inquiring/v/,/c/en/inquire/]"
+    },
+    {
+      "target": "communicating",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/inquiring/n/,/c/en/communicating/n/]"
+    },
+    {
+      "target": "requesting",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/inquiring/n/,/c/en/requesting/n/]"
+    },
+    {
+      "target": "300882071-a",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/inquiring/a/wn/,/http://wordnet-rdf.princeton.edu/wn31/300882071-a/]"
+    }
+  ],
+  "relationships": [
+    "SimilarTo",
+    "RelatedTo",
+    "Synonym",
+    "FormOf",
+    "IsA",
+    "ExternalURL"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "inquiring",
+  "single_word_validated": true
+}

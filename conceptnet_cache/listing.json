@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1757652399.8394098,
+  "edges": [
+    {
+      "target": "list",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/listing/n/wn/communication/,/c/en/list/n/wn/communication/]"
+    },
+    {
+      "target": "organization",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/listing/n/wn/act/,/c/en/organization/n/wn/act/]"
+    },
+    {
+      "target": "printout",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/listing/n/,/c/en/printout/]"
+    },
+    {
+      "target": "partially mental event",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/listing/n/,/c/en/partially_mental_event/n/]"
+    },
+    {
+      "target": "registering",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/listing/n/,/c/en/registering/n/opencyc/registering_ibo_creation/]"
+    },
+    {
+      "target": "programme",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/listing/n/,/c/fr/programme/]"
+    },
+    {
+      "target": "list",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/listing/n/,/c/en/list/]"
+    },
+    {
+      "target": "liste",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/listing/n/,/c/fr/liste/]"
+    },
+    {
+      "target": "101013108-n",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/listing/n/wn/act/,/http://wordnet-rdf.princeton.edu/wn31/101013108-n/]"
+    },
+    {
+      "target": "organization",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/listing/n/,/c/en/organization/n/opencyc/organization_animal_activity/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "IsA",
+    "RelatedTo",
+    "ExternalURL"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "listing",
+  "single_word_validated": true
+}

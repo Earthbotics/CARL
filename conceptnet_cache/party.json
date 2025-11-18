@@ -1,0 +1,73 @@
+{
+  "has_data": true,
+  "last_lookup": 1756792097.2477708,
+  "edges": [
+    {
+      "target": "celebration",
+      "relationship": "RelatedTo",
+      "weight": 9.110214047979333,
+      "uri": "/a/[/r/RelatedTo/,/c/en/party/,/c/en/celebration/]"
+    },
+    {
+      "target": "gathering",
+      "relationship": "RelatedTo",
+      "weight": 8.730635715685313,
+      "uri": "/a/[/r/RelatedTo/,/c/en/party/,/c/en/gathering/]"
+    },
+    {
+      "target": "fun",
+      "relationship": "RelatedTo",
+      "weight": 8.35440003830317,
+      "uri": "/a/[/r/RelatedTo/,/c/en/party/,/c/en/fun/]"
+    },
+    {
+      "target": "birthday",
+      "relationship": "RelatedTo",
+      "weight": 7.68921322373102,
+      "uri": "/a/[/r/RelatedTo/,/c/en/party/,/c/en/birthday/]"
+    },
+    {
+      "target": "event",
+      "relationship": "RelatedTo",
+      "weight": 6.130252849597641,
+      "uri": "/a/[/r/RelatedTo/,/c/en/party/,/c/en/event/]"
+    },
+    {
+      "target": "people",
+      "relationship": "RelatedTo",
+      "weight": 4.8294927269848955,
+      "uri": "/a/[/r/RelatedTo/,/c/en/party/,/c/en/people/]"
+    },
+    {
+      "target": "fiesta",
+      "relationship": "RelatedTo",
+      "weight": 4.248293775152561,
+      "uri": "/a/[/r/RelatedTo/,/c/en/party/,/c/en/fiesta/]"
+    },
+    {
+      "target": "meeting people",
+      "relationship": "UsedFor",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/UsedFor/,/c/en/party/,/c/en/meeting_people/]"
+    },
+    {
+      "target": "group",
+      "relationship": "RelatedTo",
+      "weight": 3.4438350715445134,
+      "uri": "/a/[/r/RelatedTo/,/c/en/party/,/c/en/group/]"
+    },
+    {
+      "target": "social",
+      "relationship": "RelatedTo",
+      "weight": 3.3698664661971396,
+      "uri": "/a/[/r/RelatedTo/,/c/en/party/,/c/en/social/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "UsedFor"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "party",
+  "single_word_validated": true
+}

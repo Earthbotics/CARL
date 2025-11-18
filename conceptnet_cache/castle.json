@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1756443441.9750502,
+  "edges": [
+    {
+      "target": "Europe",
+      "relationship": "AtLocation",
+      "weight": 4.0,
+      "uri": "/a/[/r/AtLocation/,/c/en/castle/,/c/en/europe/]"
+    },
+    {
+      "target": "building",
+      "relationship": "RelatedTo",
+      "weight": 3.9658542585425405,
+      "uri": "/a/[/r/RelatedTo/,/c/en/castle/,/c/en/building/]"
+    },
+    {
+      "target": "house",
+      "relationship": "RelatedTo",
+      "weight": 3.4836762191684816,
+      "uri": "/a/[/r/RelatedTo/,/c/en/castle/,/c/en/house/]"
+    },
+    {
+      "target": "Germany",
+      "relationship": "AtLocation",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/AtLocation/,/c/en/castle/,/c/en/germany/]"
+    },
+    {
+      "target": "kings",
+      "relationship": "RelatedTo",
+      "weight": 3.313004678535785,
+      "uri": "/a/[/r/RelatedTo/,/c/en/castle/,/c/en/kings/]"
+    },
+    {
+      "target": "moat",
+      "relationship": "RelatedTo",
+      "weight": 3.282072515956953,
+      "uri": "/a/[/r/RelatedTo/,/c/en/castle/,/c/en/moat/]"
+    },
+    {
+      "target": "palace",
+      "relationship": "RelatedTo",
+      "weight": 3.1247399891831,
+      "uri": "/a/[/r/RelatedTo/,/c/en/castle/,/c/en/palace/]"
+    },
+    {
+      "target": "home",
+      "relationship": "RelatedTo",
+      "weight": 3.0783112253311877,
+      "uri": "/a/[/r/RelatedTo/,/c/en/castle/,/c/en/home/]"
+    },
+    {
+      "target": "a large, richly decorated building",
+      "relationship": "IsA",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/IsA/,/c/en/castle/,/c/en/large_richly_decorated_building/]"
+    },
+    {
+      "target": "fortress",
+      "relationship": "RelatedTo",
+      "weight": 2.015936506936665,
+      "uri": "/a/[/r/RelatedTo/,/c/en/castle/,/c/en/fortress/]"
+    }
+  ],
+  "relationships": [
+    "AtLocation",
+    "RelatedTo",
+    "IsA"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "castle",
+  "single_word_validated": true
+}

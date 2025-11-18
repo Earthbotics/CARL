@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1757466082.1085324,
+  "edges": [
+    {
+      "target": "sibling",
+      "relationship": "RelatedTo",
+      "weight": 6.189991922450304,
+      "uri": "/a/[/r/RelatedTo/,/c/en/brother/,/c/en/sibling/]"
+    },
+    {
+      "target": "male",
+      "relationship": "RelatedTo",
+      "weight": 4.94004048566406,
+      "uri": "/a/[/r/RelatedTo/,/c/en/brother/,/c/en/male/]"
+    },
+    {
+      "target": "bug his sister",
+      "relationship": "CapableOf",
+      "weight": 4.0,
+      "uri": "/a/[/r/CapableOf/,/c/en/brother/,/c/en/bug_sister/]"
+    },
+    {
+      "target": "boy",
+      "relationship": "RelatedTo",
+      "weight": 3.766696165076233,
+      "uri": "/a/[/r/RelatedTo/,/c/en/brother/,/c/en/boy/]"
+    },
+    {
+      "target": "sister",
+      "relationship": "RelatedTo",
+      "weight": 3.639230687933921,
+      "uri": "/a/[/r/RelatedTo/,/c/en/brother/,/c/en/sister/]"
+    },
+    {
+      "target": "family",
+      "relationship": "RelatedTo",
+      "weight": 3.5749125863438955,
+      "uri": "/a/[/r/RelatedTo/,/c/en/brother/,/c/en/family/]"
+    },
+    {
+      "target": "your family",
+      "relationship": "AtLocation",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/AtLocation/,/c/en/brother/,/c/en/family/]"
+    },
+    {
+      "target": "brat",
+      "relationship": "Synonym",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/Synonym/,/c/en/brother/n/,/c/sh/brat/]"
+    },
+    {
+      "target": "relative",
+      "relationship": "RelatedTo",
+      "weight": 3.1767908335299637,
+      "uri": "/a/[/r/RelatedTo/,/c/en/brother/,/c/en/relative/]"
+    },
+    {
+      "target": "sister",
+      "relationship": "DistinctFrom",
+      "weight": 3.073109174760962,
+      "uri": "/a/[/r/DistinctFrom/,/c/en/brother/,/c/en/sister/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "CapableOf",
+    "AtLocation",
+    "Synonym",
+    "DistinctFrom"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "brother",
+  "single_word_validated": true
+}

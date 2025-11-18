@@ -1,0 +1,77 @@
+{
+  "has_data": true,
+  "last_lookup": 1757795307.4718916,
+  "edges": [
+    {
+      "target": "play",
+      "relationship": "RelatedTo",
+      "weight": 3.736308338453881,
+      "uri": "/a/[/r/RelatedTo/,/c/en/act/,/c/en/play/]"
+    },
+    {
+      "target": "legal document",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/act/n/wn/law/,/c/en/legal_document/n/wn/law/]"
+    },
+    {
+      "target": "re-create",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/act/v/wn/performing_arts/,/c/en/re_create/v/wn/creation/]"
+    },
+    {
+      "target": "acte",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/act/n/,/c/fr/acte/]"
+    },
+    {
+      "target": "event",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/act/n/wn/,/c/en/event/n/wn/]"
+    },
+    {
+      "target": "performing arts",
+      "relationship": "HasContext",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasContext/,/c/en/act/v/wn/performing_arts/,/c/en/performing_arts/n/wn/cognition/]"
+    },
+    {
+      "target": "act",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/act/v/wn/body/,/c/en/act/v/wn/body/]"
+    },
+    {
+      "target": "ballet",
+      "relationship": "PartOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/PartOf/,/c/en/act/n/wn/communication/,/c/en/ballet/n/wn/act/]"
+    },
+    {
+      "target": "performance",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/act/n/wn/communication/,/c/en/performance/n/wn/communication/]"
+    },
+    {
+      "target": "perform",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/act/v/wn/dramaturgy/,/c/en/perform/v/wn/performing_arts/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "IsA",
+    "MannerOf",
+    "Synonym",
+    "HasContext",
+    "PartOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "act",
+  "single_word_validated": true
+}

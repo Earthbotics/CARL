@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1756060244.8479724,
+  "edges": [
+    {
+      "target": "hot",
+      "relationship": "HasProperty",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/HasProperty/,/c/en/flame/,/c/en/hot/]"
+    },
+    {
+      "target": "fire",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/flame/n/wn/process/,/c/en/fire/n/wn/process/]"
+    },
+    {
+      "target": "burn",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/flame/v/wn/weather/,/c/en/burn/v/wn/change/]"
+    },
+    {
+      "target": "flare",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/flame/v/wn/weather/,/c/en/flare/v/wn/weather/]"
+    },
+    {
+      "target": "chastise",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/flame/v/wn/communication/,/c/en/chastise/v/wn/communication/]"
+    },
+    {
+      "target": "plamen",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/flame/n/,/c/sh/plamen/]"
+    },
+    {
+      "target": "fire",
+      "relationship": "RelatedTo",
+      "weight": 1.169,
+      "uri": "/a/[/r/RelatedTo/,/c/en/flame/,/c/en/fire/]"
+    },
+    {
+      "target": "olov",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/flame/n/,/c/uz/olov/]"
+    },
+    {
+      "target": "flamingo",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/flame/n/,/c/en/flamingo/]"
+    },
+    {
+      "target": "lue",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/flame/n/,/c/da/lue/]"
+    }
+  ],
+  "relationships": [
+    "HasProperty",
+    "Synonym",
+    "MannerOf",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "flame",
+  "single_word_validated": true
+}

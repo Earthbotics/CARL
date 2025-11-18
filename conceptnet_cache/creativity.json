@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1755319021.500879,
+  "edges": [
+    {
+      "target": "express yourself",
+      "relationship": "CausesDesire",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/CausesDesire/,/c/en/creativity/,/c/en/express_yourself/]"
+    },
+    {
+      "target": "ability",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/creativity/n/wn/cognition/,/c/en/ability/n/wn/cognition/]"
+    },
+    {
+      "target": "create an idea",
+      "relationship": "CausesDesire",
+      "weight": 2.0,
+      "uri": "/a/[/r/CausesDesire/,/c/en/creativity/,/c/en/create_idea/]"
+    },
+    {
+      "target": "creative",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/creativity/n/,/c/en/creative/]"
+    },
+    {
+      "target": "kreativnost",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/creativity/n/,/c/sh/kreativnost/]"
+    },
+    {
+      "target": "stvarala\u0161tvo",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/creativity/n/,/c/sh/stvarala\u0161tvo/]"
+    },
+    {
+      "target": "create art",
+      "relationship": "CausesDesire",
+      "weight": 2.0,
+      "uri": "/a/[/r/CausesDesire/,/c/en/creativity/,/c/en/create_art/]"
+    },
+    {
+      "target": "creativeness",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/creativity/n/,/c/en/creativeness/]"
+    },
+    {
+      "target": "create",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/creativity/n/,/c/en/create/]"
+    },
+    {
+      "target": "creativitate",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/creativity/n/,/c/ro/creativitate/]"
+    }
+  ],
+  "relationships": [
+    "CausesDesire",
+    "IsA",
+    "RelatedTo",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "creativity",
+  "single_word_validated": true
+}

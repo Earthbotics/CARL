@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1755884824.3448339,
+  "edges": [
+    {
+      "target": "present",
+      "relationship": "RelatedTo",
+      "weight": 4.7290591030351905,
+      "uri": "/a/[/r/RelatedTo/,/c/en/now/,/c/en/present/]"
+    },
+    {
+      "target": "time",
+      "relationship": "RelatedTo",
+      "weight": 3.2869438693108215,
+      "uri": "/a/[/r/RelatedTo/,/c/en/now/,/c/en/time/]"
+    },
+    {
+      "target": "at present",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/now/r/wn/,/c/en/at_present/r/wn/]"
+    },
+    {
+      "target": "straight off",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/now/r/wn/,/c/en/straight_off/r/wn/]"
+    },
+    {
+      "target": "nowadays",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/now/r/wn/,/c/en/nowadays/r/wn/]"
+    },
+    {
+      "target": "present",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/now/n/wn/time/,/c/en/present/n/wn/time/]"
+    },
+    {
+      "target": "sada",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/now/r/wikt/en_1/,/c/sh/sada/]"
+    },
+    {
+      "target": "current",
+      "relationship": "RelatedTo",
+      "weight": 1.577,
+      "uri": "/a/[/r/RelatedTo/,/c/en/now/,/c/en/current/]"
+    },
+    {
+      "target": "here",
+      "relationship": "RelatedTo",
+      "weight": 1.3409999999999997,
+      "uri": "/a/[/r/RelatedTo/,/c/en/now/,/c/en/here/]"
+    },
+    {
+      "target": "currently",
+      "relationship": "RelatedTo",
+      "weight": 1.31,
+      "uri": "/a/[/r/RelatedTo/,/c/en/now/,/c/en/currently/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "Synonym",
+    "IsA"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "now",
+  "single_word_validated": true
+}

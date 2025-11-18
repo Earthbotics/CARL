@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1756612738.7835398,
+  "edges": [
+    {
+      "target": "apologize",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/apologizing/v/,/c/en/apologize/]"
+    },
+    {
+      "target": "Apologizing",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/apologizing/n/,/http://sw.opencyc.org/2012/05/10/concept/en/Apologizing/]"
+    },
+    {
+      "target": "social event",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/apologizing/n/,/c/en/social_event/n/]"
+    },
+    {
+      "target": "single communication act",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/apologizing/n/,/c/en/single_communication_act/n/]"
+    },
+    {
+      "target": "acknowledgment",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/apologizing/n/,/c/en/acknowledgment/n/]"
+    },
+    {
+      "target": "apologize",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/apologizing/,/c/en/apologize/v/]"
+    },
+    {
+      "target": "intelligent agent activity",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/apologizing/n/,/c/en/intelligent_agent_activity/n/]"
+    },
+    {
+      "target": "apologize",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/apologizing/v/,/c/en/apologize/]"
+    },
+    {
+      "target": "apologizing",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/apologizing/,/http://en.wiktionary.org/wiki/apologizing/]"
+    },
+    {
+      "target": "apologizing",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/apologizing/,/http://fr.wiktionary.org/wiki/apologizing/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "ExternalURL",
+    "IsA",
+    "FormOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "apologizing",
+  "single_word_validated": true
+}

@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1758073353.220425,
+  "edges": [
+    {
+      "target": "informing",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/telling/n/wn/communication/,/c/en/informing/n/wn/communication/]"
+    },
+    {
+      "target": "cogent",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/telling/a/wn/,/c/en/cogent/a/wn/]"
+    },
+    {
+      "target": "impressive",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/telling/a/wn/,/c/en/impressive/a/wn/]"
+    },
+    {
+      "target": "telltale",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/telling/a/wn/,/c/en/telltale/a/wn/]"
+    },
+    {
+      "target": "tattle",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/telling/n/wn/communication/,/c/en/tattle/n/wn/communication/]"
+    },
+    {
+      "target": "relation",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/telling/n/wn/communication/,/c/en/relation/n/wn/communication/]"
+    },
+    {
+      "target": "107227084-n",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/telling/n/wn/communication/,/http://wordnet-rdf.princeton.edu/wn31/107227084-n/]"
+    },
+    {
+      "target": "tell",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/telling/,/c/en/tell/v/]"
+    },
+    {
+      "target": "tell",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/telling/v/,/c/en/tell/]"
+    },
+    {
+      "target": "numbering",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/telling/n/,/c/en/numbering/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "Synonym",
+    "ExternalURL",
+    "FormOf",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "telling",
+  "single_word_validated": true
+}

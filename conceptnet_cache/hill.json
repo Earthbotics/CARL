@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1758073157.3587701,
+  "edges": [
+    {
+      "target": "mountain",
+      "relationship": "RelatedTo",
+      "weight": 8.438246263294287,
+      "uri": "/a/[/r/RelatedTo/,/c/en/hill/,/c/en/mountain/]"
+    },
+    {
+      "target": "small",
+      "relationship": "RelatedTo",
+      "weight": 5.8354091544638065,
+      "uri": "/a/[/r/RelatedTo/,/c/en/hill/,/c/en/small/]"
+    },
+    {
+      "target": "small mountain",
+      "relationship": "RelatedTo",
+      "weight": 5.510353890631707,
+      "uri": "/a/[/r/RelatedTo/,/c/en/hill/,/c/en/small_mountain/]"
+    },
+    {
+      "target": "mound",
+      "relationship": "RelatedTo",
+      "weight": 4.817053041019997,
+      "uri": "/a/[/r/RelatedTo/,/c/en/hill/,/c/en/mound/]"
+    },
+    {
+      "target": "climb",
+      "relationship": "UsedFor",
+      "weight": 4.47213595499958,
+      "uri": "/a/[/r/UsedFor/,/c/en/hill/,/c/en/climb/]"
+    },
+    {
+      "target": "slope",
+      "relationship": "RelatedTo",
+      "weight": 3.669332364340957,
+      "uri": "/a/[/r/RelatedTo/,/c/en/hill/,/c/en/slope/]"
+    },
+    {
+      "target": "land",
+      "relationship": "RelatedTo",
+      "weight": 3.366303610787357,
+      "uri": "/a/[/r/RelatedTo/,/c/en/hill/,/c/en/land/]"
+    },
+    {
+      "target": "bump",
+      "relationship": "RelatedTo",
+      "weight": 2.8719331468542233,
+      "uri": "/a/[/r/RelatedTo/,/c/en/hill/,/c/en/bump/]"
+    },
+    {
+      "target": "climbing",
+      "relationship": "UsedFor",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/UsedFor/,/c/en/hill/,/c/en/climbing/]"
+    },
+    {
+      "target": "a landscape",
+      "relationship": "AtLocation",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/AtLocation/,/c/en/hill/,/c/en/landscape/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "UsedFor",
+    "AtLocation"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "hill",
+  "single_word_validated": true
+}

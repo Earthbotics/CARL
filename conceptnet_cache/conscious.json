@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1756525048.0451624,
+  "edges": [
+    {
+      "target": "cognizant",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/conscious/a/wn/,/c/en/cognizant/a/wn/]"
+    },
+    {
+      "target": "unconscious",
+      "relationship": "Antonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Antonym/,/c/en/conscious/a/,/c/en/unconscious/]"
+    },
+    {
+      "target": "sentient",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/conscious/a/wn/,/c/en/sentient/a/wn/]"
+    },
+    {
+      "target": "sensible",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/conscious/a/wn/,/c/en/sensible/a/wn/]"
+    },
+    {
+      "target": "self-aware",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/conscious/a/wn/,/c/en/self_aware/a/wn/]"
+    },
+    {
+      "target": "cognizant",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/conscious/a/wn/,/c/en/cognizant/a/wn/]"
+    },
+    {
+      "target": "semiconscious",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/conscious/a/wn/,/c/en/semiconscious/a/wn/]"
+    },
+    {
+      "target": "awake",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/conscious/a/wn/,/c/en/awake/a/wn/]"
+    },
+    {
+      "target": "voluntary",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/conscious/a/wn/,/c/en/voluntary/a/wn/]"
+    },
+    {
+      "target": "intended",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/conscious/a/wn/,/c/en/intended/a/wn/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "Antonym",
+    "SimilarTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "conscious",
+  "single_word_validated": true
+}

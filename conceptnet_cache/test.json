@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1756256527.7252147,
+  "edges": [
+    {
+      "target": "exam",
+      "relationship": "RelatedTo",
+      "weight": 9.86204846875131,
+      "uri": "/a/[/r/RelatedTo/,/c/en/test/,/c/en/exam/]"
+    },
+    {
+      "target": "quiz",
+      "relationship": "RelatedTo",
+      "weight": 7.795126682742239,
+      "uri": "/a/[/r/RelatedTo/,/c/en/test/,/c/en/quiz/]"
+    },
+    {
+      "target": "school",
+      "relationship": "RelatedTo",
+      "weight": 5.732713144750922,
+      "uri": "/a/[/r/RelatedTo/,/c/en/test/,/c/en/school/]"
+    },
+    {
+      "target": "examination",
+      "relationship": "RelatedTo",
+      "weight": 5.119765619635336,
+      "uri": "/a/[/r/RelatedTo/,/c/en/test/,/c/en/examination/]"
+    },
+    {
+      "target": "study for a subject",
+      "relationship": "CausesDesire",
+      "weight": 4.47213595499958,
+      "uri": "/a/[/r/CausesDesire/,/c/en/test/,/c/en/study_for_subject/]"
+    },
+    {
+      "target": "questions",
+      "relationship": "RelatedTo",
+      "weight": 4.272704061832506,
+      "uri": "/a/[/r/RelatedTo/,/c/en/test/,/c/en/questions/]"
+    },
+    {
+      "target": "school exam",
+      "relationship": "RelatedTo",
+      "weight": 2.386629422428207,
+      "uri": "/a/[/r/RelatedTo/,/c/en/test/,/c/en/school_exam/]"
+    },
+    {
+      "target": "evaluation",
+      "relationship": "RelatedTo",
+      "weight": 2.157776633481788,
+      "uri": "/a/[/r/RelatedTo/,/c/en/test/,/c/en/evaluation/]"
+    },
+    {
+      "target": "covering",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/test/n/wn/animal/,/c/en/covering/n/wn/object/]"
+    },
+    {
+      "target": "attempt",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/test/n/wn/act/,/c/en/attempt/n/wn/act/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "CausesDesire",
+    "IsA"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "test",
+  "single_word_validated": true
+}

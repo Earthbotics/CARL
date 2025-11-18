@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1759800896.7923138,
+  "edges": [
+    {
+      "target": "job",
+      "relationship": "RelatedTo",
+      "weight": 7.189714876126867,
+      "uri": "/a/[/r/RelatedTo/,/c/en/work/,/c/en/job/]"
+    },
+    {
+      "target": "you need money",
+      "relationship": "MotivatedByGoal",
+      "weight": 6.0,
+      "uri": "/a/[/r/MotivatedByGoal/,/c/en/work/,/c/en/need_money/]"
+    },
+    {
+      "target": "money",
+      "relationship": "MotivatedByGoal",
+      "weight": 4.47213595499958,
+      "uri": "/a/[/r/MotivatedByGoal/,/c/en/work/,/c/en/money/]"
+    },
+    {
+      "target": "a desk",
+      "relationship": "AtLocation",
+      "weight": 4.0,
+      "uri": "/a/[/r/AtLocation/,/c/en/work/,/c/en/desk/]"
+    },
+    {
+      "target": "labor",
+      "relationship": "RelatedTo",
+      "weight": 3.9577771539084914,
+      "uri": "/a/[/r/RelatedTo/,/c/en/work/,/c/en/labor/]"
+    },
+    {
+      "target": "office",
+      "relationship": "RelatedTo",
+      "weight": 3.789459064299283,
+      "uri": "/a/[/r/RelatedTo/,/c/en/work/,/c/en/office/]"
+    },
+    {
+      "target": "activity",
+      "relationship": "RelatedTo",
+      "weight": 3.6964848166873345,
+      "uri": "/a/[/r/RelatedTo/,/c/en/work/,/c/en/activity/]"
+    },
+    {
+      "target": "employment",
+      "relationship": "RelatedTo",
+      "weight": 2.8425340807103794,
+      "uri": "/a/[/r/RelatedTo/,/c/en/work/,/c/en/employment/]"
+    },
+    {
+      "target": "check my email",
+      "relationship": "HasFirstSubevent",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/HasFirstSubevent/,/c/en/work/,/c/en/check_email/]"
+    },
+    {
+      "target": "a cooperative activity",
+      "relationship": "IsA",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/IsA/,/c/en/work/,/c/en/cooperative_activity/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "MotivatedByGoal",
+    "AtLocation",
+    "HasFirstSubevent",
+    "IsA"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "work",
+  "single_word_validated": true
+}

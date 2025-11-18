@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1757522916.308616,
+  "edges": [
+    {
+      "target": "tenth month of the year",
+      "relationship": "DefinedAs",
+      "weight": 2.0,
+      "uri": "/a/[/r/DefinedAs/,/c/en/october/,/c/en/tenth_month_of_year/]"
+    },
+    {
+      "target": "Gregorian calendar",
+      "relationship": "PartOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/PartOf/,/c/en/october/n/wn/time/,/c/en/gregorian_calendar/n/wn/time/]"
+    },
+    {
+      "target": "octobre",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/october/n/,/c/fr/octobre/]"
+    },
+    {
+      "target": "pa\u017adziernik",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/october/n/,/c/pl/pa\u017adziernik/]"
+    },
+    {
+      "target": "Gregorian calendar month",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/october/n/wn/time/,/c/en/gregorian_calendar_month/n/wn/time/]"
+    },
+    {
+      "target": "oktober",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/october/n/,/c/nds/oktober/]"
+    },
+    {
+      "target": "oktobar",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/october/n/,/c/sh/oktobar/]"
+    },
+    {
+      "target": "oktobro",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/october/n/,/c/eo/oktobro/]"
+    },
+    {
+      "target": "ott\u00f3mbre",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/october/n/,/c/nap/ott\u00f3mbre/]"
+    },
+    {
+      "target": "\u795e\u7121\u6708",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/october/n/,/c/ja/\u795e\u7121\u6708/]"
+    }
+  ],
+  "relationships": [
+    "DefinedAs",
+    "PartOf",
+    "Synonym",
+    "IsA"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "october",
+  "single_word_validated": true
+}

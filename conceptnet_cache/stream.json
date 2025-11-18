@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1755319151.018535,
+  "edges": [
+    {
+      "target": "a forest",
+      "relationship": "AtLocation",
+      "weight": 4.898979485566356,
+      "uri": "/a/[/r/AtLocation/,/c/en/stream/,/c/en/forest/]"
+    },
+    {
+      "target": "pour",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/stream/v/wn/weather/,/c/en/pour/v/wn/weather/]"
+    },
+    {
+      "target": "potok",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/stream/n/,/c/sh/potok/]"
+    },
+    {
+      "target": "run",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/stream/v/wn/motion/,/c/en/run/v/wn/motion/]"
+    },
+    {
+      "target": "pour",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/stream/v/wn/motion/,/c/en/pour/v/wn/motion/]"
+    },
+    {
+      "target": "body of water",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/stream/n/wn/object/,/c/en/body_of_water/n/wn/river/]"
+    },
+    {
+      "target": "motion",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/stream/n/wn/state/,/c/en/motion/n/wn/state/]"
+    },
+    {
+      "target": "float",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/stream/v/wn/motion/,/c/en/float/v/wn/motion/]"
+    },
+    {
+      "target": "course",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/stream/n/wn/group/,/c/en/course/n/wn/group/]"
+    },
+    {
+      "target": "current",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/stream/n/wn/event/,/c/en/current/n/wn/event/]"
+    }
+  ],
+  "relationships": [
+    "AtLocation",
+    "Synonym",
+    "MannerOf",
+    "IsA"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "stream",
+  "single_word_validated": true
+}

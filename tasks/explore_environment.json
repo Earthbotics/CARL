@@ -1,0 +1,41 @@
+{
+    "name": "explore_environment",
+    "type": "task",
+    "description": "Explore the environment using vision and movement skills",
+    "priority": 0.7,
+    "status": "pending",
+    "progress": 0.0,
+    "completed": false,
+    "associated_need": "exploration",
+    "associated_goal": "environmental_awareness",
+    "required_skills": ["look_forward", "look_down", "walk", "turn_left", "turn_right"],
+    "actions": [
+        {
+            "action": "look_forward",
+            "description": "Look forward to scan the environment",
+            "expected_result": "Vision: objects detected"
+        },
+        {
+            "action": "look_down",
+            "description": "Look down to check ground level",
+            "expected_result": "Vision: ground objects detected"
+        },
+        {
+            "action": "walk_forward",
+            "description": "Move forward to explore new areas",
+            "expected_result": "Position change, new objects in view"
+        }
+    ],
+    "success_criteria": [
+        "At least 3 different objects detected",
+        "Environment mapped through movement",
+        "Vision system activated multiple times"
+    ],
+    "created_at": "2025-09-13T15:49:00",
+    "last_updated": "2025-09-13T15:49:00",
+    "execution_context": {
+        "trigger_conditions": ["boredom_detected", "exploration_need_active"],
+        "completion_conditions": ["objects_detected", "movement_completed"],
+        "failure_conditions": ["no_objects_found", "movement_blocked"]
+    }
+}

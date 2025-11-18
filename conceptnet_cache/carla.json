@@ -1,0 +1,18 @@
+{
+  "has_data": true,
+  "last_lookup": 1755009601.9902966,
+  "edges": [
+    {
+      "target": "Carla",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/carla/,/http://en.wiktionary.org/wiki/Carla/]"
+    }
+  ],
+  "relationships": [
+    "ExternalURL"
+  ],
+  "total_edges_found": 1,
+  "concept_queried": "carla",
+  "single_word_validated": true
+}

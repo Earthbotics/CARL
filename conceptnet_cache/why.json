@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1756533447.7717352,
+  "edges": [
+    {
+      "target": "question",
+      "relationship": "RelatedTo",
+      "weight": 4.997599423723354,
+      "uri": "/a/[/r/RelatedTo/,/c/en/why/,/c/en/question/]"
+    },
+    {
+      "target": "za\u0161to",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/why/r/wikt/en_1/,/c/sh/za\u0161to/]"
+    },
+    {
+      "target": "reason",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/why/n/wn/motive/,/c/en/reason/n/wn/motive/]"
+    },
+    {
+      "target": "reason",
+      "relationship": "RelatedTo",
+      "weight": 1.8979999999999997,
+      "uri": "/a/[/r/RelatedTo/,/c/en/why/,/c/en/reason/]"
+    },
+    {
+      "target": "how",
+      "relationship": "RelatedTo",
+      "weight": 1.0250000000000004,
+      "uri": "/a/[/r/RelatedTo/,/c/en/why/,/c/en/how/]"
+    },
+    {
+      "target": "\u0644\u0645\u0627\u0630\u0627",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/why/r/wikt/en_1/,/c/ar/\u0644\u0645\u0627\u0630\u0627/]"
+    },
+    {
+      "target": "\u056d\u056b",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/why/r/wikt/en_1/,/c/hy/\u056d\u056b/]"
+    },
+    {
+      "target": "\u0430\u0445\u044c\u0525\u0430",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/why/r/wikt/en_1/,/c/ab/\u0430\u0445\u044c\u0525\u0430/]"
+    },
+    {
+      "target": "hv\u00ed",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/why/r/wikt/en_1/,/c/fo/hv\u00ed/]"
+    },
+    {
+      "target": "\u4e3a\u4ec0\u7269",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/why/r/wikt/en_1/,/c/nan/\u4e3a\u4ec0\u7269/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "Synonym",
+    "IsA"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "why",
+  "single_word_validated": true
+}

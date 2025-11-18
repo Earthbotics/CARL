@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1754024544.2891307,
+  "edges": [
+    {
+      "target": "increase",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/split/n/wn/act/,/c/en/increase/n/wn/act/]"
+    },
+    {
+      "target": "burst",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/split/v/wn/change/,/c/en/burst/v/wn/change/]"
+    },
+    {
+      "target": "formation",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/split/n/wn/tenpins/,/c/en/formation/n/wn/artifact/]"
+    },
+    {
+      "target": "share",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/split/n/wn/possession/,/c/en/share/n/wn/possession/]"
+    },
+    {
+      "target": "schism",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/split/n/wn/act/,/c/en/schism/n/wn/act/]"
+    },
+    {
+      "target": "Croatia",
+      "relationship": "PartOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/PartOf/,/c/en/split/n/wn/location/,/c/en/croatia/n/wn/location/]"
+    },
+    {
+      "target": "acrobatic stunt",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/split/n/wn/act/,/c/en/acrobatic_stunt/n/wn/act/]"
+    },
+    {
+      "target": "separate",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/split/v/wn/motion/,/c/en/separate/v/wn/motion/]"
+    },
+    {
+      "target": "crack",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/split/n/wn/object/,/c/en/crack/n/wn/object/]"
+    },
+    {
+      "target": "tenpins",
+      "relationship": "HasContext",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasContext/,/c/en/split/n/wn/tenpins/,/c/en/tenpins/n/wn/act/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "Synonym",
+    "PartOf",
+    "HasContext"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "split",
+  "single_word_validated": true
+}

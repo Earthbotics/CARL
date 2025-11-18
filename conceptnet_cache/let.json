@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1756438473.4341123,
+  "edges": [
+    {
+      "target": "allow",
+      "relationship": "RelatedTo",
+      "weight": 4.864154602806124,
+      "uri": "/a/[/r/RelatedTo/,/c/en/let/,/c/en/allow/]"
+    },
+    {
+      "target": "rent",
+      "relationship": "RelatedTo",
+      "weight": 2.7254357449773057,
+      "uri": "/a/[/r/RelatedTo/,/c/en/let/,/c/en/rent/]"
+    },
+    {
+      "target": "permit",
+      "relationship": "RelatedTo",
+      "weight": 2.5518620652378523,
+      "uri": "/a/[/r/RelatedTo/,/c/en/let/,/c/en/permit/]"
+    },
+    {
+      "target": "lease",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/let/v/wn/possession/,/c/en/lease/v/wn/possession/]"
+    },
+    {
+      "target": "dozvoliti",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/let/v/wikt/en_1/,/c/sh/dozvoliti/]"
+    },
+    {
+      "target": "get",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/let/v/wn/change/,/c/en/get/v/wn/change/]"
+    },
+    {
+      "target": "leave",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/let/v/wn/change/,/c/en/leave/v/wn/change/]"
+    },
+    {
+      "target": "Lashkar-e-Taiba",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/let/n/wn/terrorism/,/c/en/lashkar_e_taiba/n/wn/terrorism/]"
+    },
+    {
+      "target": "serve",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/let/n/wn/act/,/c/en/serve/n/wn/tennis/]"
+    },
+    {
+      "target": "permit",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/let/v/wn/communication/,/c/en/permit/v/wn/communication/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "Synonym",
+    "MannerOf",
+    "IsA"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "let",
+  "single_word_validated": true
+}

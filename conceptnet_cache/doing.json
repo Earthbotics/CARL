@@ -1,0 +1,73 @@
+{
+  "has_data": true,
+  "last_lookup": 1756224736.6231663,
+  "edges": [
+    {
+      "target": "\u884c\u70ba",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/doing/n/wikt/en_1/,/c/ja/\u884c\u70ba/]"
+    },
+    {
+      "target": "tun",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/doing/n/wikt/en_1/,/c/de/tun/]"
+    },
+    {
+      "target": "do",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/doing/v/,/c/en/do/]"
+    },
+    {
+      "target": "\u4f5c\u4e3a",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/doing/n/wikt/en_1/,/c/zh/\u4f5c\u4e3a/]"
+    },
+    {
+      "target": "boing",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/doing/,/c/en/boing/]"
+    },
+    {
+      "target": "etme",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/doing/n/wikt/en_1/,/c/tr/etme/]"
+    },
+    {
+      "target": "\u043f\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u0435",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/doing/n/wikt/en_1/,/c/bg/\u043f\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u0435/]"
+    },
+    {
+      "target": "deed",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/doing/n/wikt/en_1/,/c/en/deed/]"
+    },
+    {
+      "target": "\u0434\u0435\u044f\u043d\u0438\u0435",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/doing/n/wikt/en_1/,/c/ru/\u0434\u0435\u044f\u043d\u0438\u0435/]"
+    },
+    {
+      "target": "\u3059\u308b",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/doing/n/wikt/en_1/,/c/ja/\u3059\u308b/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "doing",
+  "single_word_validated": true
+}

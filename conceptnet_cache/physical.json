@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1757466554.201618,
+  "edges": [
+    {
+      "target": "physiologic",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/physical/a/wn/,/c/en/physiologic/a/wn/]"
+    },
+    {
+      "target": "personal",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/physical/a/wn/,/c/en/personal/a/wn/]"
+    },
+    {
+      "target": "natural",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/physical/a/wn/,/c/en/natural/a/wn/]"
+    },
+    {
+      "target": "somatic",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/physical/a/wn/,/c/en/somatic/a/wn/]"
+    },
+    {
+      "target": "somatogenetic",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/physical/a/wn/,/c/en/somatogenetic/a/wn/]"
+    },
+    {
+      "target": "fleshly",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/physical/a/wn/,/c/en/fleshly/a/wn/]"
+    },
+    {
+      "target": "material",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/physical/a/wn/,/c/en/material/a/wn/]"
+    },
+    {
+      "target": "physics",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/physical/a/,/c/en/physics/]"
+    },
+    {
+      "target": "forcible",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/physical/a/wn/,/c/en/forcible/a/wn/]"
+    },
+    {
+      "target": "energetic",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/physical/a/wn/,/c/en/energetic/a/wn/]"
+    }
+  ],
+  "relationships": [
+    "SimilarTo",
+    "RelatedTo",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "physical",
+  "single_word_validated": true
+}

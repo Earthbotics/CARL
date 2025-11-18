@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1761619196.8274417,
+  "edges": [
+    {
+      "target": "multi-coloured",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/calico/a/wn/,/c/en/multi_coloured/a/wn/]"
+    },
+    {
+      "target": "fabric",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/calico/n/wn/artifact/,/c/en/fabric/n/wn/artifact/]"
+    },
+    {
+      "target": "102943180-n",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/calico/n/wn/artifact/,/http://wordnet-rdf.princeton.edu/wn31/102943180-n/]"
+    },
+    {
+      "target": "cloth",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/calico/n/,/c/en/cloth/]"
+    },
+    {
+      "target": "calicot",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/calico/n/,/c/fr/calicot/]"
+    },
+    {
+      "target": "\u0431\u044f\u0437\u044c",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/calico/n/,/c/ru/\u0431\u044f\u0437\u044c/]"
+    },
+    {
+      "target": "\u043f\u043b\u0430\u0442\u043d\u043e",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/calico/n/,/c/bg/\u043f\u043b\u0430\u0442\u043d\u043e/]"
+    },
+    {
+      "target": "calic\u00f3",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/calico/n/,/c/es/calic\u00f3/]"
+    },
+    {
+      "target": "\u05e6\u05d9\u05e5",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/calico/n/,/c/yi/\u05e6\u05d9\u05e5/]"
+    },
+    {
+      "target": "kaniki",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/calico/n/,/c/sw/kaniki/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "IsA",
+    "ExternalURL",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "calico",
+  "single_word_validated": true
+}

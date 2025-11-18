@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1758073157.668776,
+  "edges": [
+    {
+      "target": "carrying water",
+      "relationship": "UsedFor",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/UsedFor/,/c/en/pail/,/c/en/carrying_water/]"
+    },
+    {
+      "target": "bucket",
+      "relationship": "Synonym",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/Synonym/,/c/en/pail/n/,/c/en/bucket/]"
+    },
+    {
+      "target": "bucket",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/pail/n/wn/artifact/,/c/en/bucket/n/wn/artifact/]"
+    },
+    {
+      "target": "the garage",
+      "relationship": "AtLocation",
+      "weight": 2.0,
+      "uri": "/a/[/r/AtLocation/,/c/en/pail/,/c/en/garage/]"
+    },
+    {
+      "target": "a bucket",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/pail/,/c/en/bucket/]"
+    },
+    {
+      "target": "containerful",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/pail/n/wn/quantity/,/c/en/containerful/n/wn/quantity/]"
+    },
+    {
+      "target": "carry water",
+      "relationship": "UsedFor",
+      "weight": 2.0,
+      "uri": "/a/[/r/UsedFor/,/c/en/pail/,/c/en/carry_water/]"
+    },
+    {
+      "target": "carrying liquids",
+      "relationship": "UsedFor",
+      "weight": 1.0,
+      "uri": "/a/[/r/UsedFor/,/c/en/pail/,/c/en/carrying_liquids/]"
+    },
+    {
+      "target": "seau",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/pail/n/,/c/fr/seau/]"
+    },
+    {
+      "target": "a hardware store",
+      "relationship": "AtLocation",
+      "weight": 1.0,
+      "uri": "/a/[/r/AtLocation/,/c/en/pail/,/c/en/hardware_store/]"
+    }
+  ],
+  "relationships": [
+    "UsedFor",
+    "Synonym",
+    "AtLocation",
+    "IsA",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "pail",
+  "single_word_validated": true
+}

@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1757652619.706278,
+  "edges": [
+    {
+      "target": "sirena",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/mermaid/n/,/c/sh/sirena/]"
+    },
+    {
+      "target": "imaginary being",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/mermaid/n/wn/person/,/c/en/imaginary_being/n/wn/person/]"
+    },
+    {
+      "target": "fish",
+      "relationship": "RelatedTo",
+      "weight": 1.0430000000000001,
+      "uri": "/a/[/r/RelatedTo/,/c/en/mermaid/,/c/en/fish/]"
+    },
+    {
+      "target": "\u043c\u043e\u0440\u0441\u043a\u0430 \u0441\u0438\u0440\u0435\u043d\u0430",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/mermaid/n/,/c/bg/\u043c\u043e\u0440\u0441\u043a\u0430_\u0441\u0438\u0440\u0435\u043d\u0430/]"
+    },
+    {
+      "target": "\u0441\u0438\u0440\u0435\u043d\u0430",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/mermaid/n/,/c/ru/\u0441\u0438\u0440\u0435\u043d\u0430/]"
+    },
+    {
+      "target": "serena",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/mermaid/n/,/c/ast/serena/]"
+    },
+    {
+      "target": "woman",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/mermaid/n/,/c/en/woman/]"
+    },
+    {
+      "target": "susuna",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/mermaid/n/,/c/tr/susuna/]"
+    },
+    {
+      "target": "sup\u0259risi",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/mermaid/n/,/c/az/sup\u0259risi/]"
+    },
+    {
+      "target": "\u043c\u043e\u0440\u0441\u044c\u043a\u0430 \u043f\u0430\u043d\u043d\u0430",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/mermaid/n/,/c/uk/\u043c\u043e\u0440\u0441\u044c\u043a\u0430_\u043f\u0430\u043d\u043d\u0430/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "IsA",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "mermaid",
+  "single_word_validated": true
+}

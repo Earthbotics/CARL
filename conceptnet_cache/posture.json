@@ -1,0 +1,73 @@
+{
+  "has_data": true,
+  "last_lookup": 1755918034.3212812,
+  "edges": [
+    {
+      "target": "pose",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/posture/v/wn/social/,/c/en/pose/v/wn/social/]"
+    },
+    {
+      "target": "position",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/posture/n/wn/cognition/,/c/en/position/n/wn/cognition/]"
+    },
+    {
+      "target": "model",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/posture/v/wn/art/,/c/en/model/v/wn/art/]"
+    },
+    {
+      "target": "military capability",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/posture/n/wn/military/,/c/en/military_capability/n/wn/military/]"
+    },
+    {
+      "target": "carriage",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/posture/n/wn/attribute/,/c/en/carriage/n/wn/attribute/]"
+    },
+    {
+      "target": "position",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/posture/n/wn/attribute/,/c/en/position/n/wn/attribute/]"
+    },
+    {
+      "target": "\u021binut\u0103",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/posture/n/,/c/ro/\u021binut\u0103/]"
+    },
+    {
+      "target": "opinion",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/posture/v/,/c/en/opinion/]"
+    },
+    {
+      "target": "pretend",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/posture/v/,/c/en/pretend/]"
+    },
+    {
+      "target": "condition",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/posture/n/,/c/en/condition/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "posture",
+  "single_word_validated": true
+}

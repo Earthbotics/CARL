@@ -1,0 +1,77 @@
+{
+  "has_data": true,
+  "last_lookup": 1756002908.3431396,
+  "edges": [
+    {
+      "target": "orbit",
+      "relationship": "AtLocation",
+      "weight": 4.47213595499958,
+      "uri": "/a/[/r/AtLocation/,/c/en/satellite/,/c/en/orbit/]"
+    },
+    {
+      "target": "celestial body",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/satellite/n/wn/object/,/c/en/celestial_body/n/wn/object/]"
+    },
+    {
+      "target": "equipment",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/satellite/n/wn/artifact/,/c/en/equipment/n/wn/artifact/]"
+    },
+    {
+      "target": "air",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/satellite/v/wn/communication/,/c/en/air/v/wn/broadcast_medium/]"
+    },
+    {
+      "target": "sat",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/satellite/n/,/c/en/sat/]"
+    },
+    {
+      "target": "follower",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/satellite/n/wn/person/,/c/en/follower/n/wn/person/]"
+    },
+    {
+      "target": "outer",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/satellite/a/wn/,/c/en/outer/a/wn/]"
+    },
+    {
+      "target": "influence",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/satellite/n/,/c/en/influence/]"
+    },
+    {
+      "target": "space",
+      "relationship": "AtLocation",
+      "weight": 1.0,
+      "uri": "/a/[/r/AtLocation/,/c/en/satellite/,/c/en/space/]"
+    },
+    {
+      "target": "grammatical",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/satellite/n/,/c/en/grammatical/]"
+    }
+  ],
+  "relationships": [
+    "AtLocation",
+    "IsA",
+    "MannerOf",
+    "Synonym",
+    "SimilarTo",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "satellite",
+  "single_word_validated": true
+}

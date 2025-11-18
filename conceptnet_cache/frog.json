@@ -1,0 +1,77 @@
+{
+  "has_data": true,
+  "last_lookup": 1757050576.6715002,
+  "edges": [
+    {
+      "target": "a pond",
+      "relationship": "AtLocation",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/AtLocation/,/c/en/frog/,/c/en/pond/]"
+    },
+    {
+      "target": "\u017eabac",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/frog/n/wikt/en_1/,/c/sh/\u017eabac/]"
+    },
+    {
+      "target": "capture",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/frog/v/wn/contact/,/c/en/capture/v/wn/contact/]"
+    },
+    {
+      "target": "amphibian",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/frog/n/wn/animal/,/c/en/amphibian/n/wn/animal/]"
+    },
+    {
+      "target": "the lawn",
+      "relationship": "AtLocation",
+      "weight": 2.0,
+      "uri": "/a/[/r/AtLocation/,/c/en/frog/,/c/en/lawn/]"
+    },
+    {
+      "target": "green",
+      "relationship": "HasProperty",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasProperty/,/c/en/frog/,/c/en/green/]"
+    },
+    {
+      "target": "\u017eaba",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/frog/n/wikt/en_1/,/c/sh/\u017eaba/]"
+    },
+    {
+      "target": "French person",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/frog/n/wn/person/,/c/en/french_person/n/wn/person/]"
+    },
+    {
+      "target": "adornment",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/frog/n/wn/artifact/,/c/en/adornment/n/wn/artifact/]"
+    },
+    {
+      "target": "leap",
+      "relationship": "CapableOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/CapableOf/,/c/en/frog/,/c/en/leap/]"
+    }
+  ],
+  "relationships": [
+    "AtLocation",
+    "Synonym",
+    "MannerOf",
+    "IsA",
+    "HasProperty",
+    "CapableOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "frog",
+  "single_word_validated": true
+}

@@ -1,0 +1,78 @@
+{
+  "has_data": true,
+  "last_lookup": 1757083219.7253194,
+  "edges": [
+    {
+      "target": "opposite of up",
+      "relationship": "DefinedAs",
+      "weight": 4.0,
+      "uri": "/a/[/r/DefinedAs/,/c/en/down/,/c/en/opposite_of_up/]"
+    },
+    {
+      "target": "up",
+      "relationship": "DistinctFrom",
+      "weight": 2.389142105442872,
+      "uri": "/a/[/r/DistinctFrom/,/c/en/down/,/c/en/up/]"
+    },
+    {
+      "target": "direction",
+      "relationship": "RelatedTo",
+      "weight": 2.2565460332109337,
+      "uri": "/a/[/r/RelatedTo/,/c/en/down/,/c/en/direction/]"
+    },
+    {
+      "target": "John L. H. Down",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/down/n/wn/person/,/c/en/john_l_h_down/n/wn/person/]"
+    },
+    {
+      "target": "downbound",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/down/a/wn/,/c/en/downbound/a/wn/]"
+    },
+    {
+      "target": "depressed",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/down/a/wn/,/c/en/depressed/a/wn/]"
+    },
+    {
+      "target": "get the better of",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/down/v/wn/sport/,/c/en/get_better_of/v/wn/competition/]"
+    },
+    {
+      "target": "hair",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/down/n/wn/body/,/c/en/hair/n/wn/body/]"
+    },
+    {
+      "target": "lower",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/down/,/c/en/lower/]"
+    },
+    {
+      "target": "downwardly",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/down/r/wn/,/c/en/downwardly/r/wn/]"
+    }
+  ],
+  "relationships": [
+    "DefinedAs",
+    "DistinctFrom",
+    "RelatedTo",
+    "Synonym",
+    "SimilarTo",
+    "MannerOf",
+    "IsA"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "down",
+  "single_word_validated": true
+}

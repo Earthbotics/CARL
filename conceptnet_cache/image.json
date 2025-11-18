@@ -1,0 +1,73 @@
+{
+  "has_data": true,
+  "last_lookup": 1756060447.7672417,
+  "edges": [
+    {
+      "target": "visualize",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/image/v/wn/creation/,/c/en/visualize/v/wn/creation/]"
+    },
+    {
+      "target": "double",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/image/n/wn/person/,/c/en/double/n/wn/person/]"
+    },
+    {
+      "target": "resim",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/image/n/,/c/tr/resim/]"
+    },
+    {
+      "target": "image",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/image/n/,/c/fr/image/]"
+    },
+    {
+      "target": "trope",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/image/n/wn/communication/,/c/en/trope/n/wn/communication/]"
+    },
+    {
+      "target": "slika",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/image/n/,/c/sh/slika/]"
+    },
+    {
+      "target": "impression",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/image/n/wn/attribute/,/c/en/impression/n/wn/attribute/]"
+    },
+    {
+      "target": "persona",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/image/n/wn/carl_gustav_jung/,/c/en/persona/n/wn/carl_gustav_jung/]"
+    },
+    {
+      "target": "representation",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/image/n/wn/cognition/,/c/en/representation/n/wn/cognition/]"
+    },
+    {
+      "target": "effigy",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/image/n/wn/artifact/,/c/en/effigy/n/wn/artifact/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "IsA"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "image",
+  "single_word_validated": true
+}

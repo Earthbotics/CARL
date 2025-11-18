@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1757432597.664125,
+  "edges": [
+    {
+      "target": "change hands",
+      "relationship": "Entails",
+      "weight": 2.0,
+      "uri": "/a/[/r/Entails/,/c/en/fetch/v/wn/possession/,/c/en/change_hands/v/wn/possession/]"
+    },
+    {
+      "target": "bring",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/fetch/v/wn/contact/,/c/en/bring/v/wn/motion/]"
+    },
+    {
+      "target": "bring",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/fetch/v/wn/contact/,/c/en/bring/v/wn/contact/]"
+    },
+    {
+      "target": "action",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/fetch/n/wn/act/,/c/en/action/n/wn/act/]"
+    },
+    {
+      "target": "apamuy",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/fetch/v/wikt/en_1/,/c/qu/apamuy/]"
+    },
+    {
+      "target": "chercher",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/fetch/v/,/c/fr/chercher/]"
+    },
+    {
+      "target": "traer",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/fetch/v/wikt/en_1/,/c/es/traer/]"
+    },
+    {
+      "target": "stratagem",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/fetch/n/wikt/en_1/,/c/en/stratagem/]"
+    },
+    {
+      "target": "\u043f\u0440\u0438\u043d\u0435\u0441\u0442\u0438",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/fetch/v/wikt/en_1/,/c/ru/\u043f\u0440\u0438\u043d\u0435\u0441\u0442\u0438/]"
+    },
+    {
+      "target": "tsashia",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/fetch/v/wikt/en_1/,/c/zdj/tsashia/]"
+    }
+  ],
+  "relationships": [
+    "Entails",
+    "MannerOf",
+    "Synonym",
+    "IsA",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "fetch",
+  "single_word_validated": true
+}

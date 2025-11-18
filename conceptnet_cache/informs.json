@@ -1,0 +1,38 @@
+{
+  "has_data": true,
+  "last_lookup": 1757221274.19429,
+  "edges": [
+    {
+      "target": "inform",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/informs/v/,/c/en/inform/]"
+    },
+    {
+      "target": "inform",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/informs/v/,/c/en/inform/]"
+    },
+    {
+      "target": "informs",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/informs/,/http://fr.wiktionary.org/wiki/informs/]"
+    },
+    {
+      "target": "informs",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/informs/,/http://en.wiktionary.org/wiki/informs/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "FormOf",
+    "ExternalURL"
+  ],
+  "total_edges_found": 4,
+  "concept_queried": "informs",
+  "single_word_validated": true
+}

@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1755125372.7340143,
+  "edges": [
+    {
+      "target": "slow",
+      "relationship": "RelatedTo",
+      "weight": 6.001666435249463,
+      "uri": "/a/[/r/RelatedTo/,/c/en/walk/,/c/en/slow/]"
+    },
+    {
+      "target": "movement",
+      "relationship": "RelatedTo",
+      "weight": 5.742473334722591,
+      "uri": "/a/[/r/RelatedTo/,/c/en/walk/,/c/en/movement/]"
+    },
+    {
+      "target": "some exercise",
+      "relationship": "MotivatedByGoal",
+      "weight": 4.898979485566356,
+      "uri": "/a/[/r/MotivatedByGoal/,/c/en/walk/,/c/en/exercise/]"
+    },
+    {
+      "target": "stand up",
+      "relationship": "HasPrerequisite",
+      "weight": 4.898979485566356,
+      "uri": "/a/[/r/HasPrerequisite/,/c/en/walk/,/c/en/stand_up/]"
+    },
+    {
+      "target": "run",
+      "relationship": "RelatedTo",
+      "weight": 4.210938137755054,
+      "uri": "/a/[/r/RelatedTo/,/c/en/walk/,/c/en/run/]"
+    },
+    {
+      "target": "move your legs",
+      "relationship": "HasSubevent",
+      "weight": 4.0,
+      "uri": "/a/[/r/HasSubevent/,/c/en/walk/,/c/en/move_legs/]"
+    },
+    {
+      "target": "stand",
+      "relationship": "HasPrerequisite",
+      "weight": 4.0,
+      "uri": "/a/[/r/HasPrerequisite/,/c/en/walk/,/c/en/stand/]"
+    },
+    {
+      "target": "put on shoes",
+      "relationship": "HasPrerequisite",
+      "weight": 4.0,
+      "uri": "/a/[/r/HasPrerequisite/,/c/en/walk/,/c/en/put_on_shoes/]"
+    },
+    {
+      "target": "put your shoes on",
+      "relationship": "HasPrerequisite",
+      "weight": 4.0,
+      "uri": "/a/[/r/HasPrerequisite/,/c/en/walk/,/c/en/put_shoes_on/]"
+    },
+    {
+      "target": "moving",
+      "relationship": "RelatedTo",
+      "weight": 3.942587982531272,
+      "uri": "/a/[/r/RelatedTo/,/c/en/walk/,/c/en/moving/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "MotivatedByGoal",
+    "HasPrerequisite",
+    "HasSubevent"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "walk",
+  "single_word_validated": true
+}

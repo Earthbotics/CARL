@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1761278271.4704187,
+  "edges": [
+    {
+      "target": "brain",
+      "relationship": "RelatedTo",
+      "weight": 3.6193922141707713,
+      "uri": "/a/[/r/RelatedTo/,/c/en/memory/,/c/en/brain/]"
+    },
+    {
+      "target": "remembering",
+      "relationship": "RelatedTo",
+      "weight": 2.9718680993610738,
+      "uri": "/a/[/r/RelatedTo/,/c/en/memory/,/c/en/remembering/]"
+    },
+    {
+      "target": "remember",
+      "relationship": "RelatedTo",
+      "weight": 2.8982753492378883,
+      "uri": "/a/[/r/RelatedTo/,/c/en/memory/,/c/en/remember/]"
+    },
+    {
+      "target": "past",
+      "relationship": "RelatedTo",
+      "weight": 2.7655017627909766,
+      "uri": "/a/[/r/RelatedTo/,/c/en/memory/,/c/en/past/]"
+    },
+    {
+      "target": "recall",
+      "relationship": "RelatedTo",
+      "weight": 2.3874672772626644,
+      "uri": "/a/[/r/RelatedTo/,/c/en/memory/,/c/en/recall/]"
+    },
+    {
+      "target": "representation",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/memory/n/wn/cognition/,/c/en/representation/n/wn/cognition/]"
+    },
+    {
+      "target": "a computer",
+      "relationship": "AtLocation",
+      "weight": 2.0,
+      "uri": "/a/[/r/AtLocation/,/c/en/memory/,/c/en/computer/]"
+    },
+    {
+      "target": "computer",
+      "relationship": "PartOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/PartOf/,/c/en/memory/n/wn/artifact/,/c/en/computer/n/wn/computer_science/]"
+    },
+    {
+      "target": "memory device",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/memory/n/wn/artifact/,/c/en/memory_device/n/wn/artifact/]"
+    },
+    {
+      "target": "cognitive psychology",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/memory/n/wn/cognition/,/c/en/cognitive_psychology/n/wn/cognition/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "IsA",
+    "AtLocation",
+    "PartOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "memory",
+  "single_word_validated": true
+}

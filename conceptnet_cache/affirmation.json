@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1757792104.3099594,
+  "edges": [
+    {
+      "target": "law",
+      "relationship": "HasContext",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasContext/,/c/en/affirmation/n/wn/law/,/c/en/law/n/wn/group/]"
+    },
+    {
+      "target": "religion",
+      "relationship": "HasContext",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasContext/,/c/en/affirmation/n/wn/religion/,/c/en/religion/n/wn/cognition/]"
+    },
+    {
+      "target": "avowal",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/affirmation/n/wn/communication/,/c/en/avowal/n/wn/communication/]"
+    },
+    {
+      "target": "speech act",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/affirmation/n/wn/communication/,/c/en/speech_act/n/wn/communication/]"
+    },
+    {
+      "target": "commitment",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/affirmation/n/wn/religion/,/c/en/commitment/n/wn/communication/]"
+    },
+    {
+      "target": "judgment",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/affirmation/n/wn/law/,/c/en/judgment/n/wn/law/]"
+    },
+    {
+      "target": "assertion",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/affirmation/n/,/c/en/assertion/]"
+    },
+    {
+      "target": "107217786-n",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/affirmation/n/wn/communication/,/http://wordnet-rdf.princeton.edu/wn31/107217786-n/]"
+    },
+    {
+      "target": "afirma\u00e7on",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/affirmation/n/,/c/mwl/afirma\u00e7on/]"
+    },
+    {
+      "target": "afirmaci\u00f3n",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/affirmation/n/,/c/es/afirmaci\u00f3n/]"
+    }
+  ],
+  "relationships": [
+    "HasContext",
+    "Synonym",
+    "IsA",
+    "ExternalURL"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "affirmation",
+  "single_word_validated": true
+}

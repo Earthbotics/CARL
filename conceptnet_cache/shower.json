@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1757652620.2014613,
+  "edges": [
+    {
+      "target": "exhibitor",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/shower/n/wn/person/,/c/en/exhibitor/n/wn/person/]"
+    },
+    {
+      "target": "shower stall",
+      "relationship": "PartOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/PartOf/,/c/en/shower/n/wn/artifact/,/c/en/shower_stall/n/wn/artifact/]"
+    },
+    {
+      "target": "party",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/shower/n/wn/group/,/c/en/party/n/wn/group/]"
+    },
+    {
+      "target": "provide",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/shower/v/wn/consumption/,/c/en/provide/v/wn/consumption/]"
+    },
+    {
+      "target": "plumbing fixture",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/shower/n/wn/artifact/,/c/en/plumbing_fixture/n/wn/artifact/]"
+    },
+    {
+      "target": "bathe",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/shower/v/wn/body/,/c/en/bathe/v/wn/body/]"
+    },
+    {
+      "target": "bathing",
+      "relationship": "UsedFor",
+      "weight": 2.0,
+      "uri": "/a/[/r/UsedFor/,/c/en/shower/,/c/en/bathing/]"
+    },
+    {
+      "target": "rain",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/shower/n/wn/phenomenon/,/c/en/rain/n/wn/phenomenon/]"
+    },
+    {
+      "target": "rain",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/shower/v/wn/weather/,/c/en/rain/v/wn/weather/]"
+    },
+    {
+      "target": "spray",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/shower/v/wn/contact/,/c/en/spray/v/wn/contact/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "PartOf",
+    "IsA",
+    "MannerOf",
+    "UsedFor"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "shower",
+  "single_word_validated": true
+}

@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1756350979.6833696,
+  "edges": [
+    {
+      "target": "cryptography",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/coding/n/wn/act/,/c/en/cryptography/n/wn/act/]"
+    },
+    {
+      "target": "thinking",
+      "relationship": "HasPrerequisite",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasPrerequisite/,/c/en/coding/,/c/en/thinking/]"
+    },
+    {
+      "target": "hypnosis",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/coding/n/,/c/en/hypnosis/]"
+    },
+    {
+      "target": "koodaus",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/coding/n/,/c/fi/koodaus/]"
+    },
+    {
+      "target": "decoding",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/coding/n/,/c/en/decoding/]"
+    },
+    {
+      "target": "encoding",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/coding/n/,/c/en/encoding/]"
+    },
+    {
+      "target": "code",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/coding/v/,/c/en/code/]"
+    },
+    {
+      "target": "codifica",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/coding/n/,/c/it/codifica/]"
+    },
+    {
+      "target": "codare decodare",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/coding/n/,/c/ro/codare_decodare/]"
+    },
+    {
+      "target": "kodowanie",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/coding/n/,/c/pl/kodowanie/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "HasPrerequisite",
+    "RelatedTo",
+    "FormOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "coding",
+  "single_word_validated": true
+}

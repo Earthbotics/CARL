@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1755320134.5998416,
+  "edges": [
+    {
+      "target": "an office",
+      "relationship": "AtLocation",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/AtLocation/,/c/en/printer/,/c/en/office/]"
+    },
+    {
+      "target": "printing documents",
+      "relationship": "UsedFor",
+      "weight": 2.0,
+      "uri": "/a/[/r/UsedFor/,/c/en/printer/,/c/en/printing_documents/]"
+    },
+    {
+      "target": "printer",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/printer/n/wn/computer_science/,/c/en/printer/n/wn/artifact/]"
+    },
+    {
+      "target": "machine",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/printer/n/wn/artifact/,/c/en/machine/n/wn/artifact/]"
+    },
+    {
+      "target": "skilled worker",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/printer/n/wn/person/,/c/en/skilled_worker/n/wn/person/]"
+    },
+    {
+      "target": "peripheral",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/printer/n/wn/computer_science/,/c/en/peripheral/n/wn/computer_science/]"
+    },
+    {
+      "target": "computer science",
+      "relationship": "HasContext",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasContext/,/c/en/printer/n/wn/computer_science/,/c/en/computer_science/n/wn/computer/]"
+    },
+    {
+      "target": "printing book reports",
+      "relationship": "UsedFor",
+      "weight": 1.0,
+      "uri": "/a/[/r/UsedFor/,/c/en/printer/,/c/en/printing_book_reports/]"
+    },
+    {
+      "target": "device",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/printer/n/,/c/en/device/]"
+    },
+    {
+      "target": "printing receipts",
+      "relationship": "UsedFor",
+      "weight": 1.0,
+      "uri": "/a/[/r/UsedFor/,/c/en/printer/,/c/en/printing_receipts/]"
+    }
+  ],
+  "relationships": [
+    "AtLocation",
+    "UsedFor",
+    "IsA",
+    "HasContext"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "printer",
+  "single_word_validated": true
+}

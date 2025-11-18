@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1755878663.2838569,
+  "edges": [
+    {
+      "target": "urban area",
+      "relationship": "PartOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/PartOf/,/c/en/park/n/wn/location/,/c/en/urban_area/n/wn/location/]"
+    },
+    {
+      "target": "steer",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/park/v/wn/driving/,/c/en/steer/v/wn/motion/]"
+    },
+    {
+      "target": "ballpark",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/park/n/wn/baseball/,/c/en/ballpark/n/wn/baseball/]"
+    },
+    {
+      "target": "gear",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/park/n/wn/artifact/,/c/en/gear/n/wn/artifact/]"
+    },
+    {
+      "target": "parking lot",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/park/n/wn/location/,/c/en/parking_lot/n/wn/location/]"
+    },
+    {
+      "target": "put",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/park/v/wn/contact/,/c/en/put/v/wn/contact/]"
+    },
+    {
+      "target": "usually in a city",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/park/,/c/en/usually_in_city/]"
+    },
+    {
+      "target": "tract",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/park/n/wn/location/,/c/en/tract/n/wn/location/]"
+    },
+    {
+      "target": "driving",
+      "relationship": "HasContext",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasContext/,/c/en/park/v/wn/driving/,/c/en/driving/n/wn/act/]"
+    },
+    {
+      "target": "Mungo Park",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/park/n/wn/person/,/c/en/mungo_park/n/wn/person/]"
+    }
+  ],
+  "relationships": [
+    "PartOf",
+    "MannerOf",
+    "Synonym",
+    "IsA",
+    "HasContext"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "park",
+  "single_word_validated": true
+}

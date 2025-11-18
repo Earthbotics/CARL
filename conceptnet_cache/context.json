@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1761278168.2224905,
+  "edges": [
+    {
+      "target": "discourse",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/context/n/wn/communication/,/c/en/discourse/n/wn/communication/]"
+    },
+    {
+      "target": "environment",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/context/n/wn/state/,/c/en/environment/n/wn/state/]"
+    },
+    {
+      "target": "free variable",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/context/n/,/c/en/free_variable/]"
+    },
+    {
+      "target": "Q196626",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/context/n/wp/language_use/,/http://wikidata.dbpedia.org/resource/Q196626/]"
+    },
+    {
+      "target": "setting",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/context/n/,/c/en/setting/]"
+    },
+    {
+      "target": "\u0632\u0645\u06cc\u0646\u0647",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/context/n/,/c/fa/\u0632\u0645\u06cc\u0646\u0647/]"
+    },
+    {
+      "target": "linguistics",
+      "relationship": "HasContext",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasContext/,/c/en/context/n/,/c/en/linguistics/]"
+    },
+    {
+      "target": "comhth\u00e9acs",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/context/n/,/c/ga/comhth\u00e9acs/]"
+    },
+    {
+      "target": "yhteys",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/context/n/,/c/fi/yhteys/]"
+    },
+    {
+      "target": "\u6587\u8108",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/context/n/,/c/ko/\u6587\u8108/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "RelatedTo",
+    "ExternalURL",
+    "Synonym",
+    "HasContext"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "context",
+  "single_word_validated": true
+}

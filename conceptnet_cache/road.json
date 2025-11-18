@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1754883071.9071674,
+  "edges": [
+    {
+      "target": "street",
+      "relationship": "RelatedTo",
+      "weight": 7.601052558692118,
+      "uri": "/a/[/r/RelatedTo/,/c/en/road/,/c/en/street/]"
+    },
+    {
+      "target": "path",
+      "relationship": "RelatedTo",
+      "weight": 4.629038777111291,
+      "uri": "/a/[/r/RelatedTo/,/c/en/road/,/c/en/path/]"
+    },
+    {
+      "target": "cars",
+      "relationship": "RelatedTo",
+      "weight": 4.04573849871689,
+      "uri": "/a/[/r/RelatedTo/,/c/en/road/,/c/en/cars/]"
+    },
+    {
+      "target": "highway",
+      "relationship": "RelatedTo",
+      "weight": 3.8120860431002868,
+      "uri": "/a/[/r/RelatedTo/,/c/en/road/,/c/en/highway/]"
+    },
+    {
+      "target": "driving",
+      "relationship": "RelatedTo",
+      "weight": 3.6243620128237737,
+      "uri": "/a/[/r/RelatedTo/,/c/en/road/,/c/en/driving/]"
+    },
+    {
+      "target": "town",
+      "relationship": "AtLocation",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/AtLocation/,/c/en/road/,/c/en/town/]"
+    },
+    {
+      "target": "travelers",
+      "relationship": "UsedFor",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/UsedFor/,/c/en/road/,/c/en/travelers/]"
+    },
+    {
+      "target": "car",
+      "relationship": "RelatedTo",
+      "weight": 2.8021420377989408,
+      "uri": "/a/[/r/RelatedTo/,/c/en/road/,/c/en/car/]"
+    },
+    {
+      "target": "surface",
+      "relationship": "RelatedTo",
+      "weight": 2.6229754097208,
+      "uri": "/a/[/r/RelatedTo/,/c/en/road/,/c/en/surface/]"
+    },
+    {
+      "target": "avenue",
+      "relationship": "RelatedTo",
+      "weight": 2.511573212152097,
+      "uri": "/a/[/r/RelatedTo/,/c/en/road/,/c/en/avenue/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "AtLocation",
+    "UsedFor"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "road",
+  "single_word_validated": true
+}

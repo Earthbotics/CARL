@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1758058739.7928367,
+  "edges": [
+    {
+      "target": "see",
+      "relationship": "RelatedTo",
+      "weight": 5.707889277132134,
+      "uri": "/a/[/r/RelatedTo/,/c/en/look/,/c/en/see/]"
+    },
+    {
+      "target": "glance",
+      "relationship": "RelatedTo",
+      "weight": 2.864960732715198,
+      "uri": "/a/[/r/RelatedTo/,/c/en/look/,/c/en/glance/]"
+    },
+    {
+      "target": "eyes",
+      "relationship": "RelatedTo",
+      "weight": 2.80713376952364,
+      "uri": "/a/[/r/RelatedTo/,/c/en/look/,/c/en/eyes/]"
+    },
+    {
+      "target": "seeing",
+      "relationship": "RelatedTo",
+      "weight": 2.655560204551951,
+      "uri": "/a/[/r/RelatedTo/,/c/en/look/,/c/en/seeing/]"
+    },
+    {
+      "target": "view",
+      "relationship": "RelatedTo",
+      "weight": 2.064945519862449,
+      "uri": "/a/[/r/RelatedTo/,/c/en/look/,/c/en/view/]"
+    },
+    {
+      "target": "be",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/look/v/wn/perception/,/c/en/be/v/wn/stative/]"
+    },
+    {
+      "target": "attend",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/look/v/wn/social/,/c/en/attend/v/wn/social/]"
+    },
+    {
+      "target": "trust",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/look/v/wn/cognition/,/c/en/trust/v/wn/cognition/]"
+    },
+    {
+      "target": "be",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/look/v/wn/body/,/c/en/be/v/wn/stative/]"
+    },
+    {
+      "target": "search",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/look/v/wn/perception/,/c/en/search/v/wn/perception/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "MannerOf",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "look",
+  "single_word_validated": true
+}

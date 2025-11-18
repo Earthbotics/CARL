@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1762019846.6976066,
+  "edges": [
+    {
+      "target": "soothing",
+      "relationship": "HasProperty",
+      "weight": 7.211102550927979,
+      "uri": "/a/[/r/HasProperty/,/c/en/music/,/c/en/soothing/]"
+    },
+    {
+      "target": "notes",
+      "relationship": "RelatedTo",
+      "weight": 6.847189204337791,
+      "uri": "/a/[/r/RelatedTo/,/c/en/music/,/c/en/notes/]"
+    },
+    {
+      "target": "relaxing",
+      "relationship": "HasProperty",
+      "weight": 6.0,
+      "uri": "/a/[/r/HasProperty/,/c/en/music/,/c/en/relaxing/]"
+    },
+    {
+      "target": "melody",
+      "relationship": "RelatedTo",
+      "weight": 5.277878361614636,
+      "uri": "/a/[/r/RelatedTo/,/c/en/music/,/c/en/melody/]"
+    },
+    {
+      "target": "art",
+      "relationship": "RelatedTo",
+      "weight": 5.127182462132589,
+      "uri": "/a/[/r/RelatedTo/,/c/en/music/,/c/en/art/]"
+    },
+    {
+      "target": "the opera",
+      "relationship": "AtLocation",
+      "weight": 4.47213595499958,
+      "uri": "/a/[/r/AtLocation/,/c/en/music/,/c/en/opera/]"
+    },
+    {
+      "target": "dance",
+      "relationship": "CausesDesire",
+      "weight": 4.47213595499958,
+      "uri": "/a/[/r/CausesDesire/,/c/en/music/,/c/en/dance/]"
+    },
+    {
+      "target": "sound good",
+      "relationship": "CapableOf",
+      "weight": 4.47213595499958,
+      "uri": "/a/[/r/CapableOf/,/c/en/music/,/c/en/sound_good/]"
+    },
+    {
+      "target": "song",
+      "relationship": "RelatedTo",
+      "weight": 4.325736931437232,
+      "uri": "/a/[/r/RelatedTo/,/c/en/music/,/c/en/song/]"
+    },
+    {
+      "target": "songs",
+      "relationship": "RelatedTo",
+      "weight": 4.187600745056768,
+      "uri": "/a/[/r/RelatedTo/,/c/en/music/,/c/en/songs/]"
+    }
+  ],
+  "relationships": [
+    "HasProperty",
+    "RelatedTo",
+    "AtLocation",
+    "CausesDesire",
+    "CapableOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "music",
+  "single_word_validated": true
+}

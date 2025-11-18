@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1759722715.539378,
+  "edges": [
+    {
+      "target": "a school",
+      "relationship": "AtLocation",
+      "weight": 6.6332495807108,
+      "uri": "/a/[/r/AtLocation/,/c/en/child/,/c/en/school/]"
+    },
+    {
+      "target": "young",
+      "relationship": "RelatedTo",
+      "weight": 5.325410782277739,
+      "uri": "/a/[/r/RelatedTo/,/c/en/child/,/c/en/young/]"
+    },
+    {
+      "target": "kid",
+      "relationship": "RelatedTo",
+      "weight": 5.215745392558958,
+      "uri": "/a/[/r/RelatedTo/,/c/en/child/,/c/en/kid/]"
+    },
+    {
+      "target": "person",
+      "relationship": "RelatedTo",
+      "weight": 4.758150901348127,
+      "uri": "/a/[/r/RelatedTo/,/c/en/child/,/c/en/person/]"
+    },
+    {
+      "target": "human",
+      "relationship": "RelatedTo",
+      "weight": 4.511319097558939,
+      "uri": "/a/[/r/RelatedTo/,/c/en/child/,/c/en/human/]"
+    },
+    {
+      "target": "become an adult",
+      "relationship": "CapableOf",
+      "weight": 4.47213595499958,
+      "uri": "/a/[/r/CapableOf/,/c/en/child/,/c/en/become_adult/]"
+    },
+    {
+      "target": "learn",
+      "relationship": "Desires",
+      "weight": 4.0,
+      "uri": "/a/[/r/Desires/,/c/en/child/,/c/en/learn/]"
+    },
+    {
+      "target": "share a toy",
+      "relationship": "CapableOf",
+      "weight": 4.0,
+      "uri": "/a/[/r/CapableOf/,/c/en/child/,/c/en/share_toy/]"
+    },
+    {
+      "target": "anger his mother",
+      "relationship": "CapableOf",
+      "weight": 4.0,
+      "uri": "/a/[/r/CapableOf/,/c/en/child/,/c/en/anger_mother/]"
+    },
+    {
+      "target": "small",
+      "relationship": "RelatedTo",
+      "weight": 3.9582824558133805,
+      "uri": "/a/[/r/RelatedTo/,/c/en/child/,/c/en/small/]"
+    }
+  ],
+  "relationships": [
+    "AtLocation",
+    "RelatedTo",
+    "CapableOf",
+    "Desires"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "child",
+  "single_word_validated": true
+}

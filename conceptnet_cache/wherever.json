@@ -1,0 +1,73 @@
+{
+  "has_data": true,
+  "last_lookup": 1757445461.812762,
+  "edges": [
+    {
+      "target": "wheresoever",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/wherever/r/wn/,/c/en/wheresoever/r/wn/]"
+    },
+    {
+      "target": "where",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/wherever/r/,/c/en/where/]"
+    },
+    {
+      "target": "gdzie\u017c",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/wherever/r/,/c/pl/gdzie\u017c/]"
+    },
+    {
+      "target": "dok\u0105d\u017ce",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/wherever/r/,/c/pl/dok\u0105d\u017ce/]"
+    },
+    {
+      "target": "hvor i alverden",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/wherever/r/,/c/da/hvor_i_alverden/]"
+    },
+    {
+      "target": "wohin",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/wherever/,/c/de/wohin/]"
+    },
+    {
+      "target": "waar toch",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/wherever/r/,/c/nl/waar_toch/]"
+    },
+    {
+      "target": "whatever",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/wherever/,/c/en/whatever/]"
+    },
+    {
+      "target": "whereabouts",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/wherever/,/c/en/whereabouts/]"
+    },
+    {
+      "target": "miss\u00e4 ikin\u00e4",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/wherever/r/,/c/fi/miss\u00e4_ikin\u00e4/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "wherever",
+  "single_word_validated": true
+}

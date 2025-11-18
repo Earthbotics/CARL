@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1754023112.573207,
+  "edges": [
+    {
+      "target": "parent",
+      "relationship": "RelatedTo",
+      "weight": 4.700638254535228,
+      "uri": "/a/[/r/RelatedTo/,/c/en/father/,/c/en/parent/]"
+    },
+    {
+      "target": "dad",
+      "relationship": "RelatedTo",
+      "weight": 3.807361290973054,
+      "uri": "/a/[/r/RelatedTo/,/c/en/father/,/c/en/dad/]"
+    },
+    {
+      "target": "male",
+      "relationship": "RelatedTo",
+      "weight": 3.7629775444453557,
+      "uri": "/a/[/r/RelatedTo/,/c/en/father/,/c/en/male/]"
+    },
+    {
+      "target": "man",
+      "relationship": "RelatedTo",
+      "weight": 3.052212312405544,
+      "uri": "/a/[/r/RelatedTo/,/c/en/father/,/c/en/man/]"
+    },
+    {
+      "target": "parent",
+      "relationship": "IsA",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/IsA/,/c/en/father/n/,/c/en/parent/]"
+    },
+    {
+      "target": "male parent",
+      "relationship": "RelatedTo",
+      "weight": 2.040588150509553,
+      "uri": "/a/[/r/RelatedTo/,/c/en/father/,/c/en/male_parent/]"
+    },
+    {
+      "target": "founder",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/father/n/wn/person/,/c/en/founder/n/wn/person/]"
+    },
+    {
+      "target": "bapa",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/father/n/,/c/id/bapa/]"
+    },
+    {
+      "target": "don",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/father/n/wn/person/,/c/en/don/n/wn/person/]"
+    },
+    {
+      "target": "leader",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/father/n/wn/person/,/c/en/leader/n/wn/person/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "IsA",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "father",
+  "single_word_validated": true
+}

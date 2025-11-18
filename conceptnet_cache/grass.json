@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1755745720.8175335,
+  "edges": [
+    {
+      "target": "the park",
+      "relationship": "AtLocation",
+      "weight": 7.211102550927979,
+      "uri": "/a/[/r/AtLocation/,/c/en/grass/,/c/en/park/]"
+    },
+    {
+      "target": "lawn",
+      "relationship": "RelatedTo",
+      "weight": 6.706713054842886,
+      "uri": "/a/[/r/RelatedTo/,/c/en/grass/,/c/en/lawn/]"
+    },
+    {
+      "target": "lawn",
+      "relationship": "AtLocation",
+      "weight": 6.32455532033676,
+      "uri": "/a/[/r/AtLocation/,/c/en/grass/,/c/en/lawn/]"
+    },
+    {
+      "target": "green",
+      "relationship": "RelatedTo",
+      "weight": 5.454906048686815,
+      "uri": "/a/[/r/RelatedTo/,/c/en/grass/,/c/en/green/]"
+    },
+    {
+      "target": "plant",
+      "relationship": "RelatedTo",
+      "weight": 4.923413450036469,
+      "uri": "/a/[/r/RelatedTo/,/c/en/grass/,/c/en/plant/]"
+    },
+    {
+      "target": "a field",
+      "relationship": "AtLocation",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/AtLocation/,/c/en/grass/,/c/en/field/]"
+    },
+    {
+      "target": "the ground",
+      "relationship": "AtLocation",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/AtLocation/,/c/en/grass/,/c/en/ground/]"
+    },
+    {
+      "target": "ground",
+      "relationship": "RelatedTo",
+      "weight": 3.399411713811671,
+      "uri": "/a/[/r/RelatedTo/,/c/en/grass/,/c/en/ground/]"
+    },
+    {
+      "target": "stain your clothes",
+      "relationship": "CapableOf",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/CapableOf/,/c/en/grass/,/c/en/stain_clothes/]"
+    },
+    {
+      "target": "plant",
+      "relationship": "IsA",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/IsA/,/c/en/grass/,/c/en/plant/]"
+    }
+  ],
+  "relationships": [
+    "AtLocation",
+    "RelatedTo",
+    "CapableOf",
+    "IsA"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "grass",
+  "single_word_validated": true
+}

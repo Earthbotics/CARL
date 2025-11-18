@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1754023265.924264,
+  "edges": [
+    {
+      "target": "action",
+      "relationship": "RelatedTo",
+      "weight": 3.2502307610383605,
+      "uri": "/a/[/r/RelatedTo/,/c/en/push/,/c/en/action/]"
+    },
+    {
+      "target": "shove",
+      "relationship": "RelatedTo",
+      "weight": 2.704810529408668,
+      "uri": "/a/[/r/RelatedTo/,/c/en/push/,/c/en/shove/]"
+    },
+    {
+      "target": "press",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/push/v/wn/contact/,/c/en/press/v/wn/contact/]"
+    },
+    {
+      "target": "press",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/push/v/wn/motion/,/c/en/press/v/wn/contact/]"
+    },
+    {
+      "target": "propulsion",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/push/n/wn/act/,/c/en/propulsion/n/wn/act/]"
+    },
+    {
+      "target": "energy",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/push/n/wn/attribute/,/c/en/energy/n/wn/attribute/]"
+    },
+    {
+      "target": "progress",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/push/n/wn/act/,/c/en/progress/n/wn/act/]"
+    },
+    {
+      "target": "deal",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/push/v/wn/crime/,/c/en/deal/v/wn/commerce/]"
+    },
+    {
+      "target": "tug",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/push/v/wn/social/,/c/en/tug/v/wn/social/]"
+    },
+    {
+      "target": "press",
+      "relationship": "Entails",
+      "weight": 2.0,
+      "uri": "/a/[/r/Entails/,/c/en/push/v/wn/motion/,/c/en/press/v/wn/contact/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "Synonym",
+    "MannerOf",
+    "IsA",
+    "Entails"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "push",
+  "single_word_validated": true
+}

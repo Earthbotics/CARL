@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1757720471.1471496,
+  "edges": [
+    {
+      "target": "Pennsylvania",
+      "relationship": "PartOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/PartOf/,/c/en/philadelphia/n/wn/location/,/c/en/pennsylvania/n/wn/location/]"
+    },
+    {
+      "target": "filadelfija",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/philadelphia/n/,/c/sh/filadelfija/]"
+    },
+    {
+      "target": "filadelfio",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/philadelphia/n/,/c/eo/filadelfio/]"
+    },
+    {
+      "target": "filadelfia",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/philadelphia/n/,/c/eu/filadelfia/]"
+    },
+    {
+      "target": "\u03c6\u03b9\u03bb\u03b1\u03b4\u03b5\u03bb\u03c6\u03b5\u03b9\u03b1",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/philadelphia/n/,/c/el/\u03c6\u03b9\u03bb\u03b1\u03b4\u03b5\u03bb\u03c6\u03b5\u03b9\u03b1/]"
+    },
+    {
+      "target": "f\u00edladelf\u00eda",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/philadelphia/n/,/c/is/f\u00edladelf\u00eda/]"
+    },
+    {
+      "target": "filadelfie",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/philadelphia/n/,/c/cs/filadelfie/]"
+    },
+    {
+      "target": "pennsylvania",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/philadelphia/n/,/c/en/pennsylvania/]"
+    },
+    {
+      "target": "city of brotherly love",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/philadelphia/n/,/c/en/city_of_brotherly_love/]"
+    },
+    {
+      "target": "\u03c6\u03b9\u03bb\u03b1\u03b4\u03b5\u03bb\u03c6\u03b5\u03b9\u03b1",
+      "relationship": "EtymologicallyDerivedFrom",
+      "weight": 1.0,
+      "uri": "/a/[/r/EtymologicallyDerivedFrom/,/c/en/philadelphia/,/c/grc/\u03c6\u03b9\u03bb\u03b1\u03b4\u03b5\u03bb\u03c6\u03b5\u03b9\u03b1/]"
+    }
+  ],
+  "relationships": [
+    "PartOf",
+    "Synonym",
+    "RelatedTo",
+    "EtymologicallyDerivedFrom"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "philadelphia",
+  "single_word_validated": true
+}

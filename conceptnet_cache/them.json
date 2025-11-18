@@ -1,0 +1,73 @@
+{
+  "has_data": true,
+  "last_lookup": 1755146322.109248,
+  "edges": [
+    {
+      "target": "adsyn",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/them/n/,/c/gv/adsyn/]"
+    },
+    {
+      "target": "ea",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/them/n/,/c/la/ea/]"
+    },
+    {
+      "target": "\u0627\u064a\u0627\u0647\u0645\u0627",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/them/n/,/c/ar/\u0627\u064a\u0627\u0647\u0645\u0627/]"
+    },
+    {
+      "target": "\u5979\u5011",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/them/n/,/c/zh/\u5979\u5011/]"
+    },
+    {
+      "target": "eli",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/them/n/,/c/io/eli/]"
+    },
+    {
+      "target": "heill\u00e4",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/them/n/,/c/fi/heill\u00e4/]"
+    },
+    {
+      "target": "has",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/them/n/,/c/la/has/]"
+    },
+    {
+      "target": "us",
+      "relationship": "DistinctFrom",
+      "weight": 1.0,
+      "uri": "/a/[/r/DistinctFrom/,/c/en/them/,/c/de/us/]"
+    },
+    {
+      "target": "teim",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/them/n/,/c/fo/teim/]"
+    },
+    {
+      "target": "jimi",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/them/n/,/c/cs/jimi/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "DistinctFrom"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "them",
+  "single_word_validated": true
+}

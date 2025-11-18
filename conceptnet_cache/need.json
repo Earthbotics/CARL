@@ -1,0 +1,73 @@
+{
+  "has_data": true,
+  "last_lookup": 1758302112.681071,
+  "edges": [
+    {
+      "target": "want",
+      "relationship": "RelatedTo",
+      "weight": 6.759881655768835,
+      "uri": "/a/[/r/RelatedTo/,/c/en/need/,/c/en/want/]"
+    },
+    {
+      "target": "requirement",
+      "relationship": "RelatedTo",
+      "weight": 4.323424568556736,
+      "uri": "/a/[/r/RelatedTo/,/c/en/need/,/c/en/requirement/]"
+    },
+    {
+      "target": "desire",
+      "relationship": "RelatedTo",
+      "weight": 4.131827682757353,
+      "uri": "/a/[/r/RelatedTo/,/c/en/need/,/c/en/desire/]"
+    },
+    {
+      "target": "buy something",
+      "relationship": "CausesDesire",
+      "weight": 4.0,
+      "uri": "/a/[/r/CausesDesire/,/c/en/need/,/c/en/buy/]"
+    },
+    {
+      "target": "necessity",
+      "relationship": "RelatedTo",
+      "weight": 3.748066168039193,
+      "uri": "/a/[/r/RelatedTo/,/c/en/need/,/c/en/necessity/]"
+    },
+    {
+      "target": "require",
+      "relationship": "RelatedTo",
+      "weight": 3.5933271490361127,
+      "uri": "/a/[/r/RelatedTo/,/c/en/need/,/c/en/require/]"
+    },
+    {
+      "target": "must",
+      "relationship": "RelatedTo",
+      "weight": 3.2875522809531104,
+      "uri": "/a/[/r/RelatedTo/,/c/en/need/,/c/en/must/]"
+    },
+    {
+      "target": "write a program",
+      "relationship": "CausesDesire",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/CausesDesire/,/c/en/need/,/c/en/write_program/]"
+    },
+    {
+      "target": "have",
+      "relationship": "RelatedTo",
+      "weight": 2.7971413979275344,
+      "uri": "/a/[/r/RelatedTo/,/c/en/need/,/c/en/have/]"
+    },
+    {
+      "target": "necessary",
+      "relationship": "RelatedTo",
+      "weight": 2.6107470195329157,
+      "uri": "/a/[/r/RelatedTo/,/c/en/need/,/c/en/necessary/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "CausesDesire"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "need",
+  "single_word_validated": true
+}

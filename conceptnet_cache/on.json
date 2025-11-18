@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1758248170.5281792,
+  "edges": [
+    {
+      "target": "along",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/on/r/wn/,/c/en/along/r/wn/]"
+    },
+    {
+      "target": "connected",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/on/a/wn/,/c/en/connected/a/wn/]"
+    },
+    {
+      "target": "above",
+      "relationship": "RelatedTo",
+      "weight": 1.1840000000000002,
+      "uri": "/a/[/r/RelatedTo/,/c/en/on/,/c/en/above/]"
+    },
+    {
+      "target": "hard+on+someone's+heels-p#Component-2",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/on/,/http://wordnet-rdf.princeton.edu/wn31/hard+on+someone's+heels-p#Component-2/]"
+    },
+    {
+      "target": "interferon",
+      "relationship": "HasContext",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasContext/,/c/en/on/,/c/en/interferon/]"
+    },
+    {
+      "target": "encendido",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/on/a/wikt/en_1/,/c/es/encendido/]"
+    },
+    {
+      "target": "special:prefixindex on",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/on/,/c/en/special:prefixindex_on/]"
+    },
+    {
+      "target": "money+doesn`t+grow+on+trees-p#Component-4",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/on/,/http://wordnet-rdf.princeton.edu/wn31/money+doesn`t+grow+on+trees-p#Component-4/]"
+    },
+    {
+      "target": "something+on+a+pedestal-p#Component-3",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/on/,/http://wordnet-rdf.princeton.edu/wn31/put+somebody/something+on+a+pedestal-p#Component-3/]"
+    },
+    {
+      "target": "genetics",
+      "relationship": "HasContext",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasContext/,/c/en/on/,/c/en/genetics/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "SimilarTo",
+    "RelatedTo",
+    "ExternalURL",
+    "HasContext"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "on",
+  "single_word_validated": true
+}

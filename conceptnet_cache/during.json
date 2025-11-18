@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1761277994.9141982,
+  "edges": [
+    {
+      "target": "w\u00e4hrend",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/during/,/c/de/w\u00e4hrend/]"
+    },
+    {
+      "target": "pendant",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/during/,/c/fr/pendant/]"
+    },
+    {
+      "target": "dur\u00e0nt",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/during/,/c/nrf/dur\u00e0nt/]"
+    },
+    {
+      "target": "while",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/during/,/c/en/while/]"
+    },
+    {
+      "target": "under hela",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/during/,/c/sv/under_hela/]"
+    },
+    {
+      "target": "tins di",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/during/,/c/wa/tins_di/]"
+    },
+    {
+      "target": "\u1005\u1009\u103a",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/during/,/c/my/\u1005\u1009\u103a/]"
+    },
+    {
+      "target": "dure",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/during/v/,/c/en/dure/]"
+    },
+    {
+      "target": "unter",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/during/,/c/de/unter/]"
+    },
+    {
+      "target": "\u1780\u17b6\u179b",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/during/,/c/km/\u1780\u17b6\u179b/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "RelatedTo",
+    "FormOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "during",
+  "single_word_validated": true
+}

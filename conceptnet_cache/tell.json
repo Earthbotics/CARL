@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1757795396.6759071,
+  "edges": [
+    {
+      "target": "assure",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/tell/v/wn/communication/,/c/en/assure/v/wn/communication/]"
+    },
+    {
+      "target": "state",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/tell/v/wn/communication/,/c/en/state/v/wn/communication/]"
+    },
+    {
+      "target": "inform",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/tell/v/wn/communication/,/c/en/inform/v/wn/communication/]"
+    },
+    {
+      "target": "order",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/tell/v/wn/communication/,/c/en/order/v/wn/communication/]"
+    },
+    {
+      "target": "distinguish",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/tell/v/wn/cognition/,/c/en/distinguish/v/wn/cognition/]"
+    },
+    {
+      "target": "William Tell",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/tell/n/wn/person/,/c/en/william_tell/n/wn/person/]"
+    },
+    {
+      "target": "guess",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/tell/v/wn/cognition/,/c/en/guess/v/wn/cognition/]"
+    },
+    {
+      "target": "poker",
+      "relationship": "HasContext",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasContext/,/c/en/tell/n/,/c/fr/poker/]"
+    },
+    {
+      "target": "expository",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/tell/v/wikt/en_1/,/c/en/expository/]"
+    },
+    {
+      "target": "narrate",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/tell/v/wikt/en_1/,/c/en/narrate/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "MannerOf",
+    "HasContext",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "tell",
+  "single_word_validated": true
+}

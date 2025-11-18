@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1757720616.2562478,
+  "edges": [
+    {
+      "target": "describing something",
+      "relationship": "UsedFor",
+      "weight": 4.0,
+      "uri": "/a/[/r/UsedFor/,/c/en/attribute/,/c/en/describing/]"
+    },
+    {
+      "target": "impute",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/attribute/v/wn/cognition/,/c/en/impute/v/wn/cognition/]"
+    },
+    {
+      "target": "svojstvo",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/attribute/n/,/c/sh/svojstvo/]"
+    },
+    {
+      "target": "assign",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/attribute/v/wn/cognition/,/c/en/assign/v/wn/cognition/]"
+    },
+    {
+      "target": "property",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/attribute/n/wn/cognition/,/c/en/property/n/wn/cognition/]"
+    },
+    {
+      "target": "abstraction",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/attribute/n/wn/,/c/en/abstraction/n/wn/]"
+    },
+    {
+      "target": "describe",
+      "relationship": "UsedFor",
+      "weight": 2.0,
+      "uri": "/a/[/r/UsedFor/,/c/en/attribute/,/c/en/describe/]"
+    },
+    {
+      "target": "noun",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/attribute/n/,/c/en/noun/]"
+    },
+    {
+      "target": "ascribe",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/attribute/v/,/c/en/ascribe/]"
+    },
+    {
+      "target": "trajto",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/attribute/n/,/c/eo/trajto/]"
+    }
+  ],
+  "relationships": [
+    "UsedFor",
+    "Synonym",
+    "IsA",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "attribute",
+  "single_word_validated": true
+}

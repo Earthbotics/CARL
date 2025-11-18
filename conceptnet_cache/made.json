@@ -1,0 +1,77 @@
+{
+  "has_data": true,
+  "last_lookup": 1757432420.7949536,
+  "edges": [
+    {
+      "target": "successful",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/made/a/wn/,/c/en/successful/a/wn/]"
+    },
+    {
+      "target": "ready-made",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/made/a/wn/,/c/en/ready_made/a/wn/]"
+    },
+    {
+      "target": "myek",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/made/v/wikt/en_2/,/c/en/myek/]"
+    },
+    {
+      "target": "made+of+money-p#Component-1",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/made/,/http://wordnet-rdf.princeton.edu/wn31/made+of+money-p#Component-1/]"
+    },
+    {
+      "target": "geordie",
+      "relationship": "HasContext",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasContext/,/c/en/made/v/wikt/en_2/,/c/en/geordie/]"
+    },
+    {
+      "target": "301472305-a",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/made/a/wn/,/http://wordnet-rdf.princeton.edu/wn31/301472305-a/]"
+    },
+    {
+      "target": "uk",
+      "relationship": "HasContext",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasContext/,/c/en/made/n/wikt/en_1/,/c/en/uk/]"
+    },
+    {
+      "target": "300676050-s",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/made/a/wn/,/http://wordnet-rdf.princeton.edu/wn31/300676050-s/]"
+    },
+    {
+      "target": "past tense of make",
+      "relationship": "DefinedAs",
+      "weight": 1.0,
+      "uri": "/a/[/r/DefinedAs/,/c/en/made/,/c/en/past_tense_of_make/]"
+    },
+    {
+      "target": "grub",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/made/n/wikt/en_1/,/c/en/grub/]"
+    }
+  ],
+  "relationships": [
+    "SimilarTo",
+    "FormOf",
+    "ExternalURL",
+    "HasContext",
+    "DefinedAs",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "made",
+  "single_word_validated": true
+}

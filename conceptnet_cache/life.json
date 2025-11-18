@@ -1,0 +1,77 @@
+{
+  "has_data": true,
+  "last_lookup": 1757802391.1952744,
+  "edges": [
+    {
+      "target": "finite",
+      "relationship": "HasProperty",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/HasProperty/,/c/en/life/,/c/en/finite/]"
+    },
+    {
+      "target": "living",
+      "relationship": "UsedFor",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/UsedFor/,/c/en/life/,/c/en/living/]"
+    },
+    {
+      "target": "good",
+      "relationship": "HasProperty",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/HasProperty/,/c/en/life/,/c/en/good/]"
+    },
+    {
+      "target": "earth",
+      "relationship": "AtLocation",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/AtLocation/,/c/en/life/,/c/en/earth/]"
+    },
+    {
+      "target": "living",
+      "relationship": "RelatedTo",
+      "weight": 2.208166660376884,
+      "uri": "/a/[/r/RelatedTo/,/c/en/life/,/c/en/living/]"
+    },
+    {
+      "target": "animation",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/life/n/wn/state/,/c/en/animation/n/wn/state/]"
+    },
+    {
+      "target": "existence",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/life/n/,/c/en/existence/]"
+    },
+    {
+      "target": "time period",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/life/n/wn/time/,/c/en/time_period/n/wn/time/]"
+    },
+    {
+      "target": "liveliness",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/life/n/wn/attribute/,/c/en/liveliness/n/wn/attribute/]"
+    },
+    {
+      "target": "experience",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/life/n/wn/cognition/,/c/en/experience/n/wn/cognition/]"
+    }
+  ],
+  "relationships": [
+    "HasProperty",
+    "UsedFor",
+    "AtLocation",
+    "RelatedTo",
+    "Synonym",
+    "IsA"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "life",
+  "single_word_validated": true
+}

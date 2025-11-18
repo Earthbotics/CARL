@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1756144294.8340049,
+  "edges": [
+    {
+      "target": "eyepatch",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/patch/n/wn/artifact/,/c/en/eyepatch/n/wn/artifact/]"
+    },
+    {
+      "target": "piece of cloth",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/patch/n/wn/artifact/,/c/en/piece_of_cloth/n/wn/artifact/]"
+    },
+    {
+      "target": "while",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/patch/n/wn/time/,/c/en/while/n/wn/time/]"
+    },
+    {
+      "target": "supply",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/patch/v/wn/possession/,/c/en/supply/v/wn/possession/]"
+    },
+    {
+      "target": "repair",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/patch/v/wn/change/,/c/en/repair/v/wn/change/]"
+    },
+    {
+      "target": "piece",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/patch/v/wn/change/,/c/en/piece/v/wn/change/]"
+    },
+    {
+      "target": "join",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/patch/v/wn/contact/,/c/en/join/v/wn/contact/]"
+    },
+    {
+      "target": "spot",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/patch/n/wn/attribute/,/c/en/spot/n/wn/attribute/]"
+    },
+    {
+      "target": "temporary hookup",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/patch/n/wn/artifact/,/c/en/temporary_hookup/n/wn/artifact/]"
+    },
+    {
+      "target": "program",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/patch/n/wn/communication/,/c/en/program/n/wn/computer_science/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "IsA",
+    "MannerOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "patch",
+  "single_word_validated": true
+}

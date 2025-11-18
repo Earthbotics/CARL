@@ -1,0 +1,77 @@
+{
+  "has_data": true,
+  "last_lookup": 1761278273.5360553,
+  "edges": [
+    {
+      "target": "closet",
+      "relationship": "AtLocation",
+      "weight": 7.745966692414834,
+      "uri": "/a/[/r/AtLocation/,/c/en/shirt/,/c/en/closet/]"
+    },
+    {
+      "target": "an item of clothing",
+      "relationship": "IsA",
+      "weight": 4.0,
+      "uri": "/a/[/r/IsA/,/c/en/shirt/,/c/en/item_of_clothing/]"
+    },
+    {
+      "target": "worn on your upper body",
+      "relationship": "ReceivesAction",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/ReceivesAction/,/c/en/shirt/,/c/en/worn_on_upper_body/]"
+    },
+    {
+      "target": "wearing",
+      "relationship": "UsedFor",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/UsedFor/,/c/en/shirt/,/c/en/wearing/]"
+    },
+    {
+      "target": "garment",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/shirt/n/wn/artifact/,/c/en/garment/n/wn/artifact/]"
+    },
+    {
+      "target": "ko\u0161ulja",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/shirt/n/wikt/en_1/,/c/sh/ko\u0161ulja/]"
+    },
+    {
+      "target": "an outfit",
+      "relationship": "PartOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/PartOf/,/c/en/shirt/,/c/en/outfit/]"
+    },
+    {
+      "target": "majica",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/shirt/n/wikt/en_1/,/c/sh/majica/]"
+    },
+    {
+      "target": "cover your torso",
+      "relationship": "UsedFor",
+      "weight": 2.0,
+      "uri": "/a/[/r/UsedFor/,/c/en/shirt/,/c/en/cover_torso/]"
+    },
+    {
+      "target": "a suitcase",
+      "relationship": "AtLocation",
+      "weight": 2.0,
+      "uri": "/a/[/r/AtLocation/,/c/en/shirt/,/c/en/suitcase/]"
+    }
+  ],
+  "relationships": [
+    "AtLocation",
+    "IsA",
+    "ReceivesAction",
+    "UsedFor",
+    "Synonym",
+    "PartOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "shirt",
+  "single_word_validated": true
+}

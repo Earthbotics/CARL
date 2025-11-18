@@ -1,0 +1,72 @@
+{
+  "has_data": true,
+  "last_lookup": 1757730224.6637352,
+  "edges": [
+    {
+      "target": "taj",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/this/,/c/sh/taj/]"
+    },
+    {
+      "target": "esta",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/this/,/c/pt/esta/]"
+    },
+    {
+      "target": "so",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/this/,/c/sga/so/]"
+    },
+    {
+      "target": "\u0161is",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/this/,/c/lv/\u0161is/]"
+    },
+    {
+      "target": "hic",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/this/,/c/la/hic/]"
+    },
+    {
+      "target": "\u0647\u0630\u0627\u0646",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/this/,/c/ar/\u0647\u0630\u0627\u0646/]"
+    },
+    {
+      "target": "\u0161is",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/this/,/c/lt/\u0161is/]"
+    },
+    {
+      "target": "toto",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/this/,/c/sk/toto/]"
+    },
+    {
+      "target": "\u0c87\u0cb5\u0ca8\u0cc1",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/this/,/c/kn/\u0c87\u0cb5\u0ca8\u0cc1/]"
+    },
+    {
+      "target": "este",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/this/,/c/ca/este/]"
+    }
+  ],
+  "relationships": [
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "this",
+  "single_word_validated": true
+}

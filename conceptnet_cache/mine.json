@@ -1,0 +1,80 @@
+{
+  "has_data": true,
+  "last_lookup": 1759722494.593605,
+  "edges": [
+    {
+      "target": "a weapon",
+      "relationship": "IsA",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/IsA/,/c/en/mine/,/c/en/weapon/]"
+    },
+    {
+      "target": "coal",
+      "relationship": "RelatedTo",
+      "weight": 2.2036333633342906,
+      "uri": "/a/[/r/RelatedTo/,/c/en/mine/,/c/en/coal/]"
+    },
+    {
+      "target": "colliery",
+      "relationship": "PartOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/PartOf/,/c/en/mine/n/wn/artifact/,/c/en/colliery/n/wn/artifact/]"
+    },
+    {
+      "target": "dig",
+      "relationship": "Entails",
+      "weight": 2.0,
+      "uri": "/a/[/r/Entails/,/c/en/mine/v/wn/mining/,/c/en/dig/v/wn/contact/]"
+    },
+    {
+      "target": "exploit",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/mine/v/wn/mining/,/c/en/exploit/v/wn/consumption/]"
+    },
+    {
+      "target": "detonate",
+      "relationship": "UsedFor",
+      "weight": 2.0,
+      "uri": "/a/[/r/UsedFor/,/c/en/mine/n/wn/artifact/,/c/en/detonate/v/wn/change/]"
+    },
+    {
+      "target": "reinforce",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/mine/v/wn/competition/,/c/en/reinforce/v/wn/change/]"
+    },
+    {
+      "target": "moj",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/mine/n/wikt/en_1/,/c/sh/moj/]"
+    },
+    {
+      "target": "contact",
+      "relationship": "Causes",
+      "weight": 2.0,
+      "uri": "/a/[/r/Causes/,/c/en/mine/n/wn/artifact/,/c/en/contact/n/wn/act/]"
+    },
+    {
+      "target": "mining",
+      "relationship": "HasContext",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasContext/,/c/en/mine/v/wn/mining/,/c/en/mining/n/wn/act/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "RelatedTo",
+    "PartOf",
+    "Entails",
+    "MannerOf",
+    "UsedFor",
+    "Synonym",
+    "Causes",
+    "HasContext"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "mine",
+  "single_word_validated": true
+}

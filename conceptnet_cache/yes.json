@@ -1,0 +1,73 @@
+{
+  "has_data": true,
+  "last_lookup": 1755918313.2082763,
+  "edges": [
+    {
+      "target": "affirmative",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/yes/n/wn/communication/,/c/en/affirmative/n/wn/communication/]"
+    },
+    {
+      "target": "da",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/yes/,/c/sh/da/]"
+    },
+    {
+      "target": "\u0cb9\u0ccc\u0ca6\u0cc1",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/yes/,/c/kn/\u0cb9\u0ccc\u0ca6\u0cc1/]"
+    },
+    {
+      "target": "ja",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/yes/,/c/osx/ja/]"
+    },
+    {
+      "target": "\u0434\u0430",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/yes/,/c/mk/\u0434\u0430/]"
+    },
+    {
+      "target": "eine",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/yes/,/c/nap/eine/]"
+    },
+    {
+      "target": "\u0b86\u0bae\u0bbe\u0bae\u0bcd",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/yes/,/c/ta/\u0b86\u0bae\u0bbe\u0bae\u0bcd/]"
+    },
+    {
+      "target": "\u3048\u3048",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/yes/,/c/ja/\u3048\u3048/]"
+    },
+    {
+      "target": "ha",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/yes/,/c/uz/ha/]"
+    },
+    {
+      "target": "\u554a",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/yes/,/c/zh/\u554a/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "yes",
+  "single_word_validated": true
+}

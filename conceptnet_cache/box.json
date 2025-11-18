@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1758152791.4471061,
+  "edges": [
+    {
+      "target": "container",
+      "relationship": "RelatedTo",
+      "weight": 8.450798778813752,
+      "uri": "/a/[/r/RelatedTo/,/c/en/box/,/c/en/container/]"
+    },
+    {
+      "target": "a container",
+      "relationship": "IsA",
+      "weight": 6.6332495807108,
+      "uri": "/a/[/r/IsA/,/c/en/box/,/c/en/container/]"
+    },
+    {
+      "target": "cardboard",
+      "relationship": "RelatedTo",
+      "weight": 6.573887738621643,
+      "uri": "/a/[/r/RelatedTo/,/c/en/box/,/c/en/cardboard/]"
+    },
+    {
+      "target": "cube",
+      "relationship": "RelatedTo",
+      "weight": 6.225752966509351,
+      "uri": "/a/[/r/RelatedTo/,/c/en/box/,/c/en/cube/]"
+    },
+    {
+      "target": "square",
+      "relationship": "RelatedTo",
+      "weight": 5.256614880319843,
+      "uri": "/a/[/r/RelatedTo/,/c/en/box/,/c/en/square/]"
+    },
+    {
+      "target": "any garage",
+      "relationship": "AtLocation",
+      "weight": 4.47213595499958,
+      "uri": "/a/[/r/AtLocation/,/c/en/box/,/c/en/garage/]"
+    },
+    {
+      "target": "storing something in",
+      "relationship": "UsedFor",
+      "weight": 4.0,
+      "uri": "/a/[/r/UsedFor/,/c/en/box/,/c/en/storing_in/]"
+    },
+    {
+      "target": "a closet",
+      "relationship": "AtLocation",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/AtLocation/,/c/en/box/,/c/en/closet/]"
+    },
+    {
+      "target": "a post office",
+      "relationship": "AtLocation",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/AtLocation/,/c/en/box/,/c/en/post_office/]"
+    },
+    {
+      "target": "sides",
+      "relationship": "RelatedTo",
+      "weight": 3.2533060108142298,
+      "uri": "/a/[/r/RelatedTo/,/c/en/box/,/c/en/sides/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "IsA",
+    "AtLocation",
+    "UsedFor"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "box",
+  "single_word_validated": true
+}

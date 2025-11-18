@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1754710716.5866773,
+  "edges": [
+    {
+      "target": "roll over",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/somersault/v/wn/motion/,/c/en/roll_over/v/wn/motion/]"
+    },
+    {
+      "target": "tumble",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/somersault/n/wn/act/,/c/en/tumble/n/wn/act/]"
+    },
+    {
+      "target": "flip",
+      "relationship": "RelatedTo",
+      "weight": 1.508,
+      "uri": "/a/[/r/RelatedTo/,/c/en/somersault/,/c/en/flip/]"
+    },
+    {
+      "target": "tumb\u00e3",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/somersault/n/,/c/rup/tumb\u00e3/]"
+    },
+    {
+      "target": "salto",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/somersault/n/,/c/no/salto/]"
+    },
+    {
+      "target": "kotrmelec",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/somersault/n/,/c/cs/kotrmelec/]"
+    },
+    {
+      "target": "saltomortale",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/somersault/n/,/c/da/saltomortale/]"
+    },
+    {
+      "target": "airborne",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/somersault/n/,/c/en/airborne/]"
+    },
+    {
+      "target": "salto",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/somersault/n/,/c/fr/salto/]"
+    },
+    {
+      "target": "\u00b0",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/somersault/n/,/c/en/\u00b0/]"
+    }
+  ],
+  "relationships": [
+    "MannerOf",
+    "IsA",
+    "RelatedTo",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "somersault",
+  "single_word_validated": true
+}

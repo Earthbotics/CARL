@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1756251594.2791808,
+  "edges": [
+    {
+      "target": "promethium",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/pm/n/wn/substance/,/c/en/promethium/n/wn/substance/]"
+    },
+    {
+      "target": "phase modulation",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/pm/n/wn/communication/,/c/en/phase_modulation/n/wn/communication/]"
+    },
+    {
+      "target": "head of state",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/pm/n/wn/person/,/c/en/head_of_state/n/wn/person/]"
+    },
+    {
+      "target": "autopsy",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/pm/n/wn/act/,/c/en/autopsy/n/wn/act/]"
+    },
+    {
+      "target": "p.m",
+      "relationship": "FormOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/FormOf/,/c/en/pm/,/c/en/p.m/r/]"
+    },
+    {
+      "target": "post mortem",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/pm/n/,/c/en/post_mortem/]"
+    },
+    {
+      "target": "pm",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/pm/n/,/c/es/pm/]"
+    },
+    {
+      "target": "project management",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/pm/n/,/c/en/project_management/]"
+    },
+    {
+      "target": "project manage",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/pm/v/,/c/en/project_manage/]"
+    },
+    {
+      "target": "electronics",
+      "relationship": "HasContext",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasContext/,/c/en/pm/n/,/c/en/electronics/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "IsA",
+    "FormOf",
+    "RelatedTo",
+    "HasContext"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "pm",
+  "single_word_validated": true
+}

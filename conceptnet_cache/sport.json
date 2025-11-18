@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1755366797.5494285,
+  "edges": [
+    {
+      "target": "game",
+      "relationship": "IsA",
+      "weight": 4.0,
+      "uri": "/a/[/r/IsA/,/c/en/sport/,/c/en/game/]"
+    },
+    {
+      "target": "athlete",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/sport/n/wn/person/,/c/en/athlete/n/wn/person/]"
+    },
+    {
+      "target": "sport",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/sport/n/,/c/sh/sport/]"
+    },
+    {
+      "target": "have",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/sport/v/wn/stative/,/c/en/have/v/wn/stative/]"
+    },
+    {
+      "target": "frolic",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/sport/v/wn/motion/,/c/en/frolic/v/wn/motion/]"
+    },
+    {
+      "target": "fun",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/sport/n/wn/communication/,/c/en/fun/n/wn/communication/]"
+    },
+    {
+      "target": "diversion",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/sport/n/wn/act/,/c/en/diversion/n/wn/act/]"
+    },
+    {
+      "target": "playing",
+      "relationship": "UsedFor",
+      "weight": 2.0,
+      "uri": "/a/[/r/UsedFor/,/c/en/sport/,/c/en/playing/]"
+    },
+    {
+      "target": "mutant",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/sport/n/wn/biology/,/c/en/mutant/n/wn/biology/]"
+    },
+    {
+      "target": "\u0161port",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/sport/n/,/c/sh/\u0161port/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "Synonym",
+    "MannerOf",
+    "UsedFor"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "sport",
+  "single_word_validated": true
+}

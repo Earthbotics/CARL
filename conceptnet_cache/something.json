@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1755316522.1912906,
+  "edges": [
+    {
+      "target": "ne\u0161to",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/something/n/,/c/sh/ne\u0161to/]"
+    },
+    {
+      "target": "somthing",
+      "relationship": "EtymologicallyDerivedFrom",
+      "weight": 1.0,
+      "uri": "/a/[/r/EtymologicallyDerivedFrom/,/c/en/something/,/c/enm/somthing/]"
+    },
+    {
+      "target": "\u06a9\u0686\u06be",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/something/n/,/c/ur/\u06a9\u0686\u06be/]"
+    },
+    {
+      "target": "\u10e0\u10d0\u10e6\u10d0\u10ea",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/something/n/,/c/ka/\u10e0\u10d0\u10e6\u10d0\u10ea/]"
+    },
+    {
+      "target": "\u0995\u09bf\u099b\u09c1 \u098f\u0995\u099f\u09be",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/something/n/,/c/bn/\u0995\u09bf\u099b\u09c1_\u098f\u0995\u099f\u09be/]"
+    },
+    {
+      "target": "iets",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/something/n/,/c/nl/iets/]"
+    },
+    {
+      "target": "daqu\u00e9",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/something/n/,/c/ast/daqu\u00e9/]"
+    },
+    {
+      "target": "somewhere",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/something/n/,/c/en/somewhere/]"
+    },
+    {
+      "target": "\u043f\u0456\u0440 \u043d\u0438\u043c\u0435",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/something/n/,/c/kjh/\u043f\u0456\u0440_\u043d\u0438\u043c\u0435/]"
+    },
+    {
+      "target": "get+your+head+around+something-p#Component-5",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/something/,/http://wordnet-rdf.princeton.edu/wn31/get+your+head+around+something-p#Component-5/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "EtymologicallyDerivedFrom",
+    "RelatedTo",
+    "ExternalURL"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "something",
+  "single_word_validated": true
+}

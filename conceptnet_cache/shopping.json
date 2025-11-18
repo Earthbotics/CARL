@@ -1,0 +1,77 @@
+{
+  "has_data": true,
+  "last_lookup": 1760284896.9977908,
+  "edges": [
+    {
+      "target": "spending your money",
+      "relationship": "Causes",
+      "weight": 4.0,
+      "uri": "/a/[/r/Causes/,/c/en/shopping/,/c/en/spending_money/]"
+    },
+    {
+      "target": "having money",
+      "relationship": "HasPrerequisite",
+      "weight": 4.0,
+      "uri": "/a/[/r/HasPrerequisite/,/c/en/shopping/,/c/en/having_money/]"
+    },
+    {
+      "target": "buying things",
+      "relationship": "UsedFor",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/UsedFor/,/c/en/shopping/,/c/en/buying_things/]"
+    },
+    {
+      "target": "buying goods",
+      "relationship": "UsedFor",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/UsedFor/,/c/en/shopping/,/c/en/buying_goods/]"
+    },
+    {
+      "target": "less money",
+      "relationship": "Causes",
+      "weight": 2.0,
+      "uri": "/a/[/r/Causes/,/c/en/shopping/,/c/en/less_money/]"
+    },
+    {
+      "target": "purchasing",
+      "relationship": "HasSubevent",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasSubevent/,/c/en/shopping/,/c/en/purchasing/]"
+    },
+    {
+      "target": "compare cost per unit",
+      "relationship": "HasSubevent",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasSubevent/,/c/en/shopping/,/c/en/compare_cost_per_unit/]"
+    },
+    {
+      "target": "courses",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/shopping/n/,/c/fr/courses/]"
+    },
+    {
+      "target": "spend money",
+      "relationship": "CausesDesire",
+      "weight": 2.0,
+      "uri": "/a/[/r/CausesDesire/,/c/en/shopping/,/c/en/spend_money/]"
+    },
+    {
+      "target": "compare prices",
+      "relationship": "HasSubevent",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasSubevent/,/c/en/shopping/,/c/en/compare_prices/]"
+    }
+  ],
+  "relationships": [
+    "Causes",
+    "HasPrerequisite",
+    "UsedFor",
+    "HasSubevent",
+    "Synonym",
+    "CausesDesire"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "shopping",
+  "single_word_validated": true
+}

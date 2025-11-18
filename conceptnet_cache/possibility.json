@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1757082823.3472342,
+  "edges": [
+    {
+      "target": "being",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/possibility/n/wn/state/,/c/en/being/n/wn/state/]"
+    },
+    {
+      "target": "hypothesis",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/possibility/n/wn/cognition/,/c/en/hypothesis/n/wn/cognition/]"
+    },
+    {
+      "target": "expectation",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/possibility/n/wn/cognition/,/c/en/expectation/n/wn/cognition/]"
+    },
+    {
+      "target": "option",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/possibility/n/wn/cognition/,/c/en/option/n/wn/cognition/]"
+    },
+    {
+      "target": "mund\u00ebsi",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/possibility/n/,/c/sq/mund\u00ebsi/]"
+    },
+    {
+      "target": "potency",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/possibility/n/,/c/en/potency/]"
+    },
+    {
+      "target": "\u03b4\u03c5\u03bd\u03b1\u03c4\u03bf\u03c4\u03b7\u03c4\u03b1",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/possibility/n/,/c/el/\u03b4\u03c5\u03bd\u03b1\u03c4\u03bf\u03c4\u03b7\u03c4\u03b1/]"
+    },
+    {
+      "target": "\u064a\u0649\u0645\u0643\u0627\u0646\u0649\u064a\u06d5\u062a",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/possibility/n/,/c/ug/\u064a\u0649\u0645\u0643\u0627\u0646\u0649\u064a\u06d5\u062a/]"
+    },
+    {
+      "target": "uweza",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/possibility/n/,/c/sw/uweza/]"
+    },
+    {
+      "target": "concept",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/possibility/,/c/en/concept/n/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "Synonym",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "possibility",
+  "single_word_validated": true
+}

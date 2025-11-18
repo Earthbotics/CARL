@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1757730495.7607539,
+  "edges": [
+    {
+      "target": "father",
+      "relationship": "RelatedTo",
+      "weight": 6.126989472816156,
+      "uri": "/a/[/r/RelatedTo/,/c/en/dad/,/c/en/father/]"
+    },
+    {
+      "target": "parent",
+      "relationship": "RelatedTo",
+      "weight": 4.925038070918843,
+      "uri": "/a/[/r/RelatedTo/,/c/en/dad/,/c/en/parent/]"
+    },
+    {
+      "target": "male",
+      "relationship": "RelatedTo",
+      "weight": 3.4152598729818493,
+      "uri": "/a/[/r/RelatedTo/,/c/en/dad/,/c/en/male/]"
+    },
+    {
+      "target": "mom",
+      "relationship": "RelatedTo",
+      "weight": 2.6107470195329157,
+      "uri": "/a/[/r/RelatedTo/,/c/en/dad/,/c/en/mom/]"
+    },
+    {
+      "target": "mom",
+      "relationship": "DistinctFrom",
+      "weight": 2.602306669091865,
+      "uri": "/a/[/r/DistinctFrom/,/c/en/dad/,/c/en/mom/]"
+    },
+    {
+      "target": "father",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/dad/n/wn/person/,/c/en/father/n/wn/person/]"
+    },
+    {
+      "target": "tata",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/dad/n/wikt/en_1/,/c/sh/tata/]"
+    },
+    {
+      "target": "man",
+      "relationship": "RelatedTo",
+      "weight": 1.9560000000000004,
+      "uri": "/a/[/r/RelatedTo/,/c/en/dad/,/c/en/man/]"
+    },
+    {
+      "target": "mom",
+      "relationship": "Antonym",
+      "weight": 1.9340000000000002,
+      "uri": "/a/[/r/Antonym/,/c/en/dad/,/c/en/mom/]"
+    },
+    {
+      "target": "male parent",
+      "relationship": "RelatedTo",
+      "weight": 1.621,
+      "uri": "/a/[/r/RelatedTo/,/c/en/dad/,/c/en/male_parent/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "DistinctFrom",
+    "IsA",
+    "Synonym",
+    "Antonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "dad",
+  "single_word_validated": true
+}

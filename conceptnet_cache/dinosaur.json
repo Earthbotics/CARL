@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1760284605.5110352,
+  "edges": [
+    {
+      "target": "archosaur",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/dinosaur/n/wn/animal/,/c/en/archosaur/n/wn/animal/]"
+    },
+    {
+      "target": "dinosaur",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/dinosaur/n/,/c/sh/dinosaur/]"
+    },
+    {
+      "target": "dinosaurus",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/dinosaur/n/,/c/sh/dinosaurus/]"
+    },
+    {
+      "target": "dinossauro",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/dinosaur/n/,/c/pt/dinossauro/]"
+    },
+    {
+      "target": "dinosaurus",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/dinosaur/n/,/c/de/dinosaurus/]"
+    },
+    {
+      "target": "hirmulisko",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/dinosaur/n/,/c/fi/hirmulisko/]"
+    },
+    {
+      "target": "dinosaurus",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/dinosaur/n/,/c/sk/dinosaurus/]"
+    },
+    {
+      "target": "dinosaurus",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/dinosaur/n/,/c/et/dinosaurus/]"
+    },
+    {
+      "target": "risae\u00f0la",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/dinosaur/n/,/c/is/risae\u00f0la/]"
+    },
+    {
+      "target": "eat you",
+      "relationship": "CapableOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/CapableOf/,/c/en/dinosaur/,/c/en/eat/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "Synonym",
+    "CapableOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "dinosaur",
+  "single_word_validated": true
+}

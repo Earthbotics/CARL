@@ -1,0 +1,73 @@
+{
+  "has_data": true,
+  "last_lookup": 1754011170.102992,
+  "edges": [
+    {
+      "target": "bloke",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/dude/n/,/c/en/bloke/]"
+    },
+    {
+      "target": "dandy",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/dude/n/wn/person/,/c/en/dandy/n/wn/person/]"
+    },
+    {
+      "target": "fop",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/dude/n/,/c/en/fop/]"
+    },
+    {
+      "target": "fellow",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/dude/n/wn/person/,/c/en/fellow/n/wn/person/]"
+    },
+    {
+      "target": "mate",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/dude/n/,/c/en/mate/]"
+    },
+    {
+      "target": "plako",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/dude/n/,/c/sq/plako/]"
+    },
+    {
+      "target": "kole\u015b",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/dude/n/,/c/pl/kole\u015b/]"
+    },
+    {
+      "target": "fyr",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/dude/n/,/c/da/fyr/]"
+    },
+    {
+      "target": "dandy",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/dude/n/,/c/en/dandy/]"
+    },
+    {
+      "target": "cowboy",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/dude/n/,/c/fr/cowboy/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "dude",
+  "single_word_validated": true
+}

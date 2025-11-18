@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1757528138.1498017,
+  "edges": [
+    {
+      "target": "twitch",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/tic/n/wn/state/,/c/en/twitch/n/wn/state/]"
+    },
+    {
+      "target": "zucken",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/tic/n/,/c/de/zucken/]"
+    },
+    {
+      "target": "\u043f\u043e\u0434\u0451\u0440\u0433\u0438\u0432\u0430\u043d\u0438\u0435",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/tic/n/,/c/ru/\u043f\u043e\u0434\u0451\u0440\u0433\u0438\u0432\u0430\u043d\u0438\u0435/]"
+    },
+    {
+      "target": "\u043d\u0435\u0440\u0432\u043d\u044b\u0439 \u0442\u0438\u043a",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/tic/n/,/c/ru/\u043d\u0435\u0440\u0432\u043d\u044b\u0439_\u0442\u0438\u043a/]"
+    },
+    {
+      "target": "tic",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/tic/n/,/c/ca/tic/]"
+    },
+    {
+      "target": "habitual",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/tic/n/,/c/en/habitual/]"
+    },
+    {
+      "target": "law",
+      "relationship": "HasContext",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasContext/,/c/en/tic/n/,/c/en/law/]"
+    },
+    {
+      "target": "114385377-n",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/tic/n/wn/state/,/http://wordnet-rdf.princeton.edu/wn31/114385377-n/]"
+    },
+    {
+      "target": "finance",
+      "relationship": "HasContext",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasContext/,/c/en/tic/n/,/c/en/finance/]"
+    },
+    {
+      "target": "\u0442\u0438\u043a",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/tic/n/,/c/ru/\u0442\u0438\u043a/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "Synonym",
+    "RelatedTo",
+    "HasContext",
+    "ExternalURL"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "tic",
+  "single_word_validated": true
+}

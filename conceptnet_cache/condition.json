@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1757730806.2327063,
+  "edges": [
+    {
+      "target": "state",
+      "relationship": "RelatedTo",
+      "weight": 3.51965907439911,
+      "uri": "/a/[/r/RelatedTo/,/c/en/condition/,/c/en/state/]"
+    },
+    {
+      "target": "shampoo",
+      "relationship": "RelatedTo",
+      "weight": 2.040588150509553,
+      "uri": "/a/[/r/RelatedTo/,/c/en/condition/,/c/en/shampoo/]"
+    },
+    {
+      "target": "uvet",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/condition/n/,/c/sh/uvet/]"
+    },
+    {
+      "target": "shampoo",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/condition/v/wn/body/,/c/en/shampoo/v/wn/body/]"
+    },
+    {
+      "target": "circumstance",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/condition/n/wn/cognition/,/c/en/circumstance/n/wn/cognition/]"
+    },
+    {
+      "target": "procedure",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/condition/n/wn/cognition/,/c/en/procedure/n/wn/act/]"
+    },
+    {
+      "target": "stipulate",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/condition/v/wn/communication/,/c/en/stipulate/v/wn/communication/]"
+    },
+    {
+      "target": "teach",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/condition/v/wn/social/,/c/en/teach/v/wn/communication/]"
+    },
+    {
+      "target": "uvjet",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/condition/n/,/c/sh/uvjet/]"
+    },
+    {
+      "target": "illness",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/condition/n/wn/state/,/c/en/illness/n/wn/state/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "Synonym",
+    "MannerOf",
+    "IsA"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "condition",
+  "single_word_validated": true
+}

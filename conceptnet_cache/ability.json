@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1756251810.6071928,
+  "edges": [
+    {
+      "target": "sposobnost",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/ability/n/,/c/sh/sposobnost/]"
+    },
+    {
+      "target": "able",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/ability/n/,/c/en/able/]"
+    },
+    {
+      "target": "abilit\u00e0",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/ability/n/,/c/it/abilit\u00e0/]"
+    },
+    {
+      "target": "skill",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/ability/n/,/c/en/skill/]"
+    },
+    {
+      "target": "quality",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/ability/n/wn/attribute/,/c/en/quality/n/wn/attribute/]"
+    },
+    {
+      "target": "inability",
+      "relationship": "Antonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Antonym/,/c/en/ability/n/,/c/en/inability/]"
+    },
+    {
+      "target": "cognition",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/ability/n/wn/cognition/,/c/en/cognition/n/wn/]"
+    },
+    {
+      "target": "able",
+      "relationship": "RelatedTo",
+      "weight": 1.37,
+      "uri": "/a/[/r/RelatedTo/,/c/en/ability/,/c/en/able/]"
+    },
+    {
+      "target": "kebolehan",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/ability/n/,/c/ms/kebolehan/]"
+    },
+    {
+      "target": "atiy",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/ability/n/,/c/qu/atiy/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "RelatedTo",
+    "IsA",
+    "Antonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "ability",
+  "single_word_validated": true
+}

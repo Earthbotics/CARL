@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1757294567.0680041,
+  "edges": [
+    {
+      "target": "demeanor",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/behavior/n/wn/attribute/,/c/en/demeanor/n/wn/attribute/]"
+    },
+    {
+      "target": "psychology",
+      "relationship": "HasContext",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasContext/,/c/en/behavior/n/wn/psychology/,/c/en/psychology/n/wn/cognition/]"
+    },
+    {
+      "target": "activity",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/behavior/n/wn/psychology/,/c/en/activity/n/wn/act/]"
+    },
+    {
+      "target": "activity",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/behavior/n/wn/act/,/c/en/activity/n/wn/act/]"
+    },
+    {
+      "target": "pona\u0161anje",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/behavior/n/,/c/sh/pona\u0161anje/]"
+    },
+    {
+      "target": "action",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/behavior/n/wn/state/,/c/en/action/n/wn/state/]"
+    },
+    {
+      "target": "behave",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/behavior/n/,/c/en/behave/]"
+    },
+    {
+      "target": "\u0e1e\u0e24\u0e15\u0e34\u0e01\u0e23\u0e23\u0e21",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/behavior/n/,/c/th/\u0e1e\u0e24\u0e15\u0e34\u0e01\u0e23\u0e23\u0e21/]"
+    },
+    {
+      "target": "\u0e1b\u0e23\u0e30\u0e1e\u0e24\u0e15\u0e34",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/behavior/n/,/c/th/\u0e1b\u0e23\u0e30\u0e1e\u0e24\u0e15\u0e34/]"
+    },
+    {
+      "target": "Behavior",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/behavior/,/http://dbpedia.org/resource/Behavior/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "HasContext",
+    "IsA",
+    "RelatedTo",
+    "ExternalURL"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "behavior",
+  "single_word_validated": true
+}

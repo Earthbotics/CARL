@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1755129422.07573,
+  "edges": [
+    {
+      "target": "fast",
+      "relationship": "RelatedTo",
+      "weight": 4.670760109446856,
+      "uri": "/a/[/r/RelatedTo/,/c/en/express/,/c/en/fast/]"
+    },
+    {
+      "target": "train",
+      "relationship": "RelatedTo",
+      "weight": 3.15974682530104,
+      "uri": "/a/[/r/RelatedTo/,/c/en/express/,/c/en/train/]"
+    },
+    {
+      "target": "delivery",
+      "relationship": "RelatedTo",
+      "weight": 3.0893364983439406,
+      "uri": "/a/[/r/RelatedTo/,/c/en/express/,/c/en/delivery/]"
+    },
+    {
+      "target": "izra\u017eavati",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/express/v/wikt/en_2/,/c/sh/izra\u017eavati/]"
+    },
+    {
+      "target": "fast",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/express/a/wn/,/c/en/fast/a/wn/]"
+    },
+    {
+      "target": "izraziti",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/express/v/wikt/en_2/,/c/sh/izraziti/]"
+    },
+    {
+      "target": "mail",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/express/n/wn/communication/,/c/en/mail/n/wn/communication/]"
+    },
+    {
+      "target": "press out",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/express/v/wn/contact/,/c/en/press_out/v/wn/contact/]"
+    },
+    {
+      "target": "mail",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/express/v/wn/communication/,/c/en/mail/v/wn/communication/]"
+    },
+    {
+      "target": "convey",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/express/v/wn/communication/,/c/en/convey/v/wn/communication/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "Synonym",
+    "SimilarTo",
+    "IsA",
+    "MannerOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "express",
+  "single_word_validated": true
+}

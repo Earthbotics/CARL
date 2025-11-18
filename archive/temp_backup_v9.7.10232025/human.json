@@ -1,0 +1,234 @@
+{
+    "word": "human",
+    "type": "thing",
+    "first_seen": "2025-08-23 07:42:48.092824",
+    "last_updated": "2025-08-23 07:42:48.092824",
+    "occurrences": 0,
+    "contexts": [],
+    "emotional_history": [],
+    "conceptnet_data": {
+        "has_data": true,
+        "last_lookup": 1755960210.1672153,
+        "edges": [
+            {
+                "target": "the school",
+                "relationship": "AtLocation",
+                "weight": 7.483314773547882,
+                "uri": "/a/[/r/AtLocation/,/c/en/human/,/c/en/school/]"
+            },
+            {
+                "target": "homes",
+                "relationship": "AtLocation",
+                "weight": 7.211102550927979,
+                "uri": "/a/[/r/AtLocation/,/c/en/human/,/c/en/homes/]"
+            },
+            {
+                "target": "a workplace",
+                "relationship": "AtLocation",
+                "weight": 6.32455532033676,
+                "uri": "/a/[/r/AtLocation/,/c/en/human/,/c/en/workplace/]"
+            },
+            {
+                "target": "five fingers on each hand",
+                "relationship": "HasA",
+                "weight": 5.656854249492381,
+                "uri": "/a/[/r/HasA/,/c/en/human/,/c/en/five_fingers_on_each_hand/]"
+            },
+            {
+                "target": "the library",
+                "relationship": "AtLocation",
+                "weight": 5.291502622129181,
+                "uri": "/a/[/r/AtLocation/,/c/en/human/,/c/en/library/]"
+            },
+            {
+                "target": "love",
+                "relationship": "AtLocation",
+                "weight": 5.291502622129181,
+                "uri": "/a/[/r/AtLocation/,/c/en/human/,/c/en/love/]"
+            },
+            {
+                "target": "a park",
+                "relationship": "AtLocation",
+                "weight": 5.291502622129181,
+                "uri": "/a/[/r/AtLocation/,/c/en/human/,/c/en/park/]"
+            },
+            {
+                "target": "the space shuttle",
+                "relationship": "AtLocation",
+                "weight": 4.898979485566356,
+                "uri": "/a/[/r/AtLocation/,/c/en/human/,/c/en/space_shuttle/]"
+            },
+            {
+                "target": "a church",
+                "relationship": "AtLocation",
+                "weight": 4.898979485566356,
+                "uri": "/a/[/r/AtLocation/,/c/en/human/,/c/en/church/]"
+            },
+            {
+                "target": "jail",
+                "relationship": "AtLocation",
+                "weight": 4.47213595499958,
+                "uri": "/a/[/r/AtLocation/,/c/en/human/,/c/en/jail/]"
+            }
+        ],
+        "relationships": [
+            "AtLocation",
+            "HasA"
+        ],
+        "total_edges_found": 10,
+        "concept_queried": "human",
+        "single_word_validated": true
+    },
+    "related_concepts": [
+        "person",
+        "individual",
+        "being",
+        "consciousness",
+        "social",
+        "communication",
+        "joe",
+        "the school",
+        "homes",
+        "a workplace",
+        "five fingers on each hand",
+        "the library",
+        "love",
+        "a park",
+        "the space shuttle",
+        "a church",
+        "jail"
+    ],
+    "linked_needs": [],
+    "linked_goals": [],
+    "linked_skills": [
+        "talk",
+        "observe",
+        "interact"
+    ],
+    "linked_senses": [],
+    "neucogar_emotional_associations": {
+        "primary": "joy",
+        "sub_emotion": "content",
+        "neuro_coordinates": {
+            "dopamine": 0.7,
+            "serotonin": 0.8,
+            "noradrenaline": 0.3
+        },
+        "intensity": 0.7,
+        "triggers": [
+            "social",
+            "connection",
+            "empathy"
+        ]
+    },
+    "emotional_associations": {
+        "trust": 0.8,
+        "empathy": 0.7,
+        "connection": 0.6
+    },
+    "contextual_usage": [
+        "social interaction",
+        "communication",
+        "relationship",
+        "understanding"
+    ],
+    "semantic_relationships": [
+        "person",
+        "individual",
+        "being",
+        "consciousness"
+    ],
+    "keywords": [
+        "human",
+        "person",
+        "individual",
+        "being"
+    ],
+    "values_alignment": {
+        "value_alignments": {},
+        "belief_alignments": {},
+        "conflicts": [],
+        "overall_alignment": 0.0,
+        "acc_activation": 0.0,
+        "recommendation": "Neutral - minimal alignment or conflict"
+    },
+    "beliefs": [],
+    "Learning_Integration": {
+        "concept_learning_system": {
+            "neurological_basis": {
+                "reward_prediction_error": {
+                    "expected_utility": 0.5,
+                    "prediction_error": 0.0,
+                    "learning_rate": 0.1
+                },
+                "attention_mechanism": {
+                    "salience": 0.5,
+                    "focus_level": 0.5
+                },
+                "memory_consolidation": {
+                    "strength": 0.5,
+                    "retrieval_ease": 0.5
+                }
+            },
+            "concept_learning_system": {
+                "pattern_recognition": {
+                    "feature_extraction": [],
+                    "similarity_threshold": 0.5
+                },
+                "categorization": {
+                    "prototype_formation": {
+                        "primary_features": [],
+                        "secondary_features": []
+                    },
+                    "boundary_adjustment": 0.5
+                },
+                "generalization": {
+                    "transfer_learning": {
+                        "related_activities": []
+                    },
+                    "abstraction_level": 0.5
+                }
+            },
+            "learning_principles": {
+                "information_processing": {
+                    "encoding_depth": 0.5,
+                    "retrieval_practice": {
+                        "spaced_repetition": {
+                            "next_review": "",
+                            "review_interval": 0.5
+                        }
+                    }
+                },
+                "motivational_factors": {
+                    "intrinsic_interest": 0.5,
+                    "extrinsic_rewards": 0.5
+                },
+                "metacognitive_awareness": {
+                    "self_monitoring": 0.5,
+                    "strategy_selection": 0.5
+                }
+            }
+        },
+        "concept_progression": {
+            "current_level": "basic_recognition",
+            "level_progress": 0.0,
+            "mastery_threshold": 0.8,
+            "progression_stages": [
+                "basic_recognition",
+                "contextual_understanding",
+                "flexible_application",
+                "creative_synthesis"
+            ]
+        },
+        "adaptive_learning": {
+            "difficulty_adjustment": {
+                "current_challenge": 0.5,
+                "success_rate": 0.5
+            },
+            "personalization": {
+                "learning_style": "general",
+                "preference_adaptation": 0.5
+            }
+        }
+    }
+}

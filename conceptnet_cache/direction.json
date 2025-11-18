@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1757466502.0117242,
+  "edges": [
+    {
+      "target": "management",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/direction/n/wn/act/,/c/en/management/n/wn/act/]"
+    },
+    {
+      "target": "inclination",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/direction/n/wn/cognition/,/c/en/inclination/n/wn/cognition/]"
+    },
+    {
+      "target": "director",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/direction/n/,/c/en/director/]"
+    },
+    {
+      "target": "smer",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/direction/n/,/c/sh/smer/]"
+    },
+    {
+      "target": "path",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/direction/n/wn/location/,/c/en/path/n/wn/location/]"
+    },
+    {
+      "target": "steering",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/direction/n/wn/act/,/c/en/steering/n/wn/act/]"
+    },
+    {
+      "target": "position",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/direction/n/wn/linkdef/,/c/en/position/n/wn/attribute/]"
+    },
+    {
+      "target": "smjer",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/direction/n/,/c/sh/smjer/]"
+    },
+    {
+      "target": "focus",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/direction/n/wn/cognition/,/c/en/focus/n/wn/cognition/]"
+    },
+    {
+      "target": "message",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/direction/n/wn/communication/,/c/en/message/n/wn/communication/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "IsA",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "direction",
+  "single_word_validated": true
+}

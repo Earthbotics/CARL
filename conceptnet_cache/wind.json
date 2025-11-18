@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1757730806.9892747,
+  "edges": [
+    {
+      "target": "air",
+      "relationship": "RelatedTo",
+      "weight": 6.486293240364638,
+      "uri": "/a/[/r/RelatedTo/,/c/en/wind/,/c/en/air/]"
+    },
+    {
+      "target": "blow to the East",
+      "relationship": "CapableOf",
+      "weight": 4.898979485566356,
+      "uri": "/a/[/r/CapableOf/,/c/en/wind/,/c/en/blow_to_east/]"
+    },
+    {
+      "target": "breeze",
+      "relationship": "RelatedTo",
+      "weight": 4.622986047999713,
+      "uri": "/a/[/r/RelatedTo/,/c/en/wind/,/c/en/breeze/]"
+    },
+    {
+      "target": "moving",
+      "relationship": "RelatedTo",
+      "weight": 3.599444401570887,
+      "uri": "/a/[/r/RelatedTo/,/c/en/wind/,/c/en/moving/]"
+    },
+    {
+      "target": "weather",
+      "relationship": "RelatedTo",
+      "weight": 3.517385392589217,
+      "uri": "/a/[/r/RelatedTo/,/c/en/wind/,/c/en/weather/]"
+    },
+    {
+      "target": "be blowing hard",
+      "relationship": "CapableOf",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/CapableOf/,/c/en/wind/,/c/en/blowing_hard/]"
+    },
+    {
+      "target": "air in motion",
+      "relationship": "ReceivesAction",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/ReceivesAction/,/c/en/wind/,/c/en/air_in_motion/]"
+    },
+    {
+      "target": "moving air",
+      "relationship": "RelatedTo",
+      "weight": 2.608447814314099,
+      "uri": "/a/[/r/RelatedTo/,/c/en/wind/,/c/en/moving_air/]"
+    },
+    {
+      "target": "movement",
+      "relationship": "RelatedTo",
+      "weight": 2.364741000617192,
+      "uri": "/a/[/r/RelatedTo/,/c/en/wind/,/c/en/movement/]"
+    },
+    {
+      "target": "blows",
+      "relationship": "RelatedTo",
+      "weight": 2.1232051243344348,
+      "uri": "/a/[/r/RelatedTo/,/c/en/wind/,/c/en/blows/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "CapableOf",
+    "ReceivesAction"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "wind",
+  "single_word_validated": true
+}

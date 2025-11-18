@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1757522988.5904145,
+  "edges": [
+    {
+      "target": "page an employee",
+      "relationship": "CapableOf",
+      "weight": 4.898979485566356,
+      "uri": "/a/[/r/CapableOf/,/c/en/boss/,/c/en/page_employee/]"
+    },
+    {
+      "target": "emboss",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/boss/v/wn/contact/,/c/en/emboss/v/wn/contact/]"
+    },
+    {
+      "target": "consider giving me a raise",
+      "relationship": "CapableOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/CapableOf/,/c/en/boss/,/c/en/consider_giving_raise/]"
+    },
+    {
+      "target": "employer",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/boss/n/wn/person/,/c/en/employer/n/wn/person/]"
+    },
+    {
+      "target": "foreman",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/boss/n/wn/person/,/c/en/foreman/n/wn/person/]"
+    },
+    {
+      "target": "the person",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/boss/,/c/en/person/]"
+    },
+    {
+      "target": "party boss",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/boss/n/wn/person/,/c/en/party_boss/n/wn/person/]"
+    },
+    {
+      "target": "Bruce Springsteen",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/boss/n/wn/,/c/en/bruce_springsteen/n/wn/]"
+    },
+    {
+      "target": "leader",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/boss/n/wn/person/,/c/en/leader/n/wn/person/]"
+    },
+    {
+      "target": "superior",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/boss/a/wn/,/c/en/superior/a/wn/]"
+    }
+  ],
+  "relationships": [
+    "CapableOf",
+    "Synonym",
+    "IsA",
+    "SimilarTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "boss",
+  "single_word_validated": true
+}

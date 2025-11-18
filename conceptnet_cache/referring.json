@@ -1,0 +1,51 @@
+{
+  "has_data": true,
+  "last_lookup": 1754928835.1950483,
+  "edges": [
+    {
+      "target": "MakingAReferral",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/referring/n/,/http://sw.opencyc.org/2012/05/10/concept/en/MakingAReferral/]"
+    },
+    {
+      "target": "single communication act",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/referring/n/,/c/en/single_communication_act/n/]"
+    },
+    {
+      "target": "refer",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/referring/v/,/c/en/refer/]"
+    },
+    {
+      "target": "refer",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/referring/v/,/c/en/refer/]"
+    },
+    {
+      "target": "referring",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/referring/,/http://en.wiktionary.org/wiki/referring/]"
+    },
+    {
+      "target": "referring",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/referring/,/http://fr.wiktionary.org/wiki/referring/]"
+    }
+  ],
+  "relationships": [
+    "ExternalURL",
+    "IsA",
+    "RelatedTo",
+    "FormOf"
+  ],
+  "total_edges_found": 6,
+  "concept_queried": "referring",
+  "single_word_validated": true
+}

@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1759722422.4040809,
+  "edges": [
+    {
+      "target": "know",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/experience/v/wn/cognition/,/c/en/know/v/wn/cognition/]"
+    },
+    {
+      "target": "content",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/experience/n/wn/cognition/,/c/en/content/n/wn/cognition/]"
+    },
+    {
+      "target": "happening",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/experience/n/wn/event/,/c/en/happening/n/wn/event/]"
+    },
+    {
+      "target": "iskustvo",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/experience/n/,/c/sh/iskustvo/]"
+    },
+    {
+      "target": "have",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/experience/v/wn/change/,/c/en/have/v/wn/change/]"
+    },
+    {
+      "target": "experience",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/experience/v/wn/perception/,/c/en/experience/v/wn/perception/]"
+    },
+    {
+      "target": "feel",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/experience/v/wn/emotion/,/c/en/feel/v/wn/emotion/]"
+    },
+    {
+      "target": "perceive",
+      "relationship": "Entails",
+      "weight": 2.0,
+      "uri": "/a/[/r/Entails/,/c/en/experience/v/wn/perception/,/c/en/perceive/v/wn/perception/]"
+    },
+    {
+      "target": "education",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/experience/n/wn/cognition/,/c/en/education/n/wn/cognition/]"
+    },
+    {
+      "target": "change",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/experience/v/wn/perception/,/c/en/change/v/wn/change/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "IsA",
+    "MannerOf",
+    "Entails"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "experience",
+  "single_word_validated": true
+}

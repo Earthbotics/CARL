@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1754928696.9617112,
+  "edges": [
+    {
+      "target": "push",
+      "relationship": "RelatedTo",
+      "weight": 3.956260860964555,
+      "uri": "/a/[/r/RelatedTo/,/c/en/press/,/c/en/push/]"
+    },
+    {
+      "target": "down",
+      "relationship": "RelatedTo",
+      "weight": 2.4923884127479017,
+      "uri": "/a/[/r/RelatedTo/,/c/en/press/,/c/en/down/]"
+    },
+    {
+      "target": "iron",
+      "relationship": "RelatedTo",
+      "weight": 2.3613555429032704,
+      "uri": "/a/[/r/RelatedTo/,/c/en/press/,/c/en/iron/]"
+    },
+    {
+      "target": "button",
+      "relationship": "RelatedTo",
+      "weight": 2.223510737549967,
+      "uri": "/a/[/r/RelatedTo/,/c/en/press/,/c/en/button/]"
+    },
+    {
+      "target": "media",
+      "relationship": "RelatedTo",
+      "weight": 2.1354156504062622,
+      "uri": "/a/[/r/RelatedTo/,/c/en/press/,/c/en/media/]"
+    },
+    {
+      "target": "push",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/press/n/wn/act/,/c/en/push/n/wn/act/]"
+    },
+    {
+      "target": "print media",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/press/n/wn/communication/,/c/en/print_media/n/wn/communication/]"
+    },
+    {
+      "target": "be",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/press/v/wn/stative/,/c/en/be/v/wn/stative/]"
+    },
+    {
+      "target": "estate",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/press/n/wn/group/,/c/en/estate/n/wn/group/]"
+    },
+    {
+      "target": "iron",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/press/v/wn/contact/,/c/en/iron/v/wn/contact/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "IsA",
+    "MannerOf",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "press",
+  "single_word_validated": true
+}

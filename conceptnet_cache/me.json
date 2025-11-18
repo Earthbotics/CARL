@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1759723008.967063,
+  "edges": [
+    {
+      "target": "pronoun",
+      "relationship": "RelatedTo",
+      "weight": 3.725050335230385,
+      "uri": "/a/[/r/RelatedTo/,/c/en/me/,/c/en/pronoun/]"
+    },
+    {
+      "target": "Maine",
+      "relationship": "Synonym",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/Synonym/,/c/en/me/n/wn/location/,/c/en/maine/n/wn/location/]"
+    },
+    {
+      "target": "person",
+      "relationship": "RelatedTo",
+      "weight": 2.4592681838303037,
+      "uri": "/a/[/r/RelatedTo/,/c/en/me/,/c/en/person/]"
+    },
+    {
+      "target": "you",
+      "relationship": "DistinctFrom",
+      "weight": 2.3949947807876324,
+      "uri": "/a/[/r/DistinctFrom/,/c/en/me/,/c/en/you/]"
+    },
+    {
+      "target": "a hockey game",
+      "relationship": "AtLocation",
+      "weight": 2.0,
+      "uri": "/a/[/r/AtLocation/,/c/en/me/,/c/en/hockey_game/]"
+    },
+    {
+      "target": "personal",
+      "relationship": "RelatedTo",
+      "weight": 1.335,
+      "uri": "/a/[/r/RelatedTo/,/c/en/me/,/c/en/personal/]"
+    },
+    {
+      "target": "you",
+      "relationship": "Antonym",
+      "weight": 1.145,
+      "uri": "/a/[/r/Antonym/,/c/en/me/,/c/en/you/]"
+    },
+    {
+      "target": "personal pronoun",
+      "relationship": "RelatedTo",
+      "weight": 1.093,
+      "uri": "/a/[/r/RelatedTo/,/c/en/me/,/c/en/personal_pronoun/]"
+    },
+    {
+      "target": "you",
+      "relationship": "RelatedTo",
+      "weight": 1.025,
+      "uri": "/a/[/r/RelatedTo/,/c/en/me/,/c/en/you/]"
+    },
+    {
+      "target": "\u056b\u0576\u0571",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/me/n/wikt/en_1/,/c/hy/\u056b\u0576\u0571/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "Synonym",
+    "DistinctFrom",
+    "AtLocation",
+    "Antonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "me",
+  "single_word_validated": true
+}

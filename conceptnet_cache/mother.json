@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1754023113.2295723,
+  "edges": [
+    {
+      "target": "parent",
+      "relationship": "RelatedTo",
+      "weight": 5.670626067728325,
+      "uri": "/a/[/r/RelatedTo/,/c/en/mother/,/c/en/parent/]"
+    },
+    {
+      "target": "female",
+      "relationship": "RelatedTo",
+      "weight": 4.8439653177949165,
+      "uri": "/a/[/r/RelatedTo/,/c/en/mother/,/c/en/female/]"
+    },
+    {
+      "target": "woman",
+      "relationship": "RelatedTo",
+      "weight": 3.807361290973054,
+      "uri": "/a/[/r/RelatedTo/,/c/en/mother/,/c/en/woman/]"
+    },
+    {
+      "target": "mom",
+      "relationship": "RelatedTo",
+      "weight": 3.434530535604539,
+      "uri": "/a/[/r/RelatedTo/,/c/en/mother/,/c/en/mom/]"
+    },
+    {
+      "target": "female parent",
+      "relationship": "RelatedTo",
+      "weight": 2.6728262195660983,
+      "uri": "/a/[/r/RelatedTo/,/c/en/mother/,/c/en/female_parent/]"
+    },
+    {
+      "target": "family",
+      "relationship": "RelatedTo",
+      "weight": 2.5083859352181044,
+      "uri": "/a/[/r/RelatedTo/,/c/en/mother/,/c/en/family/]"
+    },
+    {
+      "target": "relative",
+      "relationship": "RelatedTo",
+      "weight": 2.0493901531919194,
+      "uri": "/a/[/r/RelatedTo/,/c/en/mother/,/c/en/relative/]"
+    },
+    {
+      "target": "care",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/mother/v/wn/social/,/c/en/care/v/wn/social/]"
+    },
+    {
+      "target": "father",
+      "relationship": "Antonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Antonym/,/c/en/mother/n/,/c/en/father/]"
+    },
+    {
+      "target": "mater",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/mother/n/wikt/en_1/,/c/sh/mater/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "MannerOf",
+    "Antonym",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "mother",
+  "single_word_validated": true
+}

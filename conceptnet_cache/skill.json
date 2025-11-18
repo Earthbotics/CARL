@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1755883129.258833,
+  "edges": [
+    {
+      "target": "vje\u0161tina",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/skill/n/wikt/en_1/,/c/sh/vje\u0161tina/]"
+    },
+    {
+      "target": "ability",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/skill/n/wn/cognition/,/c/en/ability/n/wn/cognition/]"
+    },
+    {
+      "target": "ve\u0161tina",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/skill/n/wikt/en_1/,/c/sh/ve\u0161tina/]"
+    },
+    {
+      "target": "pricepere",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/skill/n/wikt/en_1/,/c/ro/pricepere/]"
+    },
+    {
+      "target": "discerner",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/skill/v/,/c/fr/discerner/]"
+    },
+    {
+      "target": "vaardigheid",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/skill/n/wikt/en_1/,/c/af/vaardigheid/]"
+    },
+    {
+      "target": "separate",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/skill/v/wikt/en_2/,/c/en/separate/]"
+    },
+    {
+      "target": "\u6280\u80fd",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/skill/n/wikt/en_1/,/c/ja/\u6280\u80fd/]"
+    },
+    {
+      "target": "kunst",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/skill/n/wikt/en_1/,/c/de/kunst/]"
+    },
+    {
+      "target": "kompetenz",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/skill/n/wikt/en_1/,/c/de/kompetenz/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "IsA",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "skill",
+  "single_word_validated": true
+}

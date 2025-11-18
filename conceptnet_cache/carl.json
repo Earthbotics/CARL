@@ -1,0 +1,73 @@
+{
+  "has_data": true,
+  "last_lookup": 1760396013.4530013,
+  "edges": [
+    {
+      "target": "\u0b95\u0bbe\u0bb0\u0bcd\u0bb2\u0bcd",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/carl/n/wikt/en_1/,/c/ta/\u0b95\u0bbe\u0bb0\u0bcd\u0bb2\u0bcd/]"
+    },
+    {
+      "target": "\u0e04\u0e32\u0e23\u0e4c\u0e25",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/carl/n/wikt/en_1/,/c/th/\u0e04\u0e32\u0e23\u0e4c\u0e25/]"
+    },
+    {
+      "target": "\u043a\u0430\u0440\u043b",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/carl/n/wikt/en_1/,/c/kk/\u043a\u0430\u0440\u043b/]"
+    },
+    {
+      "target": "\u5361\u5c14",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/carl/n/wikt/en_1/,/c/zh/\u5361\u5c14/]"
+    },
+    {
+      "target": "\u05e7\u05e8\u05dc",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/carl/n/wikt/en_1/,/c/he/\u05e7\u05e8\u05dc/]"
+    },
+    {
+      "target": "\u043a\u0430\u0440\u043b",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/carl/n/wikt/en_1/,/c/uk/\u043a\u0430\u0440\u043b/]"
+    },
+    {
+      "target": "\u10d9\u10d0\u10e0\u10da",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/carl/n/wikt/en_1/,/c/ka/\u10d9\u10d0\u10e0\u10da/]"
+    },
+    {
+      "target": "\u043a\u0430\u0440\u043b",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/carl/n/wikt/en_1/,/c/tg/\u043a\u0430\u0440\u043b/]"
+    },
+    {
+      "target": "\u5361\u723e",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/carl/n/wikt/en_1/,/c/zh/\u5361\u723e/]"
+    },
+    {
+      "target": "anglais",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/carl/,/c/fr/anglais/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "carl",
+  "single_word_validated": true
+}

@@ -1,0 +1,77 @@
+{
+  "has_data": true,
+  "last_lookup": 1761277857.554049,
+  "edges": [
+    {
+      "target": "electrical device",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/transformer/n/wn/artifact/,/c/en/electrical_device/n/wn/artifact/]"
+    },
+    {
+      "target": "transform",
+      "relationship": "DerivedFrom",
+      "weight": 2.0,
+      "uri": "/a/[/r/DerivedFrom/,/c/en/transformer/,/c/en/transform/v/]"
+    },
+    {
+      "target": "104478550-n",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/transformer/n/wn/artifact/,/http://wordnet-rdf.princeton.edu/wn31/104478550-n/]"
+    },
+    {
+      "target": "Q11658",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/transformer/,/http://wikidata.dbpedia.org/resource/Q11658/]"
+    },
+    {
+      "target": "voltage",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/transformer/n/,/c/en/voltage/]"
+    },
+    {
+      "target": "Transformer",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/transformer/,/http://dbpedia.org/resource/Transformer/]"
+    },
+    {
+      "target": "electrical engineering",
+      "relationship": "HasContext",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasContext/,/c/en/transformer/n/,/c/en/electrical_engineering/]"
+    },
+    {
+      "target": "transformador",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/transformer/n/,/c/es/transformador/]"
+    },
+    {
+      "target": "transform",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/transformer/n/,/c/en/transform/]"
+    },
+    {
+      "target": "transformilo",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/transformer/n/,/c/io/transformilo/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "DerivedFrom",
+    "ExternalURL",
+    "RelatedTo",
+    "HasContext",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "transformer",
+  "single_word_validated": true
+}

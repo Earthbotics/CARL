@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1757646436.2039542,
+  "edges": [
+    {
+      "target": "to",
+      "relationship": "EtymologicallyDerivedFrom",
+      "weight": 2.0,
+      "uri": "/a/[/r/EtymologicallyDerivedFrom/,/c/en/to/,/c/ang/to/]"
+    },
+    {
+      "target": "a",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/to/,/c/ro/a/]"
+    },
+    {
+      "target": "to",
+      "relationship": "EtymologicallyDerivedFrom",
+      "weight": 2.0,
+      "uri": "/a/[/r/EtymologicallyDerivedFrom/,/c/en/to/,/c/enm/to/]"
+    },
+    {
+      "target": "te",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/to/,/c/nl/te/]"
+    },
+    {
+      "target": "open",
+      "relationship": "Antonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Antonym/,/c/en/to/r/,/c/en/open/]"
+    },
+    {
+      "target": "other+fish+to+fry-p#Component-3",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/to/,/http://wordnet-rdf.princeton.edu/wn31/other+fish+to+fry-p#Component-3/]"
+    },
+    {
+      "target": "tu",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/to/,/c/nov/tu/]"
+    },
+    {
+      "target": "\u0561\u056c",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/to/,/c/hy/\u0561\u056c/]"
+    },
+    {
+      "target": "er",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/to/,/c/ca/er/]"
+    },
+    {
+      "target": "stick+to+your+guns-p#Component-2",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/to/,/http://wordnet-rdf.princeton.edu/wn31/stick+to+your+guns-p#Component-2/]"
+    }
+  ],
+  "relationships": [
+    "EtymologicallyDerivedFrom",
+    "Synonym",
+    "Antonym",
+    "ExternalURL"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "to",
+  "single_word_validated": true
+}

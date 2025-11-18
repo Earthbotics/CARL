@@ -1,0 +1,77 @@
+{
+  "has_data": true,
+  "last_lookup": 1757632692.3964863,
+  "edges": [
+    {
+      "target": "bottom",
+      "relationship": "DistinctFrom",
+      "weight": 3.1260198335903118,
+      "uri": "/a/[/r/DistinctFrom/,/c/en/top/,/c/en/bottom/]"
+    },
+    {
+      "target": "bottom",
+      "relationship": "Antonym",
+      "weight": 2.064945519862449,
+      "uri": "/a/[/r/Antonym/,/c/en/top/,/c/en/bottom/]"
+    },
+    {
+      "target": "beat",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/top/v/,/c/en/beat/]"
+    },
+    {
+      "target": "uppermost",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/top/a/wn/,/c/en/uppermost/a/wn/]"
+    },
+    {
+      "target": "crowning",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/top/a/wn/,/c/en/crowning/a/wn/]"
+    },
+    {
+      "target": "lead",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/top/v/wn/stative/,/c/en/lead/v/wn/stative/]"
+    },
+    {
+      "target": "peak",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/top/n/wn/location/,/c/en/peak/n/wn/location/]"
+    },
+    {
+      "target": "acme",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/top/n/wn/state/,/c/en/acme/n/wn/state/]"
+    },
+    {
+      "target": "reach",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/top/v/wn/motion/,/c/en/reach/v/wn/motion/]"
+    },
+    {
+      "target": "inning",
+      "relationship": "PartOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/PartOf/,/c/en/top/n/wn/time/,/c/en/inning/n/wn/baseball/]"
+    }
+  ],
+  "relationships": [
+    "DistinctFrom",
+    "Antonym",
+    "Synonym",
+    "SimilarTo",
+    "MannerOf",
+    "PartOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "top",
+  "single_word_validated": true
+}

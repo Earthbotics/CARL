@@ -1,0 +1,72 @@
+{
+  "has_data": true,
+  "last_lookup": 1759765296.397858,
+  "edges": [
+    {
+      "target": "ciao",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/hi/,/c/it/ciao/]"
+    },
+    {
+      "target": "bok",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/hi/,/c/sh/bok/]"
+    },
+    {
+      "target": "zdravo",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/hi/,/c/sh/zdravo/]"
+    },
+    {
+      "target": "salve",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/hi/,/c/la/salve/]"
+    },
+    {
+      "target": "halo",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/hi/,/c/sh/halo/]"
+    },
+    {
+      "target": "cze\u015b\u0107",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/hi/,/c/pl/cze\u015b\u0107/]"
+    },
+    {
+      "target": "ave",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/hi/,/c/la/ave/]"
+    },
+    {
+      "target": "hallo",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/hi/,/c/nl/hallo/]"
+    },
+    {
+      "target": "salut",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/hi/,/c/fr/salut/]"
+    },
+    {
+      "target": "hola",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/hi/,/c/ca/hola/]"
+    }
+  ],
+  "relationships": [
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "hi",
+  "single_word_validated": true
+}

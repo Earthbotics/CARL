@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1756354849.0082388,
+  "edges": [
+    {
+      "target": "tantalizing",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/inviting/a/wn/,/c/en/tantalizing/a/wn/]"
+    },
+    {
+      "target": "tantalising",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/inviting/a/wn/,/c/en/tantalising/a/wn/]"
+    },
+    {
+      "target": "invitatory",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/inviting/a/wn/,/c/en/invitatory/a/wn/]"
+    },
+    {
+      "target": "attractive",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/inviting/a/wn/,/c/en/attractive/a/wn/]"
+    },
+    {
+      "target": "invitingly",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/inviting/a/,/c/en/invitingly/]"
+    },
+    {
+      "target": "invite",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/inviting/v/,/c/en/invite/]"
+    },
+    {
+      "target": "301361211-a",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/inviting/a/wn/,/http://wordnet-rdf.princeton.edu/wn31/301361211-a/]"
+    },
+    {
+      "target": "tempting",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/inviting/a/,/c/en/tempting/]"
+    },
+    {
+      "target": "alluring",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/inviting/a/,/c/en/alluring/]"
+    },
+    {
+      "target": "attractive",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/inviting/a/,/c/en/attractive/]"
+    }
+  ],
+  "relationships": [
+    "SimilarTo",
+    "RelatedTo",
+    "FormOf",
+    "ExternalURL"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "inviting",
+  "single_word_validated": true
+}

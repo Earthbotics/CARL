@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1755145992.086242,
+  "edges": [
+    {
+      "target": "location",
+      "relationship": "RelatedTo",
+      "weight": 6.5473658825515475,
+      "uri": "/a/[/r/RelatedTo/,/c/en/place/,/c/en/location/]"
+    },
+    {
+      "target": "any location",
+      "relationship": "AtLocation",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/AtLocation/,/c/en/place/,/c/en/location/]"
+    },
+    {
+      "target": "area",
+      "relationship": "RelatedTo",
+      "weight": 2.541653005427767,
+      "uri": "/a/[/r/RelatedTo/,/c/en/place/,/c/en/area/]"
+    },
+    {
+      "target": "somewhere",
+      "relationship": "RelatedTo",
+      "weight": 2.0009997501249224,
+      "uri": "/a/[/r/RelatedTo/,/c/en/place/,/c/en/somewhere/]"
+    },
+    {
+      "target": "identify",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/place/v/wn/cognition/,/c/en/identify/v/wn/cognition/]"
+    },
+    {
+      "target": "plaza",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/place/n/wn/location/,/c/en/plaza/n/wn/location/]"
+    },
+    {
+      "target": "estimate",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/place/v/wn/cognition/,/c/en/estimate/v/wn/cognition/]"
+    },
+    {
+      "target": "station",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/place/v/wn/competition/,/c/en/station/v/wn/competition/]"
+    },
+    {
+      "target": "position",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/place/n/wn/act/,/c/en/position/n/wn/act/]"
+    },
+    {
+      "target": "a map",
+      "relationship": "AtLocation",
+      "weight": 2.0,
+      "uri": "/a/[/r/AtLocation/,/c/en/place/,/c/en/map/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "AtLocation",
+    "Synonym",
+    "MannerOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "place",
+  "single_word_validated": true
+}

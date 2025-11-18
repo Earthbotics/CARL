@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1756144294.49873,
+  "edges": [
+    {
+      "target": "stomach",
+      "relationship": "RelatedTo",
+      "weight": 2.219909908081858,
+      "uri": "/a/[/r/RelatedTo/,/c/en/belly/,/c/en/stomach/]"
+    },
+    {
+      "target": "bulge",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/belly/n/wn/shape/,/c/en/bulge/n/wn/shape/]"
+    },
+    {
+      "target": "adipose tissue",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/belly/n/wn/body/,/c/en/adipose_tissue/n/wn/body/]"
+    },
+    {
+      "target": "torso",
+      "relationship": "PartOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/PartOf/,/c/en/belly/n/wn/body/,/c/en/torso/n/wn/body/]"
+    },
+    {
+      "target": "underpart",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/belly/n/wn/animal/,/c/en/underpart/n/wn/animal/]"
+    },
+    {
+      "target": "inside",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/belly/n/wn/location/,/c/en/inside/n/wn/location/]"
+    },
+    {
+      "target": "swell",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/belly/v/wn/change/,/c/en/swell/v/wn/change/]"
+    },
+    {
+      "target": "bauch",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/belly/n/,/c/de/bauch/]"
+    },
+    {
+      "target": "trbuh",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/belly/n/,/c/sh/trbuh/]"
+    },
+    {
+      "target": "abdomen",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/belly/n/wn/body/,/c/en/abdomen/n/wn/body/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "IsA",
+    "PartOf",
+    "MannerOf",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "belly",
+  "single_word_validated": true
+}

@@ -1,0 +1,72 @@
+{
+  "has_data": true,
+  "last_lookup": 1755918311.7863472,
+  "edges": [
+    {
+      "target": "body",
+      "relationship": "RelatedTo",
+      "weight": 7.3737371800193685,
+      "uri": "/a/[/r/RelatedTo/,/c/en/head/,/c/en/body/]"
+    },
+    {
+      "target": "neck",
+      "relationship": "RelatedTo",
+      "weight": 6.9339743293438865,
+      "uri": "/a/[/r/RelatedTo/,/c/en/head/,/c/en/neck/]"
+    },
+    {
+      "target": "brain",
+      "relationship": "RelatedTo",
+      "weight": 6.483826030978932,
+      "uri": "/a/[/r/RelatedTo/,/c/en/head/,/c/en/brain/]"
+    },
+    {
+      "target": "top",
+      "relationship": "RelatedTo",
+      "weight": 6.2337789502034795,
+      "uri": "/a/[/r/RelatedTo/,/c/en/head/,/c/en/top/]"
+    },
+    {
+      "target": "face",
+      "relationship": "RelatedTo",
+      "weight": 5.197306994973454,
+      "uri": "/a/[/r/RelatedTo/,/c/en/head/,/c/en/face/]"
+    },
+    {
+      "target": "part",
+      "relationship": "RelatedTo",
+      "weight": 5.133030294085551,
+      "uri": "/a/[/r/RelatedTo/,/c/en/head/,/c/en/part/]"
+    },
+    {
+      "target": "eyes",
+      "relationship": "RelatedTo",
+      "weight": 4.857983120596447,
+      "uri": "/a/[/r/RelatedTo/,/c/en/head/,/c/en/eyes/]"
+    },
+    {
+      "target": "body part",
+      "relationship": "RelatedTo",
+      "weight": 4.536518488885503,
+      "uri": "/a/[/r/RelatedTo/,/c/en/head/,/c/en/body_part/]"
+    },
+    {
+      "target": "above",
+      "relationship": "RelatedTo",
+      "weight": 4.24735211631906,
+      "uri": "/a/[/r/RelatedTo/,/c/en/head/,/c/en/above/]"
+    },
+    {
+      "target": "shoulders",
+      "relationship": "RelatedTo",
+      "weight": 3.942587982531271,
+      "uri": "/a/[/r/RelatedTo/,/c/en/head/,/c/en/shoulders/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "head",
+  "single_word_validated": true
+}

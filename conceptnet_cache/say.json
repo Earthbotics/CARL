@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1761492561.0401325,
+  "edges": [
+    {
+      "target": "speak",
+      "relationship": "RelatedTo",
+      "weight": 4.0669398815325515,
+      "uri": "/a/[/r/RelatedTo/,/c/en/say/,/c/en/speak/]"
+    },
+    {
+      "target": "talk",
+      "relationship": "RelatedTo",
+      "weight": 2.8614681546367073,
+      "uri": "/a/[/r/RelatedTo/,/c/en/say/,/c/en/talk/]"
+    },
+    {
+      "target": "read",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/say/v/wn/stative/,/c/en/read/v/wn/stative/]"
+    },
+    {
+      "target": "state",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/say/v/wn/communication/,/c/en/state/v/wn/communication/]"
+    },
+    {
+      "target": "pronounce",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/say/v/wn/communication/,/c/en/pronounce/v/wn/communication/]"
+    },
+    {
+      "target": "opportunity",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/say/n/wn/state/,/c/en/opportunity/n/wn/state/]"
+    },
+    {
+      "target": "suppose",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/say/v/wn/communication/,/c/en/suppose/v/wn/communication/]"
+    },
+    {
+      "target": "express",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/say/v/wn/communication/,/c/en/express/v/wn/communication/]"
+    },
+    {
+      "target": "allege",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/say/v/wn/communication/,/c/en/allege/v/wn/communication/]"
+    },
+    {
+      "target": "convey",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/say/v/wn/communication/,/c/en/convey/v/wn/communication/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "Synonym",
+    "IsA",
+    "MannerOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "say",
+  "single_word_validated": true
+}

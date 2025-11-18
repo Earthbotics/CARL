@@ -1,0 +1,73 @@
+{
+  "has_data": true,
+  "last_lookup": 1756699075.186808,
+  "edges": [
+    {
+      "target": "house",
+      "relationship": "RelatedTo",
+      "weight": 8.981981963909746,
+      "uri": "/a/[/r/RelatedTo/,/c/en/room/,/c/en/house/]"
+    },
+    {
+      "target": "space",
+      "relationship": "RelatedTo",
+      "weight": 5.51507026247173,
+      "uri": "/a/[/r/RelatedTo/,/c/en/room/,/c/en/space/]"
+    },
+    {
+      "target": "walls",
+      "relationship": "RelatedTo",
+      "weight": 4.881393243736874,
+      "uri": "/a/[/r/RelatedTo/,/c/en/room/,/c/en/walls/]"
+    },
+    {
+      "target": "living",
+      "relationship": "RelatedTo",
+      "weight": 4.857571409665534,
+      "uri": "/a/[/r/RelatedTo/,/c/en/room/,/c/en/living/]"
+    },
+    {
+      "target": "place",
+      "relationship": "RelatedTo",
+      "weight": 3.9673668849754744,
+      "uri": "/a/[/r/RelatedTo/,/c/en/room/,/c/en/place/]"
+    },
+    {
+      "target": "bed",
+      "relationship": "RelatedTo",
+      "weight": 3.9140771581561857,
+      "uri": "/a/[/r/RelatedTo/,/c/en/room/,/c/en/bed/]"
+    },
+    {
+      "target": "four",
+      "relationship": "RelatedTo",
+      "weight": 3.84915575159021,
+      "uri": "/a/[/r/RelatedTo/,/c/en/room/,/c/en/four/]"
+    },
+    {
+      "target": "four walls",
+      "relationship": "RelatedTo",
+      "weight": 3.6975667674837194,
+      "uri": "/a/[/r/RelatedTo/,/c/en/room/,/c/en/four_walls/]"
+    },
+    {
+      "target": "area",
+      "relationship": "RelatedTo",
+      "weight": 3.6088779419647867,
+      "uri": "/a/[/r/RelatedTo/,/c/en/room/,/c/en/area/]"
+    },
+    {
+      "target": "school",
+      "relationship": "AtLocation",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/AtLocation/,/c/en/room/,/c/en/school/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "AtLocation"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "room",
+  "single_word_validated": true
+}

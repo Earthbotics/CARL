@@ -1,0 +1,77 @@
+{
+  "has_data": true,
+  "last_lookup": 1757804966.3824854,
+  "edges": [
+    {
+      "target": "tolde",
+      "relationship": "EtymologicallyDerivedFrom",
+      "weight": 1.0,
+      "uri": "/a/[/r/EtymologicallyDerivedFrom/,/c/en/told/,/c/enm/tolde/]"
+    },
+    {
+      "target": "tell",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/told/v/,/c/fr/tell/]"
+    },
+    {
+      "target": "a+little+bird+told+me-p#Component-4",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/told/,/http://wordnet-rdf.princeton.edu/wn31/a+little+bird+told+me-p#Component-4/]"
+    },
+    {
+      "target": "tell",
+      "relationship": "DerivedFrom",
+      "weight": 1.0,
+      "uri": "/a/[/r/DerivedFrom/,/c/en/told/,/c/en/tell/]"
+    },
+    {
+      "target": "tell",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/told/,/c/en/tell/v/]"
+    },
+    {
+      "target": "tell",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/told/v/,/c/en/tell/]"
+    },
+    {
+      "target": "dit",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/told/v/,/c/fr/dit/]"
+    },
+    {
+      "target": "sagte",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/told/v/,/c/de/sagte/]"
+    },
+    {
+      "target": "disse",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/told/v/,/c/pt/disse/]"
+    },
+    {
+      "target": "dijo",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/told/v/,/c/es/dijo/]"
+    }
+  ],
+  "relationships": [
+    "EtymologicallyDerivedFrom",
+    "RelatedTo",
+    "ExternalURL",
+    "DerivedFrom",
+    "FormOf",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "told",
+  "single_word_validated": true
+}

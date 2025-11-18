@@ -1,0 +1,73 @@
+{
+  "has_data": true,
+  "last_lookup": 1761274688.5594816,
+  "edges": [
+    {
+      "target": "\u0161ta",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/what/n/,/c/sh/\u0161ta/]"
+    },
+    {
+      "target": "kaj",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/what/n/,/c/sh/kaj/]"
+    },
+    {
+      "target": "\u0161to",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/what/n/,/c/sh/\u0161to/]"
+    },
+    {
+      "target": "hindri",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/what/n/,/c/zdj/hindri/]"
+    },
+    {
+      "target": "\u0c0f\u0c2e\u0c3f\u0c1f\u0c3f",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/what/n/,/c/te/\u0c0f\u0c2e\u0c3f\u0c1f\u0c3f/]"
+    },
+    {
+      "target": "what fuck",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/what/,/c/en/what_fuck/]"
+    },
+    {
+      "target": "hw\u00e6t",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/what/n/,/c/ang/hw\u00e6t/]"
+    },
+    {
+      "target": "comment",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/what/,/c/fr/comment/]"
+    },
+    {
+      "target": "tay",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/what/n/,/c/ppl/tay/]"
+    },
+    {
+      "target": "\u4f55",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/what/n/,/c/ja/\u4f55/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "what",
+  "single_word_validated": true
+}

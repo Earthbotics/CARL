@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1756265829.704227,
+  "edges": [
+    {
+      "target": "guess",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/guessing/n/wn/cognition/,/c/en/guess/n/wn/cognition/]"
+    },
+    {
+      "target": "prediction",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/guessing/n/wikt/en_1/,/c/en/prediction/]"
+    },
+    {
+      "target": "guess",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/guessing/v/,/c/en/guess/]"
+    },
+    {
+      "target": "guess",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/guessing/n/wikt/en_1/,/c/en/guess/]"
+    },
+    {
+      "target": "guess",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/guessing/,/c/en/guess/v/]"
+    },
+    {
+      "target": "guess",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/guessing/v/wikt/en_2/,/c/en/guess/]"
+    },
+    {
+      "target": "foresight",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/guessing/n/wikt/en_1/,/c/en/foresight/]"
+    },
+    {
+      "target": "gessyng",
+      "relationship": "EtymologicallyDerivedFrom",
+      "weight": 1.0,
+      "uri": "/a/[/r/EtymologicallyDerivedFrom/,/c/en/guessing/,/c/enm/gessyng/]"
+    },
+    {
+      "target": "estimate",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/guessing/n/wikt/en_1/,/c/en/estimate/]"
+    },
+    {
+      "target": "guess",
+      "relationship": "DerivedFrom",
+      "weight": 1.0,
+      "uri": "/a/[/r/DerivedFrom/,/c/en/guessing/,/c/en/guess/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "RelatedTo",
+    "FormOf",
+    "EtymologicallyDerivedFrom",
+    "DerivedFrom"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "guessing",
+  "single_word_validated": true
+}

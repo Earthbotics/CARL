@@ -1,0 +1,77 @@
+{
+  "has_data": true,
+  "last_lookup": 1754837873.9821277,
+  "edges": [
+    {
+      "target": "an illusion",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/self/,/c/en/illusion/]"
+    },
+    {
+      "target": "consciousness",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/self/n/wn/cognition/,/c/en/consciousness/n/wn/cognition/]"
+    },
+    {
+      "target": "self",
+      "relationship": "EtymologicallyDerivedFrom",
+      "weight": 2.0,
+      "uri": "/a/[/r/EtymologicallyDerivedFrom/,/c/en/self/,/c/ang/self/]"
+    },
+    {
+      "target": "self",
+      "relationship": "EtymologicallyDerivedFrom",
+      "weight": 2.0,
+      "uri": "/a/[/r/EtymologicallyDerivedFrom/,/c/en/self/,/c/enm/self/]"
+    },
+    {
+      "target": "person",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/self/n/wn/person/,/c/en/person/n/wn/]"
+    },
+    {
+      "target": "\u0441\u0430\u043c",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/self/n/,/c/be/\u0441\u0430\u043c/]"
+    },
+    {
+      "target": "organism",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/self/a/,/c/en/organism/]"
+    },
+    {
+      "target": "outcross",
+      "relationship": "Antonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Antonym/,/c/en/self/v/,/c/en/outcross/]"
+    },
+    {
+      "target": "molecular biology",
+      "relationship": "HasContext",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasContext/,/c/en/self/n/,/c/en/molecular_biology/]"
+    },
+    {
+      "target": "\u0441\u0430\u043c",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/self/n/,/c/uk/\u0441\u0430\u043c/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "EtymologicallyDerivedFrom",
+    "Synonym",
+    "RelatedTo",
+    "Antonym",
+    "HasContext"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "self",
+  "single_word_validated": true
+}

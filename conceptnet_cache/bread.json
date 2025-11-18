@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1760280289.3396235,
+  "edges": [
+    {
+      "target": "food",
+      "relationship": "RelatedTo",
+      "weight": 7.728648005958092,
+      "uri": "/a/[/r/RelatedTo/,/c/en/bread/,/c/en/food/]"
+    },
+    {
+      "target": "breadbox",
+      "relationship": "AtLocation",
+      "weight": 6.928203230275509,
+      "uri": "/a/[/r/AtLocation/,/c/en/bread/,/c/en/breadbox/]"
+    },
+    {
+      "target": "loaf",
+      "relationship": "RelatedTo",
+      "weight": 6.642890936934009,
+      "uri": "/a/[/r/RelatedTo/,/c/en/bread/,/c/en/loaf/]"
+    },
+    {
+      "target": "wheat",
+      "relationship": "RelatedTo",
+      "weight": 5.789645930452051,
+      "uri": "/a/[/r/RelatedTo/,/c/en/bread/,/c/en/wheat/]"
+    },
+    {
+      "target": "eating",
+      "relationship": "UsedFor",
+      "weight": 5.656854249492381,
+      "uri": "/a/[/r/UsedFor/,/c/en/bread/,/c/en/eating/]"
+    },
+    {
+      "target": "baked",
+      "relationship": "RelatedTo",
+      "weight": 5.191916794402622,
+      "uri": "/a/[/r/RelatedTo/,/c/en/bread/,/c/en/baked/]"
+    },
+    {
+      "target": "yeast",
+      "relationship": "HasA",
+      "weight": 4.898979485566356,
+      "uri": "/a/[/r/HasA/,/c/en/bread/,/c/en/yeast/]"
+    },
+    {
+      "target": "sandwich",
+      "relationship": "RelatedTo",
+      "weight": 4.732863826479693,
+      "uri": "/a/[/r/RelatedTo/,/c/en/bread/,/c/en/sandwich/]"
+    },
+    {
+      "target": "the supermarket",
+      "relationship": "AtLocation",
+      "weight": 4.0,
+      "uri": "/a/[/r/AtLocation/,/c/en/bread/,/c/en/supermarket/]"
+    },
+    {
+      "target": "a market",
+      "relationship": "AtLocation",
+      "weight": 4.0,
+      "uri": "/a/[/r/AtLocation/,/c/en/bread/,/c/en/market/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "AtLocation",
+    "UsedFor",
+    "HasA"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "bread",
+  "single_word_validated": true
+}

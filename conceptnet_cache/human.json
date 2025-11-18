@@ -1,0 +1,73 @@
+{
+  "has_data": true,
+  "last_lookup": 1762019845.8573248,
+  "edges": [
+    {
+      "target": "the school",
+      "relationship": "AtLocation",
+      "weight": 7.483314773547882,
+      "uri": "/a/[/r/AtLocation/,/c/en/human/,/c/en/school/]"
+    },
+    {
+      "target": "homes",
+      "relationship": "AtLocation",
+      "weight": 7.211102550927979,
+      "uri": "/a/[/r/AtLocation/,/c/en/human/,/c/en/homes/]"
+    },
+    {
+      "target": "a workplace",
+      "relationship": "AtLocation",
+      "weight": 6.32455532033676,
+      "uri": "/a/[/r/AtLocation/,/c/en/human/,/c/en/workplace/]"
+    },
+    {
+      "target": "five fingers on each hand",
+      "relationship": "HasA",
+      "weight": 5.656854249492381,
+      "uri": "/a/[/r/HasA/,/c/en/human/,/c/en/five_fingers_on_each_hand/]"
+    },
+    {
+      "target": "the library",
+      "relationship": "AtLocation",
+      "weight": 5.291502622129181,
+      "uri": "/a/[/r/AtLocation/,/c/en/human/,/c/en/library/]"
+    },
+    {
+      "target": "love",
+      "relationship": "AtLocation",
+      "weight": 5.291502622129181,
+      "uri": "/a/[/r/AtLocation/,/c/en/human/,/c/en/love/]"
+    },
+    {
+      "target": "a park",
+      "relationship": "AtLocation",
+      "weight": 5.291502622129181,
+      "uri": "/a/[/r/AtLocation/,/c/en/human/,/c/en/park/]"
+    },
+    {
+      "target": "the space shuttle",
+      "relationship": "AtLocation",
+      "weight": 4.898979485566356,
+      "uri": "/a/[/r/AtLocation/,/c/en/human/,/c/en/space_shuttle/]"
+    },
+    {
+      "target": "a church",
+      "relationship": "AtLocation",
+      "weight": 4.898979485566356,
+      "uri": "/a/[/r/AtLocation/,/c/en/human/,/c/en/church/]"
+    },
+    {
+      "target": "jail",
+      "relationship": "AtLocation",
+      "weight": 4.47213595499958,
+      "uri": "/a/[/r/AtLocation/,/c/en/human/,/c/en/jail/]"
+    }
+  ],
+  "relationships": [
+    "AtLocation",
+    "HasA"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "human",
+  "single_word_validated": true
+}

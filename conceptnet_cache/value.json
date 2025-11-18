@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1755145505.3269606,
+  "edges": [
+    {
+      "target": "worth",
+      "relationship": "RelatedTo",
+      "weight": 5.162944896084017,
+      "uri": "/a/[/r/RelatedTo/,/c/en/value/,/c/en/worth/]"
+    },
+    {
+      "target": "price",
+      "relationship": "RelatedTo",
+      "weight": 2.9691749695833014,
+      "uri": "/a/[/r/RelatedTo/,/c/en/value/,/c/en/price/]"
+    },
+    {
+      "target": "cost",
+      "relationship": "RelatedTo",
+      "weight": 2.4754797514825277,
+      "uri": "/a/[/r/RelatedTo/,/c/en/value/,/c/en/cost/]"
+    },
+    {
+      "target": "vrednost",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/value/n/,/c/sh/vrednost/]"
+    },
+    {
+      "target": "respect",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/value/v/wn/cognition/,/c/en/respect/v/wn/cognition/]"
+    },
+    {
+      "target": "de\u011fer",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/value/n/,/c/tr/de\u011fer/]"
+    },
+    {
+      "target": "vrijednost",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/value/n/,/c/sh/vrijednost/]"
+    },
+    {
+      "target": "duration",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/value/n/wn/music/,/c/en/duration/n/wn/time/]"
+    },
+    {
+      "target": "worth",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/value/n/wn/attribute/,/c/en/worth/n/wn/attribute/]"
+    },
+    {
+      "target": "measure",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/value/v/wn/cognition/,/c/en/measure/v/wn/cognition/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "Synonym",
+    "IsA"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "value",
+  "single_word_validated": true
+}

@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1757341568.9365847,
+  "edges": [
+    {
+      "target": "annoyance",
+      "relationship": "RelatedTo",
+      "weight": 2.33238075793812,
+      "uri": "/a/[/r/RelatedTo/,/c/en/irritation/,/c/en/annoyance/]"
+    },
+    {
+      "target": "abnormality",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/irritation/n/wn/pathology/,/c/en/abnormality/n/wn/state/]"
+    },
+    {
+      "target": "excitation",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/irritation/n/wn/state/,/c/en/excitation/n/wn/state/]"
+    },
+    {
+      "target": "aggravation",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/irritation/n/wn/act/,/c/en/aggravation/n/wn/act/]"
+    },
+    {
+      "target": "annoyance",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/irritation/n/wn/act/,/c/en/annoyance/n/wn/act/]"
+    },
+    {
+      "target": "pique",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/irritation/n/wn/feeling/,/c/en/pique/n/wn/feeling/]"
+    },
+    {
+      "target": "psychological state",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/irritation/n/wn/state/,/c/en/psychological_state/n/wn/psychology/]"
+    },
+    {
+      "target": "sensitization",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/irritation/n/wn/pathology/,/c/en/sensitization/n/wn/state/]"
+    },
+    {
+      "target": "pathology",
+      "relationship": "HasContext",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasContext/,/c/en/irritation/n/wn/pathology/,/c/en/pathology/n/wn/cognition/]"
+    },
+    {
+      "target": "irritate",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/irritation/n/,/c/en/irritate/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "IsA",
+    "Synonym",
+    "HasContext"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "irritation",
+  "single_word_validated": true
+}

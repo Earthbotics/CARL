@@ -1,0 +1,77 @@
+{
+  "has_data": true,
+  "last_lookup": 1758329988.560801,
+  "edges": [
+    {
+      "target": "protrusive",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/starting/a/wn/,/c/en/protrusive/a/wn/]"
+    },
+    {
+      "target": "opening",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/starting/a/wn/,/c/en/opening/a/wn/]"
+    },
+    {
+      "target": "start",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/starting/n/wn/act/,/c/en/start/n/wn/act/]"
+    },
+    {
+      "target": "event",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/starting/n/,/c/en/event/n/]"
+    },
+    {
+      "target": "Starting",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/starting/n/,/http://sw.opencyc.org/2012/05/10/concept/en/Starting/]"
+    },
+    {
+      "target": "301013462-s",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/starting/a/wn/,/http://wordnet-rdf.princeton.edu/wn31/301013462-s/]"
+    },
+    {
+      "target": "start",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/starting/v/,/c/en/start/]"
+    },
+    {
+      "target": "running",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/starting/n/opencyc/device_starting_run/,/c/en/running/n/opencyc/device_running/]"
+    },
+    {
+      "target": "start",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/starting/v/,/c/en/start/]"
+    },
+    {
+      "target": "301357278-s",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/starting/a/wn/,/http://wordnet-rdf.princeton.edu/wn31/301357278-s/]"
+    }
+  ],
+  "relationships": [
+    "SimilarTo",
+    "Synonym",
+    "IsA",
+    "ExternalURL",
+    "FormOf",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "starting",
+  "single_word_validated": true
+}

@@ -1,0 +1,271 @@
+{
+    "word": "toy",
+    "type": "thing",
+    "first_seen": "2025-08-23 07:56:49.794543",
+    "last_updated": "2025-08-23 07:56:49.870541",
+    "occurrences": 1,
+    "contexts": [
+        {
+            "timestamp": "2025-08-23 07:56:31.437329",
+            "WHAT": "introduce Chomp, my toy",
+            "WHERE": "condo, possibly in a living space",
+            "WHY": "to engage me and share something playful",
+            "HOW": "by offering to show me the toy",
+            "neucogar_emotional_state": {
+                "primary": "neutral",
+                "sub_emotion": "calm",
+                "detail": "balanced",
+                "neuro_coordinates": {
+                    "dopamine": 0.0,
+                    "serotonin": 0.0,
+                    "noradrenaline": 0.0
+                },
+                "intensity": 0.0,
+                "timestamp": "2025-08-23T07:56:31.437329"
+            },
+            "emotions": {
+                "joy": 0.0,
+                "surprise": 0.0,
+                "sadness": 0.0,
+                "fear": 0.0,
+                "anger": 0.0,
+                "disgust": 0.0
+            },
+            "neurotransmitters": {
+                "dopamine": 0.415,
+                "serotonin": 0.485,
+                "norepinephrine": 0.2,
+                "gaba": 0.35,
+                "glutamate": 0.45,
+                "acetylcholine": 0.3,
+                "oxytocin": 0.25,
+                "endorphins": 0.255
+            }
+        }
+    ],
+    "emotional_history": [
+        {
+            "timestamp": "2025-08-23 07:56:31.437329",
+            "neucogar_emotional_state": {
+                "primary": "neutral",
+                "sub_emotion": "calm",
+                "detail": "balanced",
+                "neuro_coordinates": {
+                    "dopamine": 0.0,
+                    "serotonin": 0.0,
+                    "noradrenaline": 0.0
+                },
+                "intensity": 0.0,
+                "timestamp": "2025-08-23T07:56:31.437329"
+            },
+            "emotions": {
+                "joy": 0.0,
+                "surprise": 0.0,
+                "sadness": 0.0,
+                "fear": 0.0,
+                "anger": 0.0,
+                "disgust": 0.0
+            },
+            "neurotransmitters": {
+                "dopamine": 0.415,
+                "serotonin": 0.485,
+                "norepinephrine": 0.2,
+                "gaba": 0.35,
+                "glutamate": 0.45,
+                "acetylcholine": 0.3,
+                "oxytocin": 0.25,
+                "endorphins": 0.255
+            }
+        }
+    ],
+    "conceptnet_data": {
+        "has_data": true,
+        "last_lookup": 1755960210.941255,
+        "edges": [
+            {
+                "target": "plaything",
+                "relationship": "RelatedTo",
+                "weight": 8.734758153492287,
+                "uri": "/a/[/r/RelatedTo/,/c/en/toy/,/c/en/plaything/]"
+            },
+            {
+                "target": "child",
+                "relationship": "RelatedTo",
+                "weight": 7.529940238806679,
+                "uri": "/a/[/r/RelatedTo/,/c/en/toy/,/c/en/child/]"
+            },
+            {
+                "target": "play",
+                "relationship": "RelatedTo",
+                "weight": 7.056061224224177,
+                "uri": "/a/[/r/RelatedTo/,/c/en/toy/,/c/en/play/]"
+            },
+            {
+                "target": "children",
+                "relationship": "RelatedTo",
+                "weight": 6.522576178167643,
+                "uri": "/a/[/r/RelatedTo/,/c/en/toy/,/c/en/children/]"
+            },
+            {
+                "target": "kids",
+                "relationship": "RelatedTo",
+                "weight": 5.9531504264548865,
+                "uri": "/a/[/r/RelatedTo/,/c/en/toy/,/c/en/kids/]"
+            },
+            {
+                "target": "fun",
+                "relationship": "RelatedTo",
+                "weight": 4.971116574774726,
+                "uri": "/a/[/r/RelatedTo/,/c/en/toy/,/c/en/fun/]"
+            },
+            {
+                "target": "object",
+                "relationship": "RelatedTo",
+                "weight": 4.62860670180563,
+                "uri": "/a/[/r/RelatedTo/,/c/en/toy/,/c/en/object/]"
+            },
+            {
+                "target": "playing",
+                "relationship": "RelatedTo",
+                "weight": 4.578646088091981,
+                "uri": "/a/[/r/RelatedTo/,/c/en/toy/,/c/en/playing/]"
+            },
+            {
+                "target": "game",
+                "relationship": "RelatedTo",
+                "weight": 4.285323791733829,
+                "uri": "/a/[/r/RelatedTo/,/c/en/toy/,/c/en/game/]"
+            },
+            {
+                "target": "child plaything",
+                "relationship": "RelatedTo",
+                "weight": 4.101706961741661,
+                "uri": "/a/[/r/RelatedTo/,/c/en/toy/,/c/en/child_plaything/]"
+            }
+        ],
+        "relationships": [
+            "RelatedTo"
+        ],
+        "total_edges_found": 10,
+        "concept_queried": "toy",
+        "single_word_validated": true
+    },
+    "related_concepts": [
+        "plaything",
+        "child",
+        "play",
+        "children",
+        "kids",
+        "fun",
+        "object",
+        "playing",
+        "game",
+        "child plaything"
+    ],
+    "linked_needs": [],
+    "linked_goals": [],
+    "linked_skills": [],
+    "linked_senses": [],
+    "neucogar_emotional_associations": {
+        "primary": "neutral",
+        "sub_emotion": "calm",
+        "neuro_coordinates": {
+            "dopamine": 0.0,
+            "serotonin": 0.0,
+            "noradrenaline": 0.0
+        },
+        "intensity": 0.0,
+        "triggers": []
+    },
+    "emotional_associations": {},
+    "contextual_usage": [],
+    "semantic_relationships": [],
+    "keywords": [],
+    "values_alignment": {
+        "value_alignments": {},
+        "belief_alignments": {},
+        "conflicts": [],
+        "overall_alignment": 0.0,
+        "acc_activation": 0.0,
+        "recommendation": "Neutral - minimal alignment or conflict"
+    },
+    "beliefs": [],
+    "Learning_Integration": {
+        "concept_learning_system": {
+            "neurological_basis": {
+                "reward_prediction_error": {
+                    "expected_utility": 0.5,
+                    "prediction_error": 0.0,
+                    "learning_rate": 0.1
+                },
+                "attention_mechanism": {
+                    "salience": 0.5,
+                    "focus_level": 0.5
+                },
+                "memory_consolidation": {
+                    "strength": 0.5,
+                    "retrieval_ease": 0.5
+                }
+            },
+            "concept_learning_system": {
+                "pattern_recognition": {
+                    "feature_extraction": [],
+                    "similarity_threshold": 0.5
+                },
+                "categorization": {
+                    "prototype_formation": {
+                        "primary_features": [],
+                        "secondary_features": []
+                    },
+                    "boundary_adjustment": 0.5
+                },
+                "generalization": {
+                    "transfer_learning": {
+                        "related_activities": []
+                    },
+                    "abstraction_level": 0.5
+                }
+            },
+            "learning_principles": {
+                "information_processing": {
+                    "encoding_depth": 0.5,
+                    "retrieval_practice": {
+                        "spaced_repetition": {
+                            "next_review": "",
+                            "review_interval": 0.5
+                        }
+                    }
+                },
+                "motivational_factors": {
+                    "intrinsic_interest": 0.5,
+                    "extrinsic_rewards": 0.5
+                },
+                "metacognitive_awareness": {
+                    "self_monitoring": 0.5,
+                    "strategy_selection": 0.5
+                }
+            }
+        },
+        "concept_progression": {
+            "current_level": "basic_recognition",
+            "level_progress": 0.0,
+            "mastery_threshold": 0.8,
+            "progression_stages": [
+                "basic_recognition",
+                "contextual_understanding",
+                "flexible_application",
+                "creative_synthesis"
+            ]
+        },
+        "adaptive_learning": {
+            "difficulty_adjustment": {
+                "current_challenge": 0.5,
+                "success_rate": 0.5
+            },
+            "personalization": {
+                "learning_style": "general",
+                "preference_adaptation": 0.5
+            }
+        }
+    }
+}

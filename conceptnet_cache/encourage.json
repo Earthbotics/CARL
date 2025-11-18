@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1755146168.6566908,
+  "edges": [
+    {
+      "target": "courage",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/encourage/v/,/c/en/courage/]"
+    },
+    {
+      "target": "promote",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/encourage/v/wn/social/,/c/en/promote/v/wn/social/]"
+    },
+    {
+      "target": "induce",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/encourage/v/wn/communication/,/c/en/induce/v/wn/communication/]"
+    },
+    {
+      "target": "discourage",
+      "relationship": "Antonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Antonym/,/c/en/encourage/v/,/c/en/discourage/]"
+    },
+    {
+      "target": "inspire",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/encourage/v/wn/emotion/,/c/en/inspire/v/wn/emotion/]"
+    },
+    {
+      "target": "incoraggiare",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/encourage/v/,/c/it/incoraggiare/]"
+    },
+    {
+      "target": "hope",
+      "relationship": "Causes",
+      "weight": 2.0,
+      "uri": "/a/[/r/Causes/,/c/en/encourage/v/wn/emotion/,/c/en/hope/v/wn/emotion/]"
+    },
+    {
+      "target": "\u0437\u0430\u043e\u0445\u043e\u0447\u0443\u0432\u0430\u0442\u0438",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/encourage/v/,/c/uk/\u0437\u0430\u043e\u0445\u043e\u0447\u0443\u0432\u0430\u0442\u0438/]"
+    },
+    {
+      "target": "\u062a\u0634\u0648\u06cc\u0642 \u06a9\u0631\u062f\u0646",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/encourage/v/,/c/fa/\u062a\u0634\u0648\u06cc\u0642_\u06a9\u0631\u062f\u0646/]"
+    },
+    {
+      "target": "popiera\u0107",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/encourage/v/,/c/pl/popiera\u0107/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "Synonym",
+    "MannerOf",
+    "Antonym",
+    "Causes"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "encourage",
+  "single_word_validated": true
+}

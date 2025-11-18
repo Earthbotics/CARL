@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1756253932.7416909,
+  "edges": [
+    {
+      "target": "nonstandard",
+      "relationship": "HasContext",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasContext/,/c/en/nyc/a/,/c/en/nonstandard/]"
+    },
+    {
+      "target": "new york city",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/nyc/n/,/c/en/new_york_city/]"
+    },
+    {
+      "target": "new york",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/nyc/n/,/c/en/new_york/]"
+    },
+    {
+      "target": "city of new york",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/nyc/n/,/c/en/city_of_new_york/]"
+    },
+    {
+      "target": "nice",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/nyc/a/,/c/en/nice/]"
+    },
+    {
+      "target": "\u0433 \u043d\u044c\u044e \u0439\u043e\u0440\u043a",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/nyc/n/,/c/ru/\u0433_\u043d\u044c\u044e_\u0439\u043e\u0440\u043a/]"
+    },
+    {
+      "target": "ny",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/nyc/n/,/c/en/ny/]"
+    },
+    {
+      "target": "nys",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/nyc/n/,/c/en/nys/]"
+    },
+    {
+      "target": "nice",
+      "relationship": "EtymologicallyRelatedTo",
+      "weight": 0.25,
+      "uri": "/a/[/r/EtymologicallyRelatedTo/,/c/en/nyc/,/c/en/nice/]"
+    },
+    {
+      "target": "nyc",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/nyc/,/http://en.wiktionary.org/wiki/nyc/]"
+    }
+  ],
+  "relationships": [
+    "HasContext",
+    "Synonym",
+    "RelatedTo",
+    "EtymologicallyRelatedTo",
+    "ExternalURL"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "nyc",
+  "single_word_validated": true
+}

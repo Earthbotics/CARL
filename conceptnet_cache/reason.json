@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1755960733.6683676,
+  "edges": [
+    {
+      "target": "argue",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/reason/v/wn/communication/,/c/en/argue/v/wn/communication/]"
+    },
+    {
+      "target": "cause",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/reason/n/wn/communication/,/c/en/cause/n/wn/communication/]"
+    },
+    {
+      "target": "think",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/reason/v/wn/cognition/,/c/en/think/v/wn/cognition/]"
+    },
+    {
+      "target": "explanation",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/reason/n/wn/communication/,/c/en/explanation/n/wn/communication/]"
+    },
+    {
+      "target": "faculty",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/reason/n/wn/cognition/,/c/en/faculty/n/wn/cognition/]"
+    },
+    {
+      "target": "motivo",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/reason/n/,/c/pt/motivo/]"
+    },
+    {
+      "target": "rational motive",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/reason/n/wn/motive/,/c/en/rational_motive/n/wn/motive/]"
+    },
+    {
+      "target": "rationality",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/reason/n/wn/state/,/c/en/rationality/n/wn/state/]"
+    },
+    {
+      "target": "razlog",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/reason/n/,/c/sh/razlog/]"
+    },
+    {
+      "target": "uzrok",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/reason/n/,/c/sh/uzrok/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "MannerOf",
+    "IsA"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "reason",
+  "single_word_validated": true
+}

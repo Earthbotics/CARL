@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1754751428.3291373,
+  "edges": [
+    {
+      "target": "a place to live in",
+      "relationship": "IsA",
+      "weight": 4.0,
+      "uri": "/a/[/r/IsA/,/c/en/apartment/,/c/en/place_to_live_in/]"
+    },
+    {
+      "target": "a town",
+      "relationship": "AtLocation",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/AtLocation/,/c/en/apartment/,/c/en/town/]"
+    },
+    {
+      "target": "flat",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/apartment/n/,/c/en/flat/]"
+    },
+    {
+      "target": "an apartment building",
+      "relationship": "AtLocation",
+      "weight": 2.0,
+      "uri": "/a/[/r/AtLocation/,/c/en/apartment/,/c/en/apartment_building/]"
+    },
+    {
+      "target": "apartment building",
+      "relationship": "PartOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/PartOf/,/c/en/apartment/n/wn/artifact/,/c/en/apartment_building/n/wn/artifact/]"
+    },
+    {
+      "target": "housing",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/apartment/n/wn/artifact/,/c/en/housing/n/wn/artifact/]"
+    },
+    {
+      "target": "and apartment complex",
+      "relationship": "AtLocation",
+      "weight": 2.0,
+      "uri": "/a/[/r/AtLocation/,/c/en/apartment/,/c/en/and_apartment_complex/]"
+    },
+    {
+      "target": "stan",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/apartment/n/,/c/sh/stan/]"
+    },
+    {
+      "target": "\u0444\u0430\u0442\u0438\u0440",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/apartment/n/,/c/ba/\u0444\u0430\u0442\u0438\u0440/]"
+    },
+    {
+      "target": "\u043a\u0432\u0430\u0440\u0442\u0438\u0440\u0430",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/apartment/n/,/c/kk/\u043a\u0432\u0430\u0440\u0442\u0438\u0440\u0430/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "AtLocation",
+    "Synonym",
+    "PartOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "apartment",
+  "single_word_validated": true
+}

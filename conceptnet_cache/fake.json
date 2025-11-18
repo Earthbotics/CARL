@@ -1,0 +1,73 @@
+{
+  "has_data": true,
+  "last_lookup": 1754264559.781141,
+  "edges": [
+    {
+      "target": "fudge",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/fake/v/wn/social/,/c/en/fudge/v/wn/social/]"
+    },
+    {
+      "target": "imitation",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/fake/n/wn/artifact/,/c/en/imitation/n/wn/artifact/]"
+    },
+    {
+      "target": "imposter",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/fake/n/wn/person/,/c/en/imposter/n/wn/person/]"
+    },
+    {
+      "target": "juke",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/fake/n/wn/football/,/c/en/juke/n/wn/football/]"
+    },
+    {
+      "target": "phoney",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/fake/a/wn/,/c/en/phoney/a/wn/]"
+    },
+    {
+      "target": "forge",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/fake/v/wn/creation/,/c/en/forge/v/wn/creation/]"
+    },
+    {
+      "target": "bullshit",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/fake/v/wn/communication/,/c/en/bullshit/v/wn/communication/]"
+    },
+    {
+      "target": "faux",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/fake/a/wn/,/c/en/faux/a/wn/]"
+    },
+    {
+      "target": "\u0436\u0430\u0441\u0430\u043b\u043c\u0430",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/fake/a/wikt/en_1/,/c/ky/\u0436\u0430\u0441\u0430\u043b\u043c\u0430/]"
+    },
+    {
+      "target": "gastan",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/fake/a/wikt/en_1/,/c/tr/gastan/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "IsA"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "fake",
+  "single_word_validated": true
+}

@@ -1,0 +1,73 @@
+{
+  "has_data": true,
+  "last_lookup": 1757792168.9824338,
+  "edges": [
+    {
+      "target": "clock",
+      "relationship": "RelatedTo",
+      "weight": 6.805585940975252,
+      "uri": "/a/[/r/RelatedTo/,/c/en/time/,/c/en/clock/]"
+    },
+    {
+      "target": "minutes",
+      "relationship": "RelatedTo",
+      "weight": 6.059372904847498,
+      "uri": "/a/[/r/RelatedTo/,/c/en/time/,/c/en/minutes/]"
+    },
+    {
+      "target": "hours",
+      "relationship": "RelatedTo",
+      "weight": 5.941380311005179,
+      "uri": "/a/[/r/RelatedTo/,/c/en/time/,/c/en/hours/]"
+    },
+    {
+      "target": "seconds",
+      "relationship": "RelatedTo",
+      "weight": 5.14159508324022,
+      "uri": "/a/[/r/RelatedTo/,/c/en/time/,/c/en/seconds/]"
+    },
+    {
+      "target": "measurement",
+      "relationship": "RelatedTo",
+      "weight": 4.369897023958345,
+      "uri": "/a/[/r/RelatedTo/,/c/en/time/,/c/en/measurement/]"
+    },
+    {
+      "target": "watch",
+      "relationship": "RelatedTo",
+      "weight": 4.170371686073077,
+      "uri": "/a/[/r/RelatedTo/,/c/en/time/,/c/en/watch/]"
+    },
+    {
+      "target": "clocks",
+      "relationship": "RelatedTo",
+      "weight": 4.0639881889592155,
+      "uri": "/a/[/r/RelatedTo/,/c/en/time/,/c/en/clocks/]"
+    },
+    {
+      "target": "a linear concept",
+      "relationship": "IsA",
+      "weight": 4.0,
+      "uri": "/a/[/r/IsA/,/c/en/time/,/c/en/linear_concept/]"
+    },
+    {
+      "target": "measure",
+      "relationship": "RelatedTo",
+      "weight": 3.5743530883224164,
+      "uri": "/a/[/r/RelatedTo/,/c/en/time/,/c/en/measure/]"
+    },
+    {
+      "target": "hour",
+      "relationship": "RelatedTo",
+      "weight": 3.3609522460160015,
+      "uri": "/a/[/r/RelatedTo/,/c/en/time/,/c/en/hour/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "IsA"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "time",
+  "single_word_validated": true
+}

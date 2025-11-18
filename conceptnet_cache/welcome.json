@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1758329690.0888681,
+  "edges": [
+    {
+      "target": "receive",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/welcome/v/wn/contact/,/c/en/receive/v/wn/contact/]"
+    },
+    {
+      "target": "acceptance",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/welcome/n/wn/state/,/c/en/acceptance/n/wn/state/]"
+    },
+    {
+      "target": "greet",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/welcome/v/wn/communication/,/c/en/greet/v/wn/communication/]"
+    },
+    {
+      "target": "accept",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/welcome/v/wn/possession/,/c/en/accept/v/wn/possession/]"
+    },
+    {
+      "target": "wanted",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/welcome/a/wn/,/c/en/wanted/a/wn/]"
+    },
+    {
+      "target": "greeting",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/welcome/n/wn/communication/,/c/en/greeting/n/wn/communication/]"
+    },
+    {
+      "target": "greeting",
+      "relationship": "RelatedTo",
+      "weight": 1.315,
+      "uri": "/a/[/r/RelatedTo/,/c/en/welcome/,/c/en/greeting/]"
+    },
+    {
+      "target": "benvindo",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/welcome/a/,/c/gl/benvindo/]"
+    },
+    {
+      "target": "walcum",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/welcome/a/,/c/sco/walcum/]"
+    },
+    {
+      "target": "benvido",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/welcome/a/,/c/gl/benvido/]"
+    }
+  ],
+  "relationships": [
+    "MannerOf",
+    "IsA",
+    "RelatedTo",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "welcome",
+  "single_word_validated": true
+}

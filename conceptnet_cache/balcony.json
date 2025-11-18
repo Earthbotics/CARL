@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1758248168.798818,
+  "edges": [
+    {
+      "target": "an opera",
+      "relationship": "AtLocation",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/AtLocation/,/c/en/balcony/,/c/en/opera/]"
+    },
+    {
+      "target": "structure",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/balcony/n/wn/artifact/,/c/en/structure/n/wn/artifact/]"
+    },
+    {
+      "target": "a theater",
+      "relationship": "AtLocation",
+      "weight": 2.0,
+      "uri": "/a/[/r/AtLocation/,/c/en/balcony/,/c/en/theater/]"
+    },
+    {
+      "target": "a house",
+      "relationship": "AtLocation",
+      "weight": 2.0,
+      "uri": "/a/[/r/AtLocation/,/c/en/balcony/,/c/en/house/]"
+    },
+    {
+      "target": "balkon",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/balcony/n/,/c/sh/balkon/]"
+    },
+    {
+      "target": "balkono",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/balcony/n/,/c/io/balkono/]"
+    },
+    {
+      "target": "movie house",
+      "relationship": "AtLocation",
+      "weight": 1.0,
+      "uri": "/a/[/r/AtLocation/,/c/en/balcony/,/c/en/movie_house/]"
+    },
+    {
+      "target": "balk\u00f3n",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/balcony/n/,/c/cs/balk\u00f3n/]"
+    },
+    {
+      "target": "\u05d2\u05d6\u05d5\u05d6\u05d8\u05e8\u05d4",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/balcony/n/,/c/he/\u05d2\u05d6\u05d5\u05d6\u05d8\u05e8\u05d4/]"
+    },
+    {
+      "target": "balcone",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/balcony/n/,/c/it/balcone/]"
+    }
+  ],
+  "relationships": [
+    "AtLocation",
+    "IsA",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "balcony",
+  "single_word_validated": true
+}

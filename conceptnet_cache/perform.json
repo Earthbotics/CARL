@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1755884471.923586,
+  "edges": [
+    {
+      "target": "practice",
+      "relationship": "HasPrerequisite",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/HasPrerequisite/,/c/en/perform/,/c/en/practice/]"
+    },
+    {
+      "target": "rehearse",
+      "relationship": "HasPrerequisite",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/HasPrerequisite/,/c/en/perform/,/c/en/rehearse/]"
+    },
+    {
+      "target": "applause",
+      "relationship": "HasSubevent",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/HasSubevent/,/c/en/perform/,/c/en/applause/]"
+    },
+    {
+      "target": "bow",
+      "relationship": "HasLastSubevent",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/HasLastSubevent/,/c/en/perform/,/c/en/bow/]"
+    },
+    {
+      "target": "music",
+      "relationship": "HasSubevent",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/HasSubevent/,/c/en/perform/,/c/en/music/]"
+    },
+    {
+      "target": "smile",
+      "relationship": "HasSubevent",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/HasSubevent/,/c/en/perform/,/c/en/smile/]"
+    },
+    {
+      "target": "take a bow",
+      "relationship": "HasLastSubevent",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/HasLastSubevent/,/c/en/perform/,/c/en/take_bow/]"
+    },
+    {
+      "target": "do",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/perform/v/wn/social/,/c/en/do/v/wn/social/]"
+    },
+    {
+      "target": "have some talent",
+      "relationship": "HasPrerequisite",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasPrerequisite/,/c/en/perform/,/c/en/have_talent/]"
+    },
+    {
+      "target": "act",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/perform/v/wn/social/,/c/en/act/v/wn/social/]"
+    }
+  ],
+  "relationships": [
+    "HasPrerequisite",
+    "HasSubevent",
+    "HasLastSubevent",
+    "Synonym",
+    "MannerOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "perform",
+  "single_word_validated": true
+}

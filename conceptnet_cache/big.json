@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1755960508.585727,
+  "edges": [
+    {
+      "target": "large",
+      "relationship": "RelatedTo",
+      "weight": 2.460081299469593,
+      "uri": "/a/[/r/RelatedTo/,/c/en/big/,/c/en/large/]"
+    },
+    {
+      "target": "heavy",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/big/a/wn/,/c/en/heavy/a/wn/]"
+    },
+    {
+      "target": "fully grown",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/big/a/wn/animal/,/c/en/fully_grown/a/wn/animal/]"
+    },
+    {
+      "target": "vainglorious",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/big/a/wn/,/c/en/vainglorious/a/wn/]"
+    },
+    {
+      "target": "bighearted",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/big/a/wn/,/c/en/bighearted/a/wn/]"
+    },
+    {
+      "target": "loud",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/big/a/wn/,/c/en/loud/a/wn/]"
+    },
+    {
+      "target": "self-aggrandising",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/big/a/wn/,/c/en/self_aggrandising/a/wn/]"
+    },
+    {
+      "target": "boastfully",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/big/r/wn/,/c/en/boastfully/r/wn/]"
+    },
+    {
+      "target": "with child",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/big/a/wn/,/c/en/with_child/a/wn/]"
+    },
+    {
+      "target": "magnanimous",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/big/a/wn/,/c/en/magnanimous/a/wn/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "SimilarTo",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "big",
+  "single_word_validated": true
+}

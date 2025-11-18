@@ -1,0 +1,73 @@
+{
+  "has_data": true,
+  "last_lookup": 1755743158.6524718,
+  "edges": [
+    {
+      "target": "wonder",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/inquire/v/wn/cognition/,/c/en/wonder/v/wn/cognition/]"
+    },
+    {
+      "target": "ask",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/inquire/v/wn/communication/,/c/en/ask/v/wn/communication/]"
+    },
+    {
+      "target": "investigate",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/inquire/v/wn/communication/,/c/en/investigate/v/wn/communication/]"
+    },
+    {
+      "target": "sp\u00f8rre",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/inquire/v/,/c/no/sp\u00f8rre/]"
+    },
+    {
+      "target": "\u6253\u542c",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/inquire/v/,/c/zh/\u6253\u542c/]"
+    },
+    {
+      "target": "\u6253\u807d",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/inquire/v/,/c/zh/\u6253\u807d/]"
+    },
+    {
+      "target": "se renseigner",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/inquire/v/,/c/fr/se_renseigner/]"
+    },
+    {
+      "target": "inquisitor",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/inquire/,/c/en/inquisitor/]"
+    },
+    {
+      "target": "scitor",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/inquire/v/,/c/la/scitor/]"
+    },
+    {
+      "target": "sciscitor",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/inquire/v/,/c/la/sciscitor/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "inquire",
+  "single_word_validated": true
+}

@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1761757937.553136,
+  "edges": [
+    {
+      "target": "acknowledgment",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/greeting/n/wn/communication/,/c/en/acknowledgment/n/wn/communication/]"
+    },
+    {
+      "target": "k\u00f6sz\u00f6nt\u00e9s",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/greeting/n/,/c/hu/k\u00f6sz\u00f6nt\u00e9s/]"
+    },
+    {
+      "target": "\u00fcdv\u00f6zlet",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/greeting/n/,/c/hu/\u00fcdv\u00f6zlet/]"
+    },
+    {
+      "target": "m\u0101nawa",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/greeting/n/,/c/mi/m\u0101nawa/]"
+    },
+    {
+      "target": "begroeting",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/greeting/n/,/c/nl/begroeting/]"
+    },
+    {
+      "target": "salut",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/greeting/n/,/c/fr/salut/]"
+    },
+    {
+      "target": "heilsa",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/greeting/n/,/c/fo/heilsa/]"
+    },
+    {
+      "target": "saluto",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/greeting/n/,/c/io/saluto/]"
+    },
+    {
+      "target": "sauda\u00e7\u00e3o",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/greeting/n/,/c/pt/sauda\u00e7\u00e3o/]"
+    },
+    {
+      "target": "\u043f\u043e\u0437\u0434\u0440\u0430\u0432",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/greeting/n/,/c/bg/\u043f\u043e\u0437\u0434\u0440\u0430\u0432/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "Synonym",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "greeting",
+  "single_word_validated": true
+}

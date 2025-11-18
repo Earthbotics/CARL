@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1755273991.6980355,
+  "edges": [
+    {
+      "target": "look",
+      "relationship": "RelatedTo",
+      "weight": 2.7683930356797246,
+      "uri": "/a/[/r/RelatedTo/,/c/en/see/,/c/en/look/]"
+    },
+    {
+      "target": "attend",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/see/v/wn/social/,/c/en/attend/v/wn/social/]"
+    },
+    {
+      "target": "verify",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/see/v/wn/cognition/,/c/en/verify/v/wn/cognition/]"
+    },
+    {
+      "target": "bet",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/see/v/wn/card_game/,/c/en/bet/v/wn/competition/]"
+    },
+    {
+      "target": "watch",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/see/v/wn/perception/,/c/en/watch/v/wn/perception/]"
+    },
+    {
+      "target": "examine",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/see/v/wn/perception/,/c/en/examine/v/wn/perception/]"
+    },
+    {
+      "target": "diocese",
+      "relationship": "PartOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/PartOf/,/c/en/see/n/wn/location/,/c/en/diocese/n/wn/location/]"
+    },
+    {
+      "target": "witness",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/see/v/wn/perception/,/c/en/witness/v/wn/perception/]"
+    },
+    {
+      "target": "experience",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/see/v/wn/perception/,/c/en/experience/v/wn/perception/]"
+    },
+    {
+      "target": "understand",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/see/v/wn/cognition/,/c/en/understand/v/wn/cognition/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "Synonym",
+    "MannerOf",
+    "PartOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "see",
+  "single_word_validated": true
+}

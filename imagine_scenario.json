@@ -1,0 +1,257 @@
+{
+    "name": "imagine_scenario",
+    "type": "cognitive_skill",
+    "description": "Generate mental imagery and visual scenarios using imagination system",
+    "category": "mental_processing",
+    "prerequisite_pose": "any",
+    "activation_keywords": [
+        "imagine",
+        "visualize",
+        "picture",
+        "envision",
+        "dream up",
+        "think about",
+        "create a scene",
+        "imagine if",
+        "what if",
+        "suppose",
+        "fantasize",
+        "conjure up"
+    ],
+    "execution_method": "imagination_system",
+    "parameters": {
+        "seed": {
+            "type": "string",
+            "description": "The seed concept or scenario to imagine",
+            "required": true,
+            "default": "interaction with Joe"
+        },
+        "purpose": {
+            "type": "string",
+            "description": "Purpose of imagination",
+            "required": false,
+            "default": "explore-scenario",
+            "options": [
+                "plan-social-interaction",
+                "explore-scenario",
+                "counterfactual",
+                "creative-exploration",
+                "problem-solving",
+                "future-planning"
+            ]
+        },
+        "constraints": {
+            "type": "object",
+            "description": "Optional constraints for the imagination",
+            "required": false,
+            "default": {}
+        },
+        "render_type": {
+            "type": "string",
+            "description": "Type of rendering",
+            "required": false,
+            "default": "image",
+            "options": ["image", "schema", "both"]
+        }
+    },
+    "execution_steps": [
+        {
+            "step": 1,
+            "action": "validate_input",
+            "description": "Validate imagination parameters"
+        },
+        {
+            "step": 2,
+            "action": "get_cognitive_state",
+            "description": "Retrieve current NEUCOGAR and MBTI state"
+        },
+        {
+            "step": 3,
+            "action": "select_cues",
+            "description": "Select relevant cues for imagination"
+        },
+        {
+            "step": 4,
+            "action": "retrieve_fragments",
+            "description": "Retrieve episodic and semantic fragments"
+        },
+        {
+            "step": 5,
+            "action": "generate_blends",
+            "description": "Create conceptual blends from fragments"
+        },
+        {
+            "step": 6,
+            "action": "build_scenes",
+            "description": "Build scene graphs from blends"
+        },
+        {
+            "step": 7,
+            "action": "score_scenes",
+            "description": "Score scenes for quality metrics"
+        },
+        {
+            "step": 8,
+            "action": "select_best_scene",
+            "description": "Select the best scene based on scores"
+        },
+        {
+            "step": 9,
+            "action": "generate_image",
+            "description": "Generate visual image if requested"
+        },
+        {
+            "step": 10,
+            "action": "store_episode",
+            "description": "Store imagined episode as memory"
+        },
+        {
+            "step": 11,
+            "action": "broadcast_result",
+            "description": "Broadcast result to global workspace"
+        }
+    ],
+    "success_criteria": {
+        "coherence_score": 0.6,
+        "plausibility_score": 0.5,
+        "novelty_score": 0.3,
+        "utility_score": 0.4,
+        "vividness_score": 0.4,
+        "affect_alignment": 0.5
+    },
+    "failure_handling": {
+        "timeout": {
+            "action": "return_partial_result",
+            "timeout_seconds": 30
+        },
+        "api_error": {
+            "action": "fallback_to_schema",
+            "description": "Use schema rendering if image generation fails"
+        },
+        "insufficient_fragments": {
+            "action": "use_default_scene",
+            "description": "Use default scene if insufficient fragments found"
+        }
+    },
+    "emotional_impact": {
+        "positive": {
+            "curiosity": 0.7,
+            "wonder": 0.6,
+            "creativity": 0.8,
+            "inspiration": 0.6
+        },
+        "negative": {
+            "frustration": 0.2,
+            "confusion": 0.1
+        }
+    },
+    "neucogar_effects": {
+        "dopamine": 0.1,
+        "serotonin": 0.05,
+        "noradrenaline": 0.05
+    },
+    "learning_integration": {
+        "pattern_recognition": [
+            "imagination_triggers",
+            "scene_construction_patterns",
+            "conceptual_blending_rules"
+        ],
+        "skill_progression": {
+            "current_level": "intermediate",
+            "next_milestone": "advanced_scene_construction",
+            "practice_opportunities": [
+                "daily_imagination_sessions",
+                "creative_problem_solving",
+                "future_planning_scenarios"
+            ]
+        }
+    },
+    "related_skills": [
+        "visualize_concept",
+        "create_mental_image",
+        "plan_future_action",
+        "explore_possibilities",
+        "problem_solve_creatively"
+    ],
+    "linked_concepts": [
+        "imagination",
+        "creativity",
+        "visualization",
+        "planning",
+        "exploration",
+        "mental_imagery",
+        "conceptual_blending",
+        "episodic_simulation"
+    ],
+    "usage_contexts": [
+        "planning_future_actions",
+        "exploring_possibilities",
+        "creative_problem_solving",
+        "social_interaction_planning",
+        "learning_new_concepts",
+        "entertainment_and_play"
+    ],
+    "autonomous_triggers": [
+        {
+            "condition": "high_curiosity_state",
+            "threshold": 0.7,
+            "action": "trigger_creative_exploration"
+        },
+        {
+            "condition": "planning_required",
+            "threshold": 0.6,
+            "action": "trigger_future_simulation"
+        },
+        {
+            "condition": "novel_situation",
+            "threshold": 0.8,
+            "action": "trigger_scenario_exploration"
+        },
+        {
+            "condition": "problem_solving_needed",
+            "threshold": 0.5,
+            "action": "trigger_creative_solution_search"
+        }
+    ],
+    "performance_metrics": {
+        "execution_time": {
+            "target": "under_30_seconds",
+            "typical": "18-25_seconds",
+            "acceptable": "under_60_seconds"
+        },
+        "quality_scores": {
+            "coherence": "target_0.7",
+            "plausibility": "target_0.6",
+            "novelty": "target_0.5",
+            "utility": "target_0.6",
+            "vividness": "target_0.5"
+        },
+        "user_satisfaction": {
+            "target": "high",
+            "measurement": "subjective_rating"
+        }
+    },
+    "safety_considerations": {
+        "content_filtering": {
+            "enabled": true,
+            "filters": [
+                "no_harmful_content",
+                "no_inappropriate_imagery",
+                "no_logos_or_text",
+                "safe_for_all_ages"
+            ]
+        },
+        "emotional_safety": {
+            "avoid_negative_scenarios": true,
+            "maintain_positive_tone": true,
+            "respect_emotional_boundaries": true
+        }
+    },
+    "integration_points": {
+        "memory_system": "store_imagined_episodes",
+        "concept_system": "link_to_related_concepts",
+        "neucogar_engine": "mood_dependent_generation",
+        "gui_system": "display_imagined_images",
+        "action_system": "mental_rehearsal_before_actions"
+    }
+}

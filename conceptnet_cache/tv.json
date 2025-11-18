@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1760489785.2617545,
+  "edges": [
+    {
+      "target": "an abbreviation for television",
+      "relationship": "IsA",
+      "weight": 6.928203230275509,
+      "uri": "/a/[/r/IsA/,/c/en/tv/,/c/en/abbreviation_for_television/]"
+    },
+    {
+      "target": "your house",
+      "relationship": "AtLocation",
+      "weight": 5.656854249492381,
+      "uri": "/a/[/r/AtLocation/,/c/en/tv/,/c/en/house/]"
+    },
+    {
+      "target": "family room",
+      "relationship": "AtLocation",
+      "weight": 4.47213595499958,
+      "uri": "/a/[/r/AtLocation/,/c/en/tv/,/c/en/family_room/]"
+    },
+    {
+      "target": "short for television",
+      "relationship": "HasProperty",
+      "weight": 4.47213595499958,
+      "uri": "/a/[/r/HasProperty/,/c/en/tv/,/c/en/short_for_television/]"
+    },
+    {
+      "target": "entertainment",
+      "relationship": "UsedFor",
+      "weight": 4.47213595499958,
+      "uri": "/a/[/r/UsedFor/,/c/en/tv/,/c/en/entertainment/]"
+    },
+    {
+      "target": "a livingroom",
+      "relationship": "AtLocation",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/AtLocation/,/c/en/tv/,/c/en/livingroom/]"
+    },
+    {
+      "target": "watching movies",
+      "relationship": "UsedFor",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/UsedFor/,/c/en/tv/,/c/en/watching_movies/]"
+    },
+    {
+      "target": "an appliance store",
+      "relationship": "AtLocation",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/AtLocation/,/c/en/tv/,/c/en/appliance_store/]"
+    },
+    {
+      "target": "give information",
+      "relationship": "UsedFor",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/UsedFor/,/c/en/tv/,/c/en/give_information/]"
+    },
+    {
+      "target": "watch the news",
+      "relationship": "UsedFor",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/UsedFor/,/c/en/tv/,/c/en/watch_news/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "AtLocation",
+    "HasProperty",
+    "UsedFor"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "tv",
+  "single_word_validated": true
+}

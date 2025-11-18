@@ -1,0 +1,73 @@
+{
+  "has_data": true,
+  "last_lookup": 1757469360.1675763,
+  "edges": [
+    {
+      "target": "good",
+      "relationship": "RelatedTo",
+      "weight": 3.263740185737829,
+      "uri": "/a/[/r/RelatedTo/,/c/en/excellent/,/c/en/good/]"
+    },
+    {
+      "target": "best",
+      "relationship": "RelatedTo",
+      "weight": 2.307379465974334,
+      "uri": "/a/[/r/RelatedTo/,/c/en/excellent/,/c/en/best/]"
+    },
+    {
+      "target": "fantabulous",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/excellent/a/wn/,/c/en/fantabulous/a/wn/]"
+    },
+    {
+      "target": "odli\u010dan",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/excellent/a/,/c/sh/odli\u010dan/]"
+    },
+    {
+      "target": "excellent",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/excellent/a/,/c/fr/excellent/]"
+    },
+    {
+      "target": "very",
+      "relationship": "RelatedTo",
+      "weight": 1.912,
+      "uri": "/a/[/r/RelatedTo/,/c/en/excellent/,/c/en/very/]"
+    },
+    {
+      "target": "great",
+      "relationship": "RelatedTo",
+      "weight": 1.6749999999999998,
+      "uri": "/a/[/r/RelatedTo/,/c/en/excellent/,/c/en/great/]"
+    },
+    {
+      "target": "very good",
+      "relationship": "RelatedTo",
+      "weight": 1.4980000000000002,
+      "uri": "/a/[/r/RelatedTo/,/c/en/excellent/,/c/en/very_good/]"
+    },
+    {
+      "target": "adjective",
+      "relationship": "RelatedTo",
+      "weight": 1.4100000000000001,
+      "uri": "/a/[/r/RelatedTo/,/c/en/excellent/,/c/en/adjective/]"
+    },
+    {
+      "target": "\u4f18\u79c0",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/excellent/a/,/c/zh/\u4f18\u79c0/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "excellent",
+  "single_word_validated": true
+}

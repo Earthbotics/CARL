@@ -1,0 +1,77 @@
+{
+  "has_data": true,
+  "last_lookup": 1761621409.6962738,
+  "edges": [
+    {
+      "target": "request",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/asking/n/wn/communication/,/c/en/request/n/wn/communication/]"
+    },
+    {
+      "target": "rare in singular",
+      "relationship": "HasContext",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasContext/,/c/en/asking/n/,/c/en/rare_in_singular/]"
+    },
+    {
+      "target": "ask",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/asking/v/,/c/en/ask/]"
+    },
+    {
+      "target": "answering",
+      "relationship": "Causes",
+      "weight": 1.0,
+      "uri": "/a/[/r/Causes/,/c/en/asking/,/c/en/answering/]"
+    },
+    {
+      "target": "askin",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/asking/,/c/en/askin/v/]"
+    },
+    {
+      "target": "petition",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/asking/n/,/c/en/petition/]"
+    },
+    {
+      "target": "ask",
+      "relationship": "DerivedFrom",
+      "weight": 1.0,
+      "uri": "/a/[/r/DerivedFrom/,/c/en/asking/,/c/en/ask/]"
+    },
+    {
+      "target": "request",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/asking/n/,/c/en/request/]"
+    },
+    {
+      "target": "ask",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/asking/v/,/c/en/ask/]"
+    },
+    {
+      "target": "ask",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/asking/,/c/en/ask/v/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "HasContext",
+    "FormOf",
+    "Causes",
+    "RelatedTo",
+    "DerivedFrom"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "asking",
+  "single_word_validated": true
+}

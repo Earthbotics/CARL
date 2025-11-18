@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1754839964.483414,
+  "edges": [
+    {
+      "target": "present",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/pose/v/wn/stative/,/c/en/present/v/wn/stative/]"
+    },
+    {
+      "target": "behave",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/pose/v/wn/social/,/c/en/behave/v/wn/social/]"
+    },
+    {
+      "target": "model",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/pose/v/wn/art/,/c/en/model/v/wn/art/]"
+    },
+    {
+      "target": "put",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/pose/v/wn/contact/,/c/en/put/v/wn/contact/]"
+    },
+    {
+      "target": "deceive",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/pose/v/wn/communication/,/c/en/deceive/v/wn/communication/]"
+    },
+    {
+      "target": "airs",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/pose/n/wn/attribute/,/c/en/airs/n/wn/attribute/]"
+    },
+    {
+      "target": "position",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/pose/n/wn/attribute/,/c/en/position/n/wn/attribute/]"
+    },
+    {
+      "target": "affectation",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/pose/n/wn/act/,/c/en/affectation/n/wn/act/]"
+    },
+    {
+      "target": "perplex",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/pose/v/wn/cognition/,/c/en/perplex/v/wn/cognition/]"
+    },
+    {
+      "target": "human activity",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/pose/n/,/c/en/human_activity/n/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "MannerOf",
+    "IsA"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "pose",
+  "single_word_validated": true
+}

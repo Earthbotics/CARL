@@ -1,0 +1,77 @@
+{
+  "has_data": true,
+  "last_lookup": 1759787406.4925272,
+  "edges": [
+    {
+      "target": "love",
+      "relationship": "RelatedTo",
+      "weight": 3.3244548425268166,
+      "uri": "/a/[/r/RelatedTo/,/c/en/like/,/c/en/love/]"
+    },
+    {
+      "target": "similar",
+      "relationship": "RelatedTo",
+      "weight": 2.8064212085857676,
+      "uri": "/a/[/r/RelatedTo/,/c/en/like/,/c/en/similar/]"
+    },
+    {
+      "target": "the like",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/like/n/wn/cognition/,/c/en/like/n/wn/cognition/]"
+    },
+    {
+      "target": "equal",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/like/a/wn/,/c/en/equal/a/wn/]"
+    },
+    {
+      "target": "desire",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/like/v/wn/emotion/,/c/en/desire/v/wn/emotion/]"
+    },
+    {
+      "target": "suchlike",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/like/a/wn/,/c/en/suchlike/a/wn/]"
+    },
+    {
+      "target": "alike p ",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/like/a/wn/,/c/en/alike_p/a/wn/]"
+    },
+    {
+      "target": "voliti",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/like/v/wikt/en_1/,/c/sh/voliti/]"
+    },
+    {
+      "target": "approve",
+      "relationship": "Entails",
+      "weight": 2.0,
+      "uri": "/a/[/r/Entails/,/c/en/like/v/wn/emotion/,/c/en/approve/v/wn/cognition/]"
+    },
+    {
+      "target": "kind",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/like/n/wn/cognition/,/c/en/kind/n/wn/cognition/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "Synonym",
+    "MannerOf",
+    "SimilarTo",
+    "Entails",
+    "IsA"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "like",
+  "single_word_validated": true
+}

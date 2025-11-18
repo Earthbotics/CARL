@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1756751693.8355706,
+  "edges": [
+    {
+      "target": "table",
+      "relationship": "RelatedTo",
+      "weight": 7.900379737708814,
+      "uri": "/a/[/r/RelatedTo/,/c/en/desk/,/c/en/table/]"
+    },
+    {
+      "target": "office",
+      "relationship": "RelatedTo",
+      "weight": 6.521042861383446,
+      "uri": "/a/[/r/RelatedTo/,/c/en/desk/,/c/en/office/]"
+    },
+    {
+      "target": "furniture",
+      "relationship": "RelatedTo",
+      "weight": 6.226074204504794,
+      "uri": "/a/[/r/RelatedTo/,/c/en/desk/,/c/en/furniture/]"
+    },
+    {
+      "target": "writing",
+      "relationship": "RelatedTo",
+      "weight": 5.263458938758808,
+      "uri": "/a/[/r/RelatedTo/,/c/en/desk/,/c/en/writing/]"
+    },
+    {
+      "target": "work",
+      "relationship": "RelatedTo",
+      "weight": 5.197691795403033,
+      "uri": "/a/[/r/RelatedTo/,/c/en/desk/,/c/en/work/]"
+    },
+    {
+      "target": "working",
+      "relationship": "UsedFor",
+      "weight": 4.47213595499958,
+      "uri": "/a/[/r/UsedFor/,/c/en/desk/,/c/en/working/]"
+    },
+    {
+      "target": "a furniture",
+      "relationship": "IsA",
+      "weight": 4.47213595499958,
+      "uri": "/a/[/r/IsA/,/c/en/desk/,/c/en/furniture/]"
+    },
+    {
+      "target": "surface",
+      "relationship": "RelatedTo",
+      "weight": 3.9120327196995675,
+      "uri": "/a/[/r/RelatedTo/,/c/en/desk/,/c/en/surface/]"
+    },
+    {
+      "target": "computer",
+      "relationship": "RelatedTo",
+      "weight": 3.8340579025361627,
+      "uri": "/a/[/r/RelatedTo/,/c/en/desk/,/c/en/computer/]"
+    },
+    {
+      "target": "school",
+      "relationship": "RelatedTo",
+      "weight": 3.258834147360064,
+      "uri": "/a/[/r/RelatedTo/,/c/en/desk/,/c/en/school/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "UsedFor",
+    "IsA"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "desk",
+  "single_word_validated": true
+}

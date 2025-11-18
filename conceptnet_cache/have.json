@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1756771483.8103344,
+  "edges": [
+    {
+      "target": "possess",
+      "relationship": "RelatedTo",
+      "weight": 3.2068676305703665,
+      "uri": "/a/[/r/RelatedTo/,/c/en/have/,/c/en/possess/]"
+    },
+    {
+      "target": "own",
+      "relationship": "RelatedTo",
+      "weight": 3.1893573020281067,
+      "uri": "/a/[/r/RelatedTo/,/c/en/have/,/c/en/own/]"
+    },
+    {
+      "target": "accept",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/have/v/wn/possession/,/c/en/accept/v/wn/possession/]"
+    },
+    {
+      "target": "receive",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/have/v/wn/possession/,/c/en/receive/v/wn/possession/]"
+    },
+    {
+      "target": "take",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/have/v/wn/contact/,/c/en/take/v/wn/contact/]"
+    },
+    {
+      "target": "hold",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/have/v/wn/creation/,/c/en/hold/v/wn/creation/]"
+    },
+    {
+      "target": "imati",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/have/v/wikt/en_1/,/c/sh/imati/]"
+    },
+    {
+      "target": "change",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/have/v/wn/change/,/c/en/change/v/wn/change/]"
+    },
+    {
+      "target": "consume",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/have/v/wn/consumption/,/c/en/consume/v/wn/consumption/]"
+    },
+    {
+      "target": "induce",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/have/v/wn/communication/,/c/en/induce/v/wn/communication/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "Synonym",
+    "MannerOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "have",
+  "single_word_validated": true
+}

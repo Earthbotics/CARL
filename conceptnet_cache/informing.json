@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1761621181.968857,
+  "edges": [
+    {
+      "target": "disclosure",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/informing/n/wn/communication/,/c/en/disclosure/n/wn/communication/]"
+    },
+    {
+      "target": "speech act",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/informing/n/wn/communication/,/c/en/speech_act/n/wn/communication/]"
+    },
+    {
+      "target": "information bearing thing",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/informing/n/,/c/en/information_bearing_thing/n/]"
+    },
+    {
+      "target": "inform",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/informing/v/,/c/en/inform/]"
+    },
+    {
+      "target": "single communication act",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/informing/n/,/c/en/single_communication_act/n/]"
+    },
+    {
+      "target": "107226850-n",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/informing/n/wn/communication/,/http://wordnet-rdf.princeton.edu/wn31/107226850-n/]"
+    },
+    {
+      "target": "107229654-n",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/informing/n/wn/communication/,/http://wordnet-rdf.princeton.edu/wn31/107229654-n/]"
+    },
+    {
+      "target": "Informing",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/informing/n/,/http://sw.opencyc.org/2012/05/10/concept/en/Informing/]"
+    },
+    {
+      "target": "inform",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/informing/v/,/c/en/inform/]"
+    },
+    {
+      "target": "informing",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/informing/,/http://en.wiktionary.org/wiki/informing/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "RelatedTo",
+    "ExternalURL",
+    "FormOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "informing",
+  "single_word_validated": true
+}

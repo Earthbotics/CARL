@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1755918035.6393087,
+  "edges": [
+    {
+      "target": "stand",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/stand/n/,/c/fr/stand/]"
+    },
+    {
+      "target": "tiered seats",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/stand/n/wn/artifact/,/c/en/tiered_seats/n/wn/artifact/]"
+    },
+    {
+      "target": "put",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/stand/v/wn/contact/,/c/en/put/v/wn/contact/]"
+    },
+    {
+      "target": "rack",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/stand/n/wn/artifact/,/c/en/rack/n/wn/artifact/]"
+    },
+    {
+      "target": "serve",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/stand/v/wn/animal_husbandry/,/c/en/serve/v/wn/contact/]"
+    },
+    {
+      "target": "resist",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/stand/v/wn/competition/,/c/en/resist/v/wn/competition/]"
+    },
+    {
+      "target": "vegetation",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/stand/n/wn/group/,/c/en/vegetation/n/wn/plant/]"
+    },
+    {
+      "target": "stop",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/stand/n/wn/event/,/c/en/stop/n/wn/event/]"
+    },
+    {
+      "target": "arise",
+      "relationship": "Entails",
+      "weight": 2.0,
+      "uri": "/a/[/r/Entails/,/c/en/stand/v/wn/contact/,/c/en/arise/v/wn/motion/]"
+    },
+    {
+      "target": "table",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/stand/n/wn/artifact/,/c/en/table/n/wn/artifact/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "IsA",
+    "MannerOf",
+    "Synonym",
+    "Entails"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "stand",
+  "single_word_validated": true
+}

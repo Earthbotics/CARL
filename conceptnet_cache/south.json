@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1757469604.9084718,
+  "edges": [
+    {
+      "target": "in the south",
+      "relationship": "Synonym",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/Synonym/,/c/en/south/r/wn/,/c/en/in_south/r/wn/]"
+    },
+    {
+      "target": "direction",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/south/n/wn/linkdef/,/c/en/direction/n/wn/linkdef/]"
+    },
+    {
+      "target": "southernmost",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/south/a/wn/,/c/en/southernmost/a/wn/]"
+    },
+    {
+      "target": "Confederacy",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/south/n/wn/location/,/c/en/confederacy/n/wn/location/]"
+    },
+    {
+      "target": "location",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/south/n/wn/location/,/c/en/location/n/wn/]"
+    },
+    {
+      "target": "southwestward",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/south/a/wn/,/c/en/southwestward/a/wn/]"
+    },
+    {
+      "target": "cardinal compass point",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/south/n/wn/linkdef/,/c/en/cardinal_compass_point/n/wn/linkdef/]"
+    },
+    {
+      "target": "southeasterly",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/south/a/wn/,/c/en/southeasterly/a/wn/]"
+    },
+    {
+      "target": "southeastward",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/south/a/wn/,/c/en/southeastward/a/wn/]"
+    },
+    {
+      "target": "United States",
+      "relationship": "PartOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/PartOf/,/c/en/south/n/wn/location/,/c/en/united_states/n/wn/location/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "IsA",
+    "SimilarTo",
+    "PartOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "south",
+  "single_word_validated": true
+}

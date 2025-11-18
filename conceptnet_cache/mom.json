@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1761714866.9977047,
+  "edges": [
+    {
+      "target": "mother her baby",
+      "relationship": "CapableOf",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/CapableOf/,/c/en/mom/,/c/en/mother_baby/]"
+    },
+    {
+      "target": "ma",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/mom/n/wn/person/,/c/en/ma/n/wn/person/]"
+    },
+    {
+      "target": "a parent",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/mom/,/c/en/parent/]"
+    },
+    {
+      "target": "mum",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/mom/n/,/c/en/mum/]"
+    },
+    {
+      "target": "mother",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/mom/n/,/c/en/mother/]"
+    },
+    {
+      "target": "mother a child",
+      "relationship": "CapableOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/CapableOf/,/c/en/mom/,/c/en/mother_child/]"
+    },
+    {
+      "target": "west midlands",
+      "relationship": "HasContext",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasContext/,/c/en/mom/n/,/c/en/west_midlands/]"
+    },
+    {
+      "target": "hardware",
+      "relationship": "HasContext",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasContext/,/c/en/mom/n/,/c/en/hardware/]"
+    },
+    {
+      "target": "cook dinner",
+      "relationship": "CapableOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/CapableOf/,/c/en/mom/,/c/en/cook_dinner/]"
+    },
+    {
+      "target": "p\u00e9riode",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/mom/n/,/c/fr/p\u00e9riode/]"
+    }
+  ],
+  "relationships": [
+    "CapableOf",
+    "Synonym",
+    "IsA",
+    "RelatedTo",
+    "HasContext"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "mom",
+  "single_word_validated": true
+}

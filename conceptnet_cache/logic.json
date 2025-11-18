@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1757082873.24129,
+  "edges": [
+    {
+      "target": "set of rules by which axioms can be manipulated to derive true statements",
+      "relationship": "DefinedAs",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/DefinedAs/,/c/en/logic/,/c/en/set_of_rules_by_which_axioms_can_manipulated_to_derive_true_statements/]"
+    },
+    {
+      "target": "a system of evaluating arguments",
+      "relationship": "IsA",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/IsA/,/c/en/logic/,/c/en/system_of_evaluating_arguments/]"
+    },
+    {
+      "target": "bane of irrational people",
+      "relationship": "DefinedAs",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/DefinedAs/,/c/en/logic/,/c/en/bane_of_irrational_people/]"
+    },
+    {
+      "target": "way of thinking",
+      "relationship": "IsA",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/IsA/,/c/en/logic/,/c/en/way_of_thinking/]"
+    },
+    {
+      "target": "a science",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/logic/,/c/en/science/]"
+    },
+    {
+      "target": "system",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/logic/n/wn/computer_science/,/c/en/system/n/wn/cognition/]"
+    },
+    {
+      "target": "help you",
+      "relationship": "CapableOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/CapableOf/,/c/en/logic/,/c/en/help/]"
+    },
+    {
+      "target": "reasoning",
+      "relationship": "UsedFor",
+      "weight": 2.0,
+      "uri": "/a/[/r/UsedFor/,/c/en/logic/,/c/en/reasoning/]"
+    },
+    {
+      "target": "common sense",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/logic/n/wn/cognition/,/c/en/common_sense/n/wn/cognition/]"
+    },
+    {
+      "target": "principle",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/logic/n/wn/cognition/,/c/en/principle/n/wn/cognition/]"
+    }
+  ],
+  "relationships": [
+    "DefinedAs",
+    "IsA",
+    "CapableOf",
+    "UsedFor"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "logic",
+  "single_word_validated": true
+}

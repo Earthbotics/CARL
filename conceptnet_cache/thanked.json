@@ -1,0 +1,38 @@
+{
+  "has_data": true,
+  "last_lookup": 1755884647.1401982,
+  "edges": [
+    {
+      "target": "thank",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/thanked/v/,/c/en/thank/]"
+    },
+    {
+      "target": "thank",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/thanked/v/,/c/en/thank/]"
+    },
+    {
+      "target": "thanked",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/thanked/,/http://en.wiktionary.org/wiki/thanked/]"
+    },
+    {
+      "target": "thanked",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/thanked/,/http://fr.wiktionary.org/wiki/thanked/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "FormOf",
+    "ExternalURL"
+  ],
+  "total_edges_found": 4,
+  "concept_queried": "thanked",
+  "single_word_validated": true
+}

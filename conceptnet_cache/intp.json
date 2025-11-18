@@ -1,0 +1,43 @@
+{
+  "has_data": true,
+  "last_lookup": 1754004267.6058245,
+  "edges": [
+    {
+      "target": "perceiving myers briggs",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/intp/n/,/c/en/perceiving_myers_briggs/n/]"
+    },
+    {
+      "target": "introvert myers briggs",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/intp/n/,/c/en/introvert_myers_briggs/n/]"
+    },
+    {
+      "target": "intuitive myers briggs",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/intp/n/,/c/en/intuitive_myers_briggs/n/]"
+    },
+    {
+      "target": "thinking myers briggs",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/intp/n/,/c/en/thinking_myers_briggs/n/]"
+    },
+    {
+      "target": "INTP",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/intp/n/,/http://sw.opencyc.org/2012/05/10/concept/en/INTP/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "ExternalURL"
+  ],
+  "total_edges_found": 5,
+  "concept_queried": "intp",
+  "single_word_validated": true
+}

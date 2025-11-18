@@ -1,0 +1,78 @@
+{
+  "has_data": true,
+  "last_lookup": 1754004311.5438216,
+  "edges": [
+    {
+      "target": "celebrated",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/celebrate/v/,/c/en/celebrated/]"
+    },
+    {
+      "target": "lionize",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/celebrate/v/wn/social/,/c/en/lionize/v/wn/social/]"
+    },
+    {
+      "target": "celebration",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/celebrate/v/,/c/en/celebration/]"
+    },
+    {
+      "target": "clean up",
+      "relationship": "HasLastSubevent",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasLastSubevent/,/c/en/celebrate/,/c/en/clean_up/]"
+    },
+    {
+      "target": "throw a party",
+      "relationship": "HasSubevent",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasSubevent/,/c/en/celebrate/,/c/en/throw_party/]"
+    },
+    {
+      "target": "observe",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/celebrate/v/wn/social/,/c/en/observe/v/wn/social/]"
+    },
+    {
+      "target": "meet",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/celebrate/v/wn/social/,/c/en/meet/v/wn/social/]"
+    },
+    {
+      "target": "throw a party",
+      "relationship": "HasPrerequisite",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasPrerequisite/,/c/en/celebrate/,/c/en/throw_party/]"
+    },
+    {
+      "target": "any excuse is good",
+      "relationship": "MotivatedByGoal",
+      "weight": 1.0,
+      "uri": "/a/[/r/MotivatedByGoal/,/c/en/celebrate/,/c/en/excuse_good/]"
+    },
+    {
+      "target": "celebrity",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/celebrate/v/,/c/en/celebrity/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "Synonym",
+    "HasLastSubevent",
+    "HasSubevent",
+    "MannerOf",
+    "HasPrerequisite",
+    "MotivatedByGoal"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "celebrate",
+  "single_word_validated": true
+}

@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1757432465.6204147,
+  "edges": [
+    {
+      "target": "person",
+      "relationship": "UsedFor",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/UsedFor/,/c/en/cream/n/wn/artifact/,/c/en/person/n/wn/]"
+    },
+    {
+      "target": "beat",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/cream/v/wn/cooking/,/c/en/beat/v/wn/cooking/]"
+    },
+    {
+      "target": "soften",
+      "relationship": "UsedFor",
+      "weight": 2.0,
+      "uri": "/a/[/r/UsedFor/,/c/en/cream/n/wn/artifact/,/c/en/soften/v/wn/change/]"
+    },
+    {
+      "target": "cooking",
+      "relationship": "HasContext",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasContext/,/c/en/cream/v/wn/cooking/,/c/en/cooking/n/wn/act/]"
+    },
+    {
+      "target": "bat",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/cream/v/wn/contact/,/c/en/bat/v/wn/contact/]"
+    },
+    {
+      "target": "humidify",
+      "relationship": "UsedFor",
+      "weight": 2.0,
+      "uri": "/a/[/r/UsedFor/,/c/en/cream/n/wn/artifact/,/c/en/humidify/v/wn/change/]"
+    },
+    {
+      "target": "soothe",
+      "relationship": "UsedFor",
+      "weight": 2.0,
+      "uri": "/a/[/r/UsedFor/,/c/en/cream/n/wn/artifact/,/c/en/soothe/v/wn/body/]"
+    },
+    {
+      "target": "\u0161lag",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/cream/n/,/c/sh/\u0161lag/]"
+    },
+    {
+      "target": "toiletry",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/cream/n/wn/artifact/,/c/en/toiletry/n/wn/artifact/]"
+    },
+    {
+      "target": "dairy product",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/cream/n/wn/food/,/c/en/dairy_product/n/wn/food/]"
+    }
+  ],
+  "relationships": [
+    "UsedFor",
+    "MannerOf",
+    "HasContext",
+    "Synonym",
+    "IsA"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "cream",
+  "single_word_validated": true
+}

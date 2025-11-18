@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1759722258.0655675,
+  "edges": [
+    {
+      "target": "answer",
+      "relationship": "RelatedTo",
+      "weight": 5.2626989273565705,
+      "uri": "/a/[/r/RelatedTo/,/c/en/question/,/c/en/answer/]"
+    },
+    {
+      "target": "ask",
+      "relationship": "RelatedTo",
+      "weight": 4.695955706775778,
+      "uri": "/a/[/r/RelatedTo/,/c/en/question/,/c/en/ask/]"
+    },
+    {
+      "target": "query",
+      "relationship": "RelatedTo",
+      "weight": 4.028399185780873,
+      "uri": "/a/[/r/RelatedTo/,/c/en/question/,/c/en/query/]"
+    },
+    {
+      "target": "asking",
+      "relationship": "RelatedTo",
+      "weight": 3.7682887362833544,
+      "uri": "/a/[/r/RelatedTo/,/c/en/question/,/c/en/asking/]"
+    },
+    {
+      "target": "sentence",
+      "relationship": "RelatedTo",
+      "weight": 3.228002478313794,
+      "uri": "/a/[/r/RelatedTo/,/c/en/question/,/c/en/sentence/]"
+    },
+    {
+      "target": "answer",
+      "relationship": "Antonym",
+      "weight": 3.0906310035330975,
+      "uri": "/a/[/r/Antonym/,/c/en/question/,/c/en/answer/]"
+    },
+    {
+      "target": "mark",
+      "relationship": "RelatedTo",
+      "weight": 2.707766607372209,
+      "uri": "/a/[/r/RelatedTo/,/c/en/question/,/c/en/mark/]"
+    },
+    {
+      "target": "inquiry",
+      "relationship": "RelatedTo",
+      "weight": 2.6540535036053816,
+      "uri": "/a/[/r/RelatedTo/,/c/en/question/,/c/en/inquiry/]"
+    },
+    {
+      "target": "answer",
+      "relationship": "DistinctFrom",
+      "weight": 2.253885533916929,
+      "uri": "/a/[/r/DistinctFrom/,/c/en/question/,/c/en/answer/]"
+    },
+    {
+      "target": "wonder",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/question/v/wn/communication/,/c/en/wonder/v/wn/communication/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "Antonym",
+    "DistinctFrom",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "question",
+  "single_word_validated": true
+}

@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1755366666.1339025,
+  "edges": [
+    {
+      "target": "avec",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/with/,/c/fr/avec/]"
+    },
+    {
+      "target": "against",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/with/,/c/en/against/]"
+    },
+    {
+      "target": "together",
+      "relationship": "RelatedTo",
+      "weight": 1.2650000000000001,
+      "uri": "/a/[/r/RelatedTo/,/c/en/with/,/c/en/together/]"
+    },
+    {
+      "target": "alongside",
+      "relationship": "RelatedTo",
+      "weight": 1.189,
+      "uri": "/a/[/r/RelatedTo/,/c/en/with/,/c/en/alongside/]"
+    },
+    {
+      "target": "against",
+      "relationship": "Antonym",
+      "weight": 1.1029999999999998,
+      "uri": "/a/[/r/Antonym/,/c/en/with/,/c/en/against/]"
+    },
+    {
+      "target": "in return",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/with/,/c/en/in_return/]"
+    },
+    {
+      "target": "addition",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/with/,/c/en/addition/]"
+    },
+    {
+      "target": "com",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/with/,/c/pt/com/]"
+    },
+    {
+      "target": "contra",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/with/,/c/pt/contra/]"
+    },
+    {
+      "target": "sareng",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/with/,/c/su/sareng/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "RelatedTo",
+    "Antonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "with",
+  "single_word_validated": true
+}

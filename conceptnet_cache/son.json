@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1757789421.059786,
+  "edges": [
+    {
+      "target": "child",
+      "relationship": "RelatedTo",
+      "weight": 4.537840896285369,
+      "uri": "/a/[/r/RelatedTo/,/c/en/son/,/c/en/child/]"
+    },
+    {
+      "target": "male",
+      "relationship": "RelatedTo",
+      "weight": 4.189988066808783,
+      "uri": "/a/[/r/RelatedTo/,/c/en/son/,/c/en/male/]"
+    },
+    {
+      "target": "boy",
+      "relationship": "RelatedTo",
+      "weight": 4.138115513129134,
+      "uri": "/a/[/r/RelatedTo/,/c/en/son/,/c/en/boy/]"
+    },
+    {
+      "target": "father",
+      "relationship": "RelatedTo",
+      "weight": 2.787830697872452,
+      "uri": "/a/[/r/RelatedTo/,/c/en/son/,/c/en/father/]"
+    },
+    {
+      "target": "offspring",
+      "relationship": "RelatedTo",
+      "weight": 2.4592681838303037,
+      "uri": "/a/[/r/RelatedTo/,/c/en/son/,/c/en/offspring/]"
+    },
+    {
+      "target": "family",
+      "relationship": "RelatedTo",
+      "weight": 2.3194827009486403,
+      "uri": "/a/[/r/RelatedTo/,/c/en/son/,/c/en/family/]"
+    },
+    {
+      "target": "daughter",
+      "relationship": "DistinctFrom",
+      "weight": 2.1071307505705477,
+      "uri": "/a/[/r/DistinctFrom/,/c/en/son/,/c/en/daughter/]"
+    },
+    {
+      "target": "Logos",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/son/n/wn/person/,/c/en/logos/n/wn/person/]"
+    },
+    {
+      "target": "male offspring",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/son/n/wn/person/,/c/en/male_offspring/n/wn/person/]"
+    },
+    {
+      "target": "daughter",
+      "relationship": "Antonym",
+      "weight": 1.9299999999999997,
+      "uri": "/a/[/r/Antonym/,/c/en/son/,/c/en/daughter/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "DistinctFrom",
+    "Synonym",
+    "IsA",
+    "Antonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "son",
+  "single_word_validated": true
+}

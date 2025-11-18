@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1760801154.2667444,
+  "edges": [
+    {
+      "target": "sight",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/vision/n/wn/cognition/,/c/en/sight/n/wn/cognition/]"
+    },
+    {
+      "target": "imagination",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/vision/n/wn/cognition/,/c/en/imagination/n/wn/cognition/]"
+    },
+    {
+      "target": "sensation",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/vision/n/wn/cognition/,/c/en/sensation/n/wn/cognition/]"
+    },
+    {
+      "target": "experience",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/vision/n/wn/event/,/c/en/experience/n/wn/event/]"
+    },
+    {
+      "target": "vid",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/vision/n/,/c/sh/vid/]"
+    },
+    {
+      "target": "imagination",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/vision/n/wn/cognition/,/c/en/imagination/n/wn/cognition/]"
+    },
+    {
+      "target": "envision",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/vision/v/,/c/en/envision/]"
+    },
+    {
+      "target": "\u0437\u0456\u0440",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/vision/n/,/c/uk/\u0437\u0456\u0440/]"
+    },
+    {
+      "target": "Vision",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/vision/,/http://dbpedia.org/resource/De/Vision/]"
+    },
+    {
+      "target": "qhaway",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/vision/n/,/c/qu/qhaway/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "IsA",
+    "ExternalURL"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "vision",
+  "single_word_validated": true
+}

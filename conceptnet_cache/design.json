@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1755142895.4526248,
+  "edges": [
+    {
+      "target": "plan",
+      "relationship": "RelatedTo",
+      "weight": 3.871433842906269,
+      "uri": "/a/[/r/RelatedTo/,/c/en/design/,/c/en/plan/]"
+    },
+    {
+      "target": "art",
+      "relationship": "RelatedTo",
+      "weight": 3.7024316333998657,
+      "uri": "/a/[/r/RelatedTo/,/c/en/design/,/c/en/art/]"
+    },
+    {
+      "target": "create",
+      "relationship": "RelatedTo",
+      "weight": 3.0809089567853185,
+      "uri": "/a/[/r/RelatedTo/,/c/en/design/,/c/en/create/]"
+    },
+    {
+      "target": "interior",
+      "relationship": "RelatedTo",
+      "weight": 2.3030414672775645,
+      "uri": "/a/[/r/RelatedTo/,/c/en/design/,/c/en/interior/]"
+    },
+    {
+      "target": "pattern",
+      "relationship": "RelatedTo",
+      "weight": 2.1456933611306166,
+      "uri": "/a/[/r/RelatedTo/,/c/en/design/,/c/en/pattern/]"
+    },
+    {
+      "target": "graphic",
+      "relationship": "RelatedTo",
+      "weight": 2.05621010599598,
+      "uri": "/a/[/r/RelatedTo/,/c/en/design/,/c/en/graphic/]"
+    },
+    {
+      "target": "nacrt",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/design/n/,/c/sh/nacrt/]"
+    },
+    {
+      "target": "plan",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/design/n/,/c/sh/plan/]"
+    },
+    {
+      "target": "arrangement",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/design/n/wn/cognition/,/c/en/arrangement/n/wn/cognition/]"
+    },
+    {
+      "target": "create",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/design/v/wn/creation/,/c/en/create/v/wn/creation/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "Synonym",
+    "IsA",
+    "MannerOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "design",
+  "single_word_validated": true
+}

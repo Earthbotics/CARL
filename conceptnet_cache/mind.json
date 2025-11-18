@@ -1,0 +1,77 @@
+{
+  "has_data": true,
+  "last_lookup": 1759800895.7663243,
+  "edges": [
+    {
+      "target": "brain",
+      "relationship": "RelatedTo",
+      "weight": 5.14159508324022,
+      "uri": "/a/[/r/RelatedTo/,/c/en/mind/,/c/en/brain/]"
+    },
+    {
+      "target": "thinking",
+      "relationship": "UsedFor",
+      "weight": 4.0,
+      "uri": "/a/[/r/UsedFor/,/c/en/mind/,/c/en/thinking/]"
+    },
+    {
+      "target": "thinking",
+      "relationship": "RelatedTo",
+      "weight": 2.7040710049848915,
+      "uri": "/a/[/r/RelatedTo/,/c/en/mind/,/c/en/thinking/]"
+    },
+    {
+      "target": "thought",
+      "relationship": "RelatedTo",
+      "weight": 2.1175457492106275,
+      "uri": "/a/[/r/RelatedTo/,/c/en/mind/,/c/en/thought/]"
+    },
+    {
+      "target": "subjective",
+      "relationship": "HasProperty",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasProperty/,/c/en/mind/,/c/en/subjective/]"
+    },
+    {
+      "target": "judgment",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/mind/n/,/c/en/judgment/]"
+    },
+    {
+      "target": "purpose",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/mind/n/wn/cognition/,/c/en/purpose/n/wn/cognition/]"
+    },
+    {
+      "target": "object",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/mind/v/wn/communication/,/c/en/object/v/wn/communication/]"
+    },
+    {
+      "target": "judgment",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/mind/n/wn/cognition/,/c/en/judgment/n/wn/cognition/]"
+    },
+    {
+      "target": "beware",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/mind/v/wn/cognition/,/c/en/beware/v/wn/cognition/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "UsedFor",
+    "HasProperty",
+    "Synonym",
+    "IsA",
+    "MannerOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "mind",
+  "single_word_validated": true
+}

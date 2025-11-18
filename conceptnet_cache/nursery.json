@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1755743157.6408248,
+  "edges": [
+    {
+      "target": "child's room",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/nursery/n/wn/artifact/,/c/en/child's_room/n/wn/artifact/]"
+    },
+    {
+      "target": "babies",
+      "relationship": "RelatedTo",
+      "weight": 1.197,
+      "uri": "/a/[/r/RelatedTo/,/c/en/nursery/,/c/en/babies/]"
+    },
+    {
+      "target": "cultivate",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/nursery/n/,/c/en/cultivate/]"
+    },
+    {
+      "target": "year",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/nursery/n/,/c/en/year/]"
+    },
+    {
+      "target": "Nursery BabysRoom",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/nursery/n/,/http://sw.opencyc.org/2012/05/10/concept/en/Nursery_BabysRoom/]"
+    },
+    {
+      "target": "form",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/nursery/n/,/c/en/form/]"
+    },
+    {
+      "target": "transplant",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/nursery/n/,/c/en/transplant/]"
+    },
+    {
+      "target": "nursery",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/nursery/n/,/c/fr/nursery/]"
+    },
+    {
+      "target": "cr\u00e8che",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/nursery/n/,/c/fr/cr\u00e8che/]"
+    },
+    {
+      "target": "likely to have a toy box",
+      "relationship": "HasProperty",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasProperty/,/c/en/nursery/,/c/en/likely_to_have_toy_box/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "RelatedTo",
+    "ExternalURL",
+    "HasProperty"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "nursery",
+  "single_word_validated": true
+}

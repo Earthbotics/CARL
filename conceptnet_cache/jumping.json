@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1755926737.1051059,
+  "edges": [
+    {
+      "target": "jump",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/jumping/n/wn/act/,/c/en/jump/n/wn/act/]"
+    },
+    {
+      "target": "track and field",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/jumping/n/wn/act/,/c/en/track_and_field/n/wn/act/]"
+    },
+    {
+      "target": "an activity",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/jumping/,/c/en/activity/]"
+    },
+    {
+      "target": "jump",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/jumping/,/c/en/jump/v/]"
+    },
+    {
+      "target": "fun",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/jumping/a/,/c/en/fun/]"
+    },
+    {
+      "target": "jumping",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/jumping/n/,/c/en/jumping/n/]"
+    },
+    {
+      "target": "your feet not touching the ground",
+      "relationship": "Causes",
+      "weight": 1.0,
+      "uri": "/a/[/r/Causes/,/c/en/jumping/,/c/en/feet_not_touching_ground/]"
+    },
+    {
+      "target": "landing",
+      "relationship": "Causes",
+      "weight": 1.0,
+      "uri": "/a/[/r/Causes/,/c/en/jumping/,/c/en/landing/]"
+    },
+    {
+      "target": "excellent",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/jumping/a/,/c/en/excellent/]"
+    },
+    {
+      "target": "jump",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/jumping/v/,/c/en/jump/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "IsA",
+    "FormOf",
+    "RelatedTo",
+    "Causes"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "jumping",
+  "single_word_validated": true
+}

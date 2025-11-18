@@ -1,0 +1,73 @@
+{
+  "has_data": true,
+  "last_lookup": 1757445461.453167,
+  "edges": [
+    {
+      "target": "milieu",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/surroundings/n/wn/state/,/c/en/milieu/n/wn/state/]"
+    },
+    {
+      "target": "environment",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/surroundings/n/wn/location/,/c/en/environment/n/wn/location/]"
+    },
+    {
+      "target": "ymp\u00e4rist\u00f6",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/surroundings/n/,/c/fi/ymp\u00e4rist\u00f6/]"
+    },
+    {
+      "target": "\u05e1\u05d1\u05d9\u05d1\u05d4",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/surroundings/n/,/c/yi/\u05e1\u05d1\u05d9\u05d1\u05d4/]"
+    },
+    {
+      "target": "arredores",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/surroundings/n/,/c/pt/arredores/]"
+    },
+    {
+      "target": "vicinity",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/surroundings/n/,/c/en/vicinity/]"
+    },
+    {
+      "target": "urthimpeall",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/surroundings/n/,/c/ga/urthimpeall/]"
+    },
+    {
+      "target": "environment",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/surroundings/n/,/c/en/environment/]"
+    },
+    {
+      "target": "lap",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/surroundings/n/,/c/en/lap/]"
+    },
+    {
+      "target": "thermodynamic",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/surroundings/n/,/c/en/thermodynamic/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "surroundings",
+  "single_word_validated": true
+}

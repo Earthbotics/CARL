@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1758329864.785888,
+  "edges": [
+    {
+      "target": "a bedroom",
+      "relationship": "AtLocation",
+      "weight": 6.0,
+      "uri": "/a/[/r/AtLocation/,/c/en/mirror/,/c/en/bedroom/]"
+    },
+    {
+      "target": "see yourself",
+      "relationship": "UsedFor",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/UsedFor/,/c/en/mirror/,/c/en/see_yourself/]"
+    },
+    {
+      "target": "a surface",
+      "relationship": "IsA",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/IsA/,/c/en/mirror/,/c/en/surface/]"
+    },
+    {
+      "target": "a car",
+      "relationship": "AtLocation",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/AtLocation/,/c/en/mirror/,/c/en/car/]"
+    },
+    {
+      "target": "the purse",
+      "relationship": "AtLocation",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/AtLocation/,/c/en/mirror/,/c/en/purse/]"
+    },
+    {
+      "target": "reflector",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/mirror/n/wn/artifact/,/c/en/reflector/n/wn/artifact/]"
+    },
+    {
+      "target": "ogledalo",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/mirror/n/,/c/sh/ogledalo/]"
+    },
+    {
+      "target": "ikon",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/mirror/n/wn/artifact/,/c/en/ikon/n/wn/artifact/]"
+    },
+    {
+      "target": "see your reflection",
+      "relationship": "UsedFor",
+      "weight": 2.0,
+      "uri": "/a/[/r/UsedFor/,/c/en/mirror/,/c/en/see_reflection/]"
+    },
+    {
+      "target": "reflect",
+      "relationship": "UsedFor",
+      "weight": 2.0,
+      "uri": "/a/[/r/UsedFor/,/c/en/mirror/n/wn/artifact/,/c/en/reflect/v/wn/optics/]"
+    }
+  ],
+  "relationships": [
+    "AtLocation",
+    "UsedFor",
+    "IsA",
+    "Synonym",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "mirror",
+  "single_word_validated": true
+}

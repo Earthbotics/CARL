@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1755743396.2362127,
+  "edges": [
+    {
+      "target": "the supermarket",
+      "relationship": "AtLocation",
+      "weight": 4.0,
+      "uri": "/a/[/r/AtLocation/,/c/en/grocery/,/c/en/supermarket/]"
+    },
+    {
+      "target": "consumer goods",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/grocery/n/wn/artifact/,/c/en/consumer_goods/n/wn/artifact/]"
+    },
+    {
+      "target": "grocer",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/grocery/n/,/c/en/grocer/]"
+    },
+    {
+      "target": "grocery store",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/grocery/n/wn/artifact/,/c/en/grocery_store/n/wn/artifact/]"
+    },
+    {
+      "target": "goods",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/grocery/n/,/c/en/goods/n/]"
+    },
+    {
+      "target": "greengrocer",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/grocery/n/,/c/en/greengrocer/]"
+    },
+    {
+      "target": "household or food items",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/grocery/,/c/en/household_or_food_items/]"
+    },
+    {
+      "target": "shop",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/grocery/n/,/c/en/shop/]"
+    },
+    {
+      "target": "GroceryMarketCategory",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/grocery/,/http://umbel.org/umbel/ac/GroceryMarketCategory/]"
+    },
+    {
+      "target": "grocery store",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/grocery/n/,/c/en/grocery_store/]"
+    }
+  ],
+  "relationships": [
+    "AtLocation",
+    "IsA",
+    "RelatedTo",
+    "Synonym",
+    "ExternalURL"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "grocery",
+  "single_word_validated": true
+}

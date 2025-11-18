@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1757720546.19872,
+  "edges": [
+    {
+      "target": "energy",
+      "relationship": "RelatedTo",
+      "weight": 3.317227758234276,
+      "uri": "/a/[/r/RelatedTo/,/c/en/power/,/c/en/energy/]"
+    },
+    {
+      "target": "electricity",
+      "relationship": "RelatedTo",
+      "weight": 3.171119676076575,
+      "uri": "/a/[/r/RelatedTo/,/c/en/power/,/c/en/electricity/]"
+    },
+    {
+      "target": "strength",
+      "relationship": "RelatedTo",
+      "weight": 3.165438358268883,
+      "uri": "/a/[/r/RelatedTo/,/c/en/power/,/c/en/strength/]"
+    },
+    {
+      "target": "provide",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/power/v/wn/consumption/,/c/en/provide/v/wn/consumption/]"
+    },
+    {
+      "target": "exponent",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/power/n/wn/communication/,/c/en/exponent/n/wn/communication/]"
+    },
+    {
+      "target": "world power",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/power/n/wn/group/,/c/en/world_power/n/wn/group/]"
+    },
+    {
+      "target": "quality",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/power/n/wn/attribute/,/c/en/quality/n/wn/attribute/]"
+    },
+    {
+      "target": "baron",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/power/n/wn/person/,/c/en/baron/n/wn/person/]"
+    },
+    {
+      "target": "office",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/power/n/wn/government/,/c/en/office/n/wn/government/]"
+    },
+    {
+      "target": "causal agent",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/power/n/wn/person/,/c/en/causal_agent/n/wn/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "MannerOf",
+    "Synonym",
+    "IsA"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "power",
+  "single_word_validated": true
+}

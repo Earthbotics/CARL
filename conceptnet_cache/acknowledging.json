@@ -1,0 +1,57 @@
+{
+  "has_data": true,
+  "last_lookup": 1757975124.511391,
+  "edges": [
+    {
+      "target": "acknowledg",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/acknowledging/v/,/c/en/acknowledg/]"
+    },
+    {
+      "target": "acknowledge",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/acknowledging/v/,/c/en/acknowledge/]"
+    },
+    {
+      "target": "archaic",
+      "relationship": "HasContext",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasContext/,/c/en/acknowledging/n/,/c/en/archaic/]"
+    },
+    {
+      "target": "acknowledge",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/acknowledging/v/,/c/en/acknowledge/]"
+    },
+    {
+      "target": "acknowledge",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/acknowledging/,/c/en/acknowledge/v/]"
+    },
+    {
+      "target": "acknowledging",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/acknowledging/,/http://fr.wiktionary.org/wiki/acknowledging/]"
+    },
+    {
+      "target": "acknowledging",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/acknowledging/,/http://en.wiktionary.org/wiki/acknowledging/]"
+    }
+  ],
+  "relationships": [
+    "FormOf",
+    "HasContext",
+    "RelatedTo",
+    "ExternalURL"
+  ],
+  "total_edges_found": 7,
+  "concept_queried": "acknowledging",
+  "single_word_validated": true
+}

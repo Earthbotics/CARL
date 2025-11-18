@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1757221273.6704144,
+  "edges": [
+    {
+      "target": "window",
+      "relationship": "RelatedTo",
+      "weight": 7.485185368446128,
+      "uri": "/a/[/r/RelatedTo/,/c/en/glass/,/c/en/window/]"
+    },
+    {
+      "target": "drinking",
+      "relationship": "UsedFor",
+      "weight": 7.211102550927979,
+      "uri": "/a/[/r/UsedFor/,/c/en/glass/,/c/en/drinking/]"
+    },
+    {
+      "target": "clear",
+      "relationship": "RelatedTo",
+      "weight": 6.563840339313565,
+      "uri": "/a/[/r/RelatedTo/,/c/en/glass/,/c/en/clear/]"
+    },
+    {
+      "target": "material",
+      "relationship": "RelatedTo",
+      "weight": 6.041522986797286,
+      "uri": "/a/[/r/RelatedTo/,/c/en/glass/,/c/en/material/]"
+    },
+    {
+      "target": "broken",
+      "relationship": "ReceivesAction",
+      "weight": 5.291502622129181,
+      "uri": "/a/[/r/ReceivesAction/,/c/en/glass/,/c/en/broken/]"
+    },
+    {
+      "target": "drinking",
+      "relationship": "RelatedTo",
+      "weight": 5.047771785649585,
+      "uri": "/a/[/r/RelatedTo/,/c/en/glass/,/c/en/drinking/]"
+    },
+    {
+      "target": "hold liquid",
+      "relationship": "CapableOf",
+      "weight": 4.898979485566356,
+      "uri": "/a/[/r/CapableOf/,/c/en/glass/,/c/en/hold_liquid/]"
+    },
+    {
+      "target": "transparent",
+      "relationship": "RelatedTo",
+      "weight": 4.846441993875507,
+      "uri": "/a/[/r/RelatedTo/,/c/en/glass/,/c/en/transparent/]"
+    },
+    {
+      "target": "windows",
+      "relationship": "RelatedTo",
+      "weight": 4.814976635457331,
+      "uri": "/a/[/r/RelatedTo/,/c/en/glass/,/c/en/windows/]"
+    },
+    {
+      "target": "sand",
+      "relationship": "RelatedTo",
+      "weight": 4.262393693689028,
+      "uri": "/a/[/r/RelatedTo/,/c/en/glass/,/c/en/sand/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "UsedFor",
+    "ReceivesAction",
+    "CapableOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "glass",
+  "single_word_validated": true
+}

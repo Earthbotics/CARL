@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1759722330.6514466,
+  "edges": [
+    {
+      "target": "darling",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/favorite/n/wn/person/,/c/en/darling/n/wn/person/]"
+    },
+    {
+      "target": "best-loved",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/favorite/a/wn/,/c/en/best_loved/a/wn/]"
+    },
+    {
+      "target": "favourite",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/favorite/a/wn/,/c/en/favourite/a/wn/]"
+    },
+    {
+      "target": "front-runner",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/favorite/n/wn/person/,/c/en/front_runner/n/wn/person/]"
+    },
+    {
+      "target": "choice",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/favorite/n/wn/cognition/,/c/en/choice/n/wn/cognition/]"
+    },
+    {
+      "target": "favori",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/favorite/a/,/c/nrf/favori/]"
+    },
+    {
+      "target": "ulubiony",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/favorite/a/,/c/pl/ulubiony/]"
+    },
+    {
+      "target": "favoriet",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/favorite/a/,/c/nl/favoriet/]"
+    },
+    {
+      "target": "m\u012b\u013c\u0101kais",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/favorite/a/,/c/lv/m\u012b\u013c\u0101kais/]"
+    },
+    {
+      "target": "favorire",
+      "relationship": "EtymologicallyDerivedFrom",
+      "weight": 1.0,
+      "uri": "/a/[/r/EtymologicallyDerivedFrom/,/c/en/favorite/,/c/it/favorire/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "IsA",
+    "EtymologicallyDerivedFrom"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "favorite",
+  "single_word_validated": true
+}

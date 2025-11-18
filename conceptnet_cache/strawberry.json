@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1756533683.194113,
+  "edges": [
+    {
+      "target": "jordb\u00e6r",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/strawberry/n/,/c/no/jordb\u00e6r/]"
+    },
+    {
+      "target": "berry",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/strawberry/n/wn/food/,/c/en/berry/n/wn/food/]"
+    },
+    {
+      "target": "jordgubbe",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/strawberry/n/,/c/sv/jordgubbe/]"
+    },
+    {
+      "target": "\u00e7ilek",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/strawberry/n/,/c/tr/\u00e7ilek/]"
+    },
+    {
+      "target": "birthmark",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/strawberry/n/wn/attribute/,/c/en/birthmark/n/wn/attribute/]"
+    },
+    {
+      "target": "garden strawberry",
+      "relationship": "PartOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/PartOf/,/c/en/strawberry/n/wn/food/,/c/en/garden_strawberry/n/wn/plant/]"
+    },
+    {
+      "target": "jagoda",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/strawberry/n/,/c/sh/jagoda/]"
+    },
+    {
+      "target": "herb",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/strawberry/n/wn/plant/,/c/en/herb/n/wn/plant/]"
+    },
+    {
+      "target": "trobheli",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/strawberry/n/,/c/zu/trobheli/]"
+    },
+    {
+      "target": "\u0442\u0443\u0442\u0438 \u0437\u0430\u043c\u0438\u043d\u0438",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/strawberry/n/,/c/tg/\u0442\u0443\u0442\u0438_\u0437\u0430\u043c\u0438\u043d\u0438/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "IsA",
+    "PartOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "strawberry",
+  "single_word_validated": true
+}

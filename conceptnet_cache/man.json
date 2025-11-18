@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1755882020.062977,
+  "edges": [
+    {
+      "target": "person",
+      "relationship": "RelatedTo",
+      "weight": 4.485086398275957,
+      "uri": "/a/[/r/RelatedTo/,/c/en/man/,/c/en/person/]"
+    },
+    {
+      "target": "boy",
+      "relationship": "RelatedTo",
+      "weight": 4.219004621945798,
+      "uri": "/a/[/r/RelatedTo/,/c/en/man/,/c/en/boy/]"
+    },
+    {
+      "target": "adult",
+      "relationship": "RelatedTo",
+      "weight": 3.062025473440742,
+      "uri": "/a/[/r/RelatedTo/,/c/en/man/,/c/en/adult/]"
+    },
+    {
+      "target": "gender",
+      "relationship": "RelatedTo",
+      "weight": 2.986636904613616,
+      "uri": "/a/[/r/RelatedTo/,/c/en/man/,/c/en/gender/]"
+    },
+    {
+      "target": "guy",
+      "relationship": "RelatedTo",
+      "weight": 2.511573212152097,
+      "uri": "/a/[/r/RelatedTo/,/c/en/man/,/c/en/guy/]"
+    },
+    {
+      "target": "female",
+      "relationship": "DistinctFrom",
+      "weight": 2.289978165834775,
+      "uri": "/a/[/r/DistinctFrom/,/c/en/man/,/c/en/female/]"
+    },
+    {
+      "target": "homo",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/man/n/wn/animal/,/c/en/homo/n/wn/animal/]"
+    },
+    {
+      "target": "\u010dovek",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/man/n/wikt/en_1/,/c/sh/\u010dovek/]"
+    },
+    {
+      "target": "male",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/man/n/wn/person/,/c/en/male/n/wn/person/]"
+    },
+    {
+      "target": "Israel",
+      "relationship": "HasContext",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasContext/,/c/en/man/n/wn/group/,/c/en/israel/n/wn/location/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "DistinctFrom",
+    "Synonym",
+    "IsA",
+    "HasContext"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "man",
+  "single_word_validated": true
+}

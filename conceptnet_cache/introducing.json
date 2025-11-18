@@ -1,0 +1,44 @@
+{
+  "has_data": true,
+  "last_lookup": 1761714867.291679,
+  "edges": [
+    {
+      "target": "introduce",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/introducing/,/c/en/introduce/v/]"
+    },
+    {
+      "target": "introduce",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/introducing/v/,/c/en/introduce/]"
+    },
+    {
+      "target": "introduce",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/introducing/v/,/c/en/introduce/]"
+    },
+    {
+      "target": "introducing",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/introducing/,/http://fr.wiktionary.org/wiki/introducing/]"
+    },
+    {
+      "target": "introducing",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/introducing/,/http://en.wiktionary.org/wiki/introducing/]"
+    }
+  ],
+  "relationships": [
+    "FormOf",
+    "RelatedTo",
+    "ExternalURL"
+  ],
+  "total_edges_found": 5,
+  "concept_queried": "introducing",
+  "single_word_validated": true
+}

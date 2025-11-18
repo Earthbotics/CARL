@@ -1,0 +1,73 @@
+{
+  "has_data": true,
+  "last_lookup": 1757730119.2097285,
+  "edges": [
+    {
+      "target": "second",
+      "relationship": "RelatedTo",
+      "weight": 3.2074912314767126,
+      "uri": "/a/[/r/RelatedTo/,/c/en/first/,/c/en/second/]"
+    },
+    {
+      "target": "before",
+      "relationship": "RelatedTo",
+      "weight": 2.9236962906567427,
+      "uri": "/a/[/r/RelatedTo/,/c/en/first/,/c/en/before/]"
+    },
+    {
+      "target": "before second",
+      "relationship": "RelatedTo",
+      "weight": 2.684771871127973,
+      "uri": "/a/[/r/RelatedTo/,/c/en/first/,/c/en/before_second/]"
+    },
+    {
+      "target": "number",
+      "relationship": "RelatedTo",
+      "weight": 2.4608941464435237,
+      "uri": "/a/[/r/RelatedTo/,/c/en/first/,/c/en/number/]"
+    },
+    {
+      "target": "original",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/first/a/wn/,/c/en/original/a/wn/]"
+    },
+    {
+      "target": "early",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/first/a/wn/,/c/en/early/a/wn/]"
+    },
+    {
+      "target": "front",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/first/a/wn/,/c/en/front/a/wn/]"
+    },
+    {
+      "target": "beginning",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/first/a/wn/,/c/en/beginning/a/wn/]"
+    },
+    {
+      "target": "\u0e97\u0eb5\u0ec8\u0eab\u0e99\u0eb6\u0ec8\u0e87",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/first/a/wikt/en_1/,/c/lo/\u0e97\u0eb5\u0ec8\u0eab\u0e99\u0eb6\u0ec8\u0e87/]"
+    },
+    {
+      "target": "beginning",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/first/n/wn/time/,/c/en/beginning/n/wn/time/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "first",
+  "single_word_validated": true
+}

@@ -1,0 +1,77 @@
+{
+  "has_data": true,
+  "last_lookup": 1757432720.553361,
+  "edges": [
+    {
+      "target": "golf",
+      "relationship": "HasContext",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasContext/,/c/en/tee/v/wn/golf/,/c/en/golf/n/wn/act/]"
+    },
+    {
+      "target": "t",
+      "relationship": "FormOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/FormOf/,/c/en/tee/,/c/en/t/]"
+    },
+    {
+      "target": "peg",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/tee/n/wn/artifact/,/c/en/peg/n/wn/artifact/]"
+    },
+    {
+      "target": "golf course",
+      "relationship": "PartOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/PartOf/,/c/en/tee/n/wn/location/,/c/en/golf_course/n/wn/golf/]"
+    },
+    {
+      "target": "golf equipment",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/tee/n/wn/artifact/,/c/en/golf_equipment/n/wn/golf/]"
+    },
+    {
+      "target": "connect",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/tee/v/wn/contact/,/c/en/connect/v/wn/contact/]"
+    },
+    {
+      "target": "site",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/tee/n/wn/location/,/c/en/site/n/wn/location/]"
+    },
+    {
+      "target": "put",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/tee/v/wn/golf/,/c/en/put/v/wn/contact/]"
+    },
+    {
+      "target": "support",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/tee/n/wn/artifact/,/c/en/support/n/wn/artifact/]"
+    },
+    {
+      "target": "teen",
+      "relationship": "EtymologicallyDerivedFrom",
+      "weight": 1.0,
+      "uri": "/a/[/r/EtymologicallyDerivedFrom/,/c/en/tee/,/c/enm/teen/]"
+    }
+  ],
+  "relationships": [
+    "HasContext",
+    "FormOf",
+    "IsA",
+    "PartOf",
+    "MannerOf",
+    "EtymologicallyDerivedFrom"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "tee",
+  "single_word_validated": true
+}

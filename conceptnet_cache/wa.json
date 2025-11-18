@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1755145244.477529,
+  "edges": [
+    {
+      "target": "us",
+      "relationship": "HasContext",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasContext/,/c/en/wa/n/,/c/en/us/]"
+    },
+    {
+      "target": "Washington",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/wa/n/wn/location/,/c/en/washington/n/wn/location/]"
+    },
+    {
+      "target": "japanese",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/wa/n/wikt/en_3/,/c/en/japanese/]"
+    },
+    {
+      "target": "caroline islands",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/wa/n/wikt/en_1/,/c/en/caroline_islands/]"
+    },
+    {
+      "target": "canoe",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/wa/n/wikt/en_1/,/c/en/canoe/]"
+    },
+    {
+      "target": "traditional",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/wa/n/wikt/en_1/,/c/en/traditional/]"
+    },
+    {
+      "target": "outrigger",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/wa/n/wikt/en_1/,/c/en/outrigger/]"
+    },
+    {
+      "target": "thai",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/wa/n/wikt/en_2/,/c/en/thai/]"
+    },
+    {
+      "target": "unit",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/wa/n/wikt/en_2/,/c/en/unit/]"
+    },
+    {
+      "target": "proa",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/wa/n/wikt/en_1/,/c/en/proa/]"
+    }
+  ],
+  "relationships": [
+    "HasContext",
+    "Synonym",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "wa",
+  "single_word_validated": true
+}

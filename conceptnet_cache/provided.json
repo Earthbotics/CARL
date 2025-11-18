@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1757432466.9759202,
+  "edges": [
+    {
+      "target": "a condicion que",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/provided/,/c/oc/a_condicion_que/]"
+    },
+    {
+      "target": "stipulation",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/provided/,/c/en/stipulation/]"
+    },
+    {
+      "target": "\u0628\u0647 \u0634\u0631\u0637\u06cc \u06a9\u0647",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/provided/,/c/fa/\u0628\u0647_\u0634\u0631\u0637\u06cc_\u06a9\u0647/]"
+    },
+    {
+      "target": "\u0442\u043e\u043b\u044c\u043a\u043e \u0435\u0441\u043b\u0438",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/provided/,/c/ru/\u0442\u043e\u043b\u044c\u043a\u043e_\u0435\u0441\u043b\u0438/]"
+    },
+    {
+      "target": "siempre y cuando",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/provided/,/c/es/siempre_y_cuando/]"
+    },
+    {
+      "target": "\u0634\u0631\u064a\u0637\u0629 \u0627\u0646",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/provided/,/c/ar/\u0634\u0631\u064a\u0637\u0629_\u0627\u0646/]"
+    },
+    {
+      "target": "pod pogojem",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/provided/,/c/sl/pod_pogojem/]"
+    },
+    {
+      "target": "edellytt\u00e4en ett\u00e4",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/provided/,/c/fi/edellytt\u00e4en_ett\u00e4/]"
+    },
+    {
+      "target": "provide",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/provided/v/,/c/en/provide/]"
+    },
+    {
+      "target": "di\u011fi taktirde",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/provided/,/c/tr/di\u011fi_taktirde/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "RelatedTo",
+    "FormOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "provided",
+  "single_word_validated": true
+}

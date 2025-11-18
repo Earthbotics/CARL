@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1761692933.6210759,
+  "edges": [
+    {
+      "target": "fun",
+      "relationship": "Causes",
+      "weight": 8.0,
+      "uri": "/a/[/r/Causes/,/c/en/playing/,/c/en/fun/]"
+    },
+    {
+      "target": "having fun",
+      "relationship": "Causes",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/Causes/,/c/en/playing/,/c/en/having_fun/]"
+    },
+    {
+      "target": "doing something fun",
+      "relationship": "HasPrerequisite",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/HasPrerequisite/,/c/en/playing/,/c/en/doing_fun/]"
+    },
+    {
+      "target": "learning",
+      "relationship": "UsedFor",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/UsedFor/,/c/en/playing/,/c/en/learning/]"
+    },
+    {
+      "target": "learning",
+      "relationship": "Causes",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/Causes/,/c/en/playing/,/c/en/learning/]"
+    },
+    {
+      "target": "having fun",
+      "relationship": "UsedFor",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/UsedFor/,/c/en/playing/,/c/en/having_fun/]"
+    },
+    {
+      "target": "relaxing",
+      "relationship": "UsedFor",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/UsedFor/,/c/en/playing/,/c/en/relaxing/]"
+    },
+    {
+      "target": "fun",
+      "relationship": "UsedFor",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/UsedFor/,/c/en/playing/,/c/en/fun/]"
+    },
+    {
+      "target": "laugh",
+      "relationship": "HasSubevent",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/HasSubevent/,/c/en/playing/,/c/en/laugh/]"
+    },
+    {
+      "target": "fun",
+      "relationship": "HasProperty",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/HasProperty/,/c/en/playing/,/c/en/fun/]"
+    }
+  ],
+  "relationships": [
+    "Causes",
+    "HasPrerequisite",
+    "UsedFor",
+    "HasSubevent",
+    "HasProperty"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "playing",
+  "single_word_validated": true
+}

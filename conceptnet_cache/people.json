@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1757082875.5379994,
+  "edges": [
+    {
+      "target": "stupid",
+      "relationship": "HasProperty",
+      "weight": 7.211102550927979,
+      "uri": "/a/[/r/HasProperty/,/c/en/people/,/c/en/stupid/]"
+    },
+    {
+      "target": "talk to each other",
+      "relationship": "CapableOf",
+      "weight": 6.6332495807108,
+      "uri": "/a/[/r/CapableOf/,/c/en/people/,/c/en/talk_to_each_other/]"
+    },
+    {
+      "target": "feelings",
+      "relationship": "HasA",
+      "weight": 6.0,
+      "uri": "/a/[/r/HasA/,/c/en/people/,/c/en/feelings/]"
+    },
+    {
+      "target": "dogs as pets",
+      "relationship": "HasA",
+      "weight": 5.291502622129181,
+      "uri": "/a/[/r/HasA/,/c/en/people/,/c/en/dogs_as_pets/]"
+    },
+    {
+      "target": "ignorant",
+      "relationship": "HasProperty",
+      "weight": 5.291502622129181,
+      "uri": "/a/[/r/HasProperty/,/c/en/people/,/c/en/ignorant/]"
+    },
+    {
+      "target": "killed",
+      "relationship": "ReceivesAction",
+      "weight": 5.291502622129181,
+      "uri": "/a/[/r/ReceivesAction/,/c/en/people/,/c/en/killed/]"
+    },
+    {
+      "target": "weird",
+      "relationship": "HasProperty",
+      "weight": 5.291502622129181,
+      "uri": "/a/[/r/HasProperty/,/c/en/people/,/c/en/weird/]"
+    },
+    {
+      "target": "kind",
+      "relationship": "HasProperty",
+      "weight": 4.898979485566356,
+      "uri": "/a/[/r/HasProperty/,/c/en/people/,/c/en/kind/]"
+    },
+    {
+      "target": "believe in a god",
+      "relationship": "CapableOf",
+      "weight": 4.898979485566356,
+      "uri": "/a/[/r/CapableOf/,/c/en/people/,/c/en/believe_in_god/]"
+    },
+    {
+      "target": "bisexuals",
+      "relationship": "IsA",
+      "weight": 4.898979485566356,
+      "uri": "/a/[/r/IsA/,/c/en/people/,/c/en/bisexuals/]"
+    }
+  ],
+  "relationships": [
+    "HasProperty",
+    "CapableOf",
+    "HasA",
+    "ReceivesAction",
+    "IsA"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "people",
+  "single_word_validated": true
+}

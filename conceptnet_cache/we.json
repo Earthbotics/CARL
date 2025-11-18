@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1757444927.4926062,
+  "edges": [
+    {
+      "target": "laugh together",
+      "relationship": "CapableOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/CapableOf/,/c/en/we/,/c/en/laugh_together/]"
+    },
+    {
+      "target": "honor the names of our heroes",
+      "relationship": "CapableOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/CapableOf/,/c/en/we/,/c/en/honor_names_of_heroes/]"
+    },
+    {
+      "target": "mi",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/we/n/,/c/sh/mi/]"
+    },
+    {
+      "target": "all mutants",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/we/,/c/en/all_mutants/]"
+    },
+    {
+      "target": "sinne",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/we/n/,/c/gd/sinne/]"
+    },
+    {
+      "target": "dress ghetto",
+      "relationship": "CapableOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/CapableOf/,/c/en/we/,/c/en/dress_ghetto/]"
+    },
+    {
+      "target": "sort it all out",
+      "relationship": "CapableOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/CapableOf/,/c/en/we/,/c/en/sort_all_out/]"
+    },
+    {
+      "target": "ten fingers on our two hands",
+      "relationship": "HasA",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasA/,/c/en/we/,/c/en/ten_fingers_on_two_hands/]"
+    },
+    {
+      "target": "ni",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/we/n/,/c/br/ni/]"
+    },
+    {
+      "target": "\u4ffa\u4eec",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/we/n/,/c/zh/\u4ffa\u4eec/]"
+    }
+  ],
+  "relationships": [
+    "CapableOf",
+    "Synonym",
+    "IsA",
+    "HasA"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "we",
+  "single_word_validated": true
+}

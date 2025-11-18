@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1757341433.120798,
+  "edges": [
+    {
+      "target": "movement",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/turning/n/wn/event/,/c/en/movement/n/wn/event/]"
+    },
+    {
+      "target": "turn",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/turning/n/wn/act/,/c/en/turn/n/wn/act/]"
+    },
+    {
+      "target": "end product",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/turning/n/wn/artifact/,/c/en/end_product/n/wn/artifact/]"
+    },
+    {
+      "target": "change",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/turning/n/wn/act/,/c/en/change/n/wn/act/]"
+    },
+    {
+      "target": "formation",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/turning/n/wn/act/,/c/en/formation/n/wn/act/]"
+    },
+    {
+      "target": "paring",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/turning/n/wn/object/,/c/en/paring/n/wn/object/]"
+    },
+    {
+      "target": "turn",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/turning/v/,/c/en/turn/]"
+    },
+    {
+      "target": "lathe",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/turning/n/,/c/en/lathe/]"
+    },
+    {
+      "target": "100927993-n",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/turning/n/wn/act/,/http://wordnet-rdf.princeton.edu/wn31/100927993-n/]"
+    },
+    {
+      "target": "course",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/turning/n/,/c/en/course/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "Synonym",
+    "FormOf",
+    "RelatedTo",
+    "ExternalURL"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "turning",
+  "single_word_validated": true
+}

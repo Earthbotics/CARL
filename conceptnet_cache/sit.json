@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1759896649.5216856,
+  "edges": [
+    {
+      "target": "be",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/sit/v/wn/stative/,/c/en/be/v/wn/stative/]"
+    },
+    {
+      "target": "sit down",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/sit/v/wn/motion/,/c/en/sit_down/v/wn/motion/]"
+    },
+    {
+      "target": "ride",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/sit/v/wn/riding/,/c/en/ride/v/wn/riding/]"
+    },
+    {
+      "target": "convene",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/sit/v/wn/motion/,/c/en/convene/v/wn/motion/]"
+    },
+    {
+      "target": "sedeti",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/sit/v/,/c/sh/sedeti/]"
+    },
+    {
+      "target": "sjediti",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/sit/v/,/c/sh/sjediti/]"
+    },
+    {
+      "target": "sit down",
+      "relationship": "Entails",
+      "weight": 2.0,
+      "uri": "/a/[/r/Entails/,/c/en/sit/v/wn/contact/,/c/en/sit_down/v/wn/motion/]"
+    },
+    {
+      "target": "sjedjeti",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/sit/v/,/c/sh/sjedjeti/]"
+    },
+    {
+      "target": "seat",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/sit/v/wn/contact/,/c/en/seat/v/wn/contact/]"
+    },
+    {
+      "target": "model",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/sit/v/wn/art/,/c/en/model/v/wn/art/]"
+    }
+  ],
+  "relationships": [
+    "MannerOf",
+    "Synonym",
+    "Entails"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "sit",
+  "single_word_validated": true
+}

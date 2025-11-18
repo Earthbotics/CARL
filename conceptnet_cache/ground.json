@@ -1,0 +1,73 @@
+{
+  "has_data": true,
+  "last_lookup": 1755055818.8249385,
+  "edges": [
+    {
+      "target": "floor",
+      "relationship": "RelatedTo",
+      "weight": 7.179972144792764,
+      "uri": "/a/[/r/RelatedTo/,/c/en/ground/,/c/en/floor/]"
+    },
+    {
+      "target": "earth",
+      "relationship": "RelatedTo",
+      "weight": 6.866148847789422,
+      "uri": "/a/[/r/RelatedTo/,/c/en/ground/,/c/en/earth/]"
+    },
+    {
+      "target": "dirt",
+      "relationship": "RelatedTo",
+      "weight": 6.663632642935834,
+      "uri": "/a/[/r/RelatedTo/,/c/en/ground/,/c/en/dirt/]"
+    },
+    {
+      "target": "under",
+      "relationship": "RelatedTo",
+      "weight": 4.07332787779231,
+      "uri": "/a/[/r/RelatedTo/,/c/en/ground/,/c/en/under/]"
+    },
+    {
+      "target": "below",
+      "relationship": "RelatedTo",
+      "weight": 3.9038442591886273,
+      "uri": "/a/[/r/RelatedTo/,/c/en/ground/,/c/en/below/]"
+    },
+    {
+      "target": "feet",
+      "relationship": "RelatedTo",
+      "weight": 3.8010524858254726,
+      "uri": "/a/[/r/RelatedTo/,/c/en/ground/,/c/en/feet/]"
+    },
+    {
+      "target": "soil",
+      "relationship": "RelatedTo",
+      "weight": 3.3923443221465597,
+      "uri": "/a/[/r/RelatedTo/,/c/en/ground/,/c/en/soil/]"
+    },
+    {
+      "target": "sky",
+      "relationship": "Antonym",
+      "weight": 2.88790581563873,
+      "uri": "/a/[/r/Antonym/,/c/en/ground/,/c/en/sky/]"
+    },
+    {
+      "target": "surface",
+      "relationship": "RelatedTo",
+      "weight": 2.8579713084633998,
+      "uri": "/a/[/r/RelatedTo/,/c/en/ground/,/c/en/surface/]"
+    },
+    {
+      "target": "outside",
+      "relationship": "RelatedTo",
+      "weight": 2.4657656011875906,
+      "uri": "/a/[/r/RelatedTo/,/c/en/ground/,/c/en/outside/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "Antonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "ground",
+  "single_word_validated": true
+}

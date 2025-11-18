@@ -1,0 +1,77 @@
+{
+  "has_data": true,
+  "last_lookup": 1757432233.3213046,
+  "edges": [
+    {
+      "target": "creating by mental acts",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/programming/n/wn/act/,/c/en/creating_by_mental_acts/n/wn/act/]"
+    },
+    {
+      "target": "scheduling",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/programming/n/wn/act/,/c/en/scheduling/n/wn/act/]"
+    },
+    {
+      "target": "listing the program steps",
+      "relationship": "HasSubevent",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasSubevent/,/c/en/programming/,/c/en/listing_program_steps/]"
+    },
+    {
+      "target": "a lifestyle",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/programming/,/c/en/lifestyle/]"
+    },
+    {
+      "target": "program",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/programming/,/c/en/program/v/]"
+    },
+    {
+      "target": "operating",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/programming/n/,/c/en/operating/]"
+    },
+    {
+      "target": "radio",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/programming/n/,/c/en/radio/]"
+    },
+    {
+      "target": "television",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/programming/n/,/c/en/television/]"
+    },
+    {
+      "target": "instructions",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/programming/n/,/c/en/instructions/]"
+    },
+    {
+      "target": "television",
+      "relationship": "AtLocation",
+      "weight": 1.0,
+      "uri": "/a/[/r/AtLocation/,/c/en/programming/,/c/en/television/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "Synonym",
+    "HasSubevent",
+    "FormOf",
+    "RelatedTo",
+    "AtLocation"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "programming",
+  "single_word_validated": true
+}

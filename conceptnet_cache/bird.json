@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1759787333.1295838,
+  "edges": [
+    {
+      "target": "animal",
+      "relationship": "RelatedTo",
+      "weight": 8.332106576370709,
+      "uri": "/a/[/r/RelatedTo/,/c/en/bird/,/c/en/animal/]"
+    },
+    {
+      "target": "flying",
+      "relationship": "RelatedTo",
+      "weight": 6.6368667306192,
+      "uri": "/a/[/r/RelatedTo/,/c/en/bird/,/c/en/flying/]"
+    },
+    {
+      "target": "sing",
+      "relationship": "CapableOf",
+      "weight": 6.6332495807108,
+      "uri": "/a/[/r/CapableOf/,/c/en/bird/,/c/en/sing/]"
+    },
+    {
+      "target": "wings",
+      "relationship": "RelatedTo",
+      "weight": 4.836114142573559,
+      "uri": "/a/[/r/RelatedTo/,/c/en/bird/,/c/en/wings/]"
+    },
+    {
+      "target": "a tree",
+      "relationship": "AtLocation",
+      "weight": 4.47213595499958,
+      "uri": "/a/[/r/AtLocation/,/c/en/bird/,/c/en/tree/]"
+    },
+    {
+      "target": "flying animal",
+      "relationship": "RelatedTo",
+      "weight": 4.209988123498688,
+      "uri": "/a/[/r/RelatedTo/,/c/en/bird/,/c/en/flying_animal/]"
+    },
+    {
+      "target": "fly",
+      "relationship": "Desires",
+      "weight": 4.0,
+      "uri": "/a/[/r/Desires/,/c/en/bird/,/c/en/fly/]"
+    },
+    {
+      "target": "a nest",
+      "relationship": "AtLocation",
+      "weight": 4.0,
+      "uri": "/a/[/r/AtLocation/,/c/en/bird/,/c/en/nest/]"
+    },
+    {
+      "target": "the sky",
+      "relationship": "AtLocation",
+      "weight": 4.0,
+      "uri": "/a/[/r/AtLocation/,/c/en/bird/,/c/en/sky/]"
+    },
+    {
+      "target": "creature",
+      "relationship": "RelatedTo",
+      "weight": 3.745397175200515,
+      "uri": "/a/[/r/RelatedTo/,/c/en/bird/,/c/en/creature/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "CapableOf",
+    "AtLocation",
+    "Desires"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "bird",
+  "single_word_validated": true
+}

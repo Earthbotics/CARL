@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1757469400.9165297,
+  "edges": [
+    {
+      "target": "create",
+      "relationship": "RelatedTo",
+      "weight": 5.134978091481988,
+      "uri": "/a/[/r/RelatedTo/,/c/en/make/,/c/en/create/]"
+    },
+    {
+      "target": "construct",
+      "relationship": "RelatedTo",
+      "weight": 2.014944167960989,
+      "uri": "/a/[/r/RelatedTo/,/c/en/make/,/c/en/construct/]"
+    },
+    {
+      "target": "gain",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/make/v/wn/possession/,/c/en/gain/v/wn/possession/]"
+    },
+    {
+      "target": "pass",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/make/v/wn/motion/,/c/en/pass/v/wn/motion/]"
+    },
+    {
+      "target": "estimate",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/make/v/wn/cognition/,/c/en/estimate/v/wn/cognition/]"
+    },
+    {
+      "target": "induce",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/make/v/wn/communication/,/c/en/induce/v/wn/communication/]"
+    },
+    {
+      "target": "assemble",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/make/v/wn/social/,/c/en/assemble/v/wn/social/]"
+    },
+    {
+      "target": "create from raw material",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/make/v/wn/creation/,/c/en/create_from_raw_material/v/wn/creation/]"
+    },
+    {
+      "target": "develop",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/make/v/wn/change/,/c/en/develop/v/wn/change/]"
+    },
+    {
+      "target": "constitute",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/make/v/wn/stative/,/c/en/constitute/v/wn/stative/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "Synonym",
+    "MannerOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "make",
+  "single_word_validated": true
+}

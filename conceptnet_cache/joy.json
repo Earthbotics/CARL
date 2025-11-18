@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1754664002.1161718,
+  "edges": [
+    {
+      "target": "happiness",
+      "relationship": "RelatedTo",
+      "weight": 5.809647149354253,
+      "uri": "/a/[/r/RelatedTo/,/c/en/joy/,/c/en/happiness/]"
+    },
+    {
+      "target": "happy",
+      "relationship": "RelatedTo",
+      "weight": 3.05286750449475,
+      "uri": "/a/[/r/RelatedTo/,/c/en/joy/,/c/en/happy/]"
+    },
+    {
+      "target": "emotion",
+      "relationship": "RelatedTo",
+      "weight": 2.3613555429032704,
+      "uri": "/a/[/r/RelatedTo/,/c/en/joy/,/c/en/emotion/]"
+    },
+    {
+      "target": "rejoice",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/joy/v/wn/emotion/,/c/en/rejoice/v/wn/emotion/]"
+    },
+    {
+      "target": "an emotion",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/joy/,/c/en/emotion/]"
+    },
+    {
+      "target": "emotion",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/joy/n/wn/feeling/,/c/en/emotion/n/wn/feeling/]"
+    },
+    {
+      "target": "a dog",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/joy/,/c/en/dog/]"
+    },
+    {
+      "target": "veselje",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/joy/n/,/c/sh/veselje/]"
+    },
+    {
+      "target": "positive stimulus",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/joy/n/wn/cognition/,/c/en/positive_stimulus/n/wn/cognition/]"
+    },
+    {
+      "target": "radost",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/joy/n/,/c/sh/radost/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "Synonym",
+    "IsA"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "joy",
+  "single_word_validated": true
+}

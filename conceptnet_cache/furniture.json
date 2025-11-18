@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1759787474.7441094,
+  "edges": [
+    {
+      "target": "a house",
+      "relationship": "AtLocation",
+      "weight": 6.32455532033676,
+      "uri": "/a/[/r/AtLocation/,/c/en/furniture/,/c/en/house/]"
+    },
+    {
+      "target": "a room",
+      "relationship": "AtLocation",
+      "weight": 4.0,
+      "uri": "/a/[/r/AtLocation/,/c/en/furniture/,/c/en/room/]"
+    },
+    {
+      "target": "a building",
+      "relationship": "AtLocation",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/AtLocation/,/c/en/furniture/,/c/en/building/]"
+    },
+    {
+      "target": "the rug",
+      "relationship": "AtLocation",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/AtLocation/,/c/en/furniture/,/c/en/rug/]"
+    },
+    {
+      "target": "a friend's house",
+      "relationship": "AtLocation",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/AtLocation/,/c/en/furniture/,/c/en/friend's_house/]"
+    },
+    {
+      "target": "a store",
+      "relationship": "AtLocation",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/AtLocation/,/c/en/furniture/,/c/en/store/]"
+    },
+    {
+      "target": "building",
+      "relationship": "AtLocation",
+      "weight": 2.0,
+      "uri": "/a/[/r/AtLocation/,/c/en/furniture/n/wn/artifact/,/c/en/building/n/wn/artifact/]"
+    },
+    {
+      "target": "name\u0161taj",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/furniture/n/,/c/sh/name\u0161taj/]"
+    },
+    {
+      "target": "wood",
+      "relationship": "MadeOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MadeOf/,/c/en/furniture/,/c/en/wood/]"
+    },
+    {
+      "target": "found in a house",
+      "relationship": "ReceivesAction",
+      "weight": 2.0,
+      "uri": "/a/[/r/ReceivesAction/,/c/en/furniture/,/c/en/found_in_house/]"
+    }
+  ],
+  "relationships": [
+    "AtLocation",
+    "Synonym",
+    "MadeOf",
+    "ReceivesAction"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "furniture",
+  "single_word_validated": true
+}

@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1754012708.4992342,
+  "edges": [
+    {
+      "target": "joint",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/shared/a/wn/,/c/en/joint/a/wn/]"
+    },
+    {
+      "target": "divided up",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/shared/a/wn/,/c/en/divided_up/a/wn/]"
+    },
+    {
+      "target": "joint",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/shared/a/wn/,/c/en/joint/a/wn/]"
+    },
+    {
+      "target": "mutual",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/shared/a/wn/,/c/en/mutual/a/wn/]"
+    },
+    {
+      "target": "yhteinen",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/shared/a/,/c/fi/yhteinen/]"
+    },
+    {
+      "target": "jaettu",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/shared/a/,/c/fi/jaettu/]"
+    },
+    {
+      "target": "\u10e1\u10d0\u10d6\u10d8\u10d0\u10e0\u10dd",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/shared/a/,/c/ka/\u10e1\u10d0\u10d6\u10d8\u10d0\u10e0\u10dd/]"
+    },
+    {
+      "target": "gemeinsam",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/shared/a/,/c/de/gemeinsam/]"
+    },
+    {
+      "target": "share",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/shared/,/c/en/share/v/]"
+    },
+    {
+      "target": "skupen",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/shared/a/,/c/sl/skupen/]"
+    }
+  ],
+  "relationships": [
+    "SimilarTo",
+    "Synonym",
+    "RelatedTo",
+    "FormOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "shared",
+  "single_word_validated": true
+}

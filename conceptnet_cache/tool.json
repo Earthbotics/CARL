@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1759723085.5366244,
+  "edges": [
+    {
+      "target": "an object",
+      "relationship": "IsA",
+      "weight": 5.291502622129181,
+      "uri": "/a/[/r/IsA/,/c/en/tool/,/c/en/object/]"
+    },
+    {
+      "target": "the garage",
+      "relationship": "AtLocation",
+      "weight": 5.291502622129181,
+      "uri": "/a/[/r/AtLocation/,/c/en/tool/,/c/en/garage/]"
+    },
+    {
+      "target": "building things",
+      "relationship": "UsedFor",
+      "weight": 4.47213595499958,
+      "uri": "/a/[/r/UsedFor/,/c/en/tool/,/c/en/building_things/]"
+    },
+    {
+      "target": "fixing things",
+      "relationship": "UsedFor",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/UsedFor/,/c/en/tool/,/c/en/fixing_things/]"
+    },
+    {
+      "target": "the repair shop",
+      "relationship": "AtLocation",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/AtLocation/,/c/en/tool/,/c/en/repair_shop/]"
+    },
+    {
+      "target": "making things",
+      "relationship": "UsedFor",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/UsedFor/,/c/en/tool/,/c/en/making_things/]"
+    },
+    {
+      "target": "implement",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/tool/n/wn/artifact/,/c/en/implement/n/wn/artifact/]"
+    },
+    {
+      "target": "supply",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/tool/v/wn/possession/,/c/en/supply/v/wn/possession/]"
+    },
+    {
+      "target": "fix things",
+      "relationship": "UsedFor",
+      "weight": 2.0,
+      "uri": "/a/[/r/UsedFor/,/c/en/tool/,/c/en/fix_things/]"
+    },
+    {
+      "target": "cock",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/tool/n/wn/body/,/c/en/cock/n/wn/body/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "AtLocation",
+    "UsedFor",
+    "MannerOf",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "tool",
+  "single_word_validated": true
+}

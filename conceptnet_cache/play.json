@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1757689146.289331,
+  "edges": [
+    {
+      "target": "have some fun",
+      "relationship": "MotivatedByGoal",
+      "weight": 9.38083151964686,
+      "uri": "/a/[/r/MotivatedByGoal/,/c/en/play/,/c/en/have_fun/]"
+    },
+    {
+      "target": "fun",
+      "relationship": "RelatedTo",
+      "weight": 7.547184905645283,
+      "uri": "/a/[/r/RelatedTo/,/c/en/play/,/c/en/fun/]"
+    },
+    {
+      "target": "activity",
+      "relationship": "RelatedTo",
+      "weight": 6.260990336999411,
+      "uri": "/a/[/r/RelatedTo/,/c/en/play/,/c/en/activity/]"
+    },
+    {
+      "target": "game",
+      "relationship": "RelatedTo",
+      "weight": 5.415533214744418,
+      "uri": "/a/[/r/RelatedTo/,/c/en/play/,/c/en/game/]"
+    },
+    {
+      "target": "games",
+      "relationship": "RelatedTo",
+      "weight": 4.449719092257398,
+      "uri": "/a/[/r/RelatedTo/,/c/en/play/,/c/en/games/]"
+    },
+    {
+      "target": "children",
+      "relationship": "RelatedTo",
+      "weight": 4.441171016747723,
+      "uri": "/a/[/r/RelatedTo/,/c/en/play/,/c/en/children/]"
+    },
+    {
+      "target": "have fun",
+      "relationship": "HasSubevent",
+      "weight": 4.0,
+      "uri": "/a/[/r/HasSubevent/,/c/en/play/,/c/en/have_fun/]"
+    },
+    {
+      "target": "child",
+      "relationship": "RelatedTo",
+      "weight": 3.9344631145812006,
+      "uri": "/a/[/r/RelatedTo/,/c/en/play/,/c/en/child/]"
+    },
+    {
+      "target": "action",
+      "relationship": "RelatedTo",
+      "weight": 3.8827825074294333,
+      "uri": "/a/[/r/RelatedTo/,/c/en/play/,/c/en/action/]"
+    },
+    {
+      "target": "kids",
+      "relationship": "RelatedTo",
+      "weight": 3.727733896082176,
+      "uri": "/a/[/r/RelatedTo/,/c/en/play/,/c/en/kids/]"
+    }
+  ],
+  "relationships": [
+    "MotivatedByGoal",
+    "RelatedTo",
+    "HasSubevent"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "play",
+  "single_word_validated": true
+}

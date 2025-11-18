@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1757083090.2902255,
+  "edges": [
+    {
+      "target": "wonder",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/request/v/wn/communication/,/c/en/wonder/v/wn/cognition/]"
+    },
+    {
+      "target": "message",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/request/n/wn/communication/,/c/en/message/n/wn/communication/]"
+    },
+    {
+      "target": "speech act",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/request/n/wn/communication/,/c/en/speech_act/n/wn/communication/]"
+    },
+    {
+      "target": "ask",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/request/v/wn/communication/,/c/en/ask/v/wn/communication/]"
+    },
+    {
+      "target": "communicate",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/request/v/wn/communication/,/c/en/communicate/v/wn/communication/]"
+    },
+    {
+      "target": "\u8bf7\u6c42",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/request/v/,/c/zh/\u8bf7\u6c42/]"
+    },
+    {
+      "target": "InformationRequest IBT",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/request/,/http://umbel.org/umbel/sc/InformationRequest_IBT/]"
+    },
+    {
+      "target": "\u8981\u671b",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/request/v/,/c/ja/\u8981\u671b/]"
+    },
+    {
+      "target": "iarr",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/request/v/,/c/ga/iarr/]"
+    },
+    {
+      "target": "y\u00eau c\u1ea7u",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/request/v/,/c/vi/y\u00eau_c\u1ea7u/]"
+    }
+  ],
+  "relationships": [
+    "MannerOf",
+    "IsA",
+    "Synonym",
+    "ExternalURL"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "request",
+  "single_word_validated": true
+}

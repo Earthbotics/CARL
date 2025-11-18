@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1758073159.639067,
+  "edges": [
+    {
+      "target": "direction",
+      "relationship": "IsA",
+      "weight": 4.0,
+      "uri": "/a/[/r/IsA/,/c/en/up/,/c/en/direction/]"
+    },
+    {
+      "target": "opposite of down",
+      "relationship": "DefinedAs",
+      "weight": 4.0,
+      "uri": "/a/[/r/DefinedAs/,/c/en/up/,/c/en/opposite_of_down/]"
+    },
+    {
+      "target": "down",
+      "relationship": "Antonym",
+      "weight": 2.375710420063859,
+      "uri": "/a/[/r/Antonym/,/c/en/up/,/c/en/down/]"
+    },
+    {
+      "target": "improving",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/up/a/wn/,/c/en/improving/a/wn/]"
+    },
+    {
+      "target": "heavenward",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/up/a/wn/,/c/en/heavenward/a/wn/]"
+    },
+    {
+      "target": "down",
+      "relationship": "Antonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Antonym/,/c/en/up/n/,/c/en/down/]"
+    },
+    {
+      "target": "risen",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/up/a/wn/,/c/en/risen/a/wn/]"
+    },
+    {
+      "target": "in the lead",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/up/a/wn/,/c/en/in_lead/a/wn/]"
+    },
+    {
+      "target": "direction opposite the pull of gravity",
+      "relationship": "DefinedAs",
+      "weight": 2.0,
+      "uri": "/a/[/r/DefinedAs/,/c/en/up/,/c/en/direction_opposite_pull_of_gravity/]"
+    },
+    {
+      "target": "upward",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/up/a/wn/,/c/en/upward/a/wn/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "DefinedAs",
+    "Antonym",
+    "Synonym",
+    "SimilarTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "up",
+  "single_word_validated": true
+}

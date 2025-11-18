@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1757994219.2229125,
+  "edges": [
+    {
+      "target": "experiment",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/testing/n/wn/act/,/c/en/experiment/n/wn/act/]"
+    },
+    {
+      "target": "examination",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/testing/n/wn/act/,/c/en/examination/n/wn/act/]"
+    },
+    {
+      "target": "examination",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/testing/n/wn/act/,/c/en/examination/n/wn/act/]"
+    },
+    {
+      "target": "human activity",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/testing/n/opencyc/academic_testing/,/c/en/human_activity/n/]"
+    },
+    {
+      "target": "100641218-n",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/testing/n/wn/act/,/http://wordnet-rdf.princeton.edu/wn31/100641218-n/]"
+    },
+    {
+      "target": "proving",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/testing/n/,/c/en/proving/]"
+    },
+    {
+      "target": "test",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/testing/n/,/c/fr/test/]"
+    },
+    {
+      "target": "prueba",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/testing/n/,/c/es/prueba/]"
+    },
+    {
+      "target": "performance testing",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/testing/n/opencyc/academic_testing/,/c/en/performance_testing/n/]"
+    },
+    {
+      "target": "pr\u00f3bowa\u0107",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/testing/n/,/c/pl/pr\u00f3bowa\u0107/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "Synonym",
+    "ExternalURL",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "testing",
+  "single_word_validated": true
+}

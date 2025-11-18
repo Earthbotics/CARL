@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1754840021.0060067,
+  "edges": [
+    {
+      "target": "separate",
+      "relationship": "Entails",
+      "weight": 2.0,
+      "uri": "/a/[/r/Entails/,/c/en/share/v/wn/possession/,/c/en/separate/v/wn/contact/]"
+    },
+    {
+      "target": "partake",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/share/v/wn/possession/,/c/en/partake/v/wn/possession/]"
+    },
+    {
+      "target": "distribute",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/share/v/wn/possession/,/c/en/distribute/v/wn/possession/]"
+    },
+    {
+      "target": "overlap",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/share/v/wn/stative/,/c/en/overlap/v/wn/stative/]"
+    },
+    {
+      "target": "stock",
+      "relationship": "PartOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/PartOf/,/c/en/share/n/wn/possession/,/c/en/stock/n/wn/possession/]"
+    },
+    {
+      "target": "stock certificate",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/share/n/wn/possession/,/c/en/stock_certificate/n/wn/possession/]"
+    },
+    {
+      "target": "net income",
+      "relationship": "PartOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/PartOf/,/c/en/share/n/wn/possession/,/c/en/net_income/n/wn/possession/]"
+    },
+    {
+      "target": "contribution",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/share/n/wn/act/,/c/en/contribution/n/wn/act/]"
+    },
+    {
+      "target": "parcel",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/share/n/wn/act/,/c/en/parcel/n/wn/act/]"
+    },
+    {
+      "target": "communicate",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/share/v/wn/communication/,/c/en/communicate/v/wn/communication/]"
+    }
+  ],
+  "relationships": [
+    "Entails",
+    "Synonym",
+    "MannerOf",
+    "PartOf",
+    "IsA"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "share",
+  "single_word_validated": true
+}

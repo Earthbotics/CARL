@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1754669090.873193,
+  "edges": [
+    {
+      "target": "return",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/take/n/wn/possession/,/c/en/return/n/wn/possession/]"
+    },
+    {
+      "target": "win",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/take/v/wn/competition/,/c/en/win/v/wn/competition/]"
+    },
+    {
+      "target": "accept",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/take/v/wn/possession/,/c/en/accept/v/wn/possession/]"
+    },
+    {
+      "target": "\u0161\u010depati",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/take/v/,/c/sh/\u0161\u010depati/]"
+    },
+    {
+      "target": "select",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/take/v/,/c/en/select/]"
+    },
+    {
+      "target": "act",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/take/v/wn/social/,/c/en/act/v/wn/social/]"
+    },
+    {
+      "target": "buy",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/take/v/wn/commerce/,/c/en/buy/v/wn/commerce/]"
+    },
+    {
+      "target": "capture",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/take/v/,/c/en/capture/]"
+    },
+    {
+      "target": "lease",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/take/v/wn/possession/,/c/en/lease/v/wn/possession/]"
+    },
+    {
+      "target": "bring",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/take/v/wn/motion/,/c/en/bring/v/wn/motion/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "MannerOf",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "take",
+  "single_word_validated": true
+}

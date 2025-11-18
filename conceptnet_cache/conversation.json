@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1757792106.3894548,
+  "edges": [
+    {
+      "target": "converse",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/conversation/n/,/c/en/converse/]"
+    },
+    {
+      "target": "dinner",
+      "relationship": "AtLocation",
+      "weight": 2.0,
+      "uri": "/a/[/r/AtLocation/,/c/en/conversation/,/c/en/dinner/]"
+    },
+    {
+      "target": "speech",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/conversation/n/wn/communication/,/c/en/speech/n/wn/language/]"
+    },
+    {
+      "target": "conversazione",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/conversation/n/,/c/it/conversazione/]"
+    },
+    {
+      "target": "razgovor",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/conversation/n/,/c/sh/razgovor/]"
+    },
+    {
+      "target": "\u0111\u1ed1i tho\u1ea1i",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/conversation/n/,/c/vi/\u0111\u1ed1i_tho\u1ea1i/]"
+    },
+    {
+      "target": "pokalbis",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/conversation/n/,/c/lt/pokalbis/]"
+    },
+    {
+      "target": "batu",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/conversation/n/,/c/ha/batu/]"
+    },
+    {
+      "target": "\u0433\u0443\u0442\u0430\u0440\u043a\u0430",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/conversation/n/,/c/be/\u0433\u0443\u0442\u0430\u0440\u043a\u0430/]"
+    },
+    {
+      "target": "gesprek",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/conversation/n/,/c/nl/gesprek/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "AtLocation",
+    "IsA",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "conversation",
+  "single_word_validated": true
+}

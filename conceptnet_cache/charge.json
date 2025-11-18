@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1754929138.116758,
+  "edges": [
+    {
+      "target": "credit",
+      "relationship": "RelatedTo",
+      "weight": 3.4756294393965526,
+      "uri": "/a/[/r/RelatedTo/,/c/en/charge/,/c/en/credit/]"
+    },
+    {
+      "target": "card",
+      "relationship": "RelatedTo",
+      "weight": 2.3160310878742543,
+      "uri": "/a/[/r/RelatedTo/,/c/en/charge/,/c/en/card/]"
+    },
+    {
+      "target": "lie down",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/charge/v/wn/motion/,/c/en/lie_down/v/wn/motion/]"
+    },
+    {
+      "target": "commission",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/charge/n/wn/communication/,/c/en/commission/n/wn/communication/]"
+    },
+    {
+      "target": "law",
+      "relationship": "HasContext",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasContext/,/c/en/charge/v/wn/law/,/c/en/law/n/wn/group/]"
+    },
+    {
+      "target": "rush",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/charge/v/wn/competition/,/c/en/rush/v/wn/competition/]"
+    },
+    {
+      "target": "explosive",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/charge/n/wn/artifact/,/c/en/explosive/n/wn/artifact/]"
+    },
+    {
+      "target": "accusation",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/charge/n/wn/communication/,/c/en/accusation/n/wn/communication/]"
+    },
+    {
+      "target": "commit",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/charge/v/wn/possession/,/c/en/commit/v/wn/possession/]"
+    },
+    {
+      "target": "load",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/charge/v/wn/contact/,/c/en/load/v/wn/contact/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "MannerOf",
+    "Synonym",
+    "HasContext",
+    "IsA"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "charge",
+  "single_word_validated": true
+}

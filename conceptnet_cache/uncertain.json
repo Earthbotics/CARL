@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1755145917.8272953,
+  "edges": [
+    {
+      "target": "changeable",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/uncertain/a/wn/,/c/en/changeable/a/wn/]"
+    },
+    {
+      "target": "up in the air",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/uncertain/a/wn/,/c/en/up_in_air/a/wn/]"
+    },
+    {
+      "target": "ambiguous",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/uncertain/a/wn/,/c/en/ambiguous/a/wn/]"
+    },
+    {
+      "target": "unsealed",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/uncertain/a/wn/,/c/en/unsealed/a/wn/]"
+    },
+    {
+      "target": "indeterminate",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/uncertain/a/wn/,/c/en/indeterminate/a/wn/]"
+    },
+    {
+      "target": "chancy",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/uncertain/a/wn/,/c/en/chancy/a/wn/]"
+    },
+    {
+      "target": "groping",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/uncertain/a/wn/,/c/en/groping/a/wn/]"
+    },
+    {
+      "target": "contingent",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/uncertain/a/wn/,/c/en/contingent/a/wn/]"
+    },
+    {
+      "target": "certain",
+      "relationship": "Antonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Antonym/,/c/en/uncertain/a/,/c/en/certain/]"
+    },
+    {
+      "target": "unreliable",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/uncertain/a/wn/,/c/en/unreliable/a/wn/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "SimilarTo",
+    "RelatedTo",
+    "Antonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "uncertain",
+  "single_word_validated": true
+}

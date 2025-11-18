@@ -1,0 +1,73 @@
+{
+  "has_data": true,
+  "last_lookup": 1755146902.3942559,
+  "edges": [
+    {
+      "target": "the refrigerator",
+      "relationship": "AtLocation",
+      "weight": 8.246211251235321,
+      "uri": "/a/[/r/AtLocation/,/c/en/food/,/c/en/refrigerator/]"
+    },
+    {
+      "target": "the kitchen",
+      "relationship": "AtLocation",
+      "weight": 7.211102550927979,
+      "uri": "/a/[/r/AtLocation/,/c/en/food/,/c/en/kitchen/]"
+    },
+    {
+      "target": "a table",
+      "relationship": "AtLocation",
+      "weight": 7.211102550927979,
+      "uri": "/a/[/r/AtLocation/,/c/en/food/,/c/en/table/]"
+    },
+    {
+      "target": "the fridge",
+      "relationship": "AtLocation",
+      "weight": 6.6332495807108,
+      "uri": "/a/[/r/AtLocation/,/c/en/food/,/c/en/fridge/]"
+    },
+    {
+      "target": "the oven",
+      "relationship": "AtLocation",
+      "weight": 6.6332495807108,
+      "uri": "/a/[/r/AtLocation/,/c/en/food/,/c/en/oven/]"
+    },
+    {
+      "target": "the supermarket",
+      "relationship": "AtLocation",
+      "weight": 6.6332495807108,
+      "uri": "/a/[/r/AtLocation/,/c/en/food/,/c/en/supermarket/]"
+    },
+    {
+      "target": "eaten",
+      "relationship": "ReceivesAction",
+      "weight": 6.0,
+      "uri": "/a/[/r/ReceivesAction/,/c/en/food/,/c/en/eaten/]"
+    },
+    {
+      "target": "a cupboard",
+      "relationship": "AtLocation",
+      "weight": 4.898979485566356,
+      "uri": "/a/[/r/AtLocation/,/c/en/food/,/c/en/cupboard/]"
+    },
+    {
+      "target": "a stomach",
+      "relationship": "AtLocation",
+      "weight": 4.47213595499958,
+      "uri": "/a/[/r/AtLocation/,/c/en/food/,/c/en/stomach/]"
+    },
+    {
+      "target": "a resturant",
+      "relationship": "AtLocation",
+      "weight": 4.47213595499958,
+      "uri": "/a/[/r/AtLocation/,/c/en/food/,/c/en/resturant/]"
+    }
+  ],
+  "relationships": [
+    "AtLocation",
+    "ReceivesAction"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "food",
+  "single_word_validated": true
+}

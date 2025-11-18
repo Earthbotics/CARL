@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1756355386.134632,
+  "edges": [
+    {
+      "target": "gloss",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/comment/v/wn/communication/,/c/en/gloss/v/wn/communication/]"
+    },
+    {
+      "target": "remark",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/comment/n/wn/communication/,/c/en/remark/n/wn/communication/]"
+    },
+    {
+      "target": "commentaire",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/comment/n/,/c/fr/commentaire/]"
+    },
+    {
+      "target": "note",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/comment/v/wn/communication/,/c/en/note/v/wn/communication/]"
+    },
+    {
+      "target": "komentar",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/comment/n/,/c/sh/komentar/]"
+    },
+    {
+      "target": "opaska",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/comment/n/,/c/sh/opaska/]"
+    },
+    {
+      "target": "statement",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/comment/n/wn/communication/,/c/en/statement/n/wn/communication/]"
+    },
+    {
+      "target": "explain",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/comment/v/wn/communication/,/c/en/explain/v/wn/communication/]"
+    },
+    {
+      "target": "gossip",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/comment/n/wn/communication/,/c/en/gossip/n/wn/communication/]"
+    },
+    {
+      "target": "document",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/comment/v/,/c/en/document/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "MannerOf",
+    "IsA",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "comment",
+  "single_word_validated": true
+}

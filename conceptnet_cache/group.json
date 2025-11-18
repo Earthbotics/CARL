@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1757082774.59017,
+  "edges": [
+    {
+      "target": "a set",
+      "relationship": "IsA",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/IsA/,/c/en/group/,/c/en/set/]"
+    },
+    {
+      "target": "unit",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/group/n/wn/chemistry/,/c/en/unit/n/wn/object/]"
+    },
+    {
+      "target": "groupe",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/group/n/,/c/fr/groupe/]"
+    },
+    {
+      "target": "chemistry",
+      "relationship": "HasContext",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasContext/,/c/en/group/n/wn/chemistry/,/c/en/chemistry/n/wn/cognition/]"
+    },
+    {
+      "target": "abstraction",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/group/n/wn/,/c/en/abstraction/n/wn/]"
+    },
+    {
+      "target": "set",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/group/n/wn/cognition/,/c/en/set/n/wn/mathematics/]"
+    },
+    {
+      "target": "A",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/group/n/wn/body/,/c/en/a/n/wn/body/]"
+    },
+    {
+      "target": "skupina",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/group/n/,/c/sh/skupina/]"
+    },
+    {
+      "target": "meet",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/group/v/wn/competition/,/c/en/meet/v/wn/social/]"
+    },
+    {
+      "target": "molecule",
+      "relationship": "PartOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/PartOf/,/c/en/group/n/wn/chemistry/,/c/en/molecule/n/wn/physics/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "Synonym",
+    "HasContext",
+    "MannerOf",
+    "PartOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "group",
+  "single_word_validated": true
+}

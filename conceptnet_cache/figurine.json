@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1761272134.6063273,
+  "edges": [
+    {
+      "target": "figure",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/figurine/n/wn/artifact/,/c/en/figure/n/wn/artifact/]"
+    },
+    {
+      "target": "consumer durable",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/figurine/n/,/c/en/consumer_durable/n/]"
+    },
+    {
+      "target": "103341404-n",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/figurine/n/wn/artifact/,/http://wordnet-rdf.princeton.edu/wn31/103341404-n/]"
+    },
+    {
+      "target": "sculpture in round",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/figurine/n/,/c/en/sculpture_in_round/n/]"
+    },
+    {
+      "target": "figurine",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/figurine/n/,/c/fr/figurine/]"
+    },
+    {
+      "target": "szobrocska",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/figurine/n/,/c/hu/szobrocska/]"
+    },
+    {
+      "target": "figurine",
+      "relationship": "EtymologicallyDerivedFrom",
+      "weight": 1.0,
+      "uri": "/a/[/r/EtymologicallyDerivedFrom/,/c/en/figurine/,/c/fr/figurine/]"
+    },
+    {
+      "target": "statuette",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/figurine/n/,/c/fr/statuette/]"
+    },
+    {
+      "target": "\u0444\u0438\u0433\u0443\u0440\u043a\u0430",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/figurine/n/,/c/ru/\u0444\u0438\u0433\u0443\u0440\u043a\u0430/]"
+    },
+    {
+      "target": "figure",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/figurine/n/,/c/en/figure/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "ExternalURL",
+    "Synonym",
+    "EtymologicallyDerivedFrom",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "figurine",
+  "single_word_validated": true
+}

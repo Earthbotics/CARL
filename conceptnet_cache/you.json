@@ -1,0 +1,73 @@
+{
+  "has_data": true,
+  "last_lookup": 1757689431.9885764,
+  "edges": [
+    {
+      "target": "jus",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/you/n/,/c/lt/jus/]"
+    },
+    {
+      "target": "dere",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/you/n/,/c/no/dere/]"
+    },
+    {
+      "target": "one",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/you/n/,/c/en/one/]"
+    },
+    {
+      "target": "dykk",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/you/n/,/c/no/dykk/]"
+    },
+    {
+      "target": "\u0924\u0941\u092e",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/you/n/,/c/hi/\u0924\u0941\u092e/]"
+    },
+    {
+      "target": "titeket",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/you/n/,/c/hu/titeket/]"
+    },
+    {
+      "target": "dich",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/you/,/c/de/dich/]"
+    },
+    {
+      "target": "\u0643\u0645",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/you/n/,/c/ar/\u0643\u0645/]"
+    },
+    {
+      "target": "\u0432\u0430\u0441",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/you/n/,/c/uk/\u0432\u0430\u0441/]"
+    },
+    {
+      "target": "koe",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/you/n/,/c/mi/koe/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "you",
+  "single_word_validated": true
+}

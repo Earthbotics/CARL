@@ -1,0 +1,72 @@
+{
+  "has_data": true,
+  "last_lookup": 1756791931.0649405,
+  "edges": [
+    {
+      "target": "fingers",
+      "relationship": "RelatedTo",
+      "weight": 11.827425755421169,
+      "uri": "/a/[/r/RelatedTo/,/c/en/hand/,/c/en/fingers/]"
+    },
+    {
+      "target": "arm",
+      "relationship": "RelatedTo",
+      "weight": 8.6167279172549,
+      "uri": "/a/[/r/RelatedTo/,/c/en/hand/,/c/en/arm/]"
+    },
+    {
+      "target": "body",
+      "relationship": "RelatedTo",
+      "weight": 7.029651484959977,
+      "uri": "/a/[/r/RelatedTo/,/c/en/hand/,/c/en/body/]"
+    },
+    {
+      "target": "part",
+      "relationship": "RelatedTo",
+      "weight": 6.860320692212573,
+      "uri": "/a/[/r/RelatedTo/,/c/en/hand/,/c/en/part/]"
+    },
+    {
+      "target": "five",
+      "relationship": "RelatedTo",
+      "weight": 6.672930390765364,
+      "uri": "/a/[/r/RelatedTo/,/c/en/hand/,/c/en/five/]"
+    },
+    {
+      "target": "body part",
+      "relationship": "RelatedTo",
+      "weight": 6.137752031485142,
+      "uri": "/a/[/r/RelatedTo/,/c/en/hand/,/c/en/body_part/]"
+    },
+    {
+      "target": "five fingers",
+      "relationship": "RelatedTo",
+      "weight": 5.849786320883866,
+      "uri": "/a/[/r/RelatedTo/,/c/en/hand/,/c/en/five_fingers/]"
+    },
+    {
+      "target": "appendage",
+      "relationship": "RelatedTo",
+      "weight": 5.729921465430395,
+      "uri": "/a/[/r/RelatedTo/,/c/en/hand/,/c/en/appendage/]"
+    },
+    {
+      "target": "wrist",
+      "relationship": "RelatedTo",
+      "weight": 5.509990925582365,
+      "uri": "/a/[/r/RelatedTo/,/c/en/hand/,/c/en/wrist/]"
+    },
+    {
+      "target": "palm",
+      "relationship": "RelatedTo",
+      "weight": 4.78873678541638,
+      "uri": "/a/[/r/RelatedTo/,/c/en/hand/,/c/en/palm/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "hand",
+  "single_word_validated": true
+}

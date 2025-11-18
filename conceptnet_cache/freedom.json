@@ -1,0 +1,73 @@
+{
+  "has_data": true,
+  "last_lookup": 1756251810.060726,
+  "edges": [
+    {
+      "target": "a universal right",
+      "relationship": "IsA",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/IsA/,/c/en/freedom/,/c/en/universal_right/]"
+    },
+    {
+      "target": "a belief",
+      "relationship": "IsA",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/IsA/,/c/en/freedom/,/c/en/belief/]"
+    },
+    {
+      "target": "liberdade",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/freedom/n/,/c/pt/liberdade/]"
+    },
+    {
+      "target": "\u03b5\u03bb\u03b5\u03c5\u03b8\u03b5\u03c1\u03b9\u03b1",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/freedom/n/,/c/el/\u03b5\u03bb\u03b5\u03c5\u03b8\u03b5\u03c1\u03b9\u03b1/]"
+    },
+    {
+      "target": "\u81ea\u7531",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/freedom/n/,/c/ja/\u81ea\u7531/]"
+    },
+    {
+      "target": "\u00f6zg\u00fcrl\u00fck",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/freedom/n/,/c/tr/\u00f6zg\u00fcrl\u00fck/]"
+    },
+    {
+      "target": "exemption",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/freedom/n/wn/state/,/c/en/exemption/n/wn/state/]"
+    },
+    {
+      "target": "libertad",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/freedom/n/,/c/rm/libertad/]"
+    },
+    {
+      "target": "libert\u00e9",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/freedom/n/,/c/fr/libert\u00e9/]"
+    },
+    {
+      "target": "frihed",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/freedom/n/,/c/da/frihed/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "freedom",
+  "single_word_validated": true
+}

@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1757094499.232071,
+  "edges": [
+    {
+      "target": "challenge",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/action/v/wn/social/,/c/en/challenge/v/wn/communication/]"
+    },
+    {
+      "target": "keyboard",
+      "relationship": "PartOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/PartOf/,/c/en/action/n/wn/artifact/,/c/en/keyboard/n/wn/artifact/]"
+    },
+    {
+      "target": "work",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/action/n/wn/act/,/c/en/work/n/wn/act/]"
+    },
+    {
+      "target": "group action",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/action/n/wn/act/,/c/en/group_action/n/wn/act/]"
+    },
+    {
+      "target": "carry through",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/action/v/wn/creation/,/c/en/carry_through/v/wn/creation/]"
+    },
+    {
+      "target": "act",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/action/n/wn/act/,/c/en/act/n/wn/]"
+    },
+    {
+      "target": "plot",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/action/n/wn/communication/,/c/en/plot/n/wn/communication/]"
+    },
+    {
+      "target": "natural process",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/action/n/wn/process/,/c/en/natural_process/n/wn/process/]"
+    },
+    {
+      "target": "mechanism",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/action/n/wn/artifact/,/c/en/mechanism/n/wn/artifact/]"
+    },
+    {
+      "target": "state",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/action/n/wn/state/,/c/en/state/n/wn/]"
+    }
+  ],
+  "relationships": [
+    "MannerOf",
+    "PartOf",
+    "IsA",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "action",
+  "single_word_validated": true
+}

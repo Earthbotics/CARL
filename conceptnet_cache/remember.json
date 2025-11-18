@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1756355498.9836652,
+  "edges": [
+    {
+      "target": "memorize",
+      "relationship": "HasPrerequisite",
+      "weight": 4.898979485566356,
+      "uri": "/a/[/r/HasPrerequisite/,/c/en/remember/,/c/en/memorize/]"
+    },
+    {
+      "target": "write it down",
+      "relationship": "HasPrerequisite",
+      "weight": 4.898979485566356,
+      "uri": "/a/[/r/HasPrerequisite/,/c/en/remember/,/c/en/write_down/]"
+    },
+    {
+      "target": "repeat it",
+      "relationship": "HasPrerequisite",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/HasPrerequisite/,/c/en/remember/,/c/en/repeat/]"
+    },
+    {
+      "target": "not forget",
+      "relationship": "HasPrerequisite",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/HasPrerequisite/,/c/en/remember/,/c/en/not_forget/]"
+    },
+    {
+      "target": "memory",
+      "relationship": "RelatedTo",
+      "weight": 2.8740215726399825,
+      "uri": "/a/[/r/RelatedTo/,/c/en/remember/,/c/en/memory/]"
+    },
+    {
+      "target": "use the information later",
+      "relationship": "MotivatedByGoal",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/MotivatedByGoal/,/c/en/remember/,/c/en/use_information_later/]"
+    },
+    {
+      "target": "pay attention",
+      "relationship": "HasPrerequisite",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/HasPrerequisite/,/c/en/remember/,/c/en/pay_attention/]"
+    },
+    {
+      "target": "recall",
+      "relationship": "RelatedTo",
+      "weight": 2.6457513110645907,
+      "uri": "/a/[/r/RelatedTo/,/c/en/remember/,/c/en/recall/]"
+    },
+    {
+      "target": "bequeath",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/remember/v/wn/possession/,/c/en/bequeath/v/wn/possession/]"
+    },
+    {
+      "target": "commend",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/remember/v/wn/communication/,/c/en/commend/v/wn/communication/]"
+    }
+  ],
+  "relationships": [
+    "HasPrerequisite",
+    "RelatedTo",
+    "MotivatedByGoal",
+    "MannerOf",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "remember",
+  "single_word_validated": true
+}

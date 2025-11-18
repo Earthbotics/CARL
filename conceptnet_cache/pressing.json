@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1754928945.86807,
+  "edges": [
+    {
+      "target": "press",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/pressing/n/wn/act/,/c/en/press/n/wn/act/]"
+    },
+    {
+      "target": "part",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/pressing/n/wn/artifact/,/c/en/part/n/wn/artifact/]"
+    },
+    {
+      "target": "urgent",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/pressing/a/wn/,/c/en/urgent/a/wn/]"
+    },
+    {
+      "target": "press",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/pressing/v/,/c/en/press/]"
+    },
+    {
+      "target": "\u0641\u0648\u0631\u06cc",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/pressing/a/,/c/fa/\u0641\u0648\u0631\u06cc/]"
+    },
+    {
+      "target": "acuciante",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/pressing/a/,/c/es/acuciante/]"
+    },
+    {
+      "target": "forging",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/pressing/n/opencyc/pressing_flat/,/c/en/forging/n/]"
+    },
+    {
+      "target": "tirage",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/pressing/n/,/c/fr/tirage/]"
+    },
+    {
+      "target": "crease",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/pressing/n/,/c/en/crease/]"
+    },
+    {
+      "target": "compression",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/pressing/n/,/c/fr/compression/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "IsA",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "pressing",
+  "single_word_validated": true
+}

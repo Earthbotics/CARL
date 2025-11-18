@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1755878667.4268684,
+  "edges": [
+    {
+      "target": "season",
+      "relationship": "RelatedTo",
+      "weight": 7.302328395792674,
+      "uri": "/a/[/r/RelatedTo/,/c/en/summer/,/c/en/season/]"
+    },
+    {
+      "target": "hot",
+      "relationship": "RelatedTo",
+      "weight": 5.679788728465171,
+      "uri": "/a/[/r/RelatedTo/,/c/en/summer/,/c/en/hot/]"
+    },
+    {
+      "target": "spring",
+      "relationship": "RelatedTo",
+      "weight": 3.3923443221465597,
+      "uri": "/a/[/r/RelatedTo/,/c/en/summer/,/c/en/spring/]"
+    },
+    {
+      "target": "a season",
+      "relationship": "IsA",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/IsA/,/c/en/summer/,/c/en/season/]"
+    },
+    {
+      "target": "hot season",
+      "relationship": "RelatedTo",
+      "weight": 2.791415411578864,
+      "uri": "/a/[/r/RelatedTo/,/c/en/summer/,/c/en/hot_season/]"
+    },
+    {
+      "target": "warm",
+      "relationship": "RelatedTo",
+      "weight": 2.7899820787954894,
+      "uri": "/a/[/r/RelatedTo/,/c/en/summer/,/c/en/warm/]"
+    },
+    {
+      "target": "after",
+      "relationship": "RelatedTo",
+      "weight": 2.5526456863419176,
+      "uri": "/a/[/r/RelatedTo/,/c/en/summer/,/c/en/after/]"
+    },
+    {
+      "target": "winter",
+      "relationship": "DistinctFrom",
+      "weight": 2.4388521890430344,
+      "uri": "/a/[/r/DistinctFrom/,/c/en/summer/,/c/en/winter/]"
+    },
+    {
+      "target": "after spring",
+      "relationship": "RelatedTo",
+      "weight": 2.262741699796953,
+      "uri": "/a/[/r/RelatedTo/,/c/en/summer/,/c/en/after_spring/]"
+    },
+    {
+      "target": "ljeto",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/summer/n/wikt/en_1/,/c/sh/ljeto/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "IsA",
+    "DistinctFrom",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "summer",
+  "single_word_validated": true
+}

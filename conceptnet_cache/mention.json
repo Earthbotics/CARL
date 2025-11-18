@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1755967755.3536675,
+  "edges": [
+    {
+      "target": "say",
+      "relationship": "RelatedTo",
+      "weight": 2.734958866235469,
+      "uri": "/a/[/r/RelatedTo/,/c/en/mention/,/c/en/say/]"
+    },
+    {
+      "target": "notice",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/mention/v/wn/communication/,/c/en/notice/v/wn/communication/]"
+    },
+    {
+      "target": "remark",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/mention/n/wn/communication/,/c/en/remark/n/wn/communication/]"
+    },
+    {
+      "target": "award",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/mention/n/wn/communication/,/c/en/award/n/wn/communication/]"
+    },
+    {
+      "target": "pomen",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/mention/n/,/c/sh/pomen/]"
+    },
+    {
+      "target": "note",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/mention/v/wn/communication/,/c/en/note/v/wn/communication/]"
+    },
+    {
+      "target": "pominjanje",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/mention/n/,/c/sh/pominjanje/]"
+    },
+    {
+      "target": "think of",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/mention/v/wn/communication/,/c/en/think_of/v/wn/cognition/]"
+    },
+    {
+      "target": "citation",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/mention/n/wn/communication/,/c/en/citation/n/wn/communication/]"
+    },
+    {
+      "target": "tell",
+      "relationship": "RelatedTo",
+      "weight": 1.2389999999999999,
+      "uri": "/a/[/r/RelatedTo/,/c/en/mention/,/c/en/tell/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "MannerOf",
+    "IsA",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "mention",
+  "single_word_validated": true
+}

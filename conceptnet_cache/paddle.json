@@ -1,0 +1,77 @@
+{
+  "has_data": true,
+  "last_lookup": 1756699059.2318282,
+  "edges": [
+    {
+      "target": "water sport",
+      "relationship": "HasContext",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasContext/,/c/en/paddle/v/wn/water_sport/,/c/en/water_sport/n/wn/act/]"
+    },
+    {
+      "target": "stir",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/paddle/v/wn/contact/,/c/en/stir/v/wn/motion/]"
+    },
+    {
+      "target": "boat",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/paddle/v/wn/sport/,/c/en/boat/v/wn/navigation/]"
+    },
+    {
+      "target": "instrument of punishment",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/paddle/n/wn/artifact/,/c/en/instrument_of_punishment/n/wn/artifact/]"
+    },
+    {
+      "target": "dabble",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/paddle/v/wn/social/,/c/en/dabble/v/wn/social/]"
+    },
+    {
+      "target": "swim",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/paddle/v/wn/water_sport/,/c/en/swim/v/wn/motion/]"
+    },
+    {
+      "target": "sport",
+      "relationship": "HasContext",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasContext/,/c/en/paddle/v/wn/sport/,/c/en/sport/n/wn/act/]"
+    },
+    {
+      "target": "a fraternity house",
+      "relationship": "AtLocation",
+      "weight": 2.0,
+      "uri": "/a/[/r/AtLocation/,/c/en/paddle/,/c/en/fraternity_house/]"
+    },
+    {
+      "target": "paddlewheel",
+      "relationship": "PartOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/PartOf/,/c/en/paddle/n/wn/artifact/,/c/en/paddlewheel/n/wn/artifact/]"
+    },
+    {
+      "target": "spank",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/paddle/v/wn/contact/,/c/en/spank/v/wn/contact/]"
+    }
+  ],
+  "relationships": [
+    "HasContext",
+    "MannerOf",
+    "IsA",
+    "Synonym",
+    "AtLocation",
+    "PartOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "paddle",
+  "single_word_validated": true
+}

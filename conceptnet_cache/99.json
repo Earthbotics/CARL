@@ -1,0 +1,77 @@
+{
+  "has_data": true,
+  "last_lookup": 1754004103.558193,
+  "edges": [
+    {
+      "target": "cardinal",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/99/a/wn/,/c/en/cardinal/a/wn/]"
+    },
+    {
+      "target": "Q938747",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/99/,/http://wikidata.dbpedia.org/resource/Q938747/]"
+    },
+    {
+      "target": "uk",
+      "relationship": "HasContext",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasContext/,/c/en/99/n/,/c/en/uk/]"
+    },
+    {
+      "target": "99",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/99/,/http://dbpedia.org/resource/Wolseley_6/99/]"
+    },
+    {
+      "target": "ireland",
+      "relationship": "HasContext",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasContext/,/c/en/99/n/,/c/en/ireland/]"
+    },
+    {
+      "target": "302203651-s",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/99/a/wn/,/http://wordnet-rdf.princeton.edu/wn31/302203651-s/]"
+    },
+    {
+      "target": "ice cream cone",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/99/n/,/c/en/ice_cream_cone/]"
+    },
+    {
+      "target": "automobile",
+      "relationship": "IsA",
+      "weight": 0.5,
+      "uri": "/a/[/r/IsA/,/c/en/99/,/c/en/automobile/n/]"
+    },
+    {
+      "target": "99",
+      "relationship": "Synonym",
+      "weight": 0.5,
+      "uri": "/a/[/r/Synonym/,/c/en/99/,/c/en/99/]"
+    },
+    {
+      "target": "99",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/99/,/http://en.wiktionary.org/wiki/99/]"
+    }
+  ],
+  "relationships": [
+    "SimilarTo",
+    "ExternalURL",
+    "HasContext",
+    "RelatedTo",
+    "IsA",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "99",
+  "single_word_validated": true
+}

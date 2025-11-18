@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1757432776.7910197,
+  "edges": [
+    {
+      "target": "a brain",
+      "relationship": "HasPrerequisite",
+      "weight": 6.0,
+      "uri": "/a/[/r/HasPrerequisite/,/c/en/thinking/,/c/en/brain/]"
+    },
+    {
+      "target": "ideas",
+      "relationship": "Causes",
+      "weight": 4.898979485566356,
+      "uri": "/a/[/r/Causes/,/c/en/thinking/,/c/en/ideas/]"
+    },
+    {
+      "target": "solving problems",
+      "relationship": "UsedFor",
+      "weight": 4.47213595499958,
+      "uri": "/a/[/r/UsedFor/,/c/en/thinking/,/c/en/solving_problems/]"
+    },
+    {
+      "target": "deciding something",
+      "relationship": "UsedFor",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/UsedFor/,/c/en/thinking/,/c/en/deciding/]"
+    },
+    {
+      "target": "deducing",
+      "relationship": "UsedFor",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/UsedFor/,/c/en/thinking/,/c/en/deducing/]"
+    },
+    {
+      "target": "solving",
+      "relationship": "UsedFor",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/UsedFor/,/c/en/thinking/,/c/en/solving/]"
+    },
+    {
+      "target": "solving a problem",
+      "relationship": "UsedFor",
+      "weight": 2.0,
+      "uri": "/a/[/r/UsedFor/,/c/en/thinking/,/c/en/solving_problem/]"
+    },
+    {
+      "target": "reasoning",
+      "relationship": "UsedFor",
+      "weight": 2.0,
+      "uri": "/a/[/r/UsedFor/,/c/en/thinking/,/c/en/reasoning/]"
+    },
+    {
+      "target": "adapting",
+      "relationship": "UsedFor",
+      "weight": 2.0,
+      "uri": "/a/[/r/UsedFor/,/c/en/thinking/,/c/en/adapting/]"
+    },
+    {
+      "target": "thought",
+      "relationship": "Causes",
+      "weight": 2.0,
+      "uri": "/a/[/r/Causes/,/c/en/thinking/,/c/en/thought/]"
+    }
+  ],
+  "relationships": [
+    "HasPrerequisite",
+    "Causes",
+    "UsedFor"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "thinking",
+  "single_word_validated": true
+}

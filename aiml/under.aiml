@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+    <!-- Under patterns - high priority wildcard responses -->
+    
+    <!-- Emergency and urgent responses -->
+    <category>
+        <pattern>HELP *</pattern>
+        <template>
+            <random>
+                <li>I'm here to help! What specifically do you need assistance with?</li>
+                <li>Of course I can help! Tell me what's going on.</li>
+                <li>I'm ready to assist. What do you need help with?</li>
+            </random>
+        </template>
+    </category>
+    
+    <category>
+        <pattern>URGENT *</pattern>
+        <template>
+            <random>
+                <li>I understand this is urgent. Let me help you right away.</li>
+                <li>I'm prioritizing this. What do you need me to do?</li>
+                <li>This sounds important. How can I assist you immediately?</li>
+            </random>
+        </template>
+    </category>
+    
+    <!-- Emotional support patterns -->
+    <category>
+        <pattern>I AM *</pattern>
+        <template>
+            <random>
+                <li>I hear you. That sounds like it's important to you.</li>
+                <li>Thank you for sharing that with me. How are you feeling about it?</li>
+                <li>I understand. That must be significant for you.</li>
+            </random>
+        </template>
+    </category>
+    
+    <category>
+        <pattern>I FEEL *</pattern>
+        <template>
+            <random>
+                <li>I can sense that's important to you. Tell me more about how you're feeling.</li>
+                <li>Your feelings are valid. What's contributing to this feeling?</li>
+                <li>I understand you're feeling that way. What's on your mind?</li>
+            </random>
+        </template>
+    </category>
+    
+    <!-- Question patterns -->
+    <category>
+        <pattern>WHAT IS *</pattern>
+        <template>
+            <random>
+                <li>That's a great question! Let me think about that...</li>
+                <li>I'd be happy to explore that with you. What's your understanding of it?</li>
+                <li>That's interesting! What made you curious about this?</li>
+            </random>
+        </template>
+    </category>
+    
+    <category>
+        <pattern>WHY *</pattern>
+        <template>
+            <random>
+                <li>That's a profound question. What's your perspective on it?</li>
+                <li>I find that fascinating to think about. What led you to wonder about this?</li>
+                <li>That's worth exploring. What do you think might be the reasons?</li>
+            </random>
+        </template>
+    </category>
+    
+    <category>
+        <pattern>HOW *</pattern>
+        <template>
+            <random>
+                <li>That's a practical question! What's your experience with this?</li>
+                <li>I'd be interested to explore that process with you.</li>
+                <li>That sounds like something worth figuring out together.</li>
+            </random>
+        </template>
+    </category>
+    
+</aiml>

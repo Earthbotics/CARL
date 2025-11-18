@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1760366730.9354322,
+  "edges": [
+    {
+      "target": "solve",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/guess/v/wn/cognition/,/c/en/solve/v/wn/cognition/]"
+    },
+    {
+      "target": "estimate",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/guess/n/wn/cognition/,/c/en/estimate/n/wn/cognition/]"
+    },
+    {
+      "target": "think",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/guess/v/wn/cognition/,/c/en/think/v/wn/cognition/]"
+    },
+    {
+      "target": "estimate",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/guess/v/wn/cognition/,/c/en/estimate/v/wn/cognition/]"
+    },
+    {
+      "target": "opinion",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/guess/n/wn/communication/,/c/en/opinion/n/wn/communication/]"
+    },
+    {
+      "target": "speculate",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/guess/v/wn/communication/,/c/en/speculate/v/wn/communication/]"
+    },
+    {
+      "target": "b\u0103nui",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/guess/v/wikt/en_1/,/c/ro/b\u0103nui/]"
+    },
+    {
+      "target": "giska",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/guess/v/wikt/en_1/,/c/is/giska/]"
+    },
+    {
+      "target": "indovinare",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/guess/v/wikt/en_1/,/c/it/indovinare/]"
+    },
+    {
+      "target": "\u731c",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/guess/v/wikt/en_1/,/c/zh/\u731c/]"
+    }
+  ],
+  "relationships": [
+    "MannerOf",
+    "IsA",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "guess",
+  "single_word_validated": true
+}

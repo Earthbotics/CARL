@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1756060382.2829702,
+  "edges": [
+    {
+      "target": "explanation",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/interpretation/n/wn/cognition/,/c/en/explanation/n/wn/cognition/]"
+    },
+    {
+      "target": "explanation",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/interpretation/n/wn/communication/,/c/en/explanation/n/wn/communication/]"
+    },
+    {
+      "target": "representation",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/interpretation/n/wn/cognition/,/c/en/representation/n/wn/cognition/]"
+    },
+    {
+      "target": "rendition",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/interpretation/n/wn/act/,/c/en/rendition/n/wn/act/]"
+    },
+    {
+      "target": "\u062a\u0641\u0633\u064a\u0631",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/interpretation/n/,/c/ar/\u062a\u0641\u0633\u064a\u0631/]"
+    },
+    {
+      "target": "approximation",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/interpretation/n/,/c/en/approximation/]"
+    },
+    {
+      "target": "whakam\u0101ramatanga",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/interpretation/n/,/c/mi/whakam\u0101ramatanga/]"
+    },
+    {
+      "target": "exposition",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/interpretation/n/,/c/en/exposition/]"
+    },
+    {
+      "target": "\u03b5\u03c1\u03bc\u03b7\u03bd\u03b5\u03b9\u03b1",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/interpretation/n/,/c/el/\u03b5\u03c1\u03bc\u03b7\u03bd\u03b5\u03b9\u03b1/]"
+    },
+    {
+      "target": "construction",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/interpretation/n/,/c/en/construction/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "Synonym",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "interpretation",
+  "single_word_validated": true
+}

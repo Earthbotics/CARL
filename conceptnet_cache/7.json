@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1755278254.8023887,
+  "edges": [
+    {
+      "target": "cardinal",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/7/a/wn/,/c/en/cardinal/a/wn/]"
+    },
+    {
+      "target": "seven",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/7/n/wn/quantity/,/c/en/seven/n/wn/quantity/]"
+    },
+    {
+      "target": "a number",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/7/,/c/en/number/]"
+    },
+    {
+      "target": "7 (U2 EP)",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/7/n/wp/u2_ep/,/http://dbpedia.org/resource/7_(U2_EP)/]"
+    },
+    {
+      "target": "Q670147",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/7/,/http://wikidata.dbpedia.org/resource/Q670147/]"
+    },
+    {
+      "target": "7",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/7/,/http://dbpedia.org/resource/SBB-CFF-FFS_Ae_4/7/]"
+    },
+    {
+      "target": "character",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/7/,/c/de/character/]"
+    },
+    {
+      "target": "Q226027",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/7/n/wp/u2_ep/,/http://wikidata.dbpedia.org/resource/Q226027/]"
+    },
+    {
+      "target": "302194609-s",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/7/a/wn/,/http://wordnet-rdf.princeton.edu/wn31/302194609-s/]"
+    },
+    {
+      "target": "seven",
+      "relationship": "HasProperty",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasProperty/,/c/en/7/,/c/en/seven/]"
+    }
+  ],
+  "relationships": [
+    "SimilarTo",
+    "Synonym",
+    "IsA",
+    "ExternalURL",
+    "HasProperty"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "7",
+  "single_word_validated": true
+}

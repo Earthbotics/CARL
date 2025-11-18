@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1759885590.4630184,
+  "edges": [
+    {
+      "target": "think",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/imagine/v/wn/cognition/,/c/en/think/v/wn/cognition/]"
+    },
+    {
+      "target": "imagination",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/imagine/v/,/c/en/imagination/]"
+    },
+    {
+      "target": "create by mental act",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/imagine/v/wn/creation/,/c/en/create_by_mental_act/v/wn/creation/]"
+    },
+    {
+      "target": "imaginable",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/imagine/v/,/c/en/imaginable/]"
+    },
+    {
+      "target": "forestille sig",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/imagine/v/,/c/da/forestille_sig/]"
+    },
+    {
+      "target": "create",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/imagine/v/,/c/en/create/]"
+    },
+    {
+      "target": "imaginar",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/imagine/v/,/c/pt/imaginar/]"
+    },
+    {
+      "target": "m\u00e5djiner",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/imagine/v/,/c/wa/m\u00e5djiner/]"
+    },
+    {
+      "target": "\u60f3\u50cf",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/imagine/v/,/c/zh/\u60f3\u50cf/]"
+    },
+    {
+      "target": "elk\u00e9pzel",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/imagine/v/,/c/hu/elk\u00e9pzel/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "RelatedTo",
+    "MannerOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "imagine",
+  "single_word_validated": true
+}

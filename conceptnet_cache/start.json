@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1755146390.557004,
+  "edges": [
+    {
+      "target": "beginning",
+      "relationship": "RelatedTo",
+      "weight": 6.0358926431804605,
+      "uri": "/a/[/r/RelatedTo/,/c/en/start/,/c/en/beginning/]"
+    },
+    {
+      "target": "begin",
+      "relationship": "RelatedTo",
+      "weight": 5.385164807134504,
+      "uri": "/a/[/r/RelatedTo/,/c/en/start/,/c/en/begin/]"
+    },
+    {
+      "target": "po\u010detak",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/start/,/c/sh/po\u010detak/]"
+    },
+    {
+      "target": "beginning",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/start/n/wn/event/,/c/en/beginning/n/wn/event/]"
+    },
+    {
+      "target": "beginning",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/start/n/wn/act/,/c/en/beginning/n/wn/act/]"
+    },
+    {
+      "target": "turn",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/start/n/wn/act/,/c/en/turn/n/wn/game/]"
+    },
+    {
+      "target": "startle",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/start/v/wn/motion/,/c/en/startle/v/wn/motion/]"
+    },
+    {
+      "target": "play",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/start/v/wn/sport/,/c/en/play/v/wn/competition/]"
+    },
+    {
+      "target": "get down",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/start/v/wn/change/,/c/en/get_down/v/wn/change/]"
+    },
+    {
+      "target": "depart",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/start/v/wn/motion/,/c/en/depart/v/wn/motion/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "Synonym",
+    "IsA",
+    "MannerOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "start",
+  "single_word_validated": true
+}

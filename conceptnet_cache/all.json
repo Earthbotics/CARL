@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1755142994.5502982,
+  "edges": [
+    {
+      "target": "everything",
+      "relationship": "RelatedTo",
+      "weight": 5.575661395744903,
+      "uri": "/a/[/r/RelatedTo/,/c/en/all/,/c/en/everything/]"
+    },
+    {
+      "target": "every",
+      "relationship": "RelatedTo",
+      "weight": 3.105479029071039,
+      "uri": "/a/[/r/RelatedTo/,/c/en/all/,/c/en/every/]"
+    },
+    {
+      "target": "everyone",
+      "relationship": "RelatedTo",
+      "weight": 2.6457513110645907,
+      "uri": "/a/[/r/RelatedTo/,/c/en/all/,/c/en/everyone/]"
+    },
+    {
+      "target": "complete",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/all/a/wn/,/c/en/complete/a/wn/]"
+    },
+    {
+      "target": "altogether",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/all/r/wn/,/c/en/altogether/r/wn/]"
+    },
+    {
+      "target": "every last",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/all/a/wn/,/c/en/every_last/a/wn/]"
+    },
+    {
+      "target": "every",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/all/a/wn/,/c/en/every/a/wn/]"
+    },
+    {
+      "target": "each",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/all/a/wn/,/c/en/each/a/wn/]"
+    },
+    {
+      "target": "each",
+      "relationship": "RelatedTo",
+      "weight": 1.2720000000000002,
+      "uri": "/a/[/r/RelatedTo/,/c/en/all/,/c/en/each/]"
+    },
+    {
+      "target": "complete",
+      "relationship": "RelatedTo",
+      "weight": 1.112,
+      "uri": "/a/[/r/RelatedTo/,/c/en/all/,/c/en/complete/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "SimilarTo",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "all",
+  "single_word_validated": true
+}

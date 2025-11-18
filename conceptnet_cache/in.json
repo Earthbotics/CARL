@@ -1,0 +1,77 @@
+{
+  "has_data": true,
+  "last_lookup": 1761621656.3917983,
+  "edges": [
+    {
+      "target": "out",
+      "relationship": "Antonym",
+      "weight": 2.411638447197257,
+      "uri": "/a/[/r/Antonym/,/c/en/in/,/c/en/out/]"
+    },
+    {
+      "target": "preposition",
+      "relationship": "RelatedTo",
+      "weight": 2.276839915321233,
+      "uri": "/a/[/r/RelatedTo/,/c/en/in/,/c/en/preposition/]"
+    },
+    {
+      "target": "ing",
+      "relationship": "FormOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/FormOf/,/c/en/in/,/c/en/ing/]"
+    },
+    {
+      "target": "in",
+      "relationship": "EtymologicallyDerivedFrom",
+      "weight": 2.0,
+      "uri": "/a/[/r/EtymologicallyDerivedFrom/,/c/en/in/,/c/la/in/]"
+    },
+    {
+      "target": "eye dialect",
+      "relationship": "HasContext",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasContext/,/c/en/in/,/c/en/eye_dialect/]"
+    },
+    {
+      "target": "within",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/in/,/c/en/within/]"
+    },
+    {
+      "target": "into",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/in/,/c/en/into/]"
+    },
+    {
+      "target": "in",
+      "relationship": "EtymologicallyDerivedFrom",
+      "weight": 2.0,
+      "uri": "/a/[/r/EtymologicallyDerivedFrom/,/c/en/in/,/c/enm/in/]"
+    },
+    {
+      "target": "inwards",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/in/r/wn/,/c/en/inwards/r/wn/]"
+    },
+    {
+      "target": "in",
+      "relationship": "EtymologicallyDerivedFrom",
+      "weight": 2.0,
+      "uri": "/a/[/r/EtymologicallyDerivedFrom/,/c/en/in/,/c/ang/in/]"
+    }
+  ],
+  "relationships": [
+    "Antonym",
+    "RelatedTo",
+    "FormOf",
+    "EtymologicallyDerivedFrom",
+    "HasContext",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "in",
+  "single_word_validated": true
+}

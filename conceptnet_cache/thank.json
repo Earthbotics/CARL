@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1754766108.5786023,
+  "edges": [
+    {
+      "target": "say, \"Thank you\"",
+      "relationship": "HasPrerequisite",
+      "weight": 4.47213595499958,
+      "uri": "/a/[/r/HasPrerequisite/,/c/en/thank/,/c/en/say_thank/]"
+    },
+    {
+      "target": "show your appreciation",
+      "relationship": "HasSubevent",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/HasSubevent/,/c/en/thank/,/c/en/show_appreciation/]"
+    },
+    {
+      "target": "write a thank you note",
+      "relationship": "HasPrerequisite",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasPrerequisite/,/c/en/thank/,/c/en/write_thank_note/]"
+    },
+    {
+      "target": "have something to thank them for",
+      "relationship": "HasPrerequisite",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasPrerequisite/,/c/en/thank/,/c/en/have_to_thank_for/]"
+    },
+    {
+      "target": "convey",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/thank/v/wn/communication/,/c/en/convey/v/wn/communication/]"
+    },
+    {
+      "target": "you are grateful",
+      "relationship": "MotivatedByGoal",
+      "weight": 2.0,
+      "uri": "/a/[/r/MotivatedByGoal/,/c/en/thank/,/c/en/grateful/]"
+    },
+    {
+      "target": "send them a card",
+      "relationship": "HasPrerequisite",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasPrerequisite/,/c/en/thank/,/c/en/send_card/]"
+    },
+    {
+      "target": "say thanks",
+      "relationship": "HasPrerequisite",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasPrerequisite/,/c/en/thank/,/c/en/say_thanks/]"
+    },
+    {
+      "target": "receive help from someone",
+      "relationship": "HasPrerequisite",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasPrerequisite/,/c/en/thank/,/c/en/receive_help_from/]"
+    },
+    {
+      "target": "tacka",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/thank/v/wikt/en_2/,/c/sv/tacka/]"
+    }
+  ],
+  "relationships": [
+    "HasPrerequisite",
+    "HasSubevent",
+    "MannerOf",
+    "MotivatedByGoal",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "thank",
+  "single_word_validated": true
+}

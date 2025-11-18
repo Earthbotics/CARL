@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1759801241.195888,
+  "edges": [
+    {
+      "target": "human",
+      "relationship": "RelatedTo",
+      "weight": 6.997999714204052,
+      "uri": "/a/[/r/RelatedTo/,/c/en/person/,/c/en/human/]"
+    },
+    {
+      "target": "cross a street",
+      "relationship": "CapableOf",
+      "weight": 6.928203230275509,
+      "uri": "/a/[/r/CapableOf/,/c/en/person/,/c/en/cross_street/]"
+    },
+    {
+      "target": "wind clock",
+      "relationship": "CapableOf",
+      "weight": 6.6332495807108,
+      "uri": "/a/[/r/CapableOf/,/c/en/person/,/c/en/wind_clock/]"
+    },
+    {
+      "target": "voice an opinion",
+      "relationship": "CapableOf",
+      "weight": 6.6332495807108,
+      "uri": "/a/[/r/CapableOf/,/c/en/person/,/c/en/voice_opinion/]"
+    },
+    {
+      "target": "thank another person",
+      "relationship": "CapableOf",
+      "weight": 6.6332495807108,
+      "uri": "/a/[/r/CapableOf/,/c/en/person/,/c/en/thank_another_person/]"
+    },
+    {
+      "target": "lose their friends",
+      "relationship": "NotDesires",
+      "weight": 6.6332495807108,
+      "uri": "/a/[/r/NotDesires/,/c/en/person/,/c/en/lose_friends/]"
+    },
+    {
+      "target": "a headache",
+      "relationship": "Desires",
+      "weight": 6.32455532033676,
+      "uri": "/a/[/r/Desires/,/c/en/person/,/c/en/headache/]"
+    },
+    {
+      "target": "own a house",
+      "relationship": "Desires",
+      "weight": 6.32455532033676,
+      "uri": "/a/[/r/Desires/,/c/en/person/,/c/en/own_house/]"
+    },
+    {
+      "target": "be diseased",
+      "relationship": "NotDesires",
+      "weight": 6.0,
+      "uri": "/a/[/r/NotDesires/,/c/en/person/,/c/en/diseased/]"
+    },
+    {
+      "target": "clothing",
+      "relationship": "Desires",
+      "weight": 6.0,
+      "uri": "/a/[/r/Desires/,/c/en/person/,/c/en/clothing/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "CapableOf",
+    "NotDesires",
+    "Desires"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "person",
+  "single_word_validated": true
+}

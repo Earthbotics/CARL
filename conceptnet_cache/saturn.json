@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1756002910.965739,
+  "edges": [
+    {
+      "target": "a planet",
+      "relationship": "IsA",
+      "weight": 6.0,
+      "uri": "/a/[/r/IsA/,/c/en/saturn/,/c/en/planet/]"
+    },
+    {
+      "target": "saturn",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/saturn/n/,/c/sh/saturn/]"
+    },
+    {
+      "target": "Roman mythology",
+      "relationship": "HasContext",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasContext/,/c/en/saturn/n/wn/roman_mythology/,/c/en/roman_mythology/n/wn/group/]"
+    },
+    {
+      "target": "astrology",
+      "relationship": "HasContext",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasContext/,/c/en/saturn/n/,/c/en/astrology/]"
+    },
+    {
+      "target": "szaturnusz",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/saturn/n/,/c/hu/szaturnusz/]"
+    },
+    {
+      "target": "saturnus",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/saturn/n/,/c/fi/saturnus/]"
+    },
+    {
+      "target": "roman mythology",
+      "relationship": "HasContext",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasContext/,/c/en/saturn/n/,/c/en/roman_mythology/]"
+    },
+    {
+      "target": "orbit",
+      "relationship": "AtLocation",
+      "weight": 1.0,
+      "uri": "/a/[/r/AtLocation/,/c/en/saturn/,/c/en/orbit/]"
+    },
+    {
+      "target": "saturnus",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/saturn/n/,/c/nl/saturnus/]"
+    },
+    {
+      "target": "saturnus",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/saturn/n/,/c/sv/saturnus/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "Synonym",
+    "HasContext",
+    "AtLocation"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "saturn",
+  "single_word_validated": true
+}

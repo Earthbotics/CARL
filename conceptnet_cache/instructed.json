@@ -1,0 +1,44 @@
+{
+  "has_data": true,
+  "last_lookup": 1754023321.3997676,
+  "edges": [
+    {
+      "target": "instruct",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/instructed/v/,/c/en/instruct/]"
+    },
+    {
+      "target": "instruct",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/instructed/v/,/c/en/instruct/]"
+    },
+    {
+      "target": "instruct",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/instructed/,/c/en/instruct/v/]"
+    },
+    {
+      "target": "instructed",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/instructed/,/http://en.wiktionary.org/wiki/instructed/]"
+    },
+    {
+      "target": "instructed",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/instructed/,/http://fr.wiktionary.org/wiki/instructed/]"
+    }
+  ],
+  "relationships": [
+    "FormOf",
+    "RelatedTo",
+    "ExternalURL"
+  ],
+  "total_edges_found": 5,
+  "concept_queried": "instructed",
+  "single_word_validated": true
+}

@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1756617545.528246,
+  "edges": [
+    {
+      "target": "hectare",
+      "relationship": "PartOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/PartOf/,/c/en/are/n/wn/quantity/,/c/en/hectare/n/wn/quantity/]"
+    },
+    {
+      "target": "area unit",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/are/n/wn/quantity/,/c/en/area_unit/n/wn/quantity/]"
+    },
+    {
+      "target": "ar",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/are/n/wikt/en_3/,/c/tr/ar/]"
+    },
+    {
+      "target": "are",
+      "relationship": "EtymologicallyDerivedFrom",
+      "weight": 1.0,
+      "uri": "/a/[/r/EtymologicallyDerivedFrom/,/c/en/are/,/c/fr/are/]"
+    },
+    {
+      "target": "l\u00e0",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/are/v/wikt/en_1/,/c/vi/l\u00e0/]"
+    },
+    {
+      "target": "\u00e1r",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/are/n/wikt/en_3/,/c/ga/\u00e1r/]"
+    },
+    {
+      "target": "\u0430\u0440",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/are/n/wikt/en_3/,/c/ba/\u0430\u0440/]"
+    },
+    {
+      "target": "\u03b1\u03c1\u03b9\u03b1",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/are/n/wikt/en_3/,/c/el/\u03b1\u03c1\u03b9\u03b1/]"
+    },
+    {
+      "target": "est\u00e1s",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/are/v/wikt/en_1/,/c/es/est\u00e1s/]"
+    },
+    {
+      "target": "113635143-n",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/are/n/wn/quantity/,/http://wordnet-rdf.princeton.edu/wn31/113635143-n/]"
+    }
+  ],
+  "relationships": [
+    "PartOf",
+    "IsA",
+    "Synonym",
+    "EtymologicallyDerivedFrom",
+    "ExternalURL"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "are",
+  "single_word_validated": true
+}

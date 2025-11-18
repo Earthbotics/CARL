@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1758302218.593737,
+  "edges": [
+    {
+      "target": "chair",
+      "relationship": "RelatedTo",
+      "weight": 7.521701935067622,
+      "uri": "/a/[/r/RelatedTo/,/c/en/seat/,/c/en/chair/]"
+    },
+    {
+      "target": "the theater",
+      "relationship": "AtLocation",
+      "weight": 6.32455532033676,
+      "uri": "/a/[/r/AtLocation/,/c/en/seat/,/c/en/theater/]"
+    },
+    {
+      "target": "sitting",
+      "relationship": "RelatedTo",
+      "weight": 5.250523783395328,
+      "uri": "/a/[/r/RelatedTo/,/c/en/seat/,/c/en/sitting/]"
+    },
+    {
+      "target": "sit",
+      "relationship": "RelatedTo",
+      "weight": 3.9161205292993726,
+      "uri": "/a/[/r/RelatedTo/,/c/en/seat/,/c/en/sit/]"
+    },
+    {
+      "target": "a show",
+      "relationship": "AtLocation",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/AtLocation/,/c/en/seat/,/c/en/show/]"
+    },
+    {
+      "target": "place",
+      "relationship": "RelatedTo",
+      "weight": 3.2990907838372685,
+      "uri": "/a/[/r/RelatedTo/,/c/en/seat/,/c/en/place/]"
+    },
+    {
+      "target": "car",
+      "relationship": "RelatedTo",
+      "weight": 2.9482198018465313,
+      "uri": "/a/[/r/RelatedTo/,/c/en/seat/,/c/en/car/]"
+    },
+    {
+      "target": "the theatre",
+      "relationship": "AtLocation",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/AtLocation/,/c/en/seat/,/c/en/theatre/]"
+    },
+    {
+      "target": "sitting place",
+      "relationship": "RelatedTo",
+      "weight": 2.663831826523589,
+      "uri": "/a/[/r/RelatedTo/,/c/en/seat/,/c/en/sitting_place/]"
+    },
+    {
+      "target": "put",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/seat/v/wn/contact/,/c/en/put/v/wn/contact/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "AtLocation",
+    "MannerOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "seat",
+  "single_word_validated": true
+}

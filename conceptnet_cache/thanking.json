@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1754759873.470526,
+  "edges": [
+    {
+      "target": "smile",
+      "relationship": "HasSubevent",
+      "weight": 4.47213595499958,
+      "uri": "/a/[/r/HasSubevent/,/c/en/thanking/,/c/en/smile/]"
+    },
+    {
+      "target": "shaking hands",
+      "relationship": "HasSubevent",
+      "weight": 4.47213595499958,
+      "uri": "/a/[/r/HasSubevent/,/c/en/thanking/,/c/en/shaking_hands/]"
+    },
+    {
+      "target": "being polite",
+      "relationship": "UsedFor",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/UsedFor/,/c/en/thanking/,/c/en/being_polite/]"
+    },
+    {
+      "target": "they feel good",
+      "relationship": "Causes",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/Causes/,/c/en/thanking/,/c/en/feel_good/]"
+    },
+    {
+      "target": "communication",
+      "relationship": "HasPrerequisite",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/HasPrerequisite/,/c/en/thanking/,/c/en/communication/]"
+    },
+    {
+      "target": "someone to smile",
+      "relationship": "Causes",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/Causes/,/c/en/thanking/,/c/en/smile/]"
+    },
+    {
+      "target": "sending a card",
+      "relationship": "HasSubevent",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/HasSubevent/,/c/en/thanking/,/c/en/sending_card/]"
+    },
+    {
+      "target": "communicating",
+      "relationship": "HasPrerequisite",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/HasPrerequisite/,/c/en/thanking/,/c/en/communicating/]"
+    },
+    {
+      "target": "him or her feeling good",
+      "relationship": "Causes",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/Causes/,/c/en/thanking/,/c/en/or_feeling_good/]"
+    },
+    {
+      "target": "a sharing of good feelings",
+      "relationship": "Causes",
+      "weight": 2.0,
+      "uri": "/a/[/r/Causes/,/c/en/thanking/,/c/en/sharing_of_good_feelings/]"
+    }
+  ],
+  "relationships": [
+    "HasSubevent",
+    "UsedFor",
+    "Causes",
+    "HasPrerequisite"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "thanking",
+  "single_word_validated": true
+}

@@ -1,0 +1,44 @@
+{
+  "has_data": true,
+  "last_lookup": 1756617019.275323,
+  "edges": [
+    {
+      "target": "state",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/stating/v/,/c/en/state/]"
+    },
+    {
+      "target": "statement",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/stating/n/,/c/en/statement/]"
+    },
+    {
+      "target": "state",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/stating/v/,/c/en/state/]"
+    },
+    {
+      "target": "stating",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/stating/,/http://en.wiktionary.org/wiki/stating/]"
+    },
+    {
+      "target": "stating",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/stating/,/http://fr.wiktionary.org/wiki/stating/]"
+    }
+  ],
+  "relationships": [
+    "FormOf",
+    "RelatedTo",
+    "ExternalURL"
+  ],
+  "total_edges_found": 5,
+  "concept_queried": "stating",
+  "single_word_validated": true
+}

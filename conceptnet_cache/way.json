@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1754883635.3187282,
+  "edges": [
+    {
+      "target": "transportation system",
+      "relationship": "PartOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/PartOf/,/c/en/way/n/wn/artifact/,/c/en/transportation_system/n/wn/artifact/]"
+    },
+    {
+      "target": "room",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/way/n/wn/quantity/,/c/en/room/n/wn/quantity/]"
+    },
+    {
+      "target": "choice",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/way/n/wn/cognition/,/c/en/choice/n/wn/cognition/]"
+    },
+    {
+      "target": "condition",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/way/n/wn/state/,/c/en/condition/n/wn/state/]"
+    },
+    {
+      "target": "manner",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/way/n/wn/attribute/,/c/en/manner/n/wn/attribute/]"
+    },
+    {
+      "target": "right smart",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/way/r/wn/,/c/en/right_smart/r/wn/]"
+    },
+    {
+      "target": "artifact",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/way/n/wn/artifact/,/c/en/artifact/n/wn/]"
+    },
+    {
+      "target": "category",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/way/n/wn/cognition/,/c/en/category/n/wn/cognition/]"
+    },
+    {
+      "target": "direction",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/way/n/wn/location/,/c/en/direction/n/wn/location/]"
+    },
+    {
+      "target": "distance",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/way/n/wn/attribute/,/c/en/distance/n/wn/attribute/]"
+    }
+  ],
+  "relationships": [
+    "PartOf",
+    "Synonym",
+    "IsA"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "way",
+  "single_word_validated": true
+}

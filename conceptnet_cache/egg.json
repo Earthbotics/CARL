@@ -1,0 +1,73 @@
+{
+  "has_data": true,
+  "last_lookup": 1760280288.5163572,
+  "edges": [
+    {
+      "target": "chicken",
+      "relationship": "RelatedTo",
+      "weight": 9.406168189012995,
+      "uri": "/a/[/r/RelatedTo/,/c/en/egg/,/c/en/chicken/]"
+    },
+    {
+      "target": "oval",
+      "relationship": "RelatedTo",
+      "weight": 5.3911037830856126,
+      "uri": "/a/[/r/RelatedTo/,/c/en/egg/,/c/en/oval/]"
+    },
+    {
+      "target": "yolk",
+      "relationship": "RelatedTo",
+      "weight": 5.208838642154315,
+      "uri": "/a/[/r/RelatedTo/,/c/en/egg/,/c/en/yolk/]"
+    },
+    {
+      "target": "white",
+      "relationship": "RelatedTo",
+      "weight": 4.921381919745713,
+      "uri": "/a/[/r/RelatedTo/,/c/en/egg/,/c/en/white/]"
+    },
+    {
+      "target": "food",
+      "relationship": "RelatedTo",
+      "weight": 4.886307399253551,
+      "uri": "/a/[/r/RelatedTo/,/c/en/egg/,/c/en/food/]"
+    },
+    {
+      "target": "bird",
+      "relationship": "RelatedTo",
+      "weight": 4.719745755864398,
+      "uri": "/a/[/r/RelatedTo/,/c/en/egg/,/c/en/bird/]"
+    },
+    {
+      "target": "shell",
+      "relationship": "RelatedTo",
+      "weight": 4.565961016040325,
+      "uri": "/a/[/r/RelatedTo/,/c/en/egg/,/c/en/shell/]"
+    },
+    {
+      "target": "baby",
+      "relationship": "RelatedTo",
+      "weight": 4.211887937730538,
+      "uri": "/a/[/r/RelatedTo/,/c/en/egg/,/c/en/baby/]"
+    },
+    {
+      "target": "chickens",
+      "relationship": "RelatedTo",
+      "weight": 4.153552696186724,
+      "uri": "/a/[/r/RelatedTo/,/c/en/egg/,/c/en/chickens/]"
+    },
+    {
+      "target": "a grocery store",
+      "relationship": "AtLocation",
+      "weight": 4.0,
+      "uri": "/a/[/r/AtLocation/,/c/en/egg/,/c/en/grocery_store/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "AtLocation"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "egg",
+  "single_word_validated": true
+}

@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1755044934.494696,
+  "edges": [
+    {
+      "target": "perplexing",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/unclear/a/wn/,/c/en/perplexing/a/wn/]"
+    },
+    {
+      "target": "blurred",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/unclear/a/wn/,/c/en/blurred/a/wn/]"
+    },
+    {
+      "target": "vague",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/unclear/a/wn/,/c/en/vague/a/wn/]"
+    },
+    {
+      "target": "indistinct",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/unclear/a/wn/,/c/en/indistinct/a/wn/]"
+    },
+    {
+      "target": "undecipherable",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/unclear/a/wn/,/c/en/undecipherable/a/wn/]"
+    },
+    {
+      "target": "ill-defined",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/unclear/a/wn/,/c/en/ill_defined/a/wn/]"
+    },
+    {
+      "target": "amorphous",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/unclear/a/wn/,/c/en/amorphous/a/wn/]"
+    },
+    {
+      "target": "ambiguous",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/unclear/a/wn/,/c/en/ambiguous/a/wn/]"
+    },
+    {
+      "target": "nejasan",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/unclear/a/,/c/sh/nejasan/]"
+    },
+    {
+      "target": "indefinite",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/unclear/a/wn/,/c/en/indefinite/a/wn/]"
+    }
+  ],
+  "relationships": [
+    "SimilarTo",
+    "RelatedTo",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "unclear",
+  "single_word_validated": true
+}

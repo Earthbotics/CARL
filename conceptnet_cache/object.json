@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1760280564.9148276,
+  "edges": [
+    {
+      "target": "thing",
+      "relationship": "IsA",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/IsA/,/c/en/object/,/c/en/thing/]"
+    },
+    {
+      "target": "objekat",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/object/n/,/c/sh/objekat/]"
+    },
+    {
+      "target": "aim",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/object/n/wn/cognition/,/c/en/aim/n/wn/cognition/]"
+    },
+    {
+      "target": "physical entity",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/object/n/wn/,/c/en/physical_entity/n/wn/]"
+    },
+    {
+      "target": "be",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/object/v/wn/stative/,/c/en/be/v/wn/stative/]"
+    },
+    {
+      "target": "objekt",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/object/n/,/c/sh/objekt/]"
+    },
+    {
+      "target": "disapprove",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/object/v/wn/communication/,/c/en/disapprove/v/wn/communication/]"
+    },
+    {
+      "target": "computer science",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/object/n/wn/cognition/,/c/en/computer_science/n/wn/computer/]"
+    },
+    {
+      "target": "content",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/object/n/wn/cognition/,/c/en/content/n/wn/cognition/]"
+    },
+    {
+      "target": "grammar",
+      "relationship": "HasContext",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasContext/,/c/en/object/n/wn/grammar/,/c/en/grammar/n/wn/linguistics/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "Synonym",
+    "MannerOf",
+    "HasContext"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "object",
+  "single_word_validated": true
+}

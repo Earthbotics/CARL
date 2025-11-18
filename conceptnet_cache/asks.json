@@ -1,0 +1,44 @@
+{
+  "has_data": true,
+  "last_lookup": 1757720679.2020473,
+  "edges": [
+    {
+      "target": "ask",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/asks/v/,/c/en/ask/]"
+    },
+    {
+      "target": "ask",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/asks/,/c/en/ask/v/]"
+    },
+    {
+      "target": "ask",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/asks/v/,/c/en/ask/]"
+    },
+    {
+      "target": "asks",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/asks/,/http://en.wiktionary.org/wiki/asks/]"
+    },
+    {
+      "target": "asks",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/asks/,/http://fr.wiktionary.org/wiki/asks/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "FormOf",
+    "ExternalURL"
+  ],
+  "total_edges_found": 5,
+  "concept_queried": "asks",
+  "single_word_validated": true
+}

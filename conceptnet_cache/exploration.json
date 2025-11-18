@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1758073682.278325,
+  "edges": [
+    {
+      "target": "consideration",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/exploration/n/wn/cognition/,/c/en/consideration/n/wn/cognition/]"
+    },
+    {
+      "target": "expedition",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/exploration/n/wn/act/,/c/en/expedition/n/wn/act/]"
+    },
+    {
+      "target": "search",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/exploration/n/wn/act/,/c/en/search/n/wn/act/]"
+    },
+    {
+      "target": "100310889-n",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/exploration/n/wn/act/,/http://wordnet-rdf.princeton.edu/wn31/100310889-n/]"
+    },
+    {
+      "target": "\u0434\u043e\u0441\u043b\u0456\u0434\u0436\u0443\u0432\u0430\u043d\u043d\u044f",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/exploration/n/,/c/uk/\u0434\u043e\u0441\u043b\u0456\u0434\u0436\u0443\u0432\u0430\u043d\u043d\u044f/]"
+    },
+    {
+      "target": "\u0438\u0437\u0443\u0447\u0435\u043d\u0438\u0435",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/exploration/n/,/c/ru/\u0438\u0437\u0443\u0447\u0435\u043d\u0438\u0435/]"
+    },
+    {
+      "target": "pr\u016fzkum",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/exploration/n/,/c/cs/pr\u016fzkum/]"
+    },
+    {
+      "target": "\u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0435",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/exploration/n/,/c/ru/\u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0435/]"
+    },
+    {
+      "target": "\ud0d0\uad6c",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/exploration/n/,/c/ko/\ud0d0\uad6c/]"
+    },
+    {
+      "target": "\ub2f5\uc0ac",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/exploration/n/,/c/ko/\ub2f5\uc0ac/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "ExternalURL",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "exploration",
+  "single_word_validated": true
+}

@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1757221666.838516,
+  "edges": [
+    {
+      "target": "Pacific Time",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/pst/n/wn/time/,/c/en/pacific_time/n/wn/time/]"
+    },
+    {
+      "target": "finance",
+      "relationship": "HasContext",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasContext/,/c/en/pst/n/,/c/en/finance/]"
+    },
+    {
+      "target": "canada",
+      "relationship": "HasContext",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasContext/,/c/en/pst/n/,/c/en/canada/]"
+    },
+    {
+      "target": "gst",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/pst/,/c/en/gst/]"
+    },
+    {
+      "target": "psst",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/pst/,/c/en/psst/]"
+    },
+    {
+      "target": "hst",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/pst/,/c/en/hst/]"
+    },
+    {
+      "target": "pst",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/pst/,/c/fr/pst/]"
+    },
+    {
+      "target": "pst",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/pst/,/http://en.wiktionary.org/wiki/pst/]"
+    },
+    {
+      "target": "pst",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/pst/,/http://fr.wiktionary.org/wiki/pst/]"
+    },
+    {
+      "target": "PST",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/pst/,/http://en.wiktionary.org/wiki/PST/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "HasContext",
+    "RelatedTo",
+    "FormOf",
+    "ExternalURL"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "pst",
+  "single_word_validated": true
+}

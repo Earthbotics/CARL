@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1757802475.6726203,
+  "edges": [
+    {
+      "target": "resonate",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/purr/v/wn/communication/,/c/en/resonate/v/wn/perception/]"
+    },
+    {
+      "target": "sound",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/purr/n/wn/event/,/c/en/sound/n/wn/event/]"
+    },
+    {
+      "target": "presti",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/purr/v/,/c/sh/presti/]"
+    },
+    {
+      "target": "whizz",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/purr/v/wn/perception/,/c/en/whizz/v/wn/perception/]"
+    },
+    {
+      "target": "\u043f\u0440\u043e\u043c\u0443\u0440\u043b\u044b\u043a\u0430\u0442\u044c",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/purr/v/,/c/ru/\u043f\u0440\u043e\u043c\u0443\u0440\u043b\u044b\u043a\u0430\u0442\u044c/]"
+    },
+    {
+      "target": "g\u1eeb g\u1eeb",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/purr/v/,/c/vi/g\u1eeb_g\u1eeb/]"
+    },
+    {
+      "target": "meow",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/purr/,/c/en/meow/]"
+    },
+    {
+      "target": "contented",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/purr/n/,/c/en/contented/]"
+    },
+    {
+      "target": "ronfler",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/purr/v/,/c/wa/ronfler/]"
+    },
+    {
+      "target": "\u03b3\u03bf\u03c5\u03c1\u03b3\u03bf\u03c5\u03c1\u03b9\u03b6\u03c9",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/purr/v/,/c/el/\u03b3\u03bf\u03c5\u03c1\u03b3\u03bf\u03c5\u03c1\u03b9\u03b6\u03c9/]"
+    }
+  ],
+  "relationships": [
+    "MannerOf",
+    "IsA",
+    "Synonym",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "purr",
+  "single_word_validated": true
+}

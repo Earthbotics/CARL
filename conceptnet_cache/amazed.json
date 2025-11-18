@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1757090544.3751554,
+  "edges": [
+    {
+      "target": "astonished",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/amazed/a/wn/,/c/en/astonished/a/wn/]"
+    },
+    {
+      "target": "amaze",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/amazed/v/,/c/en/amaze/]"
+    },
+    {
+      "target": "\u00e9tonn\u00e9",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/amazed/a/,/c/fr/\u00e9tonn\u00e9/]"
+    },
+    {
+      "target": "amaze",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/amazed/,/c/en/amaze/v/]"
+    },
+    {
+      "target": "stup\u00e9fi\u00e9",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/amazed/a/,/c/fr/stup\u00e9fi\u00e9/]"
+    },
+    {
+      "target": "h\u00e4mm\u00e4stynyt",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/amazed/a/,/c/fi/h\u00e4mm\u00e4stynyt/]"
+    },
+    {
+      "target": "at",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/amazed/a/,/c/en/at/]"
+    },
+    {
+      "target": "adposition",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/amazed/a/,/c/en/adposition/]"
+    },
+    {
+      "target": "\u00eam\u00e8rvilyi",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/amazed/a/,/c/nrf/\u00eam\u00e8rvilyi/]"
+    },
+    {
+      "target": "amaze",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/amazed/v/,/c/en/amaze/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "FormOf",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "amazed",
+  "single_word_validated": true
+}

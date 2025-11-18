@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1760907671.3631647,
+  "edges": [
+    {
+      "target": "proposal",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/introduction/n/wn/communication/,/c/en/proposal/n/wn/communication/]"
+    },
+    {
+      "target": "address",
+      "relationship": "PartOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/PartOf/,/c/en/introduction/n/wn/communication/,/c/en/address/n/wn/communication/]"
+    },
+    {
+      "target": "insertion",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/introduction/n/wn/act/,/c/en/insertion/n/wn/act/]"
+    },
+    {
+      "target": "textbook",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/introduction/n/wn/communication/,/c/en/textbook/n/wn/communication/]"
+    },
+    {
+      "target": "presentation",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/introduction/n/wn/communication/,/c/en/presentation/n/wn/communication/]"
+    },
+    {
+      "target": "initiation",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/introduction/n/wn/act/,/c/en/initiation/n/wn/act/]"
+    },
+    {
+      "target": "section",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/introduction/n/wn/communication/,/c/en/section/n/wn/music/]"
+    },
+    {
+      "target": "narration",
+      "relationship": "PartOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/PartOf/,/c/en/introduction/n/wn/communication/,/c/en/narration/n/wn/communication/]"
+    },
+    {
+      "target": "beginning",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/introduction/n/wn/act/,/c/en/beginning/n/wn/act/]"
+    },
+    {
+      "target": "esittely",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/introduction/n/,/c/fi/esittely/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "PartOf",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "introduction",
+  "single_word_validated": true
+}

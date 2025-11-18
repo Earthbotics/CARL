@@ -1,0 +1,78 @@
+{
+  "has_data": true,
+  "last_lookup": 1757445537.067859,
+  "edges": [
+    {
+      "target": "power a flashlight",
+      "relationship": "CapableOf",
+      "weight": 5.291502622129181,
+      "uri": "/a/[/r/CapableOf/,/c/en/battery/,/c/en/power_flashlight/]"
+    },
+    {
+      "target": "power a toy",
+      "relationship": "CapableOf",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/CapableOf/,/c/en/battery/,/c/en/power_toy/]"
+    },
+    {
+      "target": "power a radio",
+      "relationship": "CapableOf",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/CapableOf/,/c/en/battery/,/c/en/power_radio/]"
+    },
+    {
+      "target": "battery",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/battery/n/wn/artifact/,/c/en/battery/n/wn/artifact/]"
+    },
+    {
+      "target": "car",
+      "relationship": "AtLocation",
+      "weight": 2.0,
+      "uri": "/a/[/r/AtLocation/,/c/en/battery/n/wn/artifact/,/c/en/car/n/wn/artifact/]"
+    },
+    {
+      "target": "power",
+      "relationship": "UsedFor",
+      "weight": 2.0,
+      "uri": "/a/[/r/UsedFor/,/c/en/battery/n/wn/artifact/,/c/en/power/v/wn/consumption/]"
+    },
+    {
+      "target": "baseball team",
+      "relationship": "PartOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/PartOf/,/c/en/battery/n/wn/group/,/c/en/baseball_team/n/wn/group/]"
+    },
+    {
+      "target": "\u0eab\u0ea1\u0ecd\u0ec9\u0ec4\u0e9f",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/battery/n/,/c/lo/\u0eab\u0ea1\u0ecd\u0ec9\u0ec4\u0e9f/]"
+    },
+    {
+      "target": "military",
+      "relationship": "HasContext",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasContext/,/c/en/battery/n/wn/military/,/c/en/military/n/wn/group/]"
+    },
+    {
+      "target": "artillery",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/battery/n/wn/military/,/c/en/artillery/n/wn/military/]"
+    }
+  ],
+  "relationships": [
+    "CapableOf",
+    "IsA",
+    "AtLocation",
+    "UsedFor",
+    "PartOf",
+    "Synonym",
+    "HasContext"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "battery",
+  "single_word_validated": true
+}

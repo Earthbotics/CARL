@@ -1,0 +1,77 @@
+{
+  "has_data": true,
+  "last_lookup": 1759896812.9260297,
+  "edges": [
+    {
+      "target": "live a long time",
+      "relationship": "CapableOf",
+      "weight": 4.0,
+      "uri": "/a/[/r/CapableOf/,/c/en/turtle/,/c/en/live_long_time/]"
+    },
+    {
+      "target": "a hard shell",
+      "relationship": "HasA",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/HasA/,/c/en/turtle/,/c/en/hard_shell/]"
+    },
+    {
+      "target": "shell",
+      "relationship": "RelatedTo",
+      "weight": 2.2698017534577772,
+      "uri": "/a/[/r/RelatedTo/,/c/en/turtle/,/c/en/shell/]"
+    },
+    {
+      "target": "tortoise",
+      "relationship": "RelatedTo",
+      "weight": 2.2045407685048604,
+      "uri": "/a/[/r/RelatedTo/,/c/en/turtle/,/c/en/tortoise/]"
+    },
+    {
+      "target": "hunt",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/turtle/v/wn/competition/,/c/en/hunt/v/wn/competition/]"
+    },
+    {
+      "target": "capsize",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/turtle/v/wn/motion/,/c/en/capsize/v/wn/motion/]"
+    },
+    {
+      "target": "turtleneck",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/turtle/n/wn/artifact/,/c/en/turtleneck/n/wn/artifact/]"
+    },
+    {
+      "target": "chelonian",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/turtle/n/wn/animal/,/c/en/chelonian/n/wn/animal/]"
+    },
+    {
+      "target": "kornja\u010da",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/turtle/n/wikt/en_1/,/c/sh/kornja\u010da/]"
+    },
+    {
+      "target": "animal",
+      "relationship": "RelatedTo",
+      "weight": 1.424,
+      "uri": "/a/[/r/RelatedTo/,/c/en/turtle/,/c/en/animal/]"
+    }
+  ],
+  "relationships": [
+    "CapableOf",
+    "HasA",
+    "RelatedTo",
+    "MannerOf",
+    "Synonym",
+    "IsA"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "turtle",
+  "single_word_validated": true
+}

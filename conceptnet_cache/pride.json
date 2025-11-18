@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1755143184.8373144,
+  "edges": [
+    {
+      "target": "compete against someone",
+      "relationship": "CausesDesire",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/CausesDesire/,/c/en/pride/,/c/en/compete_against/]"
+    },
+    {
+      "target": "proud",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/pride/n/,/c/en/proud/]"
+    },
+    {
+      "target": "satisfaction",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/pride/n/wn/feeling/,/c/en/satisfaction/n/wn/feeling/]"
+    },
+    {
+      "target": "feel",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/pride/v/wn/emotion/,/c/en/feel/v/wn/emotion/]"
+    },
+    {
+      "target": "trait",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/pride/n/wn/attribute/,/c/en/trait/n/wn/attribute/]"
+    },
+    {
+      "target": "feeling",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/pride/n/wn/feeling/,/c/en/feeling/n/wn/]"
+    },
+    {
+      "target": "paint a house",
+      "relationship": "CausesDesire",
+      "weight": 2.0,
+      "uri": "/a/[/r/CausesDesire/,/c/en/pride/,/c/en/paint_house/]"
+    },
+    {
+      "target": "animal group",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/pride/n/wn/group/,/c/en/animal_group/n/wn/group/]"
+    },
+    {
+      "target": "mortal sin",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/pride/n/wn/act/,/c/en/mortal_sin/n/wn/act/]"
+    },
+    {
+      "target": "haughty",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/pride/n/,/c/en/haughty/]"
+    }
+  ],
+  "relationships": [
+    "CausesDesire",
+    "RelatedTo",
+    "IsA",
+    "MannerOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "pride",
+  "single_word_validated": true
+}

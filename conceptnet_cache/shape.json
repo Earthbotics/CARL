@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1755044907.619914,
+  "edges": [
+    {
+      "target": "square",
+      "relationship": "RelatedTo",
+      "weight": 2.1540659228538015,
+      "uri": "/a/[/r/RelatedTo/,/c/en/shape/,/c/en/square/]"
+    },
+    {
+      "target": "attribute",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/shape/n/wn/,/c/en/attribute/n/wn/]"
+    },
+    {
+      "target": "geometric figure",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/shape/,/c/en/geometric_figure/]"
+    },
+    {
+      "target": "concretism",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/shape/n/wn/cognition/,/c/en/concretism/n/wn/cognition/]"
+    },
+    {
+      "target": "spatial property",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/shape/n/wn/attribute/,/c/en/spatial_property/n/wn/attribute/]"
+    },
+    {
+      "target": "determine",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/shape/v/wn/cognition/,/c/en/determine/v/wn/cognition/]"
+    },
+    {
+      "target": "human body",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/shape/n/wn/body/,/c/en/human_body/n/wn/body/]"
+    },
+    {
+      "target": "create from raw material",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/shape/v/wn/creation/,/c/en/create_from_raw_material/v/wn/creation/]"
+    },
+    {
+      "target": "form",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/shape/n/wn/cognition/,/c/en/form/n/wn/cognition/]"
+    },
+    {
+      "target": "condition",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/shape/n/wn/state/,/c/en/condition/n/wn/state/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "IsA",
+    "Synonym",
+    "MannerOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "shape",
+  "single_word_validated": true
+}

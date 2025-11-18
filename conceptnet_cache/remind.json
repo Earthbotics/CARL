@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1755404003.9145825,
+  "edges": [
+    {
+      "target": "recordar",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/remind/v/,/c/es/recordar/]"
+    },
+    {
+      "target": "prompt",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/remind/v/wn/communication/,/c/en/prompt/v/wn/communication/]"
+    },
+    {
+      "target": "remember",
+      "relationship": "Causes",
+      "weight": 2.0,
+      "uri": "/a/[/r/Causes/,/c/en/remind/v/wn/cognition/,/c/en/remember/v/wn/cognition/]"
+    },
+    {
+      "target": "notice",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/remind/v/,/c/en/notice/]"
+    },
+    {
+      "target": "cuir i gcuimhne",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/remind/v/,/c/ga/cuir_i_gcuimhne/]"
+    },
+    {
+      "target": "moneo",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/remind/v/,/c/la/moneo/]"
+    },
+    {
+      "target": "\u0e40\u0e15\u0e37\u0e2d\u0e19",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/remind/v/,/c/th/\u0e40\u0e15\u0e37\u0e2d\u0e19/]"
+    },
+    {
+      "target": "record\u00e0r",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/remind/v/,/c/vec/record\u00e0r/]"
+    },
+    {
+      "target": "\u043d\u0430\u043f\u043e\u043c\u0438\u043d\u0430\u0442\u044c",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/remind/v/,/c/ru/\u043d\u0430\u043f\u043e\u043c\u0438\u043d\u0430\u0442\u044c/]"
+    },
+    {
+      "target": "p\u0159ipomenout",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/remind/v/,/c/cs/p\u0159ipomenout/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "Causes",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "remind",
+  "single_word_validated": true
+}

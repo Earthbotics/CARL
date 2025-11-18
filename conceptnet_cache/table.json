@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1756699060.003391,
+  "edges": [
+    {
+      "target": "furniture",
+      "relationship": "RelatedTo",
+      "weight": 6.982836100038437,
+      "uri": "/a/[/r/RelatedTo/,/c/en/table/,/c/en/furniture/]"
+    },
+    {
+      "target": "Putting things on",
+      "relationship": "UsedFor",
+      "weight": 6.928203230275509,
+      "uri": "/a/[/r/UsedFor/,/c/en/table/,/c/en/putting_things_on/]"
+    },
+    {
+      "target": "eating",
+      "relationship": "RelatedTo",
+      "weight": 5.844655678480984,
+      "uri": "/a/[/r/RelatedTo/,/c/en/table/,/c/en/eating/]"
+    },
+    {
+      "target": "a kitchen",
+      "relationship": "AtLocation",
+      "weight": 5.291502622129181,
+      "uri": "/a/[/r/AtLocation/,/c/en/table/,/c/en/kitchen/]"
+    },
+    {
+      "target": "eat at",
+      "relationship": "UsedFor",
+      "weight": 4.898979485566356,
+      "uri": "/a/[/r/UsedFor/,/c/en/table/,/c/en/eat_at/]"
+    },
+    {
+      "target": "eating off of",
+      "relationship": "UsedFor",
+      "weight": 4.898979485566356,
+      "uri": "/a/[/r/UsedFor/,/c/en/table/,/c/en/eating_off_of/]"
+    },
+    {
+      "target": "dining",
+      "relationship": "RelatedTo",
+      "weight": 4.740464112299554,
+      "uri": "/a/[/r/RelatedTo/,/c/en/table/,/c/en/dining/]"
+    },
+    {
+      "target": "a resturant",
+      "relationship": "AtLocation",
+      "weight": 4.47213595499958,
+      "uri": "/a/[/r/AtLocation/,/c/en/table/,/c/en/resturant/]"
+    },
+    {
+      "target": "legs",
+      "relationship": "RelatedTo",
+      "weight": 4.388165903882851,
+      "uri": "/a/[/r/RelatedTo/,/c/en/table/,/c/en/legs/]"
+    },
+    {
+      "target": "surface",
+      "relationship": "RelatedTo",
+      "weight": 4.156921938165306,
+      "uri": "/a/[/r/RelatedTo/,/c/en/table/,/c/en/surface/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "UsedFor",
+    "AtLocation"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "table",
+  "single_word_validated": true
+}

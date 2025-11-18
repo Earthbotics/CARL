@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1755146955.7126436,
+  "edges": [
+    {
+      "target": "virtually",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/most/r/wn/,/c/en/virtually/r/wn/]"
+    },
+    {
+      "target": "to the highest degree",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/most/r/wn/,/c/en/highest_degree/r/wn/]"
+    },
+    {
+      "target": "most",
+      "relationship": "EtymologicallyDerivedFrom",
+      "weight": 2.0,
+      "uri": "/a/[/r/EtymologicallyDerivedFrom/,/c/en/most/,/c/enm/most/]"
+    },
+    {
+      "target": "lot",
+      "relationship": "RelatedTo",
+      "weight": 1.6720000000000002,
+      "uri": "/a/[/r/RelatedTo/,/c/en/most/,/c/en/lot/]"
+    },
+    {
+      "target": "amount",
+      "relationship": "RelatedTo",
+      "weight": 1.2960000000000003,
+      "uri": "/a/[/r/RelatedTo/,/c/en/most/,/c/en/amount/]"
+    },
+    {
+      "target": "majority",
+      "relationship": "RelatedTo",
+      "weight": 1.2120000000000002,
+      "uri": "/a/[/r/RelatedTo/,/c/en/most/,/c/en/majority/]"
+    },
+    {
+      "target": "superlative",
+      "relationship": "RelatedTo",
+      "weight": 1.0899999999999999,
+      "uri": "/a/[/r/RelatedTo/,/c/en/most/,/c/en/superlative/]"
+    },
+    {
+      "target": "\u10e3\u10db\u10d4\u10e2\u10d4\u10e1\u10dd\u10d1\u10d0",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/most/,/c/ka/\u10e3\u10db\u10d4\u10e2\u10d4\u10e1\u10dd\u10d1\u10d0/]"
+    },
+    {
+      "target": "much",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/most/,/c/en/much/a/]"
+    },
+    {
+      "target": "very much",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/most/r/,/c/en/very_much/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "EtymologicallyDerivedFrom",
+    "RelatedTo",
+    "FormOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "most",
+  "single_word_validated": true
+}

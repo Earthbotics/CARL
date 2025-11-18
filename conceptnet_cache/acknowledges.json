@@ -1,0 +1,44 @@
+{
+  "has_data": true,
+  "last_lookup": 1756617662.1815746,
+  "edges": [
+    {
+      "target": "acknowledge",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/acknowledges/,/c/en/acknowledge/v/]"
+    },
+    {
+      "target": "acknowledge",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/acknowledges/v/,/c/en/acknowledge/]"
+    },
+    {
+      "target": "acknowledge",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/acknowledges/v/,/c/en/acknowledge/]"
+    },
+    {
+      "target": "acknowledges",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/acknowledges/,/http://en.wiktionary.org/wiki/acknowledges/]"
+    },
+    {
+      "target": "acknowledges",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/acknowledges/,/http://fr.wiktionary.org/wiki/acknowledges/]"
+    }
+  ],
+  "relationships": [
+    "FormOf",
+    "RelatedTo",
+    "ExternalURL"
+  ],
+  "total_edges_found": 5,
+  "concept_queried": "acknowledges",
+  "single_word_validated": true
+}

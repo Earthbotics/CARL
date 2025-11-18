@@ -1,0 +1,38 @@
+{
+  "has_data": true,
+  "last_lookup": 1758259230.6343102,
+  "edges": [
+    {
+      "target": "compliment",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/complimenting/v/,/c/en/compliment/]"
+    },
+    {
+      "target": "compliment",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/complimenting/v/,/c/en/compliment/]"
+    },
+    {
+      "target": "complimenting",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/complimenting/,/http://fr.wiktionary.org/wiki/complimenting/]"
+    },
+    {
+      "target": "complimenting",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/complimenting/,/http://en.wiktionary.org/wiki/complimenting/]"
+    }
+  ],
+  "relationships": [
+    "FormOf",
+    "RelatedTo",
+    "ExternalURL"
+  ],
+  "total_edges_found": 4,
+  "concept_queried": "complimenting",
+  "single_word_validated": true
+}

@@ -1,0 +1,73 @@
+{
+  "has_data": true,
+  "last_lookup": 1757528517.906703,
+  "edges": [
+    {
+      "target": "sophisticated",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/informed/a/wn/,/c/en/sophisticated/a/wn/]"
+    },
+    {
+      "target": "well-read",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/informed/a/wn/,/c/en/well_read/a/wn/]"
+    },
+    {
+      "target": "enlightened",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/informed/a/wn/,/c/en/enlightened/a/wn/]"
+    },
+    {
+      "target": "privy",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/informed/a/wn/,/c/en/privy/a/wn/]"
+    },
+    {
+      "target": "knowledgeable",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/informed/a/wn/,/c/en/knowledgeable/a/wn/]"
+    },
+    {
+      "target": "hip to",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/informed/a/wn/,/c/en/hip_to/a/wn/]"
+    },
+    {
+      "target": "educated",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/informed/a/wn/,/c/en/educated/a/wn/]"
+    },
+    {
+      "target": "wise to",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/informed/a/wn/,/c/en/wise_to/a/wn/]"
+    },
+    {
+      "target": "conversant",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/informed/a/wn/,/c/en/conversant/a/wn/]"
+    },
+    {
+      "target": "enlightened",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/informed/a/wn/,/c/en/enlightened/a/wn/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "SimilarTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "informed",
+  "single_word_validated": true
+}

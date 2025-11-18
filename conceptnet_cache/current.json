@@ -1,0 +1,72 @@
+{
+  "has_data": true,
+  "last_lookup": 1755146213.2700584,
+  "edges": [
+    {
+      "target": "flow",
+      "relationship": "RelatedTo",
+      "weight": 6.303967004989795,
+      "uri": "/a/[/r/RelatedTo/,/c/en/current/,/c/en/flow/]"
+    },
+    {
+      "target": "now",
+      "relationship": "RelatedTo",
+      "weight": 5.570278269530168,
+      "uri": "/a/[/r/RelatedTo/,/c/en/current/,/c/en/now/]"
+    },
+    {
+      "target": "water",
+      "relationship": "RelatedTo",
+      "weight": 4.973127788424503,
+      "uri": "/a/[/r/RelatedTo/,/c/en/current/,/c/en/water/]"
+    },
+    {
+      "target": "electricity",
+      "relationship": "RelatedTo",
+      "weight": 4.28532379173383,
+      "uri": "/a/[/r/RelatedTo/,/c/en/current/,/c/en/electricity/]"
+    },
+    {
+      "target": "movement",
+      "relationship": "RelatedTo",
+      "weight": 4.015968127363562,
+      "uri": "/a/[/r/RelatedTo/,/c/en/current/,/c/en/movement/]"
+    },
+    {
+      "target": "river",
+      "relationship": "RelatedTo",
+      "weight": 3.4000000000000004,
+      "uri": "/a/[/r/RelatedTo/,/c/en/current/,/c/en/river/]"
+    },
+    {
+      "target": "present",
+      "relationship": "RelatedTo",
+      "weight": 3.2317178094629497,
+      "uri": "/a/[/r/RelatedTo/,/c/en/current/,/c/en/present/]"
+    },
+    {
+      "target": "electrical",
+      "relationship": "RelatedTo",
+      "weight": 3.1843366656181313,
+      "uri": "/a/[/r/RelatedTo/,/c/en/current/,/c/en/electrical/]"
+    },
+    {
+      "target": "electric",
+      "relationship": "RelatedTo",
+      "weight": 3.15974682530104,
+      "uri": "/a/[/r/RelatedTo/,/c/en/current/,/c/en/electric/]"
+    },
+    {
+      "target": "news",
+      "relationship": "RelatedTo",
+      "weight": 3.0225816779700097,
+      "uri": "/a/[/r/RelatedTo/,/c/en/current/,/c/en/news/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "current",
+  "single_word_validated": true
+}

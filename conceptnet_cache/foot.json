@@ -1,0 +1,77 @@
+{
+  "has_data": true,
+  "last_lookup": 1760316497.3511205,
+  "edges": [
+    {
+      "target": "toes",
+      "relationship": "RelatedTo",
+      "weight": 5.338164478545036,
+      "uri": "/a/[/r/RelatedTo/,/c/en/foot/,/c/en/toes/]"
+    },
+    {
+      "target": "leg",
+      "relationship": "RelatedTo",
+      "weight": 4.599130352577539,
+      "uri": "/a/[/r/RelatedTo/,/c/en/foot/,/c/en/leg/]"
+    },
+    {
+      "target": "part",
+      "relationship": "RelatedTo",
+      "weight": 3.7116034270918545,
+      "uri": "/a/[/r/RelatedTo/,/c/en/foot/,/c/en/part/]"
+    },
+    {
+      "target": "body",
+      "relationship": "RelatedTo",
+      "weight": 3.5327043465311387,
+      "uri": "/a/[/r/RelatedTo/,/c/en/foot/,/c/en/body/]"
+    },
+    {
+      "target": "appendage",
+      "relationship": "RelatedTo",
+      "weight": 3.4979994282446647,
+      "uri": "/a/[/r/RelatedTo/,/c/en/foot/,/c/en/appendage/]"
+    },
+    {
+      "target": "a shoe",
+      "relationship": "AtLocation",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/AtLocation/,/c/en/foot/,/c/en/shoe/]"
+    },
+    {
+      "target": "Walking on",
+      "relationship": "UsedFor",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/UsedFor/,/c/en/foot/,/c/en/walking_on/]"
+    },
+    {
+      "target": "five toes",
+      "relationship": "HasA",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/HasA/,/c/en/foot/,/c/en/five_toes/]"
+    },
+    {
+      "target": "a unit of measurement",
+      "relationship": "IsA",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/IsA/,/c/en/foot/,/c/en/unit_of_measurement/]"
+    },
+    {
+      "target": "a body",
+      "relationship": "PartOf",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/PartOf/,/c/en/foot/,/c/en/body/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "AtLocation",
+    "UsedFor",
+    "HasA",
+    "IsA",
+    "PartOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "foot",
+  "single_word_validated": true
+}

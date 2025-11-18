@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1758258557.9574533,
+  "edges": [
+    {
+      "target": "somesthesia",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/feeling/n/wn/cognition/,/c/en/somesthesia/n/wn/cognition/]"
+    },
+    {
+      "target": "spirit",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/feeling/n/wn/state/,/c/en/spirit/n/wn/state/]"
+    },
+    {
+      "target": "impression",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/feeling/n/wn/cognition/,/c/en/impression/n/wn/cognition/]"
+    },
+    {
+      "target": "intuition",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/feeling/n/wn/cognition/,/c/en/intuition/n/wn/cognition/]"
+    },
+    {
+      "target": "touch",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/feeling/n/wn/cognition/,/c/en/touch/n/wn/cognition/]"
+    },
+    {
+      "target": "state",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/feeling/n/wn/,/c/en/state/n/wn/]"
+    },
+    {
+      "target": "emotion",
+      "relationship": "RelatedTo",
+      "weight": 1.6260000000000003,
+      "uri": "/a/[/r/RelatedTo/,/c/en/feeling/,/c/en/emotion/]"
+    },
+    {
+      "target": "k\u00e4nslig",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/feeling/a/,/c/sv/k\u00e4nslig/]"
+    },
+    {
+      "target": "feel",
+      "relationship": "DerivedFrom",
+      "weight": 1.0,
+      "uri": "/a/[/r/DerivedFrom/,/c/en/feeling/,/c/en/feel/]"
+    },
+    {
+      "target": "sensitive",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/feeling/a/,/c/en/sensitive/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "Synonym",
+    "RelatedTo",
+    "DerivedFrom"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "feeling",
+  "single_word_validated": true
+}

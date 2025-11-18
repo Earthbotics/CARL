@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1760366789.3185189,
+  "edges": [
+    {
+      "target": "chew",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/chomp/v/wn/consumption/,/c/en/chew/v/wn/consumption/]"
+    },
+    {
+      "target": "bite",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/chomp/n/wn/act/,/c/en/bite/n/wn/act/]"
+    },
+    {
+      "target": "loudly",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/chomp/v/,/c/en/loudly/]"
+    },
+    {
+      "target": "masticare in modo rumoroso",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/chomp/v/,/c/it/masticare_in_modo_rumoroso/]"
+    },
+    {
+      "target": "chomping",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/chomp/n/,/c/en/chomping/]"
+    },
+    {
+      "target": "newline",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/chomp/v/,/c/en/newline/]"
+    },
+    {
+      "target": "kome",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/chomp/v/,/c/mi/kome/]"
+    },
+    {
+      "target": "chomp at bit",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/chomp/v/,/c/en/chomp_at_bit/]"
+    },
+    {
+      "target": "\u0447\u0430\u0432\u043a\u0430\u0442\u044c",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/chomp/v/,/c/ru/\u0447\u0430\u0432\u043a\u0430\u0442\u044c/]"
+    },
+    {
+      "target": "chew",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/chomp/v/,/c/en/chew/]"
+    }
+  ],
+  "relationships": [
+    "MannerOf",
+    "Synonym",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "chomp",
+  "single_word_validated": true
+}

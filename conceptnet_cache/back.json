@@ -1,0 +1,77 @@
+{
+  "has_data": true,
+  "last_lookup": 1756258306.5587955,
+  "edges": [
+    {
+      "target": "front",
+      "relationship": "DistinctFrom",
+      "weight": 3.1723808094237365,
+      "uri": "/a/[/r/DistinctFrom/,/c/en/back/,/c/en/front/]"
+    },
+    {
+      "target": "front",
+      "relationship": "Antonym",
+      "weight": 2.5051946032194783,
+      "uri": "/a/[/r/Antonym/,/c/en/back/,/c/en/front/]"
+    },
+    {
+      "target": "rear",
+      "relationship": "RelatedTo",
+      "weight": 2.3528705871764384,
+      "uri": "/a/[/r/RelatedTo/,/c/en/back/,/c/en/rear/]"
+    },
+    {
+      "target": "spine",
+      "relationship": "RelatedTo",
+      "weight": 2.308246087400561,
+      "uri": "/a/[/r/RelatedTo/,/c/en/back/,/c/en/spine/]"
+    },
+    {
+      "target": "behind",
+      "relationship": "RelatedTo",
+      "weight": 2.025833161936095,
+      "uri": "/a/[/r/RelatedTo/,/c/en/back/,/c/en/behind/]"
+    },
+    {
+      "target": "spinal column",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/back/n/wn/body/,/c/en/spinal_column/n/wn/body/]"
+    },
+    {
+      "target": "hinder",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/back/a/wn/,/c/en/hinder/a/wn/]"
+    },
+    {
+      "target": "travel",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/back/v/wn/motion/,/c/en/travel/v/wn/motion/]"
+    },
+    {
+      "target": "posterior",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/back/a/wn/,/c/en/posterior/a/wn/]"
+    },
+    {
+      "target": "body part",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/back/n/wn/body/,/c/en/body_part/n/wn/anatomy/]"
+    }
+  ],
+  "relationships": [
+    "DistinctFrom",
+    "Antonym",
+    "RelatedTo",
+    "Synonym",
+    "MannerOf",
+    "IsA"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "back",
+  "single_word_validated": true
+}

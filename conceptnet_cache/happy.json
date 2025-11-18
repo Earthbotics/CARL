@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1754625538.964719,
+  "edges": [
+    {
+      "target": "emotion",
+      "relationship": "RelatedTo",
+      "weight": 3.694861296449435,
+      "uri": "/a/[/r/RelatedTo/,/c/en/happy/,/c/en/emotion/]"
+    },
+    {
+      "target": "feeling",
+      "relationship": "RelatedTo",
+      "weight": 2.8996551519103093,
+      "uri": "/a/[/r/RelatedTo/,/c/en/happy/,/c/en/feeling/]"
+    },
+    {
+      "target": "laughing",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/happy/a/wn/,/c/en/laughing/a/wn/]"
+    },
+    {
+      "target": "cheerful",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/happy/a/wn/,/c/en/cheerful/a/wn/]"
+    },
+    {
+      "target": "blessed",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/happy/a/wn/,/c/en/blessed/a/wn/]"
+    },
+    {
+      "target": "elated",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/happy/a/wn/,/c/en/elated/a/wn/]"
+    },
+    {
+      "target": "glad",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/happy/a/wn/,/c/en/glad/a/wn/]"
+    },
+    {
+      "target": "well-chosen",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/happy/a/wn/,/c/en/well_chosen/a/wn/]"
+    },
+    {
+      "target": "smile",
+      "relationship": "HasSubevent",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasSubevent/,/c/en/happy/,/c/en/smile/]"
+    },
+    {
+      "target": "contented",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/happy/a/wn/,/c/en/contented/a/wn/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "SimilarTo",
+    "Synonym",
+    "HasSubevent"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "happy",
+  "single_word_validated": true
+}

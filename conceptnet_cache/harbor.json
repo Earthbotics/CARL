@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1756060243.2601805,
+  "edges": [
+    {
+      "target": "skrovi\u0161te",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/harbor/,/c/sh/skrovi\u0161te/]"
+    },
+    {
+      "target": "shelter",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/harbor/v/wn/stative/,/c/en/shelter/v/wn/stative/]"
+    },
+    {
+      "target": "keep",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/harbor/v/wn/possession/,/c/en/keep/v/wn/possession/]"
+    },
+    {
+      "target": "feel",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/harbor/v/wn/emotion/,/c/en/feel/v/wn/emotion/]"
+    },
+    {
+      "target": "seaport",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/harbor/n/wn/location/,/c/en/seaport/n/wn/location/]"
+    },
+    {
+      "target": "refuge",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/harbor/n/wn/artifact/,/c/en/refuge/n/wn/artifact/]"
+    },
+    {
+      "target": "hide",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/harbor/v/wn/perception/,/c/en/hide/v/wn/perception/]"
+    },
+    {
+      "target": "refuxoiro",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/harbor/,/c/gl/refuxoiro/]"
+    },
+    {
+      "target": "ad\u0103posti",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/harbor/v/wikt/en_2/,/c/ro/ad\u0103posti/]"
+    },
+    {
+      "target": "port",
+      "relationship": "SimilarTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/harbor/n/,/c/en/port/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "MannerOf",
+    "IsA",
+    "SimilarTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "harbor",
+  "single_word_validated": true
+}

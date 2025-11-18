@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1754928485.5285046,
+  "edges": [
+    {
+      "target": "inauguration",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/startup/n/wn/act/,/c/en/inauguration/n/wn/act/]"
+    },
+    {
+      "target": "beginning",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/startup/n/wn/act/,/c/en/beginning/n/wn/act/]"
+    },
+    {
+      "target": "pengaktifan",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/startup/n/wikt/en_1/,/c/id/pengaktifan/]"
+    },
+    {
+      "target": "\u00e9conomie",
+      "relationship": "HasContext",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasContext/,/c/en/startup/n/,/c/fr/\u00e9conomie/]"
+    },
+    {
+      "target": "inauguration",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/startup/n/,/c/fr/inauguration/]"
+    },
+    {
+      "target": "business",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/startup/n/wikt/en_1/,/c/en/business/]"
+    },
+    {
+      "target": "start up",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/startup/n/,/c/en/start_up/]"
+    },
+    {
+      "target": "process",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/startup/n/wikt/en_1/,/c/en/process/]"
+    },
+    {
+      "target": "inizio",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/startup/n/wikt/en_1/,/c/it/inizio/]"
+    },
+    {
+      "target": "starting",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/startup/n/wikt/en_1/,/c/en/starting/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "IsA",
+    "HasContext",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "startup",
+  "single_word_validated": true
+}

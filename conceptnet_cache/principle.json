@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1757082873.6086617,
+  "edges": [
+    {
+      "target": "ethic",
+      "relationship": "PartOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/PartOf/,/c/en/principle/n/wn/communication/,/c/en/ethic/n/wn/communication/]"
+    },
+    {
+      "target": "rule",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/principle/n/wn/communication/,/c/en/rule/n/wn/communication/]"
+    },
+    {
+      "target": "law",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/principle/n/wn/cognition/,/c/en/law/n/wn/cognition/]"
+    },
+    {
+      "target": "rationale",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/principle/n/wn/law/,/c/en/rationale/n/wn/law/]"
+    },
+    {
+      "target": "prinzip",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/principle/n/,/c/de/prinzip/]"
+    },
+    {
+      "target": "value",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/principle/n/wn/cognition/,/c/en/value/n/wn/cognition/]"
+    },
+    {
+      "target": "generalization",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/principle/n/wn/cognition/,/c/en/generalization/n/wn/cognition/]"
+    },
+    {
+      "target": "princip",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/principle/n/,/c/sh/princip/]"
+    },
+    {
+      "target": "law of nature",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/principle/n/,/c/en/law_of_nature/]"
+    },
+    {
+      "target": "\u0905\u0938\u0942\u0932",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/principle/n/,/c/hi/\u0905\u0938\u0942\u0932/]"
+    }
+  ],
+  "relationships": [
+    "PartOf",
+    "IsA",
+    "Synonym",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "principle",
+  "single_word_validated": true
+}

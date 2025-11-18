@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1757652620.577437,
+  "edges": [
+    {
+      "target": "a state",
+      "relationship": "IsA",
+      "weight": 6.32455532033676,
+      "uri": "/a/[/r/IsA/,/c/en/california/,/c/en/state/]"
+    },
+    {
+      "target": "The United States of America",
+      "relationship": "PartOf",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/PartOf/,/c/en/california/,/c/en/united_states_of_america/]"
+    },
+    {
+      "target": "a state in the USA",
+      "relationship": "IsA",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/IsA/,/c/en/california/,/c/en/state_in_usa/]"
+    },
+    {
+      "target": "kalifornija",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/california/n/,/c/sh/kalifornija/]"
+    },
+    {
+      "target": "United States",
+      "relationship": "PartOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/PartOf/,/c/en/california/n/wn/location/,/c/en/united_states/n/wn/location/]"
+    },
+    {
+      "target": "a place in North America",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/california/,/c/en/place_in_north_america/]"
+    },
+    {
+      "target": "Southwest",
+      "relationship": "PartOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/PartOf/,/c/en/california/n/wn/location/,/c/en/southwest/n/wn/location/]"
+    },
+    {
+      "target": "ca li",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/california/n/,/c/vi/ca_li/]"
+    },
+    {
+      "target": "the U.S.",
+      "relationship": "PartOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/PartOf/,/c/en/california/,/c/en/u.s/]"
+    },
+    {
+      "target": "kalifornija",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/california/n/,/c/sl/kalifornija/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "PartOf",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "california",
+  "single_word_validated": true
+}

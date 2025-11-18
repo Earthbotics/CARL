@@ -1,0 +1,73 @@
+{
+  "has_data": true,
+  "last_lookup": 1757445536.5912635,
+  "edges": [
+    {
+      "target": "human",
+      "relationship": "RelatedTo",
+      "weight": 7.75293492814173,
+      "uri": "/a/[/r/RelatedTo/,/c/en/body/,/c/en/human/]"
+    },
+    {
+      "target": "person",
+      "relationship": "RelatedTo",
+      "weight": 5.1811195701315365,
+      "uri": "/a/[/r/RelatedTo/,/c/en/body/,/c/en/person/]"
+    },
+    {
+      "target": "torso",
+      "relationship": "RelatedTo",
+      "weight": 4.328510136294012,
+      "uri": "/a/[/r/RelatedTo/,/c/en/body/,/c/en/torso/]"
+    },
+    {
+      "target": "arms",
+      "relationship": "RelatedTo",
+      "weight": 4.233202097703345,
+      "uri": "/a/[/r/RelatedTo/,/c/en/body/,/c/en/arms/]"
+    },
+    {
+      "target": "legs",
+      "relationship": "RelatedTo",
+      "weight": 4.18282201390401,
+      "uri": "/a/[/r/RelatedTo/,/c/en/body/,/c/en/legs/]"
+    },
+    {
+      "target": "a coffin",
+      "relationship": "AtLocation",
+      "weight": 4.0,
+      "uri": "/a/[/r/AtLocation/,/c/en/body/,/c/en/coffin/]"
+    },
+    {
+      "target": "head",
+      "relationship": "RelatedTo",
+      "weight": 3.849675310984031,
+      "uri": "/a/[/r/RelatedTo/,/c/en/body/,/c/en/head/]"
+    },
+    {
+      "target": "corpse",
+      "relationship": "RelatedTo",
+      "weight": 3.4082253446625277,
+      "uri": "/a/[/r/RelatedTo/,/c/en/body/,/c/en/corpse/]"
+    },
+    {
+      "target": "physical",
+      "relationship": "RelatedTo",
+      "weight": 3.389395226290378,
+      "uri": "/a/[/r/RelatedTo/,/c/en/body/,/c/en/physical/]"
+    },
+    {
+      "target": "whole",
+      "relationship": "RelatedTo",
+      "weight": 3.062025473440742,
+      "uri": "/a/[/r/RelatedTo/,/c/en/body/,/c/en/whole/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "AtLocation"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "body",
+  "single_word_validated": true
+}

@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1759722149.2426002,
+  "edges": [
+    {
+      "target": "hospitable",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/welcoming/a/wn/,/c/en/hospitable/a/wn/]"
+    },
+    {
+      "target": "accogliente",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/welcoming/a/wikt/en_1/,/c/it/accogliente/]"
+    },
+    {
+      "target": "accueillant",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/welcoming/a/,/c/fr/accueillant/]"
+    },
+    {
+      "target": "cordial",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/welcoming/a/wikt/en_1/,/c/en/cordial/]"
+    },
+    {
+      "target": "welcominge",
+      "relationship": "EtymologicallyDerivedFrom",
+      "weight": 1.0,
+      "uri": "/a/[/r/EtymologicallyDerivedFrom/,/c/en/welcoming/,/c/enm/welcominge/]"
+    },
+    {
+      "target": "accueillant",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/welcoming/a/wikt/en_1/,/c/fr/accueillant/]"
+    },
+    {
+      "target": "acogedor",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/welcoming/a/wikt/en_1/,/c/es/acogedor/]"
+    },
+    {
+      "target": "v\u00e4lkomnande",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/welcoming/a/wikt/en_1/,/c/sv/v\u00e4lkomnande/]"
+    },
+    {
+      "target": "welcome",
+      "relationship": "DerivedFrom",
+      "weight": 1.0,
+      "uri": "/a/[/r/DerivedFrom/,/c/en/welcoming/,/c/en/welcome/]"
+    },
+    {
+      "target": "acolhedor",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/welcoming/a/wikt/en_1/,/c/pt/acolhedor/]"
+    }
+  ],
+  "relationships": [
+    "SimilarTo",
+    "Synonym",
+    "RelatedTo",
+    "EtymologicallyDerivedFrom",
+    "DerivedFrom"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "welcoming",
+  "single_word_validated": true
+}

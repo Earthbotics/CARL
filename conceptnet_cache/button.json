@@ -1,0 +1,77 @@
+{
+  "has_data": true,
+  "last_lookup": 1758058821.6145384,
+  "edges": [
+    {
+      "target": "fasten",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/button/v/wn/contact/,/c/en/fasten/v/wn/contact/]"
+    },
+    {
+      "target": "clothing",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/button/n/wn/communication/,/c/en/clothing/n/wn/artifact/]"
+    },
+    {
+      "target": "clothing",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/button/n/wn/artifact/,/c/en/clothing/n/wn/artifact/]"
+    },
+    {
+      "target": "puce",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/button/n/wikt/en_1/,/c/sh/puce/]"
+    },
+    {
+      "target": "gumb",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/button/n/wikt/en_1/,/c/sh/gumb/]"
+    },
+    {
+      "target": "artifact",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/button/n/wn/artifact/,/c/en/artifact/n/wn/]"
+    },
+    {
+      "target": "add",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/button/v/wn/contact/,/c/en/add/v/wn/change/]"
+    },
+    {
+      "target": "sew",
+      "relationship": "Entails",
+      "weight": 2.0,
+      "uri": "/a/[/r/Entails/,/c/en/button/v/wn/contact/,/c/en/sew/v/wn/contact/]"
+    },
+    {
+      "target": "push button",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/button/n/wn/artifact/,/c/en/push_button/n/wn/artifact/]"
+    },
+    {
+      "target": "fasten",
+      "relationship": "UsedFor",
+      "weight": 2.0,
+      "uri": "/a/[/r/UsedFor/,/c/en/button/n/wn/artifact/,/c/en/fasten/v/wn/contact/]"
+    }
+  ],
+  "relationships": [
+    "MannerOf",
+    "RelatedTo",
+    "Synonym",
+    "IsA",
+    "Entails",
+    "UsedFor"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "button",
+  "single_word_validated": true
+}

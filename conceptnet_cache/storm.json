@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1756251456.366073,
+  "edges": [
+    {
+      "target": "the tropics",
+      "relationship": "AtLocation",
+      "weight": 2.0,
+      "uri": "/a/[/r/AtLocation/,/c/en/storm/,/c/en/tropics/]"
+    },
+    {
+      "target": "atmospheric phenomenon",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/storm/n/wn/phenomenon/,/c/en/atmospheric_phenomenon/n/wn/phenomenon/]"
+    },
+    {
+      "target": "america",
+      "relationship": "AtLocation",
+      "weight": 2.0,
+      "uri": "/a/[/r/AtLocation/,/c/en/storm/,/c/en/america/]"
+    },
+    {
+      "target": "attack",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/storm/v/wn/competition/,/c/en/attack/v/wn/competition/]"
+    },
+    {
+      "target": "assault",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/storm/n/wn/act/,/c/en/assault/n/wn/military/]"
+    },
+    {
+      "target": "violent weather",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/storm/,/c/en/violent_weather/]"
+    },
+    {
+      "target": "blow",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/storm/v/wn/weather/,/c/en/blow/v/wn/weather/]"
+    },
+    {
+      "target": "penetrate",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/storm/v/wn/contact/,/c/en/penetrate/v/wn/contact/]"
+    },
+    {
+      "target": "Beaufort scale",
+      "relationship": "PartOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/PartOf/,/c/en/storm/n/wn/phenomenon/,/c/en/beaufort_scale/n/wn/linkdef/]"
+    },
+    {
+      "target": "disturbance",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/storm/n/wn/state/,/c/en/disturbance/n/wn/state/]"
+    }
+  ],
+  "relationships": [
+    "AtLocation",
+    "IsA",
+    "MannerOf",
+    "PartOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "storm",
+  "single_word_validated": true
+}

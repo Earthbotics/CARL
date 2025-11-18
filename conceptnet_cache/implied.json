@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1757792042.8770723,
+  "edges": [
+    {
+      "target": "podrazumevan",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/implied/a/,/c/sh/podrazumevan/]"
+    },
+    {
+      "target": "podrazumijevan",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/implied/a/,/c/sh/podrazumijevan/]"
+    },
+    {
+      "target": "onrechtstreeks",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/implied/a/,/c/nl/onrechtstreeks/]"
+    },
+    {
+      "target": "hinted",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/implied/a/,/c/en/hinted/]"
+    },
+    {
+      "target": "\u043f\u043e\u0434\u0440\u0430\u0437\u0443\u043c\u0435\u0432\u0430\u0435\u043c\u044b\u0439",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/implied/a/,/c/ru/\u043f\u043e\u0434\u0440\u0430\u0437\u0443\u043c\u0435\u0432\u0430\u0435\u043c\u044b\u0439/]"
+    },
+    {
+      "target": "subentendido",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/implied/a/,/c/pt/subentendido/]"
+    },
+    {
+      "target": "underf\u00f6rst\u00e5dd",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/implied/a/,/c/sv/underf\u00f6rst\u00e5dd/]"
+    },
+    {
+      "target": "imply",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/implied/v/,/c/en/imply/]"
+    },
+    {
+      "target": "implicit",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/implied/a/,/c/en/implicit/]"
+    },
+    {
+      "target": "sous entendu",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/implied/a/,/c/fr/sous_entendu/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "RelatedTo",
+    "FormOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "implied",
+  "single_word_validated": true
+}

@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1755960506.0730317,
+  "edges": [
+    {
+      "target": "gang",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/detail/n/wn/group/,/c/en/gang/n/wn/group/]"
+    },
+    {
+      "target": "assign",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/detail/v/wn/cognition/,/c/en/assign/v/wn/cognition/]"
+    },
+    {
+      "target": "discussion",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/detail/n/wn/communication/,/c/en/discussion/n/wn/communication/]"
+    },
+    {
+      "target": "contingent",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/detail/n/wn/military/,/c/en/contingent/n/wn/military/]"
+    },
+    {
+      "target": "elaborate",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/detail/v/wn/communication/,/c/en/elaborate/v/wn/communication/]"
+    },
+    {
+      "target": "part",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/detail/n/wn/linkdef/,/c/en/part/n/wn/linkdef/]"
+    },
+    {
+      "target": "fact",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/detail/n/wn/cognition/,/c/en/fact/n/wn/cognition/]"
+    },
+    {
+      "target": "detail",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/detail/n/,/c/cs/detail/]"
+    },
+    {
+      "target": "\u0574\u0561\u0576\u0580\u0561\u0574\u0561\u057d",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/detail/n/,/c/hy/\u0574\u0561\u0576\u0580\u0561\u0574\u0561\u057d/]"
+    },
+    {
+      "target": "113832132-n",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/detail/n/wn/linkdef/,/http://wordnet-rdf.princeton.edu/wn31/113832132-n/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "MannerOf",
+    "Synonym",
+    "ExternalURL"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "detail",
+  "single_word_validated": true
+}

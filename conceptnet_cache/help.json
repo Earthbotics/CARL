@@ -1,0 +1,77 @@
+{
+  "has_data": true,
+  "last_lookup": 1760280290.7745373,
+  "edges": [
+    {
+      "target": "that they thank you",
+      "relationship": "HasSubevent",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/HasSubevent/,/c/en/help/,/c/en/thank/]"
+    },
+    {
+      "target": "aid",
+      "relationship": "RelatedTo",
+      "weight": 3.242838263003568,
+      "uri": "/a/[/r/RelatedTo/,/c/en/help/,/c/en/aid/]"
+    },
+    {
+      "target": "assistance",
+      "relationship": "RelatedTo",
+      "weight": 3.1464265445104544,
+      "uri": "/a/[/r/RelatedTo/,/c/en/help/,/c/en/assistance/]"
+    },
+    {
+      "target": "assist",
+      "relationship": "RelatedTo",
+      "weight": 3.1407005587925765,
+      "uri": "/a/[/r/RelatedTo/,/c/en/help/,/c/en/assist/]"
+    },
+    {
+      "target": "you feel good",
+      "relationship": "HasSubevent",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/HasSubevent/,/c/en/help/,/c/en/feel_good/]"
+    },
+    {
+      "target": "lend them a hand",
+      "relationship": "HasPrerequisite",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/HasPrerequisite/,/c/en/help/,/c/en/lend_hand/]"
+    },
+    {
+      "target": "offer",
+      "relationship": "HasPrerequisite",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/HasPrerequisite/,/c/en/help/,/c/en/offer/]"
+    },
+    {
+      "target": "you have compassion for them",
+      "relationship": "MotivatedByGoal",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/MotivatedByGoal/,/c/en/help/,/c/en/have_compassion_for/]"
+    },
+    {
+      "target": "better",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/help/v/wn/body/,/c/en/better/v/wn/change/]"
+    },
+    {
+      "target": "avail",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/help/n/wn/attribute/,/c/en/avail/n/wn/attribute/]"
+    }
+  ],
+  "relationships": [
+    "HasSubevent",
+    "RelatedTo",
+    "HasPrerequisite",
+    "MotivatedByGoal",
+    "MannerOf",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "help",
+  "single_word_validated": true
+}

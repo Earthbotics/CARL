@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1757652054.8709486,
+  "edges": [
+    {
+      "target": "a country",
+      "relationship": "AtLocation",
+      "weight": 6.32455532033676,
+      "uri": "/a/[/r/AtLocation/,/c/en/state/,/c/en/country/]"
+    },
+    {
+      "target": "\u00e9tat",
+      "relationship": "Synonym",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/Synonym/,/c/en/state/n/,/c/fr/\u00e9tat/]"
+    },
+    {
+      "target": "attribute",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/state/n/wn/,/c/en/attribute/n/wn/]"
+    },
+    {
+      "target": "emotional state",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/state/n/wn/state/,/c/en/emotional_state/n/wn/state/]"
+    },
+    {
+      "target": "pa\u0144stwo",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/state/n/,/c/pl/pa\u0144stwo/]"
+    },
+    {
+      "target": "administrative district",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/state/n/wn/location/,/c/en/administrative_district/n/wn/location/]"
+    },
+    {
+      "target": "government",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/state/n/wn/group/,/c/en/government/n/wn/government/]"
+    },
+    {
+      "target": "state of matter",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/state/n/wn/chemistry/,/c/en/state_of_matter/n/wn/chemistry/]"
+    },
+    {
+      "target": "dr\u017eava",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/state/n/,/c/sh/dr\u017eava/]"
+    },
+    {
+      "target": "express",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/state/v/wn/communication/,/c/en/express/v/wn/communication/]"
+    }
+  ],
+  "relationships": [
+    "AtLocation",
+    "Synonym",
+    "IsA"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "state",
+  "single_word_validated": true
+}

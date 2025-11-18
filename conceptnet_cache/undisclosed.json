@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1755273762.6207752,
+  "edges": [
+    {
+      "target": "covert",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/undisclosed/a/wn/,/c/en/covert/a/wn/]"
+    },
+    {
+      "target": "hemligh\u00e5llen",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/undisclosed/a/,/c/sv/hemligh\u00e5llen/]"
+    },
+    {
+      "target": "salainen",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/undisclosed/a/,/c/fi/salainen/]"
+    },
+    {
+      "target": "inte r\u00f6jd",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/undisclosed/a/,/c/sv/inte_r\u00f6jd/]"
+    },
+    {
+      "target": "still",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/undisclosed/a/,/c/de/still/]"
+    },
+    {
+      "target": "disclosed",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/undisclosed/a/,/c/en/disclosed/]"
+    },
+    {
+      "target": "versteckt",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/undisclosed/a/,/c/de/versteckt/]"
+    },
+    {
+      "target": "secret",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/undisclosed/a/,/c/fr/secret/]"
+    },
+    {
+      "target": "disclosed",
+      "relationship": "DerivedFrom",
+      "weight": 1.0,
+      "uri": "/a/[/r/DerivedFrom/,/c/en/undisclosed/,/c/en/disclosed/]"
+    },
+    {
+      "target": "inte avsl\u00f6jad",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/undisclosed/a/,/c/sv/inte_avsl\u00f6jad/]"
+    }
+  ],
+  "relationships": [
+    "SimilarTo",
+    "Synonym",
+    "RelatedTo",
+    "DerivedFrom"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "undisclosed",
+  "single_word_validated": true
+}

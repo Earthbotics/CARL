@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1754024433.1081583,
+  "edges": [
+    {
+      "target": "grammar",
+      "relationship": "HasContext",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/HasContext/,/c/en/n/n/,/c/en/grammar/]"
+    },
+    {
+      "target": "newton",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/n/n/wn/quantity/,/c/en/newton/n/wn/quantity/]"
+    },
+    {
+      "target": "normality",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/n/n/wn/solution/,/c/en/normality/n/wn/solution/]"
+    },
+    {
+      "target": "an",
+      "relationship": "FormOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/FormOf/,/c/en/n/,/c/en/an/]"
+    },
+    {
+      "target": "nitrogen",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/n/n/wn/substance/,/c/en/nitrogen/n/wn/substance/]"
+    },
+    {
+      "target": "n",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/n/,/c/fr/n/]"
+    },
+    {
+      "target": "neizvodivo",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/n/,/c/sh/neizvodivo/]"
+    },
+    {
+      "target": "functional group",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/n/,/c/en/functional_group/]"
+    },
+    {
+      "target": "organic chemistry",
+      "relationship": "HasContext",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasContext/,/c/en/n/,/c/en/organic_chemistry/]"
+    },
+    {
+      "target": "north",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/n/n/wn/linkdef/,/c/en/north/n/wn/linkdef/]"
+    }
+  ],
+  "relationships": [
+    "HasContext",
+    "Synonym",
+    "FormOf",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "n",
+  "single_word_validated": true
+}

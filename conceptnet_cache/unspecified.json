@@ -1,0 +1,77 @@
+{
+  "has_data": true,
+  "last_lookup": 1757795443.617022,
+  "edges": [
+    {
+      "target": "specified",
+      "relationship": "DerivedFrom",
+      "weight": 1.0,
+      "uri": "/a/[/r/DerivedFrom/,/c/en/unspecified/,/c/en/specified/]"
+    },
+    {
+      "target": "comment",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/unspecified/a/,/c/en/comment/]"
+    },
+    {
+      "target": "adequately",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/unspecified/a/,/c/en/adequately/]"
+    },
+    {
+      "target": "specified",
+      "relationship": "Antonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Antonym/,/c/en/unspecified/a/,/c/en/specified/]"
+    },
+    {
+      "target": "t\u00e4sment\u00e4m\u00e4t\u00f6n",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/unspecified/a/,/c/fi/t\u00e4sment\u00e4m\u00e4t\u00f6n/]"
+    },
+    {
+      "target": "infection",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/unspecified/n/,/c/en/infection/n/]"
+    },
+    {
+      "target": "specified",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/unspecified/a/,/c/en/specified/]"
+    },
+    {
+      "target": "detailed",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/unspecified/a/,/c/en/detailed/]"
+    },
+    {
+      "target": "InfectionType unspecified",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/unspecified/n/,/http://sw.opencyc.org/2012/05/10/concept/en/InfectionType_unspecified/]"
+    },
+    {
+      "target": "yksil\u00f6im\u00e4t\u00f6n",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/unspecified/a/,/c/fi/yksil\u00f6im\u00e4t\u00f6n/]"
+    }
+  ],
+  "relationships": [
+    "DerivedFrom",
+    "RelatedTo",
+    "Antonym",
+    "Synonym",
+    "IsA",
+    "ExternalURL"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "unspecified",
+  "single_word_validated": true
+}

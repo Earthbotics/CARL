@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1756355323.3305907,
+  "edges": [
+    {
+      "target": "sign",
+      "relationship": "RelatedTo",
+      "weight": 6.08013157752363,
+      "uri": "/a/[/r/RelatedTo/,/c/en/stop/,/c/en/sign/]"
+    },
+    {
+      "target": "red",
+      "relationship": "RelatedTo",
+      "weight": 4.881393243736874,
+      "uri": "/a/[/r/RelatedTo/,/c/en/stop/,/c/en/red/]"
+    },
+    {
+      "target": "halt",
+      "relationship": "RelatedTo",
+      "weight": 3.186220331364421,
+      "uri": "/a/[/r/RelatedTo/,/c/en/stop/,/c/en/halt/]"
+    },
+    {
+      "target": "go",
+      "relationship": "DistinctFrom",
+      "weight": 2.850964748992874,
+      "uri": "/a/[/r/DistinctFrom/,/c/en/stop/,/c/en/go/]"
+    },
+    {
+      "target": "an organ",
+      "relationship": "AtLocation",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/AtLocation/,/c/en/stop/,/c/en/organ/]"
+    },
+    {
+      "target": "red sign",
+      "relationship": "RelatedTo",
+      "weight": 2.521110866265108,
+      "uri": "/a/[/r/RelatedTo/,/c/en/stop/,/c/en/red_sign/]"
+    },
+    {
+      "target": "octagon",
+      "relationship": "RelatedTo",
+      "weight": 2.3452078799117153,
+      "uri": "/a/[/r/RelatedTo/,/c/en/stop/,/c/en/octagon/]"
+    },
+    {
+      "target": "light",
+      "relationship": "RelatedTo",
+      "weight": 2.116601048851672,
+      "uri": "/a/[/r/RelatedTo/,/c/en/stop/,/c/en/light/]"
+    },
+    {
+      "target": "traffic",
+      "relationship": "RelatedTo",
+      "weight": 2.0918890983988616,
+      "uri": "/a/[/r/RelatedTo/,/c/en/stop/,/c/en/traffic/]"
+    },
+    {
+      "target": "music",
+      "relationship": "HasContext",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasContext/,/c/en/stop/n/wn/music/,/c/en/music/n/wn/communication/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "DistinctFrom",
+    "AtLocation",
+    "HasContext"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "stop",
+  "single_word_validated": true
+}

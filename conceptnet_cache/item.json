@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1760284897.6954932,
+  "edges": [
+    {
+      "target": "detail",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/item/n/wn/cognition/,/c/en/detail/n/wn/cognition/]"
+    },
+    {
+      "target": "whole",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/item/n/wn/artifact/,/c/en/whole/n/wn/]"
+    },
+    {
+      "target": "detail",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/item/n/wn/linkdef/,/c/en/detail/n/wn/linkdef/]"
+    },
+    {
+      "target": "list",
+      "relationship": "PartOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/PartOf/,/c/en/item/n/wn/communication/,/c/en/list/n/wn/communication/]"
+    },
+    {
+      "target": "part",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/item/n/wn/communication/,/c/en/part/n/wn/linkdef/]"
+    },
+    {
+      "target": "token",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/item/n/wn/communication/,/c/en/token/n/wn/communication/]"
+    },
+    {
+      "target": "t\u016bemi",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/item/n/,/c/mi/t\u016bemi/]"
+    },
+    {
+      "target": "\u05e4\u05e8\u05d9\u05d8",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/item/n/,/c/he/\u05e4\u05e8\u05d9\u05d8/]"
+    },
+    {
+      "target": "a container",
+      "relationship": "AtLocation",
+      "weight": 1.0,
+      "uri": "/a/[/r/AtLocation/,/c/en/item/,/c/en/container/]"
+    },
+    {
+      "target": "line",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/item/n/,/c/en/line/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "IsA",
+    "PartOf",
+    "AtLocation",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "item",
+  "single_word_validated": true
+}

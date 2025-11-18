@@ -1,0 +1,50 @@
+{
+  "has_data": true,
+  "last_lookup": 1757528622.3885665,
+  "edges": [
+    {
+      "target": "suggest",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/suggesting/,/c/en/suggest/v/]"
+    },
+    {
+      "target": "suggestion",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/suggesting/n/,/c/en/suggestion/]"
+    },
+    {
+      "target": "suggest",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/suggesting/v/,/c/en/suggest/]"
+    },
+    {
+      "target": "suggest",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/suggesting/v/,/c/en/suggest/]"
+    },
+    {
+      "target": "suggesting",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/suggesting/,/http://en.wiktionary.org/wiki/suggesting/]"
+    },
+    {
+      "target": "suggesting",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/suggesting/,/http://fr.wiktionary.org/wiki/suggesting/]"
+    }
+  ],
+  "relationships": [
+    "FormOf",
+    "RelatedTo",
+    "ExternalURL"
+  ],
+  "total_edges_found": 6,
+  "concept_queried": "suggesting",
+  "single_word_validated": true
+}

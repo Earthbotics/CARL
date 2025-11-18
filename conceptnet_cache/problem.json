@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1757082822.1982849,
+  "edges": [
+    {
+      "target": "math",
+      "relationship": "RelatedTo",
+      "weight": 2.4199173539606678,
+      "uri": "/a/[/r/RelatedTo/,/c/en/problem/,/c/en/math/]"
+    },
+    {
+      "target": "issue",
+      "relationship": "RelatedTo",
+      "weight": 2.4099792530227315,
+      "uri": "/a/[/r/RelatedTo/,/c/en/problem/,/c/en/issue/]"
+    },
+    {
+      "target": "solution",
+      "relationship": "RelatedTo",
+      "weight": 2.2432119828495924,
+      "uri": "/a/[/r/RelatedTo/,/c/en/problem/,/c/en/solution/]"
+    },
+    {
+      "target": "slow work",
+      "relationship": "CapableOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/CapableOf/,/c/en/problem/,/c/en/slow_work/]"
+    },
+    {
+      "target": "problem",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/problem/n/,/c/tr/problem/]"
+    },
+    {
+      "target": "sorun",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/problem/n/,/c/tr/sorun/]"
+    },
+    {
+      "target": "problem",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/problem/n/,/c/sh/problem/]"
+    },
+    {
+      "target": "create an idea",
+      "relationship": "CausesDesire",
+      "weight": 2.0,
+      "uri": "/a/[/r/CausesDesire/,/c/en/problem/,/c/en/create_idea/]"
+    },
+    {
+      "target": "cogitate",
+      "relationship": "CausesDesire",
+      "weight": 2.0,
+      "uri": "/a/[/r/CausesDesire/,/c/en/problem/,/c/en/cogitate/]"
+    },
+    {
+      "target": "question",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/problem/n/wn/communication/,/c/en/question/n/wn/communication/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "CapableOf",
+    "Synonym",
+    "CausesDesire",
+    "IsA"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "problem",
+  "single_word_validated": true
+}

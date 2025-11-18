@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1756617316.5821133,
+  "edges": [
+    {
+      "target": "a sport",
+      "relationship": "IsA",
+      "weight": 7.483314773547882,
+      "uri": "/a/[/r/IsA/,/c/en/hockey/,/c/en/sport/]"
+    },
+    {
+      "target": "played on ice",
+      "relationship": "ReceivesAction",
+      "weight": 5.291502622129181,
+      "uri": "/a/[/r/ReceivesAction/,/c/en/hockey/,/c/en/played_on_ice/]"
+    },
+    {
+      "target": "a violent sport",
+      "relationship": "IsA",
+      "weight": 4.47213595499958,
+      "uri": "/a/[/r/IsA/,/c/en/hockey/,/c/en/violent_sport/]"
+    },
+    {
+      "target": "a game",
+      "relationship": "IsA",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/IsA/,/c/en/hockey/,/c/en/game/]"
+    },
+    {
+      "target": "a great sport",
+      "relationship": "IsA",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/IsA/,/c/en/hockey/,/c/en/great_sport/]"
+    },
+    {
+      "target": "a team sport",
+      "relationship": "IsA",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/IsA/,/c/en/hockey/,/c/en/team_sport/]"
+    },
+    {
+      "target": "a winter game",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/hockey/,/c/en/winter_game/]"
+    },
+    {
+      "target": "a sport of skills and precisions",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/hockey/,/c/en/sport_of_skills_and_precisions/]"
+    },
+    {
+      "target": "a popular sport in Canada",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/hockey/,/c/en/popular_sport_in_canada/]"
+    },
+    {
+      "target": "field hockey",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/hockey/n/wn/act/,/c/en/field_hockey/n/wn/act/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "ReceivesAction",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "hockey",
+  "single_word_validated": true
+}

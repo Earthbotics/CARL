@@ -1,0 +1,39 @@
+
+Let's work on CARL's self-awareness system methods. Key components of self-awareness:
+Internal recognition – Understanding your own mental and emotional states (e.g., “I am feeling anxious,” or “I think I made a mistake”).
+Meta-cognition – The ability to think about your own thinking (e.g., reflecting on why you believe or value something).
+Perspective-taking – Knowing that others have thoughts and feelings separate from your own.
+Agency – Recognizing yourself as the initiator of actions and being able to reflect on your choices.
+Self-concept – An ongoing mental model of yourself (your traits, history, goals, strengths, and limitations).
+
+The goal I am expecting us to accomplish on this task is for CARL to understand when is humanoid body has an injury because currently, he has a broken motor that controls his right shoulder (see servo list below, so it is the D2 servo). Only some of the skills he would be able to successful accomplish. He doesn't have a Lidar sensor yet for avoiding things in CARL's environment. We will have access to CARL's builtin head camera for taking snapshots. 
+My thought in how to accomplish this body self-awareness was to add a default concept files for each of his 16 servos, which would be similar to human joints or body points, in which, humans have awareness of their own head and knee and arm joints, and these are concepts individuals create subjectively and remembered. I am guessing that the skills files need to be updated which a new json attribute as what body parts/servos are involved with that skill. However, I am not certain how to proceed with that idea. I do know which skills CARL should not try and execute because his right shoulder is D2 servo is critical for Getup, Headstand, Lunge Singing, Pass the Mic, Roll Hands, Sit Down, Situps, Stand from Sit, Summersault, Thinking. Perhaps, a simple attribute named 'injured' with a value of true or false would work. If CARL learns, like in this case D2 is injured and should be avoided, however, CARL should have the free will from his personality functions and previous experience from memories to try and perform the action if he wishes. 
+
+1) D0 (Head) 
+2) D1 (Neck)
+3) D2 (Shoulder-Right)
+4) D3 (Shoulder-Left)
+5) D4 (Upper Arm-Left)
+6) D5 (Lower Arm-Left)
+7) D6 (Hand-Left)
+8) D7 (Upper Arm-Right)
+9) D8 (Lower Arm-Right)
+10) D9 (Hand-Right)
+11) D12 (Upper Leg-Left)
+12) D13 (Lower Leg-Left)
+13) D14 (Foot-Left)
+14) D16 (Upper Leg-Right)
+15) D17 (Lower Leg-Right)
+16) D18 (Foot-Right)
+
+Next,
+We need to add CARL's injuries to the OpenAI prompt text in the "get_carl_thought", section "ALL AVAILAIBLE EXPERIENCE FOR CARL:", please implement a great solution for that so CARL gets a more accurate response.
+
+Then,
+Make certain Generating speech response has correct Skills activated and Recommended actions found for speech response during speaker and listener events (conversation)
+I expect "_extract_speech_text" to extract the text from Raw OpenAI response, so our prompt must specifically help the value for "proposed_action"->"content" to be CARL's response to the speaker and on some "proposed_action" "type" values their may not be a verbal response and perhaps just a 'wave' skill action or body communication, if CARL decides to. The "automatic_thought", looks like a good value to assign for the event's innerworld thought.
+
+Lastly,
+I want to ask CARL to remember the number '25',or any number I randomly select or any piece of information, for me. I will ask CARL later what number or information I asked CARL to remember. How can we implement this using all of the memory files and short term memory and implement it in a way that matches human's brain processes?
+
+In this last test, the log shows a successful 'sit' command was executed but the physical robot never sat down as asked. Can you double-check to see why it may have failed? The normal http EZ-Script command to send to execute CARL to sit is: ControlCommand("Auto Position", "AutoPositionAction", "Sit Down") or ControlCommand("Auto Position", "AutoPositionActionWait", "Sit Down") if CARL needs to sit first before multitasking.

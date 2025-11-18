@@ -1,0 +1,73 @@
+{
+  "has_data": true,
+  "last_lookup": 1755143127.6822128,
+  "edges": [
+    {
+      "target": "conditional",
+      "relationship": "RelatedTo",
+      "weight": 2.5035974117257753,
+      "uri": "/a/[/r/RelatedTo/,/c/en/if/,/c/en/conditional/]"
+    },
+    {
+      "target": "then",
+      "relationship": "RelatedTo",
+      "weight": 2.442130217658346,
+      "uri": "/a/[/r/RelatedTo/,/c/en/if/,/c/en/then/]"
+    },
+    {
+      "target": "si",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/if/,/c/ia/si/]"
+    },
+    {
+      "target": "ako",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/if/,/c/sh/ako/]"
+    },
+    {
+      "target": "whether",
+      "relationship": "RelatedTo",
+      "weight": 1.509,
+      "uri": "/a/[/r/RelatedTo/,/c/en/if/,/c/en/whether/]"
+    },
+    {
+      "target": "maybe",
+      "relationship": "RelatedTo",
+      "weight": 1.1639999999999997,
+      "uri": "/a/[/r/RelatedTo/,/c/en/if/,/c/en/maybe/]"
+    },
+    {
+      "target": "om",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/if/,/c/da/om/]"
+    },
+    {
+      "target": "even",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/if/,/c/de/even/]"
+    },
+    {
+      "target": "jei",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/if/,/c/lt/jei/]"
+    },
+    {
+      "target": "\u0627\u06af\u0631",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/if/,/c/ur/\u0627\u06af\u0631/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "if",
+  "single_word_validated": true
+}

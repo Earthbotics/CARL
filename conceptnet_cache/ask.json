@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1758073775.0505679,
+  "edges": [
+    {
+      "target": "question",
+      "relationship": "RelatedTo",
+      "weight": 6.136122554186805,
+      "uri": "/a/[/r/RelatedTo/,/c/en/ask/,/c/en/question/]"
+    },
+    {
+      "target": "request",
+      "relationship": "RelatedTo",
+      "weight": 2.3579652245103198,
+      "uri": "/a/[/r/RelatedTo/,/c/en/ask/,/c/en/request/]"
+    },
+    {
+      "target": "pitati",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/ask/v/wikt/en_1/,/c/sh/pitati/]"
+    },
+    {
+      "target": "communicate",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/ask/v/wn/communication/,/c/en/communicate/v/wn/communication/]"
+    },
+    {
+      "target": "demand",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/ask/v/wn/communication/,/c/en/demand/v/wn/communication/]"
+    },
+    {
+      "target": "necessitate",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/ask/v/wn/stative/,/c/en/necessitate/v/wn/stative/]"
+    },
+    {
+      "target": "ask out",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/ask/v/wn/social/,/c/en/ask_out/v/wn/social/]"
+    },
+    {
+      "target": "give voice",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/ask/v/wn/communication/,/c/en/give_voice/v/wn/communication/]"
+    },
+    {
+      "target": "request",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/ask/v/wn/communication/,/c/en/request/v/wn/communication/]"
+    },
+    {
+      "target": "inquire",
+      "relationship": "RelatedTo",
+      "weight": 1.056,
+      "uri": "/a/[/r/RelatedTo/,/c/en/ask/,/c/en/inquire/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "Synonym",
+    "MannerOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "ask",
+  "single_word_validated": true
+}

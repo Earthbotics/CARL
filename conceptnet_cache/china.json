@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1757432652.6518419,
+  "edges": [
+    {
+      "target": "country",
+      "relationship": "IsA",
+      "weight": 7.211102550927979,
+      "uri": "/a/[/r/IsA/,/c/en/china/,/c/en/country/]"
+    },
+    {
+      "target": "country",
+      "relationship": "RelatedTo",
+      "weight": 3.20998442363822,
+      "uri": "/a/[/r/RelatedTo/,/c/en/china/,/c/en/country/]"
+    },
+    {
+      "target": "chinaware",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/china/n/wn/artifact/,/c/en/chinaware/n/wn/artifact/]"
+    },
+    {
+      "target": "a communist country",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/china/,/c/en/communist_country/]"
+    },
+    {
+      "target": "the largest population on the earth",
+      "relationship": "HasA",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasA/,/c/en/china/,/c/en/largest_population_on_earth/]"
+    },
+    {
+      "target": "Taiwan",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/china/n/wn/location/,/c/en/taiwan/n/wn/location/]"
+    },
+    {
+      "target": "porcelain",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/china/n/wn/artifact/,/c/en/porcelain/n/wn/artifact/]"
+    },
+    {
+      "target": "chine",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/china/n/,/c/fr/chine/]"
+    },
+    {
+      "target": "kina",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/china/n/,/c/sh/kina/]"
+    },
+    {
+      "target": "Asia",
+      "relationship": "PartOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/PartOf/,/c/en/china/n/wn/location/,/c/en/asia/n/wn/object/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "RelatedTo",
+    "Synonym",
+    "HasA",
+    "PartOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "china",
+  "single_word_validated": true
+}

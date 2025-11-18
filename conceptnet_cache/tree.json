@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1755967053.6220493,
+  "edges": [
+    {
+      "target": "plant",
+      "relationship": "RelatedTo",
+      "weight": 8.20341392348332,
+      "uri": "/a/[/r/RelatedTo/,/c/en/tree/,/c/en/plant/]"
+    },
+    {
+      "target": "grow",
+      "relationship": "CapableOf",
+      "weight": 6.0,
+      "uri": "/a/[/r/CapableOf/,/c/en/tree/,/c/en/grow/]"
+    },
+    {
+      "target": "leaves",
+      "relationship": "RelatedTo",
+      "weight": 5.530641915727323,
+      "uri": "/a/[/r/RelatedTo/,/c/en/tree/,/c/en/leaves/]"
+    },
+    {
+      "target": "branches",
+      "relationship": "RelatedTo",
+      "weight": 5.0840928394355664,
+      "uri": "/a/[/r/RelatedTo/,/c/en/tree/,/c/en/branches/]"
+    },
+    {
+      "target": "grow leaves",
+      "relationship": "CapableOf",
+      "weight": 4.898979485566356,
+      "uri": "/a/[/r/CapableOf/,/c/en/tree/,/c/en/grow_leaves/]"
+    },
+    {
+      "target": "shade the lawn",
+      "relationship": "CapableOf",
+      "weight": 4.47213595499958,
+      "uri": "/a/[/r/CapableOf/,/c/en/tree/,/c/en/shade_lawn/]"
+    },
+    {
+      "target": "a forest",
+      "relationship": "PartOf",
+      "weight": 4.47213595499958,
+      "uri": "/a/[/r/PartOf/,/c/en/tree/,/c/en/forest/]"
+    },
+    {
+      "target": "a state park",
+      "relationship": "AtLocation",
+      "weight": 4.0,
+      "uri": "/a/[/r/AtLocation/,/c/en/tree/,/c/en/state_park/]"
+    },
+    {
+      "target": "big",
+      "relationship": "RelatedTo",
+      "weight": 3.9698866482558417,
+      "uri": "/a/[/r/RelatedTo/,/c/en/tree/,/c/en/big/]"
+    },
+    {
+      "target": "forest",
+      "relationship": "RelatedTo",
+      "weight": 3.940050761094329,
+      "uri": "/a/[/r/RelatedTo/,/c/en/tree/,/c/en/forest/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "CapableOf",
+    "PartOf",
+    "AtLocation"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "tree",
+  "single_word_validated": true
+}

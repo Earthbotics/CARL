@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1761714866.7066996,
+  "edges": [
+    {
+      "target": "my lap",
+      "relationship": "AtLocation",
+      "weight": 9.797958971132712,
+      "uri": "/a/[/r/AtLocation/,/c/en/cat/,/c/en/lap/]"
+    },
+    {
+      "target": "a bed",
+      "relationship": "AtLocation",
+      "weight": 9.38083151964686,
+      "uri": "/a/[/r/AtLocation/,/c/en/cat/,/c/en/bed/]"
+    },
+    {
+      "target": "hunt mice",
+      "relationship": "CapableOf",
+      "weight": 7.483314773547882,
+      "uri": "/a/[/r/CapableOf/,/c/en/cat/,/c/en/hunt_mice/]"
+    },
+    {
+      "target": "the windowsill",
+      "relationship": "AtLocation",
+      "weight": 7.483314773547882,
+      "uri": "/a/[/r/AtLocation/,/c/en/cat/,/c/en/windowsill/]"
+    },
+    {
+      "target": "four legs",
+      "relationship": "HasA",
+      "weight": 6.32455532033676,
+      "uri": "/a/[/r/HasA/,/c/en/cat/,/c/en/four_legs/]"
+    },
+    {
+      "target": "drink water",
+      "relationship": "CapableOf",
+      "weight": 6.0,
+      "uri": "/a/[/r/CapableOf/,/c/en/cat/,/c/en/drink_water/]"
+    },
+    {
+      "target": "catch a mouse",
+      "relationship": "CapableOf",
+      "weight": 6.0,
+      "uri": "/a/[/r/CapableOf/,/c/en/cat/,/c/en/catch_mouse/]"
+    },
+    {
+      "target": "feline",
+      "relationship": "RelatedTo",
+      "weight": 5.9608724193695,
+      "uri": "/a/[/r/RelatedTo/,/c/en/cat/,/c/en/feline/]"
+    },
+    {
+      "target": "animal",
+      "relationship": "RelatedTo",
+      "weight": 5.881156348882421,
+      "uri": "/a/[/r/RelatedTo/,/c/en/cat/,/c/en/animal/]"
+    },
+    {
+      "target": "climb up a tree",
+      "relationship": "CapableOf",
+      "weight": 5.291502622129181,
+      "uri": "/a/[/r/CapableOf/,/c/en/cat/,/c/en/climb_up_tree/]"
+    }
+  ],
+  "relationships": [
+    "AtLocation",
+    "CapableOf",
+    "HasA",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "cat",
+  "single_word_validated": true
+}

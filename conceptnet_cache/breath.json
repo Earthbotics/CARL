@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1756060096.5693197,
+  "edges": [
+    {
+      "target": "air",
+      "relationship": "RelatedTo",
+      "weight": 2.73934298692223,
+      "uri": "/a/[/r/RelatedTo/,/c/en/breath/,/c/en/air/]"
+    },
+    {
+      "target": "bodily process",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/breath/n/wn/act/,/c/en/bodily_process/n/wn/process/]"
+    },
+    {
+      "target": "hint",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/breath/n/wn/communication/,/c/en/hint/n/wn/communication/]"
+    },
+    {
+      "target": "air",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/breath/n/wn/substance/,/c/en/air/n/wn/substance/]"
+    },
+    {
+      "target": "breeze",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/breath/n/wn/phenomenon/,/c/en/breeze/n/wn/phenomenon/]"
+    },
+    {
+      "target": "respite",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/breath/n/wn/time/,/c/en/respite/n/wn/time/]"
+    },
+    {
+      "target": "respiration",
+      "relationship": "RelatedTo",
+      "weight": 1.464,
+      "uri": "/a/[/r/RelatedTo/,/c/en/breath/,/c/en/respiration/]"
+    },
+    {
+      "target": "inhalation",
+      "relationship": "RelatedTo",
+      "weight": 1.2080000000000002,
+      "uri": "/a/[/r/RelatedTo/,/c/en/breath/,/c/en/inhalation/]"
+    },
+    {
+      "target": "exhale",
+      "relationship": "RelatedTo",
+      "weight": 1.0019999999999998,
+      "uri": "/a/[/r/RelatedTo/,/c/en/breath/,/c/en/exhale/]"
+    },
+    {
+      "target": "\u0442\u0443\u0440\u043c\u0443\u0448",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/breath/n/,/c/ky/\u0442\u0443\u0440\u043c\u0443\u0448/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "IsA",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "breath",
+  "single_word_validated": true
+}

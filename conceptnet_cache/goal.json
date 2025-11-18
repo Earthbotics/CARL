@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1757802440.1615226,
+  "edges": [
+    {
+      "target": "soccer",
+      "relationship": "RelatedTo",
+      "weight": 2.0630075133164194,
+      "uri": "/a/[/r/RelatedTo/,/c/en/goal/,/c/en/soccer/]"
+    },
+    {
+      "target": "score",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/goal/n/wn/act/,/c/en/score/n/wn/act/]"
+    },
+    {
+      "target": "content",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/goal/n/wn/cognition/,/c/en/content/n/wn/cognition/]"
+    },
+    {
+      "target": "finish",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/goal/n/wn/location/,/c/en/finish/n/wn/location/]"
+    },
+    {
+      "target": "game equipment",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/goal/n/wn/artifact/,/c/en/game_equipment/n/wn/artifact/]"
+    },
+    {
+      "target": "plan of action",
+      "relationship": "PartOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/PartOf/,/c/en/goal/n/wn/cognition/,/c/en/plan_of_action/n/wn/cognition/]"
+    },
+    {
+      "target": "cilj",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/goal/n/,/c/sh/cilj/]"
+    },
+    {
+      "target": "tavoite",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/goal/n/,/c/fi/tavoite/]"
+    },
+    {
+      "target": "zil",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/goal/n/,/c/lb/zil/]"
+    },
+    {
+      "target": "\u0446\u0456\u043b\u044c",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/goal/n/,/c/uk/\u0446\u0456\u043b\u044c/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "IsA",
+    "Synonym",
+    "PartOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "goal",
+  "single_word_validated": true
+}

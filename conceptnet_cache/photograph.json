@@ -1,0 +1,77 @@
+{
+  "has_data": true,
+  "last_lookup": 1756002912.3830857,
+  "edges": [
+    {
+      "target": "picture",
+      "relationship": "RelatedTo",
+      "weight": 2.1972710347155626,
+      "uri": "/a/[/r/RelatedTo/,/c/en/photograph/,/c/en/picture/]"
+    },
+    {
+      "target": "photography",
+      "relationship": "HasContext",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasContext/,/c/en/photograph/v/wn/photography/,/c/en/photography/n/wn/act/]"
+    },
+    {
+      "target": "picture",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/photograph/n/wn/artifact/,/c/en/picture/n/wn/artifact/]"
+    },
+    {
+      "target": "fotografija",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/photograph/n/,/c/sh/fotografija/]"
+    },
+    {
+      "target": "record",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/photograph/v/wn/photography/,/c/en/record/v/wn/recording/]"
+    },
+    {
+      "target": "slika",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/photograph/n/,/c/sh/slika/]"
+    },
+    {
+      "target": "a photographer",
+      "relationship": "CreatedBy",
+      "weight": 2.0,
+      "uri": "/a/[/r/CreatedBy/,/c/en/photograph/,/c/en/photographer/]"
+    },
+    {
+      "target": "camera",
+      "relationship": "RelatedTo",
+      "weight": 1.693,
+      "uri": "/a/[/r/RelatedTo/,/c/en/photograph/,/c/en/camera/]"
+    },
+    {
+      "target": "\u0924\u0938\u094d\u0935\u0940\u0930",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/photograph/n/,/c/hi/\u0924\u0938\u094d\u0935\u0940\u0930/]"
+    },
+    {
+      "target": "preserving a memory",
+      "relationship": "UsedFor",
+      "weight": 1.0,
+      "uri": "/a/[/r/UsedFor/,/c/en/photograph/,/c/en/preserving_memory/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "HasContext",
+    "Synonym",
+    "MannerOf",
+    "CreatedBy",
+    "UsedFor"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "photograph",
+  "single_word_validated": true
+}

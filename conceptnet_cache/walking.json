@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1755878668.2316303,
+  "edges": [
+    {
+      "target": "legs",
+      "relationship": "HasPrerequisite",
+      "weight": 5.291502622129181,
+      "uri": "/a/[/r/HasPrerequisite/,/c/en/walking/,/c/en/legs/]"
+    },
+    {
+      "target": "exercise",
+      "relationship": "Causes",
+      "weight": 4.898979485566356,
+      "uri": "/a/[/r/Causes/,/c/en/walking/,/c/en/exercise/]"
+    },
+    {
+      "target": "exercise",
+      "relationship": "IsA",
+      "weight": 4.47213595499958,
+      "uri": "/a/[/r/IsA/,/c/en/walking/,/c/en/exercise/]"
+    },
+    {
+      "target": "a form of exercise",
+      "relationship": "IsA",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/IsA/,/c/en/walking/,/c/en/form_of_exercise/]"
+    },
+    {
+      "target": "you move",
+      "relationship": "Causes",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/Causes/,/c/en/walking/,/c/en/move/]"
+    },
+    {
+      "target": "getting somewhere",
+      "relationship": "UsedFor",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/UsedFor/,/c/en/walking/,/c/en/getting_somewhere/]"
+    },
+    {
+      "target": "moving",
+      "relationship": "Causes",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/Causes/,/c/en/walking/,/c/en/moving/]"
+    },
+    {
+      "target": "stumble",
+      "relationship": "HasSubevent",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/HasSubevent/,/c/en/walking/,/c/en/stumble/]"
+    },
+    {
+      "target": "getting from one place to another",
+      "relationship": "UsedFor",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/UsedFor/,/c/en/walking/,/c/en/getting_from_one_place_to_another/]"
+    },
+    {
+      "target": "moving your legs",
+      "relationship": "HasPrerequisite",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/HasPrerequisite/,/c/en/walking/,/c/en/moving_legs/]"
+    }
+  ],
+  "relationships": [
+    "HasPrerequisite",
+    "Causes",
+    "IsA",
+    "UsedFor",
+    "HasSubevent"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "walking",
+  "single_word_validated": true
+}

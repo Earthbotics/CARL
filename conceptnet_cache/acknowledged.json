@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1760487514.4220998,
+  "edges": [
+    {
+      "target": "known",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/acknowledged/a/wn/,/c/en/known/a/wn/]"
+    },
+    {
+      "target": "recognised",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/acknowledged/a/wn/,/c/en/recognised/a/wn/]"
+    },
+    {
+      "target": "self-confessed",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/acknowledged/a/wn/,/c/en/self_confessed/a/wn/]"
+    },
+    {
+      "target": "declarable",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/acknowledged/a/wn/,/c/en/declarable/a/wn/]"
+    },
+    {
+      "target": "given",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/acknowledged/a/wn/,/c/en/given/a/wn/]"
+    },
+    {
+      "target": "assumptive",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/acknowledged/a/wn/,/c/en/assumptive/a/wn/]"
+    },
+    {
+      "target": "unquestionable",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/acknowledged/a/wn/,/c/en/unquestionable/a/wn/]"
+    },
+    {
+      "target": "putative",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/acknowledged/a/wn/,/c/en/putative/a/wn/]"
+    },
+    {
+      "target": "hyv\u00e4ksytty",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/acknowledged/a/,/c/fi/hyv\u00e4ksytty/]"
+    },
+    {
+      "target": "301924863-s",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/acknowledged/a/wn/,/http://wordnet-rdf.princeton.edu/wn31/301924863-s/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "SimilarTo",
+    "Synonym",
+    "ExternalURL"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "acknowledged",
+  "single_word_validated": true
+}

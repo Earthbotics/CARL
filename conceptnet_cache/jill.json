@@ -1,0 +1,78 @@
+{
+  "has_data": true,
+  "last_lookup": 1760410508.1726537,
+  "edges": [
+    {
+      "target": "my partner",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/jill/,/c/en/partner/]"
+    },
+    {
+      "target": "sheila",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/jill/n/,/c/en/sheila/]"
+    },
+    {
+      "target": "jillian",
+      "relationship": "DerivedFrom",
+      "weight": 1.0,
+      "uri": "/a/[/r/DerivedFrom/,/c/en/jill/,/c/en/jillian/n/]"
+    },
+    {
+      "target": "sex",
+      "relationship": "Desires",
+      "weight": 1.0,
+      "uri": "/a/[/r/Desires/,/c/en/jill/,/c/en/sex/]"
+    },
+    {
+      "target": "gillian",
+      "relationship": "DerivedFrom",
+      "weight": 1.0,
+      "uri": "/a/[/r/DerivedFrom/,/c/en/jill/,/c/en/gillian/n/]"
+    },
+    {
+      "target": "gill",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/jill/n/wikt/en_3/,/c/en/gill/]"
+    },
+    {
+      "target": "name of a female person",
+      "relationship": "DefinedAs",
+      "weight": 1.0,
+      "uri": "/a/[/r/DefinedAs/,/c/en/jill/,/c/en/name_of_female_person/]"
+    },
+    {
+      "target": "ferret",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/jill/n/wikt/en_2/,/c/en/ferret/]"
+    },
+    {
+      "target": "please someone else",
+      "relationship": "Desires",
+      "weight": 1.0,
+      "uri": "/a/[/r/Desires/,/c/en/jill/,/c/en/please_else/]"
+    },
+    {
+      "target": "uncommon",
+      "relationship": "HasContext",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasContext/,/c/en/jill/v/wikt/en_1/,/c/en/uncommon/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "RelatedTo",
+    "DerivedFrom",
+    "Desires",
+    "FormOf",
+    "DefinedAs",
+    "HasContext"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "jill",
+  "single_word_validated": true
+}

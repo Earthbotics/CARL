@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1757432514.5057456,
+  "edges": [
+    {
+      "target": "a sport",
+      "relationship": "IsA",
+      "weight": 4.0,
+      "uri": "/a/[/r/IsA/,/c/en/bowling/,/c/en/sport/]"
+    },
+    {
+      "target": "a game",
+      "relationship": "IsA",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/IsA/,/c/en/bowling/,/c/en/game/]"
+    },
+    {
+      "target": "throw",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/bowling/n/wn/cricket/,/c/en/throw/n/wn/act/]"
+    },
+    {
+      "target": "cricket",
+      "relationship": "HasContext",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasContext/,/c/en/bowling/n/wn/cricket/,/c/en/cricket/n/wn/act/]"
+    },
+    {
+      "target": "playing",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/bowling/n/wn/act/,/c/en/playing/n/wn/act/]"
+    },
+    {
+      "target": "bowl",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/bowling/n/,/c/en/bowl/]"
+    },
+    {
+      "target": "game",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/bowling/n/wn/act/,/c/en/game/n/wn/act/]"
+    },
+    {
+      "target": "b\u00f3lingue",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/bowling/n/,/c/pt/b\u00f3lingue/]"
+    },
+    {
+      "target": "\ubcfc\ub9c1",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/bowling/n/,/c/ko/\ubcfc\ub9c1/]"
+    },
+    {
+      "target": "game",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/bowling/n/,/c/en/game/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "HasContext",
+    "RelatedTo",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "bowling",
+  "single_word_validated": true
+}

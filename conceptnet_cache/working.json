@@ -1,0 +1,77 @@
+{
+  "has_data": true,
+  "last_lookup": 1754669042.2419958,
+  "edges": [
+    {
+      "target": "stress",
+      "relationship": "Causes",
+      "weight": 5.656854249492381,
+      "uri": "/a/[/r/Causes/,/c/en/working/,/c/en/stress/]"
+    },
+    {
+      "target": "energy",
+      "relationship": "HasPrerequisite",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/HasPrerequisite/,/c/en/working/,/c/en/energy/]"
+    },
+    {
+      "target": "have a rest",
+      "relationship": "CausesDesire",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/CausesDesire/,/c/en/working/,/c/en/have_rest/]"
+    },
+    {
+      "target": "a job",
+      "relationship": "HasPrerequisite",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/HasPrerequisite/,/c/en/working/,/c/en/job/]"
+    },
+    {
+      "target": "producing",
+      "relationship": "UsedFor",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/UsedFor/,/c/en/working/,/c/en/producing/]"
+    },
+    {
+      "target": "getting paid",
+      "relationship": "Causes",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/Causes/,/c/en/working/,/c/en/getting_paid/]"
+    },
+    {
+      "target": "complain",
+      "relationship": "HasSubevent",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/HasSubevent/,/c/en/working/,/c/en/complain/]"
+    },
+    {
+      "target": "type on a keyboard",
+      "relationship": "HasSubevent",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasSubevent/,/c/en/working/,/c/en/type_on_keyboard/]"
+    },
+    {
+      "target": "on the job",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/working/a/wn/,/c/en/on_job/a/wn/]"
+    },
+    {
+      "target": "you pay attention",
+      "relationship": "HasSubevent",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasSubevent/,/c/en/working/,/c/en/pay_attention/]"
+    }
+  ],
+  "relationships": [
+    "Causes",
+    "HasPrerequisite",
+    "CausesDesire",
+    "UsedFor",
+    "HasSubevent",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "working",
+  "single_word_validated": true
+}

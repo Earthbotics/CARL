@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1757792173.3176348,
+  "edges": [
+    {
+      "target": "time",
+      "relationship": "RelatedTo",
+      "weight": 4.894486694230561,
+      "uri": "/a/[/r/RelatedTo/,/c/en/day/,/c/en/time/]"
+    },
+    {
+      "target": "week",
+      "relationship": "RelatedTo",
+      "weight": 4.2161593897764345,
+      "uri": "/a/[/r/RelatedTo/,/c/en/day/,/c/en/week/]"
+    },
+    {
+      "target": "24 hours long",
+      "relationship": "IsA",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/IsA/,/c/en/day/,/c/en/24_hours_long/]"
+    },
+    {
+      "target": "night",
+      "relationship": "DistinctFrom",
+      "weight": 3.3947017542046307,
+      "uri": "/a/[/r/DistinctFrom/,/c/en/day/,/c/en/night/]"
+    },
+    {
+      "target": "hours",
+      "relationship": "RelatedTo",
+      "weight": 3.0166206257996713,
+      "uri": "/a/[/r/RelatedTo/,/c/en/day/,/c/en/hours/]"
+    },
+    {
+      "target": "night",
+      "relationship": "RelatedTo",
+      "weight": 2.9644561052577583,
+      "uri": "/a/[/r/RelatedTo/,/c/en/day/,/c/en/night/]"
+    },
+    {
+      "target": "sun",
+      "relationship": "RelatedTo",
+      "weight": 2.7025913490574194,
+      "uri": "/a/[/r/RelatedTo/,/c/en/day/,/c/en/sun/]"
+    },
+    {
+      "target": "night",
+      "relationship": "Antonym",
+      "weight": 2.6517918470347555,
+      "uri": "/a/[/r/Antonym/,/c/en/day/,/c/en/night/]"
+    },
+    {
+      "target": "twenty",
+      "relationship": "RelatedTo",
+      "weight": 2.460081299469593,
+      "uri": "/a/[/r/RelatedTo/,/c/en/day/,/c/en/twenty/]"
+    },
+    {
+      "target": "twenty four",
+      "relationship": "RelatedTo",
+      "weight": 2.3748684174075834,
+      "uri": "/a/[/r/RelatedTo/,/c/en/day/,/c/en/twenty_four/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "IsA",
+    "DistinctFrom",
+    "Antonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "day",
+  "single_word_validated": true
+}

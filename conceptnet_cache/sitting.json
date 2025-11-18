@@ -1,0 +1,77 @@
+{
+  "has_data": true,
+  "last_lookup": 1756604302.2169354,
+  "edges": [
+    {
+      "target": "motion",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/sitting/n/wn/photography/,/c/en/motion/n/wn/act/]"
+    },
+    {
+      "target": "session",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/sitting/n/wn/communication/,/c/en/session/n/wn/communication/]"
+    },
+    {
+      "target": "seated",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/sitting/a/wn/,/c/en/seated/a/wn/]"
+    },
+    {
+      "target": "nonmoving",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/sitting/a/wn/,/c/en/nonmoving/a/wn/]"
+    },
+    {
+      "target": "seance",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/sitting/n/wn/group/,/c/en/seance/n/wn/group/]"
+    },
+    {
+      "target": "photography",
+      "relationship": "HasContext",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasContext/,/c/en/sitting/n/wn/photography/,/c/en/photography/n/wn/act/]"
+    },
+    {
+      "target": "motion",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/sitting/n/wn/act/,/c/en/motion/n/wn/act/]"
+    },
+    {
+      "target": "legal",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/sitting/a/,/c/en/legal/]"
+    },
+    {
+      "target": "activity",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/sitting/,/c/en/activity/]"
+    },
+    {
+      "target": "100345085-n",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/sitting/n/wn/act/,/http://wordnet-rdf.princeton.edu/wn31/100345085-n/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "Synonym",
+    "SimilarTo",
+    "HasContext",
+    "RelatedTo",
+    "ExternalURL"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "sitting",
+  "single_word_validated": true
+}

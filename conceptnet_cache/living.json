@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1755319081.3677604,
+  "edges": [
+    {
+      "target": "dying",
+      "relationship": "Causes",
+      "weight": 4.0,
+      "uri": "/a/[/r/Causes/,/c/en/living/,/c/en/dying/]"
+    },
+    {
+      "target": "death",
+      "relationship": "Causes",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/Causes/,/c/en/living/,/c/en/death/]"
+    },
+    {
+      "target": "life",
+      "relationship": "Causes",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/Causes/,/c/en/living/,/c/en/life/]"
+    },
+    {
+      "target": "dying",
+      "relationship": "HasSubevent",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/HasSubevent/,/c/en/living/,/c/en/dying/]"
+    },
+    {
+      "target": "working",
+      "relationship": "HasSubevent",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasSubevent/,/c/en/living/,/c/en/working/]"
+    },
+    {
+      "target": "realistic",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/living/a/wn/,/c/en/realistic/a/wn/]"
+    },
+    {
+      "target": "growing older",
+      "relationship": "Causes",
+      "weight": 2.0,
+      "uri": "/a/[/r/Causes/,/c/en/living/,/c/en/growing_older/]"
+    },
+    {
+      "target": "animation",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/living/n/wn/state/,/c/en/animation/n/wn/state/]"
+    },
+    {
+      "target": "extant",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/living/a/wn/,/c/en/extant/a/wn/]"
+    },
+    {
+      "target": "sometimes bad",
+      "relationship": "Causes",
+      "weight": 2.0,
+      "uri": "/a/[/r/Causes/,/c/en/living/,/c/en/sometimes_bad/]"
+    }
+  ],
+  "relationships": [
+    "Causes",
+    "HasSubevent",
+    "SimilarTo",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "living",
+  "single_word_validated": true
+}

@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1755745721.9370592,
+  "edges": [
+    {
+      "target": "a tree",
+      "relationship": "AtLocation",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/AtLocation/,/c/en/acorn/,/c/en/tree/]"
+    },
+    {
+      "target": "\u017eir",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/acorn/n/,/c/sh/\u017eir/]"
+    },
+    {
+      "target": "fruit",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/acorn/n/wn/plant/,/c/en/fruit/n/wn/plant/]"
+    },
+    {
+      "target": "oak",
+      "relationship": "PartOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/PartOf/,/c/en/acorn/n/wn/plant/,/c/en/oak/n/wn/plant/]"
+    },
+    {
+      "target": "\u017eelud",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/acorn/n/,/c/sh/\u017eelud/]"
+    },
+    {
+      "target": "glano",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/acorn/n/,/c/io/glano/]"
+    },
+    {
+      "target": "ghianda",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/acorn/n/,/c/it/ghianda/]"
+    },
+    {
+      "target": "eechel",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/acorn/n/,/c/lb/eechel/]"
+    },
+    {
+      "target": "\u0433\u044b\u0440\u043a\u044a\u043e",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/acorn/n/,/c/os/\u0433\u044b\u0440\u043a\u044a\u043e/]"
+    },
+    {
+      "target": "glonda",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/acorn/n/,/c/rm/glonda/]"
+    }
+  ],
+  "relationships": [
+    "AtLocation",
+    "Synonym",
+    "IsA",
+    "PartOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "acorn",
+  "single_word_validated": true
+}

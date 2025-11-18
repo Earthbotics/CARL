@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1757432233.7083833,
+  "edges": [
+    {
+      "target": "sleeping",
+      "relationship": "Causes",
+      "weight": 6.0,
+      "uri": "/a/[/r/Causes/,/c/en/relaxing/,/c/en/sleeping/]"
+    },
+    {
+      "target": "reading",
+      "relationship": "HasSubevent",
+      "weight": 4.47213595499958,
+      "uri": "/a/[/r/HasSubevent/,/c/en/relaxing/,/c/en/reading/]"
+    },
+    {
+      "target": "close your eyes",
+      "relationship": "HasSubevent",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/HasSubevent/,/c/en/relaxing/,/c/en/close_eyes/]"
+    },
+    {
+      "target": "falling asleep",
+      "relationship": "HasSubevent",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/HasSubevent/,/c/en/relaxing/,/c/en/falling_asleep/]"
+    },
+    {
+      "target": "reducing stress",
+      "relationship": "UsedFor",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/UsedFor/,/c/en/relaxing/,/c/en/reducing_stress/]"
+    },
+    {
+      "target": "invigorating",
+      "relationship": "Causes",
+      "weight": 2.0,
+      "uri": "/a/[/r/Causes/,/c/en/relaxing/,/c/en/invigorating/]"
+    },
+    {
+      "target": "relaxation",
+      "relationship": "Causes",
+      "weight": 2.0,
+      "uri": "/a/[/r/Causes/,/c/en/relaxing/,/c/en/relaxation/]"
+    },
+    {
+      "target": "read",
+      "relationship": "HasSubevent",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasSubevent/,/c/en/relaxing/,/c/en/read/]"
+    },
+    {
+      "target": "sleeping",
+      "relationship": "HasSubevent",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasSubevent/,/c/en/relaxing/,/c/en/sleeping/]"
+    },
+    {
+      "target": "listening to music",
+      "relationship": "HasSubevent",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasSubevent/,/c/en/relaxing/,/c/en/listening_to_music/]"
+    }
+  ],
+  "relationships": [
+    "Causes",
+    "HasSubevent",
+    "UsedFor"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "relaxing",
+  "single_word_validated": true
+}

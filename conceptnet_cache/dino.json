@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1757050635.821665,
+  "edges": [
+    {
+      "target": "dinosaur",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/dino/n/,/c/en/dinosaur/]"
+    },
+    {
+      "target": "democratic party",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/dino/n/,/c/en/democratic_party/]"
+    },
+    {
+      "target": "democrat",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/dino/n/,/c/en/democrat/]"
+    },
+    {
+      "target": "name",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/dino/n/,/c/en/name/]"
+    },
+    {
+      "target": "gino",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/dino/n/,/c/en/gino/]"
+    },
+    {
+      "target": "only",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/dino/n/,/c/en/only/]"
+    },
+    {
+      "target": "democrat in name only",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/dino/n/,/c/en/democrat_in_name_only/]"
+    },
+    {
+      "target": "ino",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/dino/n/,/c/en/ino/]"
+    },
+    {
+      "target": "in",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/dino/n/,/c/en/in/]"
+    },
+    {
+      "target": "blue dog democrat",
+      "relationship": "SimilarTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/dino/n/,/c/en/blue_dog_democrat/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "Synonym",
+    "SimilarTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "dino",
+  "single_word_validated": true
+}

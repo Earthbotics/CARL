@@ -1,0 +1,77 @@
+{
+  "has_data": true,
+  "last_lookup": 1757730224.108243,
+  "edges": [
+    {
+      "target": "take pictures",
+      "relationship": "UsedFor",
+      "weight": 7.483314773547882,
+      "uri": "/a/[/r/UsedFor/,/c/en/camera/,/c/en/take_pictures/]"
+    },
+    {
+      "target": "a flash",
+      "relationship": "HasA",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/HasA/,/c/en/camera/,/c/en/flash/]"
+    },
+    {
+      "target": "a suitcase",
+      "relationship": "AtLocation",
+      "weight": 2.0,
+      "uri": "/a/[/r/AtLocation/,/c/en/camera/,/c/en/suitcase/]"
+    },
+    {
+      "target": "a tool for taking pictures",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/camera/,/c/en/tool_for_taking_pictures/]"
+    },
+    {
+      "target": "television camera",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/camera/n/wn/artifact/,/c/en/television_camera/n/wn/artifact/]"
+    },
+    {
+      "target": "picture",
+      "relationship": "UsedFor",
+      "weight": 2.0,
+      "uri": "/a/[/r/UsedFor/,/c/en/camera/n/wn/artifact/,/c/en/picture/n/wn/artifact/]"
+    },
+    {
+      "target": "photographer",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/camera/n/wn/artifact/,/c/en/photographer/n/wn/person/]"
+    },
+    {
+      "target": "photographic equipment",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/camera/n/wn/artifact/,/c/en/photographic_equipment/n/wn/artifact/]"
+    },
+    {
+      "target": "photograph",
+      "relationship": "UsedFor",
+      "weight": 2.0,
+      "uri": "/a/[/r/UsedFor/,/c/en/camera/n/wn/artifact/,/c/en/photograph/v/wn/photography/]"
+    },
+    {
+      "target": "subject",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/camera/n/wn/artifact/,/c/en/subject/n/wn/artifact/]"
+    }
+  ],
+  "relationships": [
+    "UsedFor",
+    "HasA",
+    "AtLocation",
+    "IsA",
+    "Synonym",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "camera",
+  "single_word_validated": true
+}

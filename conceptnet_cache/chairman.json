@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1757432555.8612099,
+  "edges": [
+    {
+      "target": "chair a meeting",
+      "relationship": "CapableOf",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/CapableOf/,/c/en/chairman/,/c/en/chair_meeting/]"
+    },
+    {
+      "target": "chair",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/chairman/n/,/c/en/chair/]"
+    },
+    {
+      "target": "president",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/chairman/n/wn/person/,/c/en/president/n/wn/person/]"
+    },
+    {
+      "target": "chair",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/chairman/v/wn/social/,/c/en/chair/v/wn/social/]"
+    },
+    {
+      "target": "\u0646\u0634\u0633\u062a\u0645\u0627\u0646",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/chairman/n/,/c/sd/\u0646\u0634\u0633\u062a\u0645\u0627\u0646/]"
+    },
+    {
+      "target": "voorzitter",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/chairman/n/,/c/nl/voorzitter/]"
+    },
+    {
+      "target": "meet his cabinet",
+      "relationship": "CapableOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/CapableOf/,/c/en/chairman/,/c/en/meet_cabinet/]"
+    },
+    {
+      "target": "historical",
+      "relationship": "HasContext",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasContext/,/c/en/chairman/n/,/c/en/historical/]"
+    },
+    {
+      "target": "\u0631\u064a\u064a\u0633",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/chairman/n/,/c/ar/\u0631\u064a\u064a\u0633/]"
+    },
+    {
+      "target": "chair the conference",
+      "relationship": "CapableOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/CapableOf/,/c/en/chairman/,/c/en/chair_conference/]"
+    }
+  ],
+  "relationships": [
+    "CapableOf",
+    "IsA",
+    "Synonym",
+    "HasContext"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "chairman",
+  "single_word_validated": true
+}

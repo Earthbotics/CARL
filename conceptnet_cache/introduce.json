@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1758164686.58415,
+  "edges": [
+    {
+      "target": "meet",
+      "relationship": "RelatedTo",
+      "weight": 2.5620304447839803,
+      "uri": "/a/[/r/RelatedTo/,/c/en/introduce/,/c/en/meet/]"
+    },
+    {
+      "target": "inform",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/introduce/v/wn/communication/,/c/en/inform/v/wn/communication/]"
+    },
+    {
+      "target": "introduce",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/introduce/v/wn/communication/,/c/en/introduce/v/wn/communication/]"
+    },
+    {
+      "target": "bring in",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/introduce/v/wn/motion/,/c/en/bring_in/v/wn/motion/]"
+    },
+    {
+      "target": "initiate",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/introduce/v/wn/creation/,/c/en/initiate/v/wn/creation/]"
+    },
+    {
+      "target": "project",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/introduce/v/wn/cognition/,/c/en/project/v/wn/cognition/]"
+    },
+    {
+      "target": "establish",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/introduce/v/wn/creation/,/c/en/establish/v/wn/creation/]"
+    },
+    {
+      "target": "precede",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/introduce/v/wn/communication/,/c/en/precede/v/wn/communication/]"
+    },
+    {
+      "target": "insert",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/introduce/v/wn/change/,/c/en/insert/v/wn/change/]"
+    },
+    {
+      "target": "inaugurate",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/introduce/v/wn/change/,/c/en/inaugurate/v/wn/change/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "MannerOf",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "introduce",
+  "single_word_validated": true
+}

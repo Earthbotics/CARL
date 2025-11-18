@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1756534043.5052466,
+  "edges": [
+    {
+      "target": "watching television",
+      "relationship": "AtLocation",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/AtLocation/,/c/en/fun/,/c/en/watching_television/]"
+    },
+    {
+      "target": "playfulness",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/fun/n/wn/attribute/,/c/en/playfulness/n/wn/attribute/]"
+    },
+    {
+      "target": "wit",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/fun/n/wn/communication/,/c/en/wit/n/wn/communication/]"
+    },
+    {
+      "target": "enjoyable",
+      "relationship": "HasProperty",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasProperty/,/c/en/fun/,/c/en/enjoyable/]"
+    },
+    {
+      "target": "amusement",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/fun/n/,/c/en/amusement/]"
+    },
+    {
+      "target": "diversion",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/fun/n/wn/act/,/c/en/diversion/n/wn/act/]"
+    },
+    {
+      "target": "activity",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/fun/n/wn/act/,/c/en/activity/n/wn/act/]"
+    },
+    {
+      "target": "diversi\u00f3n",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/fun/n/,/c/es/diversi\u00f3n/]"
+    },
+    {
+      "target": "amusement",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/fun/n/,/c/en/amusement/]"
+    },
+    {
+      "target": "funny",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/fun/a/,/c/en/funny/]"
+    }
+  ],
+  "relationships": [
+    "AtLocation",
+    "Synonym",
+    "IsA",
+    "HasProperty",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "fun",
+  "single_word_validated": true
+}

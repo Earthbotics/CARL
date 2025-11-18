@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1755278133.923743,
+  "edges": [
+    {
+      "target": "a state",
+      "relationship": "IsA",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/IsA/,/c/en/washington/,/c/en/state/]"
+    },
+    {
+      "target": "President Washington",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/washington/n/wn/person/,/c/en/president_washington/n/wn/person/]"
+    },
+    {
+      "target": "Capitol",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/washington/n/wn/group/,/c/en/capitol/n/wn/group/]"
+    },
+    {
+      "target": "Booker Taliaferro Washington",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/washington/n/wn/person/,/c/en/booker_taliaferro_washington/n/wn/person/]"
+    },
+    {
+      "target": "District of Columbia",
+      "relationship": "PartOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/PartOf/,/c/en/washington/n/wn/location/,/c/en/district_of_columbia/n/wn/location/]"
+    },
+    {
+      "target": "va\u0161ington",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/washington/n/,/c/sh/va\u0161ington/]"
+    },
+    {
+      "target": "United States",
+      "relationship": "PartOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/PartOf/,/c/en/washington/n/wn/location/,/c/en/united_states/n/wn/location/]"
+    },
+    {
+      "target": "slang",
+      "relationship": "HasContext",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasContext/,/c/en/washington/n/,/c/en/slang/]"
+    },
+    {
+      "target": "\u179c\u17c9\u17b6\u179f\u17ca\u17b8\u1793\u178f\u17c4\u1793",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/washington/n/,/c/km/\u179c\u17c9\u17b6\u179f\u17ca\u17b8\u1793\u178f\u17c4\u1793/]"
+    },
+    {
+      "target": "g\u00e9ographie",
+      "relationship": "HasContext",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasContext/,/c/en/washington/n/wikt/fr_1/,/c/fr/g\u00e9ographie/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "Synonym",
+    "PartOf",
+    "HasContext"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "washington",
+  "single_word_validated": true
+}

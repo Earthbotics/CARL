@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1756443441.3526738,
+  "edges": [
+    {
+      "target": "a gas",
+      "relationship": "IsA",
+      "weight": 7.211102550927979,
+      "uri": "/a/[/r/IsA/,/c/en/air/,/c/en/gas/]"
+    },
+    {
+      "target": "oxygen",
+      "relationship": "RelatedTo",
+      "weight": 5.048960289010005,
+      "uri": "/a/[/r/RelatedTo/,/c/en/air/,/c/en/oxygen/]"
+    },
+    {
+      "target": "gas",
+      "relationship": "RelatedTo",
+      "weight": 4.2839234353568925,
+      "uri": "/a/[/r/RelatedTo/,/c/en/air/,/c/en/gas/]"
+    },
+    {
+      "target": "the space shuttle",
+      "relationship": "AtLocation",
+      "weight": 4.0,
+      "uri": "/a/[/r/AtLocation/,/c/en/air/,/c/en/space_shuttle/]"
+    },
+    {
+      "target": "atmosphere",
+      "relationship": "RelatedTo",
+      "weight": 3.914588100937314,
+      "uri": "/a/[/r/RelatedTo/,/c/en/air/,/c/en/atmosphere/]"
+    },
+    {
+      "target": "breathe",
+      "relationship": "RelatedTo",
+      "weight": 3.7094473981982814,
+      "uri": "/a/[/r/RelatedTo/,/c/en/air/,/c/en/breathe/]"
+    },
+    {
+      "target": "breathing",
+      "relationship": "RelatedTo",
+      "weight": 3.6265686261258043,
+      "uri": "/a/[/r/RelatedTo/,/c/en/air/,/c/en/breathing/]"
+    },
+    {
+      "target": "oxygen",
+      "relationship": "HasA",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/HasA/,/c/en/air/,/c/en/oxygen/]"
+    },
+    {
+      "target": "invisible",
+      "relationship": "HasProperty",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/HasProperty/,/c/en/air/,/c/en/invisible/]"
+    },
+    {
+      "target": "a balloon",
+      "relationship": "AtLocation",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/AtLocation/,/c/en/air/,/c/en/balloon/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "RelatedTo",
+    "AtLocation",
+    "HasA",
+    "HasProperty"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "air",
+  "single_word_validated": true
+}

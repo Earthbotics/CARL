@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1755882019.0080447,
+  "edges": [
+    {
+      "target": "engine",
+      "relationship": "RelatedTo",
+      "weight": 5.907283639711234,
+      "uri": "/a/[/r/RelatedTo/,/c/en/motor/,/c/en/engine/]"
+    },
+    {
+      "target": "car",
+      "relationship": "RelatedTo",
+      "weight": 5.165268628057983,
+      "uri": "/a/[/r/RelatedTo/,/c/en/motor/,/c/en/car/]"
+    },
+    {
+      "target": "car engine",
+      "relationship": "RelatedTo",
+      "weight": 2.218107301281883,
+      "uri": "/a/[/r/RelatedTo/,/c/en/motor/,/c/en/car_engine/]"
+    },
+    {
+      "target": "cars",
+      "relationship": "RelatedTo",
+      "weight": 2.149418526020467,
+      "uri": "/a/[/r/RelatedTo/,/c/en/motor/,/c/en/cars/]"
+    },
+    {
+      "target": "motive",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/motor/a/wn/,/c/en/motive/a/wn/]"
+    },
+    {
+      "target": "drive",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/motor/v/wn/driving/,/c/en/drive/v/wn/driving/]"
+    },
+    {
+      "target": "centrifugal",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/motor/a/wn/,/c/en/centrifugal/a/wn/]"
+    },
+    {
+      "target": "engine",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/motor/n/,/c/en/engine/]"
+    },
+    {
+      "target": "agent",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/motor/n/wn/object/,/c/en/agent/n/wn/object/]"
+    },
+    {
+      "target": "motor",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/motor/n/,/c/sh/motor/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "Synonym",
+    "IsA"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "motor",
+  "single_word_validated": true
+}

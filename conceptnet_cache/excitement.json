@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1754011171.0370905,
+  "edges": [
+    {
+      "target": "exhilaration",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/excitement/n/wn/feeling/,/c/en/exhilaration/n/wn/feeling/]"
+    },
+    {
+      "target": "excited",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/excitement/n/,/c/en/excited/]"
+    },
+    {
+      "target": "excite",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/excitement/n/,/c/en/excite/]"
+    },
+    {
+      "target": "agitation",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/excitement/n/wn/act/,/c/en/agitation/n/wn/act/]"
+    },
+    {
+      "target": "excitation",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/excitement/n/wn/act/,/c/en/excitation/n/wn/act/]"
+    },
+    {
+      "target": "emotional arousal",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/excitement/n/wn/state/,/c/en/emotional_arousal/n/wn/state/]"
+    },
+    {
+      "target": "a hockey game",
+      "relationship": "AtLocation",
+      "weight": 1.0,
+      "uri": "/a/[/r/AtLocation/,/c/en/excitement/,/c/en/hockey_game/]"
+    },
+    {
+      "target": "\u8208\u596e",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/excitement/n/,/c/zh/\u8208\u596e/]"
+    },
+    {
+      "target": "dance",
+      "relationship": "CausesDesire",
+      "weight": 1.0,
+      "uri": "/a/[/r/CausesDesire/,/c/en/excitement/,/c/en/dance/]"
+    },
+    {
+      "target": "podekscytowanie",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/excitement/n/,/c/pl/podekscytowanie/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "RelatedTo",
+    "IsA",
+    "AtLocation",
+    "CausesDesire"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "excitement",
+  "single_word_validated": true
+}

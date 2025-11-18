@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1755278792.2033613,
+  "edges": [
+    {
+      "target": "i",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/myself/n/,/c/en/i/]"
+    },
+    {
+      "target": "kaina",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/myself/n/,/c/ha/kaina/]"
+    },
+    {
+      "target": "\u13a0\u13cb\u13cc",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/myself/n/,/c/chr/\u13a0\u13cb\u13cc/]"
+    },
+    {
+      "target": "ise",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/myself/n/,/c/et/ise/]"
+    },
+    {
+      "target": "sebe",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/myself/n/,/c/sh/sebe/]"
+    },
+    {
+      "target": "\u02bbo wau pono\u02bb\u012b",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/myself/n/,/c/haw/\u02bbo_wau_pono\u02bb\u012b/]"
+    },
+    {
+      "target": "personally",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/myself/n/,/c/en/personally/]"
+    },
+    {
+      "target": "t\u1ef1",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/myself/n/,/c/vi/t\u1ef1/]"
+    },
+    {
+      "target": "me self",
+      "relationship": "EtymologicallyDerivedFrom",
+      "weight": 1.0,
+      "uri": "/a/[/r/EtymologicallyDerivedFrom/,/c/en/myself/,/c/ang/me_self/]"
+    },
+    {
+      "target": "\u03bf \u03b5\u03b1\u03c5\u03c4\u03bf\u03c3 \u03bc\u03bf\u03c5",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/myself/n/,/c/el/\u03bf_\u03b5\u03b1\u03c5\u03c4\u03bf\u03c3_\u03bc\u03bf\u03c5/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "Synonym",
+    "EtymologicallyDerivedFrom"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "myself",
+  "single_word_validated": true
+}

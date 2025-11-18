@@ -1,0 +1,73 @@
+{
+  "has_data": true,
+  "last_lookup": 1756791931.968287,
+  "edges": [
+    {
+      "target": "ocean",
+      "relationship": "RelatedTo",
+      "weight": 8.328745403720777,
+      "uri": "/a/[/r/RelatedTo/,/c/en/wave/,/c/en/ocean/]"
+    },
+    {
+      "target": "water",
+      "relationship": "RelatedTo",
+      "weight": 6.283311228962003,
+      "uri": "/a/[/r/RelatedTo/,/c/en/wave/,/c/en/water/]"
+    },
+    {
+      "target": "movement",
+      "relationship": "RelatedTo",
+      "weight": 5.689639707398,
+      "uri": "/a/[/r/RelatedTo/,/c/en/wave/,/c/en/movement/]"
+    },
+    {
+      "target": "motion",
+      "relationship": "RelatedTo",
+      "weight": 4.950555524383097,
+      "uri": "/a/[/r/RelatedTo/,/c/en/wave/,/c/en/motion/]"
+    },
+    {
+      "target": "sea",
+      "relationship": "RelatedTo",
+      "weight": 4.879754092164891,
+      "uri": "/a/[/r/RelatedTo/,/c/en/wave/,/c/en/sea/]"
+    },
+    {
+      "target": "hand",
+      "relationship": "RelatedTo",
+      "weight": 4.3095243357010995,
+      "uri": "/a/[/r/RelatedTo/,/c/en/wave/,/c/en/hand/]"
+    },
+    {
+      "target": "an ocean",
+      "relationship": "PartOf",
+      "weight": 4.0,
+      "uri": "/a/[/r/PartOf/,/c/en/wave/,/c/en/ocean/]"
+    },
+    {
+      "target": "surfing",
+      "relationship": "RelatedTo",
+      "weight": 3.7512664528129696,
+      "uri": "/a/[/r/RelatedTo/,/c/en/wave/,/c/en/surfing/]"
+    },
+    {
+      "target": "surfers",
+      "relationship": "RelatedTo",
+      "weight": 3.2692506786724085,
+      "uri": "/a/[/r/RelatedTo/,/c/en/wave/,/c/en/surfers/]"
+    },
+    {
+      "target": "beach",
+      "relationship": "RelatedTo",
+      "weight": 3.258834147360065,
+      "uri": "/a/[/r/RelatedTo/,/c/en/wave/,/c/en/beach/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "PartOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "wave",
+  "single_word_validated": true
+}

@@ -1,0 +1,73 @@
+{
+  "has_data": true,
+  "last_lookup": 1762019844.6158977,
+  "edges": [
+    {
+      "target": "greeting",
+      "relationship": "IsA",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/IsA/,/c/en/hello/,/c/en/greeting/]"
+    },
+    {
+      "target": "selam",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/hello/,/c/sh/selam/]"
+    },
+    {
+      "target": "merhaba",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/hello/,/c/sh/merhaba/]"
+    },
+    {
+      "target": "hola",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/hello/,/c/es/hola/]"
+    },
+    {
+      "target": "bog",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/hello/,/c/sh/bog/]"
+    },
+    {
+      "target": "greeting",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/hello/n/wn/communication/,/c/en/greeting/n/wn/communication/]"
+    },
+    {
+      "target": "bok",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/hello/,/c/sh/bok/]"
+    },
+    {
+      "target": "zdravo",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/hello/,/c/sh/zdravo/]"
+    },
+    {
+      "target": "salut",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/hello/,/c/fr/salut/]"
+    },
+    {
+      "target": "god dag",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/hello/,/c/sv/god_dag/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "hello",
+  "single_word_validated": true
+}

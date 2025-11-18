@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1757050831.6289153,
+  "edges": [
+    {
+      "target": "bugle call",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/recall/n/wn/communication/,/c/en/bugle_call/n/wn/communication/]"
+    },
+    {
+      "target": "concentrate",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/recall/v/wn/cognition/,/c/en/concentrate/v/wn/cognition/]"
+    },
+    {
+      "target": "memory",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/recall/n/wn/cognition/,/c/en/memory/n/wn/cognition/]"
+    },
+    {
+      "target": "remember",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/recall/v/wn/cognition/,/c/en/remember/v/wn/cognition/]"
+    },
+    {
+      "target": "echo",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/recall/v/wn/stative/,/c/en/echo/v/wn/stative/]"
+    },
+    {
+      "target": "hark back",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/recall/v/wn/communication/,/c/en/hark_back/v/wn/communication/]"
+    },
+    {
+      "target": "cancel",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/recall/v/wn/social/,/c/en/cancel/v/wn/social/]"
+    },
+    {
+      "target": "call",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/recall/n/wn/communication/,/c/en/call/n/wn/communication/]"
+    },
+    {
+      "target": "take",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/recall/v/wn/possession/,/c/en/take/v/wn/possession/]"
+    },
+    {
+      "target": "United States",
+      "relationship": "HasContext",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasContext/,/c/en/recall/n/wn/act/,/c/en/united_states/n/wn/location/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "MannerOf",
+    "Synonym",
+    "HasContext"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "recall",
+  "single_word_validated": true
+}

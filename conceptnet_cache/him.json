@@ -1,0 +1,73 @@
+{
+  "has_data": true,
+  "last_lookup": 1756763590.813269,
+  "edges": [
+    {
+      "target": "he",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/him/n/,/c/en/he/]"
+    },
+    {
+      "target": "ayr\u00ea",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/him/n/,/c/zza/ayr\u00ea/]"
+    },
+    {
+      "target": "his",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/him/n/,/c/en/his/]"
+    },
+    {
+      "target": "le",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/him/n/,/c/es/le/]"
+    },
+    {
+      "target": "ei",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/him/n/,/c/la/ei/]"
+    },
+    {
+      "target": "\u0909\u0938\u0947",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/him/n/,/c/hi/\u0909\u0938\u0947/]"
+    },
+    {
+      "target": "isti",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/him/n/,/c/la/isti/]"
+    },
+    {
+      "target": "lui",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/him/n/,/c/ro/lui/]"
+    },
+    {
+      "target": "\u03c4\u03c9\u03b4\u03b5",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/him/n/,/c/grc/\u03c4\u03c9\u03b4\u03b5/]"
+    },
+    {
+      "target": "them",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/him/n/,/c/en/them/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "him",
+  "single_word_validated": true
+}

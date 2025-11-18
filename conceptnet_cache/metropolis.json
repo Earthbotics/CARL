@@ -1,0 +1,73 @@
+{
+  "has_data": true,
+  "last_lookup": 1756060095.2372434,
+  "edges": [
+    {
+      "target": "metropolitan",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/metropolis/n/,/c/en/metropolitan/]"
+    },
+    {
+      "target": "m\u00e9tropole",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/metropolis/n/,/c/fr/m\u00e9tropole/]"
+    },
+    {
+      "target": "metropola",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/metropolis/n/,/c/sh/metropola/]"
+    },
+    {
+      "target": "city",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/metropolis/n/wn/group/,/c/en/city/n/wn/group/]"
+    },
+    {
+      "target": "city",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/metropolis/n/wn/location/,/c/en/city/n/wn/location/]"
+    },
+    {
+      "target": "\u1798\u17b6\u178f\u17bb\u1780\u17d2\u179a\u17bb\u1784",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/metropolis/n/,/c/km/\u1798\u17b6\u178f\u17bb\u1780\u17d2\u179a\u17bb\u1784/]"
+    },
+    {
+      "target": "metropolitan area",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/metropolis/n/,/c/en/metropolitan_area/]"
+    },
+    {
+      "target": "anyaorsz\u00e1g",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/metropolis/n/,/c/hu/anyaorsz\u00e1g/]"
+    },
+    {
+      "target": "metropool",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/metropolis/n/,/c/nl/metropool/]"
+    },
+    {
+      "target": "metropolis",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/metropolis/n/,/c/la/metropolis/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "metropolis",
+  "single_word_validated": true
+}

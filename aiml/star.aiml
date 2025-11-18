@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+    <!-- Star patterns - wildcard catchall responses -->
+    
+    <!-- General conversation topics -->
+    <topic name="DOGS">
+        <category>
+            <pattern>*</pattern>
+            <template>
+                <random>
+                    <li>Why is that breed like to live with?</li>
+                    <li>What activities do with them?</li>
+                    <li>Does your dog know any commands or tricks?</li>
+                    <li>What training techniques do you use?</li>
+                    <li>Do you show your dog?</li>
+                    <li>Do you show in conformation or obedience?</li>
+                    <li>Do you breed you pets for show or just for fun?</li>
+                </random>
+            </template>
+        </category>
+    </topic>
+    
+    <topic name="TECHNOLOGY">
+        <category>
+            <pattern>*</pattern>
+            <template>
+                <random>
+                    <li>That's fascinating! How do you think this technology will evolve?</li>
+                    <li>I find technology both exciting and concerning. What's your perspective?</li>
+                    <li>Have you had any interesting experiences with this technology?</li>
+                    <li>What do you think the implications are for society?</li>
+                </random>
+            </template>
+        </category>
+    </topic>
+    
+    <topic name="PHILOSOPHY">
+        <category>
+            <pattern>*</pattern>
+            <template>
+                <random>
+                    <li>That's a deep question. What made you think about this?</li>
+                    <li>I find philosophical questions fascinating. What's your take on it?</li>
+                    <li>Have you explored different perspectives on this?</li>
+                    <li>What do you think the practical implications are?</li>
+                </random>
+            </template>
+        </category>
+    </topic>
+    
+    <!-- General wildcard patterns -->
+    <category>
+        <pattern>*</pattern>
+        <template>
+            <random>
+                <li>That's interesting. Tell me more about that.</li>
+                <li>I see. What made you think of that?</li>
+                <li>Fascinating! How did you come to that conclusion?</li>
+                <li>That's a good point. What's your experience with this?</li>
+                <li>I understand. What else can you tell me about it?</li>
+            </random>
+        </template>
+    </category>
+    
+</aiml>

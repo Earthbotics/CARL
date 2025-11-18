@@ -1,0 +1,73 @@
+{
+  "has_data": true,
+  "last_lookup": 1759722713.2449746,
+  "edges": [
+    {
+      "target": "happy",
+      "relationship": "RelatedTo",
+      "weight": 6.332140238497564,
+      "uri": "/a/[/r/RelatedTo/,/c/en/smile/,/c/en/happy/]"
+    },
+    {
+      "target": "grin",
+      "relationship": "RelatedTo",
+      "weight": 4.918129725820579,
+      "uri": "/a/[/r/RelatedTo/,/c/en/smile/,/c/en/grin/]"
+    },
+    {
+      "target": "expression",
+      "relationship": "RelatedTo",
+      "weight": 4.752683452534999,
+      "uri": "/a/[/r/RelatedTo/,/c/en/smile/,/c/en/expression/]"
+    },
+    {
+      "target": "mouth",
+      "relationship": "RelatedTo",
+      "weight": 4.303486958270004,
+      "uri": "/a/[/r/RelatedTo/,/c/en/smile/,/c/en/mouth/]"
+    },
+    {
+      "target": "face",
+      "relationship": "RelatedTo",
+      "weight": 3.8220413393892017,
+      "uri": "/a/[/r/RelatedTo/,/c/en/smile/,/c/en/face/]"
+    },
+    {
+      "target": "you are happy",
+      "relationship": "MotivatedByGoal",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/MotivatedByGoal/,/c/en/smile/,/c/en/happy/]"
+    },
+    {
+      "target": "facial",
+      "relationship": "RelatedTo",
+      "weight": 3.407638478477434,
+      "uri": "/a/[/r/RelatedTo/,/c/en/smile/,/c/en/facial/]"
+    },
+    {
+      "target": "happiness",
+      "relationship": "RelatedTo",
+      "weight": 3.244687966507719,
+      "uri": "/a/[/r/RelatedTo/,/c/en/smile/,/c/en/happiness/]"
+    },
+    {
+      "target": "teeth",
+      "relationship": "RelatedTo",
+      "weight": 2.669831455354439,
+      "uri": "/a/[/r/RelatedTo/,/c/en/smile/,/c/en/teeth/]"
+    },
+    {
+      "target": "lips",
+      "relationship": "RelatedTo",
+      "weight": 2.6502830037563916,
+      "uri": "/a/[/r/RelatedTo/,/c/en/smile/,/c/en/lips/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "MotivatedByGoal"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "smile",
+  "single_word_validated": true
+}

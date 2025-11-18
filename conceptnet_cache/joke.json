@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1761658966.8856246,
+  "edges": [
+    {
+      "target": "jest",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/joke/n/wn/act/,/c/en/jest/n/wn/act/]"
+    },
+    {
+      "target": "\u0161ala",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/joke/n/,/c/sh/\u0161ala/]"
+    },
+    {
+      "target": "communicate",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/joke/v/wn/communication/,/c/en/communicate/v/wn/communication/]"
+    },
+    {
+      "target": "bad",
+      "relationship": "HasProperty",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasProperty/,/c/en/joke/,/c/en/bad/]"
+    },
+    {
+      "target": "act",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/joke/v/wn/body/,/c/en/act/v/wn/body/]"
+    },
+    {
+      "target": "wit",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/joke/n/wn/communication/,/c/en/wit/n/wn/communication/]"
+    },
+    {
+      "target": "pettiness",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/joke/n/wn/attribute/,/c/en/pettiness/n/wn/attribute/]"
+    },
+    {
+      "target": "antic",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/joke/n/wn/act/,/c/en/antic/n/wn/act/]"
+    },
+    {
+      "target": "express how funny something is",
+      "relationship": "CausesDesire",
+      "weight": 1.0,
+      "uri": "/a/[/r/CausesDesire/,/c/en/joke/,/c/en/express_how_funny/]"
+    },
+    {
+      "target": "mop",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/joke/n/,/c/nl/mop/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "MannerOf",
+    "HasProperty",
+    "IsA",
+    "CausesDesire"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "joke",
+  "single_word_validated": true
+}

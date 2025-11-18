@@ -1,0 +1,64 @@
+{
+  "has_data": true,
+  "last_lookup": 1759727384.48714,
+  "edges": [
+    {
+      "target": "congratulate",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/congratulating/v/,/c/en/congratulate/]"
+    },
+    {
+      "target": "congratulate",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/congratulating/,/c/en/congratulate/v/]"
+    },
+    {
+      "target": "congratulate",
+      "relationship": "DerivedFrom",
+      "weight": 1.0,
+      "uri": "/a/[/r/DerivedFrom/,/c/en/congratulating/,/c/en/congratulate/v/]"
+    },
+    {
+      "target": "single communication act",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/congratulating/n/,/c/en/single_communication_act/n/]"
+    },
+    {
+      "target": "Congratulating",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/congratulating/n/,/http://sw.opencyc.org/2012/05/10/concept/en/Congratulating/]"
+    },
+    {
+      "target": "congratulate",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/congratulating/v/,/c/en/congratulate/]"
+    },
+    {
+      "target": "congratulating",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/congratulating/,/http://en.wiktionary.org/wiki/congratulating/]"
+    },
+    {
+      "target": "congratulating",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/congratulating/,/http://fr.wiktionary.org/wiki/congratulating/]"
+    }
+  ],
+  "relationships": [
+    "FormOf",
+    "DerivedFrom",
+    "IsA",
+    "ExternalURL",
+    "RelatedTo"
+  ],
+  "total_edges_found": 8,
+  "concept_queried": "congratulating",
+  "single_word_validated": true
+}

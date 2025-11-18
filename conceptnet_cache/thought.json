@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1759800988.5035124,
+  "edges": [
+    {
+      "target": "idea",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/thought/n/wn/cognition/,/c/en/idea/n/wn/cognition/]"
+    },
+    {
+      "target": "belief",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/thought/n/wn/cognition/,/c/en/belief/n/wn/cognition/]"
+    },
+    {
+      "target": "misao",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/thought/n/,/c/sh/misao/]"
+    },
+    {
+      "target": "thinking",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/thought/n/wn/cognition/,/c/en/thinking/n/wn/cognition/]"
+    },
+    {
+      "target": "opinion",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/thought/n/wn/cognition/,/c/en/opinion/n/wn/cognition/]"
+    },
+    {
+      "target": "think",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/thought/n/,/c/en/think/]"
+    },
+    {
+      "target": "idea",
+      "relationship": "RelatedTo",
+      "weight": 1.6420000000000003,
+      "uri": "/a/[/r/RelatedTo/,/c/en/thought/,/c/en/idea/]"
+    },
+    {
+      "target": "region",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/thought/n/,/c/en/region/]"
+    },
+    {
+      "target": "ajatus",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/thought/n/,/c/fi/ajatus/]"
+    },
+    {
+      "target": "\u610f\u56f3",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/thought/n/,/c/ja/\u610f\u56f3/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "IsA",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "thought",
+  "single_word_validated": true
+}

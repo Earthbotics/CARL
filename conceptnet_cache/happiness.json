@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1755143179.8023772,
+  "edges": [
+    {
+      "target": "sing",
+      "relationship": "CausesDesire",
+      "weight": 6.0,
+      "uri": "/a/[/r/CausesDesire/,/c/en/happiness/,/c/en/sing/]"
+    },
+    {
+      "target": "an emotion",
+      "relationship": "IsA",
+      "weight": 4.47213595499958,
+      "uri": "/a/[/r/IsA/,/c/en/happiness/,/c/en/emotion/]"
+    },
+    {
+      "target": "feeling",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/happiness/n/wn/feeling/,/c/en/feeling/n/wn/]"
+    },
+    {
+      "target": "a state of mind",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/happiness/,/c/en/state_of_mind/]"
+    },
+    {
+      "target": "bliss",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/happiness/,/c/en/bliss/]"
+    },
+    {
+      "target": "emotional state",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/happiness/n/wn/state/,/c/en/emotional_state/n/wn/state/]"
+    },
+    {
+      "target": "\u0441\u04d9\u0433\u0430\u0434\u04d9\u0442\u044c",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/happiness/n/,/c/tt/\u0441\u04d9\u0433\u0430\u0434\u04d9\u0442\u044c/]"
+    },
+    {
+      "target": "make somone dance",
+      "relationship": "CapableOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/CapableOf/,/c/en/happiness/,/c/en/make_somone_dance/]"
+    },
+    {
+      "target": "Q926719",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/happiness/,/http://wikidata.dbpedia.org/resource/Q926719/]"
+    },
+    {
+      "target": "lead to laughter",
+      "relationship": "CapableOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/CapableOf/,/c/en/happiness/,/c/en/lead_to_laughter/]"
+    }
+  ],
+  "relationships": [
+    "CausesDesire",
+    "IsA",
+    "Synonym",
+    "CapableOf",
+    "ExternalURL"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "happiness",
+  "single_word_validated": true
+}

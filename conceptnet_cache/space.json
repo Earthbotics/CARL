@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1756002909.6743295,
+  "edges": [
+    {
+      "target": "outer",
+      "relationship": "RelatedTo",
+      "weight": 5.2360290297132615,
+      "uri": "/a/[/r/RelatedTo/,/c/en/space/,/c/en/outer/]"
+    },
+    {
+      "target": "stars",
+      "relationship": "RelatedTo",
+      "weight": 4.407720499305736,
+      "uri": "/a/[/r/RelatedTo/,/c/en/space/,/c/en/stars/]"
+    },
+    {
+      "target": "universe",
+      "relationship": "RelatedTo",
+      "weight": 3.98095465937506,
+      "uri": "/a/[/r/RelatedTo/,/c/en/space/,/c/en/universe/]"
+    },
+    {
+      "target": "planets",
+      "relationship": "RelatedTo",
+      "weight": 3.6975667674837194,
+      "uri": "/a/[/r/RelatedTo/,/c/en/space/,/c/en/planets/]"
+    },
+    {
+      "target": "area",
+      "relationship": "RelatedTo",
+      "weight": 3.5293058807646585,
+      "uri": "/a/[/r/RelatedTo/,/c/en/space/,/c/en/area/]"
+    },
+    {
+      "target": "empty",
+      "relationship": "HasProperty",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/HasProperty/,/c/en/space/,/c/en/empty/]"
+    },
+    {
+      "target": "atmosphere",
+      "relationship": "RelatedTo",
+      "weight": 3.3105890714493693,
+      "uri": "/a/[/r/RelatedTo/,/c/en/space/,/c/en/atmosphere/]"
+    },
+    {
+      "target": "earth",
+      "relationship": "RelatedTo",
+      "weight": 2.9772470505485433,
+      "uri": "/a/[/r/RelatedTo/,/c/en/space/,/c/en/earth/]"
+    },
+    {
+      "target": "a box",
+      "relationship": "AtLocation",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/AtLocation/,/c/en/space/,/c/en/box/]"
+    },
+    {
+      "target": "empty",
+      "relationship": "RelatedTo",
+      "weight": 2.2547727158186035,
+      "uri": "/a/[/r/RelatedTo/,/c/en/space/,/c/en/empty/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "HasProperty",
+    "AtLocation"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "space",
+  "single_word_validated": true
+}

@@ -1,0 +1,51 @@
+{
+  "has_data": true,
+  "last_lookup": 1754261543.1381276,
+  "edges": [
+    {
+      "target": "indicate",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/indicating/v/,/c/en/indicate/]"
+    },
+    {
+      "target": "\uc190\uac00\ub77d",
+      "relationship": "DerivedFrom",
+      "weight": 1.0,
+      "uri": "/a/[/r/DerivedFrom/,/c/en/indicating/,/c/ko/\uc190\uac00\ub77d/n/]"
+    },
+    {
+      "target": "indicate",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/indicating/v/,/c/en/indicate/]"
+    },
+    {
+      "target": "indicate",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/indicating/,/c/en/indicate/v/]"
+    },
+    {
+      "target": "indicating",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/indicating/,/http://en.wiktionary.org/wiki/indicating/]"
+    },
+    {
+      "target": "indicating",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/indicating/,/http://fr.wiktionary.org/wiki/indicating/]"
+    }
+  ],
+  "relationships": [
+    "FormOf",
+    "DerivedFrom",
+    "RelatedTo",
+    "ExternalURL"
+  ],
+  "total_edges_found": 6,
+  "concept_queried": "indicating",
+  "single_word_validated": true
+}

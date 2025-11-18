@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1757522916.7074988,
+  "edges": [
+    {
+      "target": "htjeti",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/will/v/wikt/en_1/,/c/sh/htjeti/]"
+    },
+    {
+      "target": "bequeath",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/will/v/wn/possession/,/c/en/bequeath/v/wn/possession/]"
+    },
+    {
+      "target": "volition",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/will/n/wn/cognition/,/c/en/volition/n/wn/cognition/]"
+    },
+    {
+      "target": "hteti",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/will/v/wikt/en_1/,/c/sh/hteti/]"
+    },
+    {
+      "target": "law",
+      "relationship": "HasContext",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasContext/,/c/en/will/n/wn/law/,/c/en/law/n/wn/group/]"
+    },
+    {
+      "target": "legal document",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/will/n/wn/law/,/c/en/legal_document/n/wn/law/]"
+    },
+    {
+      "target": "ordain",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/will/v/wn/communication/,/c/en/ordain/v/wn/communication/]"
+    },
+    {
+      "target": "purpose",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/will/n/wn/cognition/,/c/en/purpose/n/wn/cognition/]"
+    },
+    {
+      "target": "desire",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/will/v/wn/emotion/,/c/en/desire/v/wn/emotion/]"
+    },
+    {
+      "target": "decide",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/will/v/wn/cognition/,/c/en/decide/v/wn/cognition/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "HasContext",
+    "IsA",
+    "MannerOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "will",
+  "single_word_validated": true
+}

@@ -1,0 +1,73 @@
+{
+  "has_data": true,
+  "last_lookup": 1760489511.5703993,
+  "edges": [
+    {
+      "target": "identify something or someone",
+      "relationship": "UsedFor",
+      "weight": 4.898979485566356,
+      "uri": "/a/[/r/UsedFor/,/c/en/name/,/c/en/identify_or/]"
+    },
+    {
+      "target": "person",
+      "relationship": "RelatedTo",
+      "weight": 3.8930707674020004,
+      "uri": "/a/[/r/RelatedTo/,/c/en/name/,/c/en/person/]"
+    },
+    {
+      "target": "title",
+      "relationship": "RelatedTo",
+      "weight": 3.7218275080933028,
+      "uri": "/a/[/r/RelatedTo/,/c/en/name/,/c/en/title/]"
+    },
+    {
+      "target": "personal",
+      "relationship": "RelatedTo",
+      "weight": 3.683476618630829,
+      "uri": "/a/[/r/RelatedTo/,/c/en/name/,/c/en/personal/]"
+    },
+    {
+      "target": "label",
+      "relationship": "RelatedTo",
+      "weight": 3.5693136595149495,
+      "uri": "/a/[/r/RelatedTo/,/c/en/name/,/c/en/label/]"
+    },
+    {
+      "target": "labeling things",
+      "relationship": "UsedFor",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/UsedFor/,/c/en/name/,/c/en/labeling_things/]"
+    },
+    {
+      "target": "identity",
+      "relationship": "RelatedTo",
+      "weight": 3.1559467676118995,
+      "uri": "/a/[/r/RelatedTo/,/c/en/name/,/c/en/identity/]"
+    },
+    {
+      "target": "identification",
+      "relationship": "UsedFor",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/UsedFor/,/c/en/name/,/c/en/identification/]"
+    },
+    {
+      "target": "moniker",
+      "relationship": "RelatedTo",
+      "weight": 2.6981475126464076,
+      "uri": "/a/[/r/RelatedTo/,/c/en/name/,/c/en/moniker/]"
+    },
+    {
+      "target": "identification",
+      "relationship": "RelatedTo",
+      "weight": 2.4576411454889016,
+      "uri": "/a/[/r/RelatedTo/,/c/en/name/,/c/en/identification/]"
+    }
+  ],
+  "relationships": [
+    "UsedFor",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "name",
+  "single_word_validated": true
+}

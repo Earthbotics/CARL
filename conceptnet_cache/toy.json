@@ -1,0 +1,72 @@
+{
+  "has_data": true,
+  "last_lookup": 1762019847.3888586,
+  "edges": [
+    {
+      "target": "plaything",
+      "relationship": "RelatedTo",
+      "weight": 8.734758153492287,
+      "uri": "/a/[/r/RelatedTo/,/c/en/toy/,/c/en/plaything/]"
+    },
+    {
+      "target": "child",
+      "relationship": "RelatedTo",
+      "weight": 7.529940238806679,
+      "uri": "/a/[/r/RelatedTo/,/c/en/toy/,/c/en/child/]"
+    },
+    {
+      "target": "play",
+      "relationship": "RelatedTo",
+      "weight": 7.056061224224177,
+      "uri": "/a/[/r/RelatedTo/,/c/en/toy/,/c/en/play/]"
+    },
+    {
+      "target": "children",
+      "relationship": "RelatedTo",
+      "weight": 6.522576178167643,
+      "uri": "/a/[/r/RelatedTo/,/c/en/toy/,/c/en/children/]"
+    },
+    {
+      "target": "kids",
+      "relationship": "RelatedTo",
+      "weight": 5.9531504264548865,
+      "uri": "/a/[/r/RelatedTo/,/c/en/toy/,/c/en/kids/]"
+    },
+    {
+      "target": "fun",
+      "relationship": "RelatedTo",
+      "weight": 4.971116574774726,
+      "uri": "/a/[/r/RelatedTo/,/c/en/toy/,/c/en/fun/]"
+    },
+    {
+      "target": "object",
+      "relationship": "RelatedTo",
+      "weight": 4.62860670180563,
+      "uri": "/a/[/r/RelatedTo/,/c/en/toy/,/c/en/object/]"
+    },
+    {
+      "target": "playing",
+      "relationship": "RelatedTo",
+      "weight": 4.578646088091981,
+      "uri": "/a/[/r/RelatedTo/,/c/en/toy/,/c/en/playing/]"
+    },
+    {
+      "target": "game",
+      "relationship": "RelatedTo",
+      "weight": 4.285323791733829,
+      "uri": "/a/[/r/RelatedTo/,/c/en/toy/,/c/en/game/]"
+    },
+    {
+      "target": "child plaything",
+      "relationship": "RelatedTo",
+      "weight": 4.101706961741661,
+      "uri": "/a/[/r/RelatedTo/,/c/en/toy/,/c/en/child_plaything/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "toy",
+  "single_word_validated": true
+}

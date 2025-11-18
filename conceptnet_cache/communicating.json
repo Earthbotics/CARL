@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1759727122.3471692,
+  "edges": [
+    {
+      "target": "talk",
+      "relationship": "HasSubevent",
+      "weight": 4.0,
+      "uri": "/a/[/r/HasSubevent/,/c/en/communicating/,/c/en/talk/]"
+    },
+    {
+      "target": "the transfer of information",
+      "relationship": "Causes",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/Causes/,/c/en/communicating/,/c/en/transfer_of_information/]"
+    },
+    {
+      "target": "thinking",
+      "relationship": "HasPrerequisite",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/HasPrerequisite/,/c/en/communicating/,/c/en/thinking/]"
+    },
+    {
+      "target": "understanding",
+      "relationship": "Causes",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/Causes/,/c/en/communicating/,/c/en/understanding/]"
+    },
+    {
+      "target": "passing on information",
+      "relationship": "UsedFor",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/UsedFor/,/c/en/communicating/,/c/en/passing_on_information/]"
+    },
+    {
+      "target": "misunderstandings",
+      "relationship": "Causes",
+      "weight": 2.0,
+      "uri": "/a/[/r/Causes/,/c/en/communicating/,/c/en/misunderstandings/]"
+    },
+    {
+      "target": "speak",
+      "relationship": "HasSubevent",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasSubevent/,/c/en/communicating/,/c/en/speak/]"
+    },
+    {
+      "target": "misunderstanding",
+      "relationship": "Causes",
+      "weight": 2.0,
+      "uri": "/a/[/r/Causes/,/c/en/communicating/,/c/en/misunderstanding/]"
+    },
+    {
+      "target": "you learn",
+      "relationship": "HasSubevent",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasSubevent/,/c/en/communicating/,/c/en/learn/]"
+    },
+    {
+      "target": "talking",
+      "relationship": "HasSubevent",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasSubevent/,/c/en/communicating/,/c/en/talking/]"
+    }
+  ],
+  "relationships": [
+    "HasSubevent",
+    "Causes",
+    "HasPrerequisite",
+    "UsedFor"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "communicating",
+  "single_word_validated": true
+}

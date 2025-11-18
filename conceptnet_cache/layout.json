@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1755320034.1825285,
+  "edges": [
+    {
+      "target": "order",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/layout/n/wn/act/,/c/en/order/n/wn/act/]"
+    },
+    {
+      "target": "design",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/layout/n/wn/cognition/,/c/en/design/n/wn/cognition/]"
+    },
+    {
+      "target": "\u30ec\u30a4\u30a2\u30a6\u30c8",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/layout/n/,/c/ja/\u30ec\u30a4\u30a2\u30a6\u30c8/]"
+    },
+    {
+      "target": "publishing",
+      "relationship": "HasContext",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasContext/,/c/en/layout/n/,/c/en/publishing/]"
+    },
+    {
+      "target": "estructura",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/layout/n/,/c/es/estructura/]"
+    },
+    {
+      "target": "\u8a2d\u8a08",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/layout/n/,/c/zh/\u8a2d\u8a08/]"
+    },
+    {
+      "target": "sch\u00e9ma",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/layout/n/,/c/fr/sch\u00e9ma/]"
+    },
+    {
+      "target": "\u10d2\u10d0\u10dc\u10da\u10d0\u10d2\u10d4\u10d1\u10d0",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/layout/n/,/c/ka/\u10d2\u10d0\u10dc\u10da\u10d0\u10d2\u10d4\u10d1\u10d0/]"
+    },
+    {
+      "target": "takoto",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/layout/n/,/c/mi/takoto/]"
+    },
+    {
+      "target": "lay out",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/layout/n/,/c/en/lay_out/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "Synonym",
+    "HasContext",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "layout",
+  "single_word_validated": true
+}

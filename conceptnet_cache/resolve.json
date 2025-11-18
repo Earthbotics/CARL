@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1757802503.2574835,
+  "edges": [
+    {
+      "target": "optics",
+      "relationship": "HasContext",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasContext/,/c/en/resolve/v/wn/optics/,/c/en/optics/n/wn/cognition/]"
+    },
+    {
+      "target": "dissolve",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/resolve/v/wn/change/,/c/en/dissolve/v/wn/change/]"
+    },
+    {
+      "target": "purpose",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/resolve/v/wn/cognition/,/c/en/purpose/v/wn/cognition/]"
+    },
+    {
+      "target": "resoluteness",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/resolve/n/wn/attribute/,/c/en/resoluteness/n/wn/attribute/]"
+    },
+    {
+      "target": "decide",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/resolve/v/wn/cognition/,/c/en/decide/v/wn/cognition/]"
+    },
+    {
+      "target": "conclude",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/resolve/v/wn/communication/,/c/en/conclude/v/wn/communication/]"
+    },
+    {
+      "target": "resolute",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/resolve/v/,/c/en/resolute/]"
+    },
+    {
+      "target": "answer",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/resolve/v/wn/cognition/,/c/en/answer/v/wn/cognition/]"
+    },
+    {
+      "target": "resolution",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/resolve/v/,/c/en/resolution/]"
+    },
+    {
+      "target": "calculate",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/resolve/v/wn/cognition/,/c/en/calculate/v/wn/mathematics/]"
+    }
+  ],
+  "relationships": [
+    "HasContext",
+    "Synonym",
+    "RelatedTo",
+    "MannerOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "resolve",
+  "single_word_validated": true
+}

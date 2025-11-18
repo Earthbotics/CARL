@@ -1,0 +1,63 @@
+{
+  "has_data": true,
+  "last_lookup": 1761692866.70359,
+  "edges": [
+    {
+      "target": "translate",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/expressing/a/,/c/en/translate/]"
+    },
+    {
+      "target": "transcribe",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/expressing/a/,/c/en/transcribe/]"
+    },
+    {
+      "target": "express",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/expressing/v/,/c/en/express/]"
+    },
+    {
+      "target": "express",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/expressing/v/,/c/en/express/]"
+    },
+    {
+      "target": "biochemistry",
+      "relationship": "HasContext",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasContext/,/c/en/expressing/a/,/c/en/biochemistry/]"
+    },
+    {
+      "target": "nucleic acid",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/expressing/a/,/c/en/nucleic_acid/]"
+    },
+    {
+      "target": "expressing",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/expressing/,/http://en.wiktionary.org/wiki/expressing/]"
+    },
+    {
+      "target": "expressing",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/expressing/,/http://fr.wiktionary.org/wiki/expressing/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "FormOf",
+    "HasContext",
+    "ExternalURL"
+  ],
+  "total_edges_found": 8,
+  "concept_queried": "expressing",
+  "single_word_validated": true
+}

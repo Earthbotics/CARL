@@ -1,0 +1,73 @@
+{
+  "has_data": true,
+  "last_lookup": 1756265874.0493405,
+  "edges": [
+    {
+      "target": "aforementioned",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/said/a/wn/,/c/en/aforementioned/a/wn/]"
+    },
+    {
+      "target": "\u0443\u043f\u043e\u043c\u044f\u043d\u0443\u0442\u044b\u0439",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/said/a/,/c/ru/\u0443\u043f\u043e\u043c\u044f\u043d\u0443\u0442\u044b\u0439/]"
+    },
+    {
+      "target": "\u8a72",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/said/,/c/ja/\u8a72/]"
+    },
+    {
+      "target": "ledit",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/said/,/c/fr/ledit/]"
+    },
+    {
+      "target": "earlier",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/said/a/,/c/en/earlier/]"
+    },
+    {
+      "target": "mentioned",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/said/a/,/c/en/mentioned/]"
+    },
+    {
+      "target": "edell\u00e4 mainittu",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/said/,/c/fi/edell\u00e4_mainittu/]"
+    },
+    {
+      "target": "\u0432\u044b\u0448\u0435\u0443\u043f\u043e\u043c\u044f\u043d\u0443\u0442\u044b\u0439",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/said/,/c/ru/\u0432\u044b\u0448\u0435\u0443\u043f\u043e\u043c\u044f\u043d\u0443\u0442\u044b\u0439/]"
+    },
+    {
+      "target": "\u0633\u0639\u064a\u062f",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/said/n/,/c/ar/\u0633\u0639\u064a\u062f/]"
+    },
+    {
+      "target": "desbetreffende",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/said/,/c/nl/desbetreffende/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "said",
+  "single_word_validated": true
+}

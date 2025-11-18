@@ -1,0 +1,77 @@
+{
+  "has_data": true,
+  "last_lookup": 1755746168.6950662,
+  "edges": [
+    {
+      "target": "dance",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/shimmy/v/wn/dancing/,/c/en/dance/v/wn/dancing/]"
+    },
+    {
+      "target": "social dancing",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/shimmy/n/wn/act/,/c/en/social_dancing/n/wn/act/]"
+    },
+    {
+      "target": "dancing",
+      "relationship": "HasContext",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasContext/,/c/en/shimmy/v/wn/dancing/,/c/en/dancing/n/wn/act/]"
+    },
+    {
+      "target": "wobble",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/shimmy/n/wn/event/,/c/en/wobble/n/wn/event/]"
+    },
+    {
+      "target": "vibrate",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/shimmy/v/wn/motion/,/c/en/vibrate/v/wn/motion/]"
+    },
+    {
+      "target": "chemise",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/shimmy/n/wn/artifact/,/c/en/chemise/n/wn/artifact/]"
+    },
+    {
+      "target": "wheel",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/shimmy/n/,/c/en/wheel/]"
+    },
+    {
+      "target": "vibrate",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/shimmy/v/,/c/en/vibrate/]"
+    },
+    {
+      "target": "100534572-n",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/shimmy/n/wn/act/,/http://wordnet-rdf.princeton.edu/wn31/100534572-n/]"
+    },
+    {
+      "target": "strafe",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/shimmy/v/,/c/en/strafe/]"
+    }
+  ],
+  "relationships": [
+    "MannerOf",
+    "IsA",
+    "HasContext",
+    "Synonym",
+    "RelatedTo",
+    "ExternalURL"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "shimmy",
+  "single_word_validated": true
+}

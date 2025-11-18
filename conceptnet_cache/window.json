@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1756751696.0843976,
+  "edges": [
+    {
+      "target": "glass",
+      "relationship": "RelatedTo",
+      "weight": 8.952764936040708,
+      "uri": "/a/[/r/RelatedTo/,/c/en/window/,/c/en/glass/]"
+    },
+    {
+      "target": "opening",
+      "relationship": "RelatedTo",
+      "weight": 6.1426378698406126,
+      "uri": "/a/[/r/RelatedTo/,/c/en/window/,/c/en/opening/]"
+    },
+    {
+      "target": "house",
+      "relationship": "RelatedTo",
+      "weight": 5.790682170521881,
+      "uri": "/a/[/r/RelatedTo/,/c/en/window/,/c/en/house/]"
+    },
+    {
+      "target": "wall",
+      "relationship": "RelatedTo",
+      "weight": 5.213827768540115,
+      "uri": "/a/[/r/RelatedTo/,/c/en/window/,/c/en/wall/]"
+    },
+    {
+      "target": "door",
+      "relationship": "RelatedTo",
+      "weight": 4.51840679886174,
+      "uri": "/a/[/r/RelatedTo/,/c/en/window/,/c/en/door/]"
+    },
+    {
+      "target": "panes",
+      "relationship": "RelatedTo",
+      "weight": 4.156440785094864,
+      "uri": "/a/[/r/RelatedTo/,/c/en/window/,/c/en/panes/]"
+    },
+    {
+      "target": "pane",
+      "relationship": "RelatedTo",
+      "weight": 4.10560592361225,
+      "uri": "/a/[/r/RelatedTo/,/c/en/window/,/c/en/pane/]"
+    },
+    {
+      "target": "any house",
+      "relationship": "AtLocation",
+      "weight": 4.0,
+      "uri": "/a/[/r/AtLocation/,/c/en/window/,/c/en/house/]"
+    },
+    {
+      "target": "a building",
+      "relationship": "AtLocation",
+      "weight": 4.0,
+      "uri": "/a/[/r/AtLocation/,/c/en/window/,/c/en/building/]"
+    },
+    {
+      "target": "look outside",
+      "relationship": "UsedFor",
+      "weight": 4.0,
+      "uri": "/a/[/r/UsedFor/,/c/en/window/,/c/en/look_outside/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "AtLocation",
+    "UsedFor"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "window",
+  "single_word_validated": true
+}

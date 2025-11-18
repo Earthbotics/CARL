@@ -1,0 +1,73 @@
+{
+  "has_data": true,
+  "last_lookup": 1761277992.2298334,
+  "edges": [
+    {
+      "target": "imaginacija",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/imagination/n/,/c/sh/imaginacija/]"
+    },
+    {
+      "target": "resource",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/imagination/n/wn/cognition/,/c/en/resource/n/wn/cognition/]"
+    },
+    {
+      "target": "ma\u0161ta",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/imagination/n/,/c/sh/ma\u0161ta/]"
+    },
+    {
+      "target": "creativity",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/imagination/n/wn/cognition/,/c/en/creativity/n/wn/cognition/]"
+    },
+    {
+      "target": "representational process",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/imagination/n/wn/cognition/,/c/en/representational_process/n/wn/cognition/]"
+    },
+    {
+      "target": "fantasi",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/imagination/n/,/c/no/fantasi/]"
+    },
+    {
+      "target": "\u062e\u064a\u0627\u0644",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/imagination/n/,/c/ar/\u062e\u064a\u0627\u0644/]"
+    },
+    {
+      "target": "inbillning",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/imagination/n/,/c/sv/inbillning/]"
+    },
+    {
+      "target": "imagination",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/imagination/n/,/c/de/imagination/]"
+    },
+    {
+      "target": "fantasi",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/imagination/n/,/c/sv/fantasi/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "IsA"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "imagination",
+  "single_word_validated": true
+}

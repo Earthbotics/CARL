@@ -1,0 +1,51 @@
+{
+  "has_data": true,
+  "last_lookup": 1757689037.5311356,
+  "edges": [
+    {
+      "target": "request",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/requesting/v/,/c/en/request/]"
+    },
+    {
+      "target": "single communication act",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/requesting/n/,/c/en/single_communication_act/n/]"
+    },
+    {
+      "target": "request",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/requesting/v/,/c/en/request/]"
+    },
+    {
+      "target": "Requesting CommunicationAct",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/requesting/n/,/http://sw.opencyc.org/2012/05/10/concept/en/Requesting_CommunicationAct/]"
+    },
+    {
+      "target": "requesting",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/requesting/,/http://en.wiktionary.org/wiki/requesting/]"
+    },
+    {
+      "target": "requesting",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/requesting/,/http://fr.wiktionary.org/wiki/requesting/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "IsA",
+    "FormOf",
+    "ExternalURL"
+  ],
+  "total_edges_found": 6,
+  "concept_queried": "requesting",
+  "single_word_validated": true
+}

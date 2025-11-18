@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1755044908.453504,
+  "edges": [
+    {
+      "target": "perceptive",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/observing/a/wn/,/c/en/perceptive/a/wn/]"
+    },
+    {
+      "target": "observe",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/observing/,/c/en/observe/v/]"
+    },
+    {
+      "target": "Observing",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/observing/n/,/http://sw.opencyc.org/2012/05/10/concept/en/Observing/]"
+    },
+    {
+      "target": "human activity",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/observing/n/opencyc/conforming_ones_actions_to/,/c/en/human_activity/n/]"
+    },
+    {
+      "target": "observation",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/observing/n/,/c/en/observation/]"
+    },
+    {
+      "target": "Observing",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/observing/,/http://umbel.org/umbel/sc/Observing/]"
+    },
+    {
+      "target": "observe",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/observing/v/,/c/en/observe/]"
+    },
+    {
+      "target": "ConformingOnesActionsToSomething",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/observing/n/opencyc/conforming_ones_actions_to/,/http://sw.opencyc.org/2012/05/10/concept/en/ConformingOnesActionsToSomething/]"
+    },
+    {
+      "target": "gathering information",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/observing/n/,/c/en/gathering_information/n/]"
+    },
+    {
+      "target": "physical information transfer",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/observing/n/,/c/en/physical_information_transfer/n/]"
+    }
+  ],
+  "relationships": [
+    "SimilarTo",
+    "FormOf",
+    "ExternalURL",
+    "IsA",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "observing",
+  "single_word_validated": true
+}

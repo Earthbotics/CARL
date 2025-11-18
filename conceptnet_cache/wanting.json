@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1754264719.5020018,
+  "edges": [
+    {
+      "target": "get something",
+      "relationship": "CausesDesire",
+      "weight": 2.0,
+      "uri": "/a/[/r/CausesDesire/,/c/en/wanting/,/c/en/get/]"
+    },
+    {
+      "target": "lacking",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/wanting/a/wn/,/c/en/lacking/a/wn/]"
+    },
+    {
+      "target": "deficient",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/wanting/a/wn/,/c/en/deficient/a/wn/]"
+    },
+    {
+      "target": "without",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/wanting/,/c/en/without/]"
+    },
+    {
+      "target": "uireasbhach",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/wanting/a/,/c/gd/uireasbhach/]"
+    },
+    {
+      "target": "want",
+      "relationship": "DerivedFrom",
+      "weight": 1.0,
+      "uri": "/a/[/r/DerivedFrom/,/c/en/wanting/,/c/en/want/v/]"
+    },
+    {
+      "target": "uireasach",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/wanting/a/,/c/ga/uireasach/]"
+    },
+    {
+      "target": "want",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/wanting/,/c/en/want/v/]"
+    },
+    {
+      "target": "lacking",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/wanting/a/,/c/en/lacking/]"
+    },
+    {
+      "target": "deficient",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/wanting/a/,/c/en/deficient/]"
+    }
+  ],
+  "relationships": [
+    "CausesDesire",
+    "Synonym",
+    "RelatedTo",
+    "DerivedFrom",
+    "FormOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "wanting",
+  "single_word_validated": true
+}

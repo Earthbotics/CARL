@@ -1,0 +1,73 @@
+{
+  "has_data": true,
+  "last_lookup": 1761277767.112022,
+  "edges": [
+    {
+      "target": "foot",
+      "relationship": "RelatedTo",
+      "weight": 7.158770844216205,
+      "uri": "/a/[/r/RelatedTo/,/c/en/leg/,/c/en/foot/]"
+    },
+    {
+      "target": "body",
+      "relationship": "RelatedTo",
+      "weight": 6.437701453158574,
+      "uri": "/a/[/r/RelatedTo/,/c/en/leg/,/c/en/body/]"
+    },
+    {
+      "target": "limb",
+      "relationship": "RelatedTo",
+      "weight": 5.56524932056058,
+      "uri": "/a/[/r/RelatedTo/,/c/en/leg/,/c/en/limb/]"
+    },
+    {
+      "target": "appendage",
+      "relationship": "RelatedTo",
+      "weight": 5.025534797412112,
+      "uri": "/a/[/r/RelatedTo/,/c/en/leg/,/c/en/appendage/]"
+    },
+    {
+      "target": "part",
+      "relationship": "RelatedTo",
+      "weight": 4.969909455915671,
+      "uri": "/a/[/r/RelatedTo/,/c/en/leg/,/c/en/part/]"
+    },
+    {
+      "target": "body part",
+      "relationship": "RelatedTo",
+      "weight": 4.61519230368573,
+      "uri": "/a/[/r/RelatedTo/,/c/en/leg/,/c/en/body_part/]"
+    },
+    {
+      "target": "a table",
+      "relationship": "PartOf",
+      "weight": 4.47213595499958,
+      "uri": "/a/[/r/PartOf/,/c/en/leg/,/c/en/table/]"
+    },
+    {
+      "target": "lower",
+      "relationship": "RelatedTo",
+      "weight": 4.050678955434509,
+      "uri": "/a/[/r/RelatedTo/,/c/en/leg/,/c/en/lower/]"
+    },
+    {
+      "target": "feet",
+      "relationship": "RelatedTo",
+      "weight": 3.7560617673302445,
+      "uri": "/a/[/r/RelatedTo/,/c/en/leg/,/c/en/feet/]"
+    },
+    {
+      "target": "walking",
+      "relationship": "RelatedTo",
+      "weight": 3.50314144732981,
+      "uri": "/a/[/r/RelatedTo/,/c/en/leg/,/c/en/walking/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "PartOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "leg",
+  "single_word_validated": true
+}

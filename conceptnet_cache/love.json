@@ -1,0 +1,77 @@
+{
+  "has_data": true,
+  "last_lookup": 1755143181.727264,
+  "edges": [
+    {
+      "target": "kiss someone",
+      "relationship": "CausesDesire",
+      "weight": 9.38083151964686,
+      "uri": "/a/[/r/CausesDesire/,/c/en/love/,/c/en/kiss/]"
+    },
+    {
+      "target": "propose to a woman",
+      "relationship": "CausesDesire",
+      "weight": 7.483314773547882,
+      "uri": "/a/[/r/CausesDesire/,/c/en/love/,/c/en/propose_to_woman/]"
+    },
+    {
+      "target": "a feeling",
+      "relationship": "IsA",
+      "weight": 7.211102550927979,
+      "uri": "/a/[/r/IsA/,/c/en/love/,/c/en/feeling/]"
+    },
+    {
+      "target": "forgive someone",
+      "relationship": "CausesDesire",
+      "weight": 6.928203230275509,
+      "uri": "/a/[/r/CausesDesire/,/c/en/love/,/c/en/forgive/]"
+    },
+    {
+      "target": "having sex",
+      "relationship": "Causes",
+      "weight": 4.898979485566356,
+      "uri": "/a/[/r/Causes/,/c/en/love/,/c/en/having_sex/]"
+    },
+    {
+      "target": "emotion",
+      "relationship": "RelatedTo",
+      "weight": 4.848917404947211,
+      "uri": "/a/[/r/RelatedTo/,/c/en/love/,/c/en/emotion/]"
+    },
+    {
+      "target": "hurt",
+      "relationship": "CapableOf",
+      "weight": 4.47213595499958,
+      "uri": "/a/[/r/CapableOf/,/c/en/love/,/c/en/hurt/]"
+    },
+    {
+      "target": "a family",
+      "relationship": "AtLocation",
+      "weight": 4.47213595499958,
+      "uri": "/a/[/r/AtLocation/,/c/en/love/,/c/en/family/]"
+    },
+    {
+      "target": "feed your family",
+      "relationship": "CausesDesire",
+      "weight": 4.0,
+      "uri": "/a/[/r/CausesDesire/,/c/en/love/,/c/en/feed_family/]"
+    },
+    {
+      "target": "marriage",
+      "relationship": "AtLocation",
+      "weight": 4.0,
+      "uri": "/a/[/r/AtLocation/,/c/en/love/,/c/en/marriage/]"
+    }
+  ],
+  "relationships": [
+    "CausesDesire",
+    "IsA",
+    "Causes",
+    "RelatedTo",
+    "CapableOf",
+    "AtLocation"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "love",
+  "single_word_validated": true
+}

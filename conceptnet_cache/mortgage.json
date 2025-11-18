@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1754754355.6890736,
+  "edges": [
+    {
+      "target": "security interest",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/mortgage/n/wn/possession/,/c/en/security_interest/n/wn/possession/]"
+    },
+    {
+      "target": "owe",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/mortgage/v/wn/possession/,/c/en/owe/v/wn/possession/]"
+    },
+    {
+      "target": "hipoteka",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/mortgage/n/,/c/sh/hipoteka/]"
+    },
+    {
+      "target": "loan",
+      "relationship": "RelatedTo",
+      "weight": 1.193,
+      "uri": "/a/[/r/RelatedTo/,/c/en/mortgage/,/c/en/loan/]"
+    },
+    {
+      "target": "house",
+      "relationship": "RelatedTo",
+      "weight": 1.165,
+      "uri": "/a/[/r/RelatedTo/,/c/en/mortgage/,/c/en/house/]"
+    },
+    {
+      "target": "payment",
+      "relationship": "RelatedTo",
+      "weight": 1.0419999999999998,
+      "uri": "/a/[/r/RelatedTo/,/c/en/mortgage/,/c/en/payment/]"
+    },
+    {
+      "target": "\u0631\u0647\u0646 \u0639\u0642\u0627\u0631\u064a",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/mortgage/n/,/c/ar/\u0631\u0647\u0646_\u0639\u0642\u0627\u0631\u064a/]"
+    },
+    {
+      "target": "\u6309\u63ed",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/mortgage/n/,/c/zh/\u6309\u63ed/]"
+    },
+    {
+      "target": "tutu",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/mortgage/n/,/c/tr/tutu/]"
+    },
+    {
+      "target": "hipoteca",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/mortgage/n/,/c/gl/hipoteca/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "MannerOf",
+    "Synonym",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "mortgage",
+  "single_word_validated": true
+}

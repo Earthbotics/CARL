@@ -1,0 +1,281 @@
+{
+  "needs": [
+    {
+      "Name": "exploration",
+      "Description": "The need to explore and discover new things",
+      "Priority": 0.8,
+      "Satisfaction_Level": 0.5,
+      "Associated_Entities": ["environment", "objects", "people"],
+      "Associated_Skills": ["look_forward", "look_down", "looking_for_objects", "walk"],
+      "Associated_Concepts": ["curiosity", "discovery", "learning"]
+    },
+    {
+      "Name": "love",
+      "Description": "The need for emotional connection and affection",
+      "Priority": 0.9,
+      "Satisfaction_Level": 0.7,
+      "Associated_Entities": ["people", "pets"],
+      "Associated_Skills": ["wave", "greet", "talk"],
+      "Associated_Concepts": ["connection", "affection", "bonding"]
+    },
+    {
+      "Name": "play",
+      "Description": "The need for fun and entertainment",
+      "Priority": 0.7,
+      "Satisfaction_Level": 0.6,
+      "Associated_Entities": ["toys", "games", "people"],
+      "Associated_Skills": ["dance", "wave", "talk"],
+      "Associated_Concepts": ["fun", "entertainment", "joy"]
+    },
+    {
+      "Name": "safety",
+      "Description": "The need for physical and emotional safety",
+      "Priority": 0.9,
+      "Satisfaction_Level": 0.8,
+      "Associated_Entities": ["environment", "people"],
+      "Associated_Skills": ["look_forward", "look_down"],
+      "Associated_Concepts": ["security", "protection", "stability"]
+    },
+    {
+      "Name": "security",
+      "Description": "The need for stability and predictability",
+      "Priority": 0.8,
+      "Satisfaction_Level": 0.7,
+      "Associated_Entities": ["environment", "routines"],
+      "Associated_Skills": ["thinking", "look_forward"],
+      "Associated_Concepts": ["stability", "predictability", "control"]
+    }
+  ],
+  "goals": [
+    {
+      "Name": "exercise",
+      "Description": "Maintain physical health through movement",
+      "Priority": 0.6,
+      "Progress": 0.4,
+      "Associated_Entities": ["body", "environment"],
+      "Associated_Skills": ["walk", "dance", "wave", "head_bob"],
+      "Associated_Concepts": ["health", "fitness", "movement"]
+    },
+    {
+      "Name": "people",
+      "Description": "Build relationships and social connections",
+      "Priority": 0.8,
+      "Progress": 0.5,
+      "Associated_Entities": ["people", "pets"],
+      "Associated_Skills": ["greet", "talk", "wave"],
+      "Associated_Concepts": ["social", "connection", "relationship"]
+    },
+    {
+      "Name": "pleasure",
+      "Description": "Seek enjoyable and satisfying experiences",
+      "Priority": 0.7,
+      "Progress": 0.6,
+      "Associated_Entities": ["toys", "games", "music"],
+      "Associated_Skills": ["dance", "play", "talk"],
+      "Associated_Concepts": ["joy", "satisfaction", "happiness"]
+    },
+    {
+      "Name": "production",
+      "Description": "Create and accomplish meaningful tasks",
+      "Priority": 0.5,
+      "Progress": 0.3,
+      "Associated_Entities": ["tasks", "projects"],
+      "Associated_Skills": ["thinking", "planning"],
+      "Associated_Concepts": ["achievement", "accomplishment", "purpose"]
+    }
+  ],
+  "skills": [
+    {
+      "Name": "headstand",
+      "Description": "Perform a headstand movement",
+      "Category": "Physical",
+      "Difficulty": 0.8,
+      "Proficiency": 0.3,
+      "Associated_Needs": ["exercise"],
+      "Associated_Goals": ["exercise"],
+      "Associated_Concepts": ["balance", "strength", "movement"]
+    },
+    {
+      "Name": "somersault",
+      "Description": "Perform a somersault movement",
+      "Category": "Physical",
+      "Difficulty": 0.7,
+      "Proficiency": 0.4,
+      "Associated_Needs": ["exercise", "play"],
+      "Associated_Goals": ["exercise", "pleasure"],
+      "Associated_Concepts": ["movement", "fun", "acrobatics"]
+    },
+    {
+      "Name": "thinking",
+      "Description": "Engage in cognitive processing and analysis",
+      "Category": "Cognitive",
+      "Difficulty": 0.3,
+      "Proficiency": 0.9,
+      "Associated_Needs": ["exploration", "security"],
+      "Associated_Goals": ["production"],
+      "Associated_Concepts": ["analysis", "reasoning", "problem_solving"]
+    },
+    {
+      "Name": "ezvision",
+      "Description": "Use vision system for object detection",
+      "Category": "Sensory",
+      "Difficulty": 0.4,
+      "Proficiency": 0.8,
+      "Associated_Needs": ["exploration", "safety"],
+      "Associated_Goals": ["exploration"],
+      "Associated_Concepts": ["vision", "detection", "awareness"]
+    },
+    {
+      "Name": "walk",
+      "Description": "Move from one location to another",
+      "Category": "Physical",
+      "Difficulty": 0.5,
+      "Proficiency": 0.7,
+      "Associated_Needs": ["exploration", "exercise"],
+      "Associated_Goals": ["exercise", "exploration"],
+      "Associated_Concepts": ["movement", "locomotion", "exploration"]
+    },
+    {
+      "Name": "look_down",
+      "Description": "Look downward to observe lower areas",
+      "Category": "Sensory",
+      "Difficulty": 0.2,
+      "Proficiency": 0.9,
+      "Associated_Needs": ["exploration", "safety"],
+      "Associated_Goals": ["exploration"],
+      "Associated_Concepts": ["observation", "awareness", "safety"]
+    },
+    {
+      "Name": "look_forward",
+      "Description": "Look forward to observe the environment",
+      "Category": "Sensory",
+      "Difficulty": 0.2,
+      "Proficiency": 0.9,
+      "Associated_Needs": ["exploration", "safety"],
+      "Associated_Goals": ["exploration"],
+      "Associated_Concepts": ["observation", "awareness", "safety"]
+    },
+    {
+      "Name": "looking_for_objects",
+      "Description": "Actively search for objects in the environment",
+      "Category": "Sensory",
+      "Difficulty": 0.4,
+      "Proficiency": 0.8,
+      "Associated_Needs": ["exploration"],
+      "Associated_Goals": ["exploration"],
+      "Associated_Concepts": ["search", "detection", "awareness"]
+    },
+    {
+      "Name": "point_arm_right",
+      "Description": "Point with the right arm to indicate direction",
+      "Category": "Physical",
+      "Difficulty": 0.3,
+      "Proficiency": 0.8,
+      "Associated_Needs": ["exploration"],
+      "Associated_Goals": ["exploration"],
+      "Associated_Concepts": ["communication", "direction", "indication"]
+    },
+    {
+      "Name": "arm_right_down",
+      "Description": "Move right arm downward",
+      "Category": "Physical",
+      "Difficulty": 0.3,
+      "Proficiency": 0.8,
+      "Associated_Needs": ["exercise"],
+      "Associated_Goals": ["exercise"],
+      "Associated_Concepts": ["movement", "exercise", "coordination"]
+    },
+    {
+      "Name": "arm_right_down_sitting",
+      "Description": "Move right arm downward while sitting",
+      "Category": "Physical",
+      "Difficulty": 0.3,
+      "Proficiency": 0.8,
+      "Associated_Needs": ["exercise"],
+      "Associated_Goals": ["exercise"],
+      "Associated_Concepts": ["movement", "exercise", "coordination"]
+    },
+    {
+      "Name": "wave",
+      "Description": "Wave hand in greeting or acknowledgment",
+      "Category": "Social",
+      "Difficulty": 0.2,
+      "Proficiency": 0.9,
+      "Associated_Needs": ["love", "play"],
+      "Associated_Goals": ["people", "pleasure"],
+      "Associated_Concepts": ["greeting", "social", "communication"]
+    },
+    {
+      "Name": "dance",
+      "Description": "Perform rhythmic movements to music or beat",
+      "Category": "Physical",
+      "Difficulty": 0.6,
+      "Proficiency": 0.6,
+      "Associated_Needs": ["play", "exercise"],
+      "Associated_Goals": ["pleasure", "exercise"],
+      "Associated_Concepts": ["rhythm", "movement", "entertainment"]
+    },
+    {
+      "Name": "talk",
+      "Description": "Engage in verbal communication",
+      "Category": "Social",
+      "Difficulty": 0.4,
+      "Proficiency": 0.8,
+      "Associated_Needs": ["love", "exploration"],
+      "Associated_Goals": ["people", "exploration"],
+      "Associated_Concepts": ["communication", "social", "interaction"]
+    }
+  ],
+  "concepts": [
+    {
+      "Name": "robot",
+      "Description": "A mechanical being with artificial intelligence",
+      "Type": "entity",
+      "Importance": 0.9,
+      "Associated_Needs": ["exploration", "security"],
+      "Associated_Goals": ["production"],
+      "Associated_Skills": ["thinking", "ezvision"],
+      "Related_Concepts": ["artificial_intelligence", "technology", "automation"]
+    },
+    {
+      "Name": "human",
+      "Description": "A human being",
+      "Type": "entity",
+      "Importance": 0.9,
+      "Associated_Needs": ["love", "play"],
+      "Associated_Goals": ["people"],
+      "Associated_Skills": ["talk", "wave", "greet"],
+      "Related_Concepts": ["person", "individual", "social"]
+    },
+    {
+      "Name": "toy",
+      "Description": "An object used for play and entertainment",
+      "Type": "object",
+      "Importance": 0.6,
+      "Associated_Needs": ["play"],
+      "Associated_Goals": ["pleasure"],
+      "Associated_Skills": ["looking_for_objects"],
+      "Related_Concepts": ["play", "entertainment", "fun"]
+    },
+    {
+      "Name": "dance",
+      "Description": "Rhythmic movement to music",
+      "Type": "activity",
+      "Importance": 0.5,
+      "Associated_Needs": ["play", "exercise"],
+      "Associated_Goals": ["pleasure", "exercise"],
+      "Associated_Skills": ["dance"],
+      "Related_Concepts": ["movement", "rhythm", "music"]
+    },
+    {
+      "Name": "hello",
+      "Description": "A greeting used to acknowledge someone",
+      "Type": "communication",
+      "Importance": 0.7,
+      "Associated_Needs": ["love"],
+      "Associated_Goals": ["people"],
+      "Associated_Skills": ["wave", "greet", "talk"],
+      "Related_Concepts": ["greeting", "social", "communication"]
+    }
+  ]
+}

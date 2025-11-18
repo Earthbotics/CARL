@@ -1,0 +1,51 @@
+{
+  "has_data": true,
+  "last_lookup": 1755142945.570657,
+  "edges": [
+    {
+      "target": "explicit",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/stated/a/wn/,/c/en/explicit/a/wn/]"
+    },
+    {
+      "target": "state",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/stated/v/,/c/en/state/]"
+    },
+    {
+      "target": "state",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/stated/v/,/c/en/state/]"
+    },
+    {
+      "target": "300944139-s",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/stated/a/wn/,/http://wordnet-rdf.princeton.edu/wn31/300944139-s/]"
+    },
+    {
+      "target": "stated",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/stated/,/http://en.wiktionary.org/wiki/stated/]"
+    },
+    {
+      "target": "stated",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/stated/,/http://fr.wiktionary.org/wiki/stated/]"
+    }
+  ],
+  "relationships": [
+    "SimilarTo",
+    "RelatedTo",
+    "FormOf",
+    "ExternalURL"
+  ],
+  "total_edges_found": 6,
+  "concept_queried": "stated",
+  "single_word_validated": true
+}

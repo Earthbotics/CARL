@@ -1,0 +1,78 @@
+{
+  "has_data": true,
+  "last_lookup": 1757528517.3251698,
+  "edges": [
+    {
+      "target": "a shape",
+      "relationship": "IsA",
+      "weight": 4.47213595499958,
+      "uri": "/a/[/r/IsA/,/c/en/square/,/c/en/shape/]"
+    },
+    {
+      "target": "four sides",
+      "relationship": "HasA",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/HasA/,/c/en/square/,/c/en/four_sides/]"
+    },
+    {
+      "target": "shape",
+      "relationship": "RelatedTo",
+      "weight": 2.709243436828814,
+      "uri": "/a/[/r/RelatedTo/,/c/en/square/,/c/en/shape/]"
+    },
+    {
+      "target": "form",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/square/v/wn/change/,/c/en/form/v/wn/change/]"
+    },
+    {
+      "target": "right-angled",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/square/a/wn/,/c/en/right_angled/a/wn/]"
+    },
+    {
+      "target": "adjust",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/square/v/wn/stative/,/c/en/adjust/v/wn/change/]"
+    },
+    {
+      "target": "conservative",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/square/n/wn/person/,/c/en/conservative/n/wn/person/]"
+    },
+    {
+      "target": "number",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/square/n/wn/quantity/,/c/en/number/n/wn/quantity/]"
+    },
+    {
+      "target": "kvadrat",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/square/n/,/c/sh/kvadrat/]"
+    },
+    {
+      "target": "the town center",
+      "relationship": "AtLocation",
+      "weight": 2.0,
+      "uri": "/a/[/r/AtLocation/,/c/en/square/,/c/en/town_center/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "HasA",
+    "RelatedTo",
+    "MannerOf",
+    "SimilarTo",
+    "Synonym",
+    "AtLocation"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "square",
+  "single_word_validated": true
+}

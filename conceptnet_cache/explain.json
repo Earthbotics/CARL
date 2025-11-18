@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1757791536.2831988,
+  "edges": [
+    {
+      "target": "describe",
+      "relationship": "RelatedTo",
+      "weight": 2.932575659723036,
+      "uri": "/a/[/r/RelatedTo/,/c/en/explain/,/c/en/describe/]"
+    },
+    {
+      "target": "tell",
+      "relationship": "RelatedTo",
+      "weight": 2.5526456863419185,
+      "uri": "/a/[/r/RelatedTo/,/c/en/explain/,/c/en/tell/]"
+    },
+    {
+      "target": "inform",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/explain/v/wn/communication/,/c/en/inform/v/wn/communication/]"
+    },
+    {
+      "target": "state",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/explain/v/wn/communication/,/c/en/state/v/wn/communication/]"
+    },
+    {
+      "target": "excuse",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/explain/v/wn/communication/,/c/en/excuse/v/wn/communication/]"
+    },
+    {
+      "target": "objasniti",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/explain/v/,/c/sh/objasniti/]"
+    },
+    {
+      "target": "explico",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/explain/v/,/c/la/explico/]"
+    },
+    {
+      "target": "spliker",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/explain/v/,/c/wa/spliker/]"
+    },
+    {
+      "target": "200941308-v",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/explain/v/wn/communication/,/http://wordnet-rdf.princeton.edu/wn31/200941308-v/]"
+    },
+    {
+      "target": "chiosare",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/explain/v/,/c/it/chiosare/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "MannerOf",
+    "Synonym",
+    "ExternalURL"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "explain",
+  "single_word_validated": true
+}

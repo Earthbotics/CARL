@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1754014937.625924,
+  "edges": [
+    {
+      "target": "follow through",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/implement/v/wn/change/,/c/en/follow_through/v/wn/change/]"
+    },
+    {
+      "target": "enforce",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/implement/v/wn/social/,/c/en/enforce/v/wn/social/]"
+    },
+    {
+      "target": "instrumentality",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/implement/n/wn/artifact/,/c/en/instrumentality/n/wn/artifact/]"
+    },
+    {
+      "target": "use",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/implement/v/wn/social/,/c/en/use/v/wn/consumption/]"
+    },
+    {
+      "target": "am\u00fbr",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/implement/n/wikt/en_1/,/c/ku/am\u00fbr/]"
+    },
+    {
+      "target": "\u9053\u5177",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/implement/n/wikt/en_1/,/c/ja/\u9053\u5177/]"
+    },
+    {
+      "target": "instrumento",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/implement/n/wikt/en_1/,/c/pt/instrumento/]"
+    },
+    {
+      "target": "sredstvo",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/implement/n/wikt/en_1/,/c/sh/sredstvo/]"
+    },
+    {
+      "target": "redskap",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/implement/n/wikt/en_1/,/c/sv/redskap/]"
+    },
+    {
+      "target": "uirlis",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/implement/n/wikt/en_1/,/c/ga/uirlis/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "IsA",
+    "MannerOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "implement",
+  "single_word_validated": true
+}

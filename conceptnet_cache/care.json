@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1755878200.4725623,
+  "edges": [
+    {
+      "target": "love",
+      "relationship": "RelatedTo",
+      "weight": 3.595552808679077,
+      "uri": "/a/[/r/RelatedTo/,/c/en/care/,/c/en/love/]"
+    },
+    {
+      "target": "loving",
+      "relationship": "RelatedTo",
+      "weight": 3.1196153609058914,
+      "uri": "/a/[/r/RelatedTo/,/c/en/care/,/c/en/loving/]"
+    },
+    {
+      "target": "concern",
+      "relationship": "RelatedTo",
+      "weight": 2.677312084909042,
+      "uri": "/a/[/r/RelatedTo/,/c/en/care/,/c/en/concern/]"
+    },
+    {
+      "target": "after",
+      "relationship": "RelatedTo",
+      "weight": 2.5495097567963922,
+      "uri": "/a/[/r/RelatedTo/,/c/en/care/,/c/en/after/]"
+    },
+    {
+      "target": "tend",
+      "relationship": "RelatedTo",
+      "weight": 2.2369622258768693,
+      "uri": "/a/[/r/RelatedTo/,/c/en/care/,/c/en/tend/]"
+    },
+    {
+      "target": "tender",
+      "relationship": "RelatedTo",
+      "weight": 2.0208908926510603,
+      "uri": "/a/[/r/RelatedTo/,/c/en/care/,/c/en/tender/]"
+    },
+    {
+      "target": "concern",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/care/n/wn/feeling/,/c/en/concern/n/wn/feeling/]"
+    },
+    {
+      "target": "manage",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/care/v/wn/social/,/c/en/manage/v/wn/social/]"
+    },
+    {
+      "target": "repair",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/care/n/wn/act/,/c/en/repair/n/wn/act/]"
+    },
+    {
+      "target": "feel for",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/care/v/wn/emotion/,/c/en/feel_for/v/wn/emotion/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "Synonym",
+    "IsA",
+    "MannerOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "care",
+  "single_word_validated": true
+}

@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1758301473.7582364,
+  "edges": [
+    {
+      "target": "tongued",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/speaking/a/wn/,/c/en/tongued/a/wn/]"
+    },
+    {
+      "target": "public speaking",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/speaking/n/wn/communication/,/c/en/public_speaking/n/wn/communication/]"
+    },
+    {
+      "target": "utterance",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/speaking/n/wn/communication/,/c/en/utterance/n/wn/communication/]"
+    },
+    {
+      "target": "speak",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/speaking/v/,/c/en/speak/]"
+    },
+    {
+      "target": "recitation",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/speaking/n/,/c/en/recitation/]"
+    },
+    {
+      "target": "human activity",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/speaking/n/opencyc/spoken_communicating/,/c/en/human_activity/n/]"
+    },
+    {
+      "target": "physical information transfer",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/speaking/n/,/c/en/physical_information_transfer/n/]"
+    },
+    {
+      "target": "a form of comminication",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/speaking/,/c/en/form_of_comminication/]"
+    },
+    {
+      "target": "sprech",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/speaking/a/,/c/de/sprech/]"
+    },
+    {
+      "target": "parlant",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/speaking/a/,/c/fr/parlant/]"
+    }
+  ],
+  "relationships": [
+    "SimilarTo",
+    "Synonym",
+    "IsA",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "speaking",
+  "single_word_validated": true
+}

@@ -1,0 +1,77 @@
+{
+  "has_data": true,
+  "last_lookup": 1759775334.3825538,
+  "edges": [
+    {
+      "target": "payment",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/spending/n/wn/act/,/c/en/payment/n/wn/act/]"
+    },
+    {
+      "target": "outgo",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/spending/n/wn/possession/,/c/en/outgo/n/wn/possession/]"
+    },
+    {
+      "target": "transferring ownership",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/spending/n/,/c/en/transferring_ownership/n/]"
+    },
+    {
+      "target": "101124470-n",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/spending/n/wn/act/,/http://wordnet-rdf.princeton.edu/wn31/101124470-n/]"
+    },
+    {
+      "target": "money transfer",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/spending/n/,/c/en/money_transfer/n/]"
+    },
+    {
+      "target": "spend",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/spending/v/,/c/en/spend/]"
+    },
+    {
+      "target": "spend",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/spending/,/c/en/spend/v/]"
+    },
+    {
+      "target": "SpendingMoney",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/spending/,/http://umbel.org/umbel/sc/SpendingMoney/]"
+    },
+    {
+      "target": "gerund form of spend",
+      "relationship": "DefinedAs",
+      "weight": 1.0,
+      "uri": "/a/[/r/DefinedAs/,/c/en/spending/,/c/en/gerund_form_of_spend/]"
+    },
+    {
+      "target": "amount",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/spending/n/,/c/en/amount/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "Synonym",
+    "ExternalURL",
+    "RelatedTo",
+    "FormOf",
+    "DefinedAs"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "spending",
+  "single_word_validated": true
+}

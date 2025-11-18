@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1757528439.5523713,
+  "edges": [
+    {
+      "target": "\u00f3",
+      "relationship": "Synonym",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/Synonym/,/c/en/o/,/c/pt/\u00f3/]"
+    },
+    {
+      "target": "\u00f4",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/o/,/c/fr/\u00f4/]"
+    },
+    {
+      "target": "\u0627\u064a\u0647\u0627",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/o/,/c/ar/\u0627\u064a\u0647\u0627/]"
+    },
+    {
+      "target": "the alphabet",
+      "relationship": "PartOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/PartOf/,/c/en/o/,/c/en/alphabet/]"
+    },
+    {
+      "target": "\u5594",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/o/,/c/zh/\u5594/]"
+    },
+    {
+      "target": "ey",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/o/,/c/tr/ey/]"
+    },
+    {
+      "target": "o",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/o/,/c/de/o/]"
+    },
+    {
+      "target": "archaic",
+      "relationship": "HasContext",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasContext/,/c/en/o/,/c/en/archaic/]"
+    },
+    {
+      "target": "oxygen",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/o/n/wn/substance/,/c/en/oxygen/n/wn/substance/]"
+    },
+    {
+      "target": "a",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/o/,/c/ga/a/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "PartOf",
+    "HasContext"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "o",
+  "single_word_validated": true
+}

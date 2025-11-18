@@ -1,0 +1,73 @@
+{
+  "has_data": true,
+  "last_lookup": 1761621472.6501777,
+  "edges": [
+    {
+      "target": "\u0627\u0644",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/the/,/c/ar/\u0627\u0644/]"
+    },
+    {
+      "target": "jump+the+gun-p#Component-2",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/the/,/http://wordnet-rdf.princeton.edu/wn31/jump+the+gun-p#Component-2/]"
+    },
+    {
+      "target": "bite+the+bullet-p#Component-2",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/the/,/http://wordnet-rdf.princeton.edu/wn31/bite+the+bullet-p#Component-2/]"
+    },
+    {
+      "target": "sang",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/the/,/c/id/sang/]"
+    },
+    {
+      "target": "l",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/the/,/c/lld/l/]"
+    },
+    {
+      "target": "hit+the+nail+on+the+head-p#Component-5",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/the/,/http://wordnet-rdf.princeton.edu/wn31/hit+the+nail+on+the+head-p#Component-5/]"
+    },
+    {
+      "target": "chip+off+the+old+block-p#Component-3",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/the/,/http://wordnet-rdf.princeton.edu/wn31/chip+off+the+old+block-p#Component-3/]"
+    },
+    {
+      "target": "\u05d4",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/the/,/c/he/\u05d4/]"
+    },
+    {
+      "target": "fall+by+the+wayside-p#Component-3",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/the/,/http://wordnet-rdf.princeton.edu/wn31/fall+by+the+wayside-p#Component-3/]"
+    },
+    {
+      "target": "dagiti",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/the/,/c/ilo/dagiti/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "ExternalURL"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "the",
+  "single_word_validated": true
+}

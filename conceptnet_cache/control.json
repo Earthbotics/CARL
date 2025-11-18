@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1754014982.5528977,
+  "edges": [
+    {
+      "target": "mechanism",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/control/n/wn/artifact/,/c/en/mechanism/n/wn/artifact/]"
+    },
+    {
+      "target": "operate",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/control/v/wn/contact/,/c/en/operate/v/wn/contact/]"
+    },
+    {
+      "target": "control condition",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/control/n/wn/cognition/,/c/en/control_condition/n/wn/cognition/]"
+    },
+    {
+      "target": "test",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/control/v/wn/science/,/c/en/test/v/wn/social/]"
+    },
+    {
+      "target": "command",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/control/n/wn/cognition/,/c/en/command/n/wn/cognition/]"
+    },
+    {
+      "target": "physiology",
+      "relationship": "HasContext",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasContext/,/c/en/control/n/wn/physiology/,/c/en/physiology/n/wn/cognition/]"
+    },
+    {
+      "target": "master",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/control/v/wn/cognition/,/c/en/master/v/wn/cognition/]"
+    },
+    {
+      "target": "bodily process",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/control/n/wn/physiology/,/c/en/bodily_process/n/wn/process/]"
+    },
+    {
+      "target": "relation",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/control/n/wn/linkdef/,/c/en/relation/n/wn/]"
+    },
+    {
+      "target": "manipulate",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/control/v/wn/emotion/,/c/en/manipulate/v/wn/emotion/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "Synonym",
+    "MannerOf",
+    "HasContext"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "control",
+  "single_word_validated": true
+}

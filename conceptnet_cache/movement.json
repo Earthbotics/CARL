@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1755142896.8480716,
+  "edges": [
+    {
+      "target": "action",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/movement/n/wn/artifact/,/c/en/action/n/wn/artifact/]"
+    },
+    {
+      "target": "campaign",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/movement/n/wn/act/,/c/en/campaign/n/wn/act/]"
+    },
+    {
+      "target": "bowel movement",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/movement/n/wn/process/,/c/en/bowel_movement/n/wn/process/]"
+    },
+    {
+      "target": "gibanje",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/movement/n/,/c/sh/gibanje/]"
+    },
+    {
+      "target": "change",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/movement/n/wn/act/,/c/en/change/n/wn/act/]"
+    },
+    {
+      "target": "clock",
+      "relationship": "PartOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/PartOf/,/c/en/movement/n/wn/artifact/,/c/en/clock/n/wn/artifact/]"
+    },
+    {
+      "target": "happening",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/movement/n/wn/event/,/c/en/happening/n/wn/event/]"
+    },
+    {
+      "target": "drift",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/movement/n/wn/cognition/,/c/en/drift/n/wn/cognition/]"
+    },
+    {
+      "target": "sonata",
+      "relationship": "PartOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/PartOf/,/c/en/movement/n/wn/communication/,/c/en/sonata/n/wn/communication/]"
+    },
+    {
+      "target": "apparent motion",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/movement/n/wn/phenomenon/,/c/en/apparent_motion/n/wn/phenomenon/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "Synonym",
+    "PartOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "movement",
+  "single_word_validated": true
+}

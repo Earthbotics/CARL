@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1755145915.978045,
+  "edges": [
+    {
+      "target": "localization",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/location/n/wn/act/,/c/en/localization/n/wn/act/]"
+    },
+    {
+      "target": "place",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/location/n/,/c/en/place/]"
+    },
+    {
+      "target": "workplace",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/location/n/wn/artifact/,/c/en/workplace/n/wn/artifact/]"
+    },
+    {
+      "target": "space",
+      "relationship": "PartOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/PartOf/,/c/en/location/n/wn/,/c/en/space/n/wn/]"
+    },
+    {
+      "target": "localize",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/location/n/,/c/en/localize/]"
+    },
+    {
+      "target": "object",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/location/n/wn/,/c/en/object/n/wn/]"
+    },
+    {
+      "target": "placement",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/location/n/wn/act/,/c/en/placement/n/wn/act/]"
+    },
+    {
+      "target": "locate",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/location/n/,/c/en/locate/]"
+    },
+    {
+      "target": "sted",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/location/n/,/c/no/sted/]"
+    },
+    {
+      "target": "l\u00e4ge",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/location/n/,/c/sv/l\u00e4ge/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "IsA",
+    "PartOf",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "location",
+  "single_word_validated": true
+}

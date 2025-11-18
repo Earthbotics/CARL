@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1757445302.1951277,
+  "edges": [
+    {
+      "target": "physics",
+      "relationship": "HasContext",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasContext/,/c/en/interaction/n/wn/physics/,/c/en/physics/n/wn/cognition/]"
+    },
+    {
+      "target": "action",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/interaction/n/wn/act/,/c/en/action/n/wn/act/]"
+    },
+    {
+      "target": "physical phenomenon",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/interaction/n/wn/physics/,/c/en/physical_phenomenon/n/wn/phenomenon/]"
+    },
+    {
+      "target": "\u10e3\u10e0\u10d7\u10d8\u10d4\u10e0\u10d7\u10d9\u10d0\u10d5\u10e8\u10d8\u10e0\u10d8",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/interaction/n/,/c/ka/\u10e3\u10e0\u10d7\u10d8\u10d4\u10e0\u10d7\u10d9\u10d0\u10d5\u10e8\u10d8\u10e0\u10d8/]"
+    },
+    {
+      "target": "interago",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/interaction/n/,/c/eo/interago/]"
+    },
+    {
+      "target": "vekselvirkning",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/interaction/n/,/c/no/vekselvirkning/]"
+    },
+    {
+      "target": "imoibri\u00fa",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/interaction/n/,/c/ga/imoibri\u00fa/]"
+    },
+    {
+      "target": "interakcija",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/interaction/n/,/c/sh/interakcija/]"
+    },
+    {
+      "target": "interaksjon",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/interaction/n/,/c/no/interaksjon/]"
+    },
+    {
+      "target": "saling tindak",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/interaction/n/,/c/ms/saling_tindak/]"
+    }
+  ],
+  "relationships": [
+    "HasContext",
+    "IsA",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "interaction",
+  "single_word_validated": true
+}

@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1755146447.5984926,
+  "edges": [
+    {
+      "target": "color",
+      "relationship": "RelatedTo",
+      "weight": 5.3814496188294845,
+      "uri": "/a/[/r/RelatedTo/,/c/en/red/,/c/en/color/]"
+    },
+    {
+      "target": "a color",
+      "relationship": "IsA",
+      "weight": 4.47213595499958,
+      "uri": "/a/[/r/IsA/,/c/en/red/,/c/en/color/]"
+    },
+    {
+      "target": "a colour",
+      "relationship": "IsA",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/IsA/,/c/en/red/,/c/en/colour/]"
+    },
+    {
+      "target": "colour",
+      "relationship": "RelatedTo",
+      "weight": 2.889290570364982,
+      "uri": "/a/[/r/RelatedTo/,/c/en/red/,/c/en/colour/]"
+    },
+    {
+      "target": "a primary colour",
+      "relationship": "IsA",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/IsA/,/c/en/red/,/c/en/primary_colour/]"
+    },
+    {
+      "target": "Louisiana",
+      "relationship": "PartOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/PartOf/,/c/en/red/n/wn/object/,/c/en/louisiana/n/wn/location/]"
+    },
+    {
+      "target": "bolshie",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/red/n/wn/person/,/c/en/bolshie/n/wn/person/]"
+    },
+    {
+      "target": "chromatic color",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/red/n/wn/attribute/,/c/en/chromatic_color/n/wn/attribute/]"
+    },
+    {
+      "target": "Oklahoma",
+      "relationship": "PartOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/PartOf/,/c/en/red/n/wn/object/,/c/en/oklahoma/n/wn/location/]"
+    },
+    {
+      "target": "crvena",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/red/a/wikt/en_1/,/c/sh/crvena/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "IsA",
+    "PartOf",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "red",
+  "single_word_validated": true
+}

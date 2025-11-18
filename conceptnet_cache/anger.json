@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1754883575.1895487,
+  "edges": [
+    {
+      "target": "emotion",
+      "relationship": "IsA",
+      "weight": 7.745966692414834,
+      "uri": "/a/[/r/IsA/,/c/en/anger/,/c/en/emotion/]"
+    },
+    {
+      "target": "hurt someone else",
+      "relationship": "CausesDesire",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/CausesDesire/,/c/en/anger/,/c/en/hurt_else/]"
+    },
+    {
+      "target": "kill someone",
+      "relationship": "CausesDesire",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/CausesDesire/,/c/en/anger/,/c/en/kill/]"
+    },
+    {
+      "target": "punch someone",
+      "relationship": "CausesDesire",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/CausesDesire/,/c/en/anger/,/c/en/punch/]"
+    },
+    {
+      "target": "kill people",
+      "relationship": "CausesDesire",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/CausesDesire/,/c/en/anger/,/c/en/kill_people/]"
+    },
+    {
+      "target": "col\u00e8re",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/anger/n/,/c/fr/col\u00e8re/]"
+    },
+    {
+      "target": "ljutnja",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/anger/n/,/c/sh/ljutnja/]"
+    },
+    {
+      "target": "feel",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/anger/v/wn/emotion/,/c/en/feel/v/wn/emotion/]"
+    },
+    {
+      "target": "emotion",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/anger/n/wn/feeling/,/c/en/emotion/n/wn/feeling/]"
+    },
+    {
+      "target": "wrath",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/anger/n/wn/act/,/c/en/wrath/n/wn/act/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "CausesDesire",
+    "Synonym",
+    "MannerOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "anger",
+  "single_word_validated": true
+}

@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1761278085.079702,
+  "edges": [
+    {
+      "target": "slatko",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/dessert/n/,/c/sh/slatko/]"
+    },
+    {
+      "target": "dezert",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/dessert/n/,/c/sh/dezert/]"
+    },
+    {
+      "target": "slastica",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/dessert/n/,/c/sh/slastica/]"
+    },
+    {
+      "target": "course",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/dessert/n/wn/food/,/c/en/course/n/wn/food/]"
+    },
+    {
+      "target": "poslastica",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/dessert/n/,/c/sh/poslastica/]"
+    },
+    {
+      "target": "m\u00eclsean",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/dessert/n/,/c/gd/m\u00eclsean/]"
+    },
+    {
+      "target": "des\u00e8",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/dessert/n/,/c/ht/des\u00e8/]"
+    },
+    {
+      "target": "dessert",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/dessert/n/,/c/fr/dessert/]"
+    },
+    {
+      "target": "meal",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/dessert/n/,/c/en/meal/]"
+    },
+    {
+      "target": "toetje",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/dessert/n/,/c/nl/toetje/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "IsA",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "dessert",
+  "single_word_validated": true
+}

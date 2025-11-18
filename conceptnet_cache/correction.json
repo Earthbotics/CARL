@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1754594926.2966247,
+  "edges": [
+    {
+      "target": "improvement",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/correction/n/wn/act/,/c/en/improvement/n/wn/act/]"
+    },
+    {
+      "target": "correct",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/correction/n/,/c/en/correct/]"
+    },
+    {
+      "target": "indefinite quantity",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/correction/n/wn/quantity/,/c/en/indefinite_quantity/n/wn/quantity/]"
+    },
+    {
+      "target": "therapy",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/correction/n/wn/act/,/c/en/therapy/n/wn/medicine/]"
+    },
+    {
+      "target": "drop",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/correction/n/wn/attribute/,/c/en/drop/n/wn/attribute/]"
+    },
+    {
+      "target": "rebuke",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/correction/n/wn/communication/,/c/en/rebuke/n/wn/communication/]"
+    },
+    {
+      "target": "discipline",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/correction/n/wn/act/,/c/en/discipline/n/wn/act/]"
+    },
+    {
+      "target": "editing",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/correction/n/wn/communication/,/c/en/editing/n/wn/literature/]"
+    },
+    {
+      "target": "\u043f\u0440\u0430\u0432\u043a\u0430",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/correction/n/,/c/ru/\u043f\u0440\u0430\u0432\u043a\u0430/]"
+    },
+    {
+      "target": "\u0442\u0430\u0441\u04b3\u0435\u04b3",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/correction/n/,/c/tg/\u0442\u0430\u0441\u04b3\u0435\u04b3/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "RelatedTo",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "correction",
+  "single_word_validated": true
+}

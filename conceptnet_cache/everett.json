@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1755145243.296723,
+  "edges": [
+    {
+      "target": "Washington State",
+      "relationship": "PartOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/PartOf/,/c/en/everett/,/c/en/washington_state/]"
+    },
+    {
+      "target": "pennsylvania",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/everett/n/,/c/en/pennsylvania/]"
+    },
+    {
+      "target": "washington",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/everett/n/,/c/en/washington/]"
+    },
+    {
+      "target": "\u00e9vrard",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/everett/n/,/c/fr/\u00e9vrard/]"
+    },
+    {
+      "target": "evert",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/everett/n/,/c/sv/evert/]"
+    },
+    {
+      "target": "snohomish county",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/everett/n/,/c/en/snohomish_county/]"
+    },
+    {
+      "target": "county seat",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/everett/n/,/c/en/county_seat/]"
+    },
+    {
+      "target": "massachusetts",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/everett/n/,/c/en/massachusetts/]"
+    },
+    {
+      "target": "eberhard",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/everett/n/,/c/de/eberhard/]"
+    },
+    {
+      "target": "eevertti",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/everett/n/,/c/fi/eevertti/]"
+    }
+  ],
+  "relationships": [
+    "PartOf",
+    "RelatedTo",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "everett",
+  "single_word_validated": true
+}

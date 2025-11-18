@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1758329802.4888992,
+  "edges": [
+    {
+      "target": "diagnose",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/explore/v/wn/medicine/,/c/en/diagnose/v/wn/medicine/]"
+    },
+    {
+      "target": "investigate",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/explore/v/wn/cognition/,/c/en/investigate/v/wn/communication/]"
+    },
+    {
+      "target": "medicine",
+      "relationship": "HasContext",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasContext/,/c/en/explore/v/wn/medicine/,/c/en/medicine/n/wn/medicine/]"
+    },
+    {
+      "target": "research",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/explore/v/wn/cognition/,/c/en/research/v/wn/cognition/]"
+    },
+    {
+      "target": "diagnose",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/explore/v/wn/cognition/,/c/en/diagnose/v/wn/cognition/]"
+    },
+    {
+      "target": "utforske",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/explore/v/,/c/no/utforske/]"
+    },
+    {
+      "target": "variety",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/explore/v/,/c/en/variety/]"
+    },
+    {
+      "target": "exploratory",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/explore/v/,/c/en/exploratory/]"
+    },
+    {
+      "target": "onderzoeken",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/explore/v/,/c/nl/onderzoeken/]"
+    },
+    {
+      "target": "experience",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/explore/v/,/c/en/experience/]"
+    }
+  ],
+  "relationships": [
+    "MannerOf",
+    "HasContext",
+    "Synonym",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "explore",
+  "single_word_validated": true
+}

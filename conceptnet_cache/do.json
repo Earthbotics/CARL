@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1759722923.385927,
+  "edges": [
+    {
+      "target": "action",
+      "relationship": "RelatedTo",
+      "weight": 2.9516097302997224,
+      "uri": "/a/[/r/RelatedTo/,/c/en/do/,/c/en/action/]"
+    },
+    {
+      "target": "solfa syllable",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/do/n/wn/communication/,/c/en/solfa_syllable/n/wn/communication/]"
+    },
+    {
+      "target": "practice",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/do/v/wn/social/,/c/en/practice/v/wn/social/]"
+    },
+    {
+      "target": "perform",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/do/v/wn/creation/,/c/en/perform/v/wn/creation/]"
+    },
+    {
+      "target": "serve",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/do/v/wn/stative/,/c/en/serve/v/wn/stative/]"
+    },
+    {
+      "target": "bash",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/do/n/wn/event/,/c/en/bash/n/wn/event/]"
+    },
+    {
+      "target": "suffice",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/do/v/wn/stative/,/c/en/suffice/v/wn/stative/]"
+    },
+    {
+      "target": "carry through",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/do/v/wn/social/,/c/en/carry_through/v/wn/creation/]"
+    },
+    {
+      "target": "make",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/do/v/wn/social/,/c/en/make/v/wn/social/]"
+    },
+    {
+      "target": "travel",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/do/v/wn/motion/,/c/en/travel/v/wn/motion/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "IsA",
+    "Synonym",
+    "MannerOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "do",
+  "single_word_validated": true
+}

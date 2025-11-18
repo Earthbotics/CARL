@@ -1,0 +1,38 @@
+{
+  "has_data": true,
+  "last_lookup": 1756604388.5004764,
+  "edges": [
+    {
+      "target": "long-term memory",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/ltm/n/wn/cognition/,/c/en/long_term_memory/n/wn/cognition/]"
+    },
+    {
+      "target": "medicine",
+      "relationship": "HasContext",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasContext/,/c/en/ltm/n/,/c/en/medicine/]"
+    },
+    {
+      "target": "finance",
+      "relationship": "HasContext",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasContext/,/c/en/ltm/n/,/c/en/finance/]"
+    },
+    {
+      "target": "LTM",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/ltm/,/http://en.wiktionary.org/wiki/LTM/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "HasContext",
+    "ExternalURL"
+  ],
+  "total_edges_found": 4,
+  "concept_queried": "ltm",
+  "single_word_validated": true
+}

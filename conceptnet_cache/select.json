@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1757531472.5931964,
+  "edges": [
+    {
+      "target": "superior",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/select/a/wn/,/c/en/superior/a/wn/]"
+    },
+    {
+      "target": "choose",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/select/v/wn/cognition/,/c/en/choose/v/wn/cognition/]"
+    },
+    {
+      "target": "choose",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/select/v/,/c/en/choose/]"
+    },
+    {
+      "target": "blue-ribbon",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/select/a/wn/,/c/en/blue_ribbon/a/wn/]"
+    },
+    {
+      "target": "ausw\u00e4hlen",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/select/v/,/c/de/ausw\u00e4hlen/]"
+    },
+    {
+      "target": "option",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/select/v/,/c/en/option/]"
+    },
+    {
+      "target": "element",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/select/v/,/c/en/element/]"
+    },
+    {
+      "target": "se\u00e7mek",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/select/v/,/c/tr/se\u00e7mek/]"
+    },
+    {
+      "target": "press",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/select/n/,/c/en/press/]"
+    },
+    {
+      "target": "s\u00e9lect",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/select/a/,/c/fr/s\u00e9lect/]"
+    }
+  ],
+  "relationships": [
+    "SimilarTo",
+    "Synonym",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "select",
+  "single_word_validated": true
+}

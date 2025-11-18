@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1756792100.8886921,
+  "edges": [
+    {
+      "target": "act",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/interact/v/wn/social/,/c/en/act/v/wn/social/]"
+    },
+    {
+      "target": "act",
+      "relationship": "DerivedFrom",
+      "weight": 1.0,
+      "uri": "/a/[/r/DerivedFrom/,/c/en/interact/,/c/en/act/v/]"
+    },
+    {
+      "target": "interlude",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/interact/n/,/c/en/interlude/]"
+    },
+    {
+      "target": "202382049-v",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/interact/v/wn/social/,/http://wordnet-rdf.princeton.edu/wn31/202382049-v/]"
+    },
+    {
+      "target": "interagir",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/interact/v/,/c/fr/interagir/]"
+    },
+    {
+      "target": "play",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/interact/n/,/c/en/play/]"
+    },
+    {
+      "target": "interaction",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/interact/v/,/c/en/interaction/]"
+    },
+    {
+      "target": "tussenspel",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/interact/n/,/c/nl/tussenspel/]"
+    },
+    {
+      "target": "inter",
+      "relationship": "DerivedFrom",
+      "weight": 1.0,
+      "uri": "/a/[/r/DerivedFrom/,/c/en/interact/,/c/en/inter/]"
+    },
+    {
+      "target": "entr\u2019 acte",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/interact/n/,/c/nl/entr\u2019_acte/]"
+    }
+  ],
+  "relationships": [
+    "MannerOf",
+    "DerivedFrom",
+    "RelatedTo",
+    "ExternalURL",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "interact",
+  "single_word_validated": true
+}

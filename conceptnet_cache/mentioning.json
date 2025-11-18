@@ -1,0 +1,44 @@
+{
+  "has_data": true,
+  "last_lookup": 1760316497.971733,
+  "edges": [
+    {
+      "target": "mention",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/mentioning/,/c/en/mention/v/]"
+    },
+    {
+      "target": "mention",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/mentioning/v/,/c/en/mention/]"
+    },
+    {
+      "target": "mention",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/mentioning/v/,/c/en/mention/]"
+    },
+    {
+      "target": "mentioning",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/mentioning/,/http://en.wiktionary.org/wiki/mentioning/]"
+    },
+    {
+      "target": "mentioning",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/mentioning/,/http://fr.wiktionary.org/wiki/mentioning/]"
+    }
+  ],
+  "relationships": [
+    "FormOf",
+    "RelatedTo",
+    "ExternalURL"
+  ],
+  "total_edges_found": 5,
+  "concept_queried": "mentioning",
+  "single_word_validated": true
+}

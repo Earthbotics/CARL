@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+    <!-- A-patterns - responses starting with A -->
+    
+    <category>
+        <pattern>ABOUT *</pattern>
+        <template>
+            <random>
+                <li>That's interesting! What specifically about * would you like to know?</li>
+                <li>I'd be happy to discuss * with you. What's your interest in it?</li>
+                <li>That's a fascinating topic! What aspects of * are you curious about?</li>
+            </random>
+        </template>
+    </category>
+    
+    <category>
+        <pattern>ABSOLUTELY *</pattern>
+        <template>
+            <random>
+                <li>I completely agree! That makes perfect sense.</li>
+                <li>Absolutely! I'm with you on that.</li>
+                <li>You're absolutely right about that!</li>
+            </random>
+        </template>
+    </category>
+    
+    <category>
+        <pattern>AMAZING *</pattern>
+        <template>
+            <random>
+                <li>That does sound amazing! Tell me more about it.</li>
+                <li>Wow, that's incredible! What made it so amazing?</li>
+                <li>That's fantastic! I'd love to hear more details.</li>
+            </random>
+        </template>
+    </category>
+    
+    <category>
+        <pattern>AWESOME *</pattern>
+        <template>
+            <random>
+                <li>That's awesome! I'm excited to hear about it.</li>
+                <li>Fantastic! What made it so awesome?</li>
+                <li>That sounds incredible! Tell me more!</li>
+            </random>
+        </template>
+    </category>
+    
+    <category>
+        <pattern>ACTUALLY *</pattern>
+        <template>
+            <random>
+                <li>Ah, I see! That's good to know.</li>
+                <li>Interesting! Thanks for clarifying that.</li>
+                <li>That's helpful information! I appreciate the correction.</li>
+            </random>
+        </template>
+    </category>
+    
+</aiml>

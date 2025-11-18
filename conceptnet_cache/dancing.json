@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1756355322.5261085,
+  "edges": [
+    {
+      "target": "fatigue",
+      "relationship": "Causes",
+      "weight": 4.47213595499958,
+      "uri": "/a/[/r/Causes/,/c/en/dancing/,/c/en/fatigue/]"
+    },
+    {
+      "target": "Fun",
+      "relationship": "UsedFor",
+      "weight": 4.47213595499958,
+      "uri": "/a/[/r/UsedFor/,/c/en/dancing/,/c/en/fun/]"
+    },
+    {
+      "target": "exercise",
+      "relationship": "UsedFor",
+      "weight": 4.0,
+      "uri": "/a/[/r/UsedFor/,/c/en/dancing/,/c/en/exercise/]"
+    },
+    {
+      "target": "performing",
+      "relationship": "UsedFor",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/UsedFor/,/c/en/dancing/,/c/en/performing/]"
+    },
+    {
+      "target": "having fun",
+      "relationship": "HasSubevent",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/HasSubevent/,/c/en/dancing/,/c/en/having_fun/]"
+    },
+    {
+      "target": "having fun",
+      "relationship": "Causes",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/Causes/,/c/en/dancing/,/c/en/having_fun/]"
+    },
+    {
+      "target": "a great way to relieve tension",
+      "relationship": "IsA",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/IsA/,/c/en/dancing/,/c/en/great_way_to_relieve_tension/]"
+    },
+    {
+      "target": "getting exercise",
+      "relationship": "UsedFor",
+      "weight": 2.0,
+      "uri": "/a/[/r/UsedFor/,/c/en/dancing/,/c/en/getting_exercise/]"
+    },
+    {
+      "target": "hear music",
+      "relationship": "CausesDesire",
+      "weight": 2.0,
+      "uri": "/a/[/r/CausesDesire/,/c/en/dancing/,/c/en/hear_music/]"
+    },
+    {
+      "target": "performing arts",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/dancing/n/wn/act/,/c/en/performing_arts/n/wn/cognition/]"
+    }
+  ],
+  "relationships": [
+    "Causes",
+    "UsedFor",
+    "HasSubevent",
+    "IsA",
+    "CausesDesire"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "dancing",
+  "single_word_validated": true
+}

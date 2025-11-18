@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1757090380.7897162,
+  "edges": [
+    {
+      "target": "coins",
+      "relationship": "RelatedTo",
+      "weight": 5.5971421279077775,
+      "uri": "/a/[/r/RelatedTo/,/c/en/change/,/c/en/coins/]"
+    },
+    {
+      "target": "money",
+      "relationship": "RelatedTo",
+      "weight": 5.2911246441564765,
+      "uri": "/a/[/r/RelatedTo/,/c/en/change/,/c/en/money/]"
+    },
+    {
+      "target": "the jar",
+      "relationship": "AtLocation",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/AtLocation/,/c/en/change/,/c/en/jar/]"
+    },
+    {
+      "target": "alter",
+      "relationship": "RelatedTo",
+      "weight": 3.3352661063249514,
+      "uri": "/a/[/r/RelatedTo/,/c/en/change/,/c/en/alter/]"
+    },
+    {
+      "target": "pocket",
+      "relationship": "RelatedTo",
+      "weight": 2.9037906260610455,
+      "uri": "/a/[/r/RelatedTo/,/c/en/change/,/c/en/pocket/]"
+    },
+    {
+      "target": "loose",
+      "relationship": "RelatedTo",
+      "weight": 2.714406012371768,
+      "uri": "/a/[/r/RelatedTo/,/c/en/change/,/c/en/loose/]"
+    },
+    {
+      "target": "difference",
+      "relationship": "HasPrerequisite",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasPrerequisite/,/c/en/change/,/c/en/difference/]"
+    },
+    {
+      "target": "dress",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/change/v/wn/change/,/c/en/dress/v/wn/body/]"
+    },
+    {
+      "target": "replace",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/change/v/wn/change/,/c/en/replace/v/wn/change/]"
+    },
+    {
+      "target": "transfer",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/change/v/wn/motion/,/c/en/transfer/v/wn/motion/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "AtLocation",
+    "HasPrerequisite",
+    "MannerOf",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "change",
+  "single_word_validated": true
+}

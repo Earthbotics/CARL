@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1756533557.0177298,
+  "edges": [
+    {
+      "target": "time",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/while/n/wn/time/,/c/en/time/n/wn/time/]"
+    },
+    {
+      "target": "northern england",
+      "relationship": "HasContext",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasContext/,/c/en/while/,/c/en/northern_england/]"
+    },
+    {
+      "target": "tempore",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/while/n/,/c/ia/tempore/]"
+    },
+    {
+      "target": "greis",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/while/n/,/c/gd/greis/]"
+    },
+    {
+      "target": "\u043f\u0440\u043e\u043c\u0435\u0436\u0443\u0442\u043e\u043a \u0432\u0440\u0435\u043c\u0435\u043d\u0438",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/while/n/,/c/ru/\u043f\u0440\u043e\u043c\u0435\u0436\u0443\u0442\u043e\u043a_\u0432\u0440\u0435\u043c\u0435\u043d\u0438/]"
+    },
+    {
+      "target": "moumint",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/while/n/,/c/wa/moumint/]"
+    },
+    {
+      "target": "hap\u00eaye",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/while/n/,/c/wa/hap\u00eaye/]"
+    },
+    {
+      "target": "whilst",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/while/v/,/c/en/whilst/]"
+    },
+    {
+      "target": "skoft",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/while/n/,/c/fy/skoft/]"
+    },
+    {
+      "target": "obgleich",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/while/,/c/de/obgleich/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "HasContext",
+    "Synonym",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "while",
+  "single_word_validated": true
+}

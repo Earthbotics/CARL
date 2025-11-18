@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1761714865.522135,
+  "edges": [
+    {
+      "target": "kids",
+      "relationship": "HasA",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasA/,/c/en/joe/,/c/en/kids/]"
+    },
+    {
+      "target": "josephine",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/joe/n/,/c/en/josephine/]"
+    },
+    {
+      "target": "fellow",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/joe/n/,/c/en/fellow/]"
+    },
+    {
+      "target": "marry Bob in Hawaii",
+      "relationship": "CapableOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/CapableOf/,/c/en/joe/,/c/en/marry_bob_in_hawaii/]"
+    },
+    {
+      "target": "coffee",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/joe/n/wikt/en_2/,/c/en/coffee/]"
+    },
+    {
+      "target": "a male name",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/joe/,/c/en/male_name/]"
+    },
+    {
+      "target": "dreaming",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/joe/,/c/en/dreaming/]"
+    },
+    {
+      "target": "cup of joe",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/joe/n/wikt/en_2/,/c/en/cup_of_joe/]"
+    },
+    {
+      "target": "pepito",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/joe/n/,/c/es/pepito/]"
+    },
+    {
+      "target": "guy",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/joe/n/wikt/en_1/,/c/en/guy/]"
+    }
+  ],
+  "relationships": [
+    "HasA",
+    "RelatedTo",
+    "CapableOf",
+    "IsA",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "joe",
+  "single_word_validated": true
+}

@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1757802502.9151173,
+  "edges": [
+    {
+      "target": "evidence",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/argument/n/wn/communication/,/c/en/evidence/n/wn/communication/]"
+    },
+    {
+      "target": "arguer",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/argument/n/,/c/en/arguer/]"
+    },
+    {
+      "target": "summary",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/argument/n/wn/communication/,/c/en/summary/n/wn/communication/]"
+    },
+    {
+      "target": "argument",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/argument/n/,/c/fr/argument/]"
+    },
+    {
+      "target": "parameter",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/argument/n/wn/computer_science/,/c/en/parameter/n/wn/computer_science/]"
+    },
+    {
+      "target": "argumentation",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/argument/n/wn/cognition/,/c/en/argumentation/n/wn/cognition/]"
+    },
+    {
+      "target": "discussion",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/argument/n/wn/communication/,/c/en/discussion/n/wn/communication/]"
+    },
+    {
+      "target": "arguable",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/argument/n/,/c/en/arguable/]"
+    },
+    {
+      "target": "variable",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/argument/n/wn/cognition/,/c/en/variable/n/wn/cognition/]"
+    },
+    {
+      "target": "controversy",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/argument/n/wn/communication/,/c/en/controversy/n/wn/communication/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "RelatedTo",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "argument",
+  "single_word_validated": true
+}

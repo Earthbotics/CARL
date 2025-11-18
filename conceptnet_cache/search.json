@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1755404061.6976361,
+  "edges": [
+    {
+      "target": "examine",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/search/v/wn/perception/,/c/en/examine/v/wn/perception/]"
+    },
+    {
+      "target": "examine",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/search/v/wn/contact/,/c/en/examine/v/wn/perception/]"
+    },
+    {
+      "target": "potraga",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/search/n/,/c/sh/potraga/]"
+    },
+    {
+      "target": "research",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/search/n/,/c/en/research/]"
+    },
+    {
+      "target": "investigation",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/search/n/wn/act/,/c/en/investigation/n/wn/act/]"
+    },
+    {
+      "target": "research",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/search/v/wn/cognition/,/c/en/research/v/wn/cognition/]"
+    },
+    {
+      "target": "activity",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/search/n/wn/act/,/c/en/activity/n/wn/act/]"
+    },
+    {
+      "target": "operation",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/search/n/wn/process/,/c/en/operation/n/wn/computer_science/]"
+    },
+    {
+      "target": "examination",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/search/n/wn/act/,/c/en/examination/n/wn/act/]"
+    },
+    {
+      "target": "higher cognitive process",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/search/n/wn/cognition/,/c/en/higher_cognitive_process/n/wn/cognition/]"
+    }
+  ],
+  "relationships": [
+    "MannerOf",
+    "Synonym",
+    "RelatedTo",
+    "IsA"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "search",
+  "single_word_validated": true
+}

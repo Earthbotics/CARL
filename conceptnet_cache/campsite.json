@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1757730370.6624436,
+  "edges": [
+    {
+      "target": "site",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/campsite/n/wn/location/,/c/en/site/n/wn/location/]"
+    },
+    {
+      "target": "camping site",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/campsite/n/,/c/en/camping_site/]"
+    },
+    {
+      "target": "camp",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/campsite/n/,/c/en/camp/]"
+    },
+    {
+      "target": "place where one camps",
+      "relationship": "DefinedAs",
+      "weight": 1.0,
+      "uri": "/a/[/r/DefinedAs/,/c/en/campsite/,/c/en/place_where_one_camps/]"
+    },
+    {
+      "target": "leiripaikka",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/campsite/n/,/c/fi/leiripaikka/]"
+    },
+    {
+      "target": "campground",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/campsite/n/,/c/en/campground/]"
+    },
+    {
+      "target": "\u9732\u71df\u5730",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/campsite/n/,/c/zh/\u9732\u71df\u5730/]"
+    },
+    {
+      "target": "camp'thie",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/campsite/n/,/c/nrf/camp'thie/]"
+    },
+    {
+      "target": "\u71df\u5730",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/campsite/n/,/c/zh/\u71df\u5730/]"
+    },
+    {
+      "target": "camping ground",
+      "relationship": "SimilarTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/campsite/n/,/c/en/camping_ground/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "Synonym",
+    "RelatedTo",
+    "DefinedAs",
+    "SimilarTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "campsite",
+  "single_word_validated": true
+}

@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1761714867.7689157,
+  "edges": [
+    {
+      "target": "kip",
+      "relationship": "PartOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/PartOf/,/c/en/at/n/wn/quantity/,/c/en/kip/n/wn/quantity/]"
+    },
+    {
+      "target": "in",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/at/,/c/en/in/]"
+    },
+    {
+      "target": "an",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/at/,/c/de/an/]"
+    },
+    {
+      "target": "Laotian monetary unit",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/at/n/wn/quantity/,/c/en/laotian_monetary_unit/n/wn/quantity/]"
+    },
+    {
+      "target": "astatine",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/at/n/wn/substance/,/c/en/astatine/n/wn/substance/]"
+    },
+    {
+      "target": "place",
+      "relationship": "RelatedTo",
+      "weight": 1.77,
+      "uri": "/a/[/r/RelatedTo/,/c/en/at/,/c/en/place/]"
+    },
+    {
+      "target": "preposition",
+      "relationship": "RelatedTo",
+      "weight": 1.7469999999999999,
+      "uri": "/a/[/r/RelatedTo/,/c/en/at/,/c/en/preposition/]"
+    },
+    {
+      "target": "near",
+      "relationship": "RelatedTo",
+      "weight": 1.1829999999999998,
+      "uri": "/a/[/r/RelatedTo/,/c/en/at/,/c/en/near/]"
+    },
+    {
+      "target": "email",
+      "relationship": "RelatedTo",
+      "weight": 1.0869999999999997,
+      "uri": "/a/[/r/RelatedTo/,/c/en/at/,/c/en/email/]"
+    },
+    {
+      "target": "da",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/at/,/c/tr/da/]"
+    }
+  ],
+  "relationships": [
+    "PartOf",
+    "RelatedTo",
+    "Synonym",
+    "IsA"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "at",
+  "single_word_validated": true
+}

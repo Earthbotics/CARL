@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1755126799.728918,
+  "edges": [
+    {
+      "target": "arrive late",
+      "relationship": "CapableOf",
+      "weight": 4.47213595499958,
+      "uri": "/a/[/r/CapableOf/,/c/en/train/,/c/en/arrive_late/]"
+    },
+    {
+      "target": "near its destination",
+      "relationship": "CapableOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/CapableOf/,/c/en/train/,/c/en/near_destination/]"
+    },
+    {
+      "target": "arrive on schedule",
+      "relationship": "CapableOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/CapableOf/,/c/en/train/,/c/en/arrive_on_schedule/]"
+    },
+    {
+      "target": "consequence",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/train/n/wn/event/,/c/en/consequence/n/wn/event/]"
+    },
+    {
+      "target": "discipline",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/train/v/wn/social/,/c/en/discipline/v/wn/social/]"
+    },
+    {
+      "target": "gown",
+      "relationship": "PartOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/PartOf/,/c/en/train/n/wn/artifact/,/c/en/gown/n/wn/artifact/]"
+    },
+    {
+      "target": "exercise",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/train/v/wn/body/,/c/en/exercise/v/wn/body/]"
+    },
+    {
+      "target": "learn",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/train/v/wn/cognition/,/c/en/learn/v/wn/cognition/]"
+    },
+    {
+      "target": "gearing",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/train/n/wn/artifact/,/c/en/gearing/n/wn/artifact/]"
+    },
+    {
+      "target": "control",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/train/v/wn/social/,/c/en/control/v/wn/social/]"
+    }
+  ],
+  "relationships": [
+    "CapableOf",
+    "IsA",
+    "Synonym",
+    "PartOf",
+    "MannerOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "train",
+  "single_word_validated": true
+}

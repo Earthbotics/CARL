@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1755099422.017728,
+  "edges": [
+    {
+      "target": "one hand",
+      "relationship": "HasA",
+      "weight": 6.0,
+      "uri": "/a/[/r/HasA/,/c/en/arm/,/c/en/one_hand/]"
+    },
+    {
+      "target": "hand",
+      "relationship": "RelatedTo",
+      "weight": 5.792063535563124,
+      "uri": "/a/[/r/RelatedTo/,/c/en/arm/,/c/en/hand/]"
+    },
+    {
+      "target": "appendage",
+      "relationship": "RelatedTo",
+      "weight": 4.3501724103763975,
+      "uri": "/a/[/r/RelatedTo/,/c/en/arm/,/c/en/appendage/]"
+    },
+    {
+      "target": "limb",
+      "relationship": "RelatedTo",
+      "weight": 4.334051222586092,
+      "uri": "/a/[/r/RelatedTo/,/c/en/arm/,/c/en/limb/]"
+    },
+    {
+      "target": "shoulder",
+      "relationship": "RelatedTo",
+      "weight": 3.9919919839598883,
+      "uri": "/a/[/r/RelatedTo/,/c/en/arm/,/c/en/shoulder/]"
+    },
+    {
+      "target": "body",
+      "relationship": "RelatedTo",
+      "weight": 3.8434359627812196,
+      "uri": "/a/[/r/RelatedTo/,/c/en/arm/,/c/en/body/]"
+    },
+    {
+      "target": "Lifting things",
+      "relationship": "UsedFor",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/UsedFor/,/c/en/arm/,/c/en/lifting_things/]"
+    },
+    {
+      "target": "waving",
+      "relationship": "UsedFor",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/UsedFor/,/c/en/arm/,/c/en/waving/]"
+    },
+    {
+      "target": "leg",
+      "relationship": "RelatedTo",
+      "weight": 2.90516780926679,
+      "uri": "/a/[/r/RelatedTo/,/c/en/arm/,/c/en/leg/]"
+    },
+    {
+      "target": "a body",
+      "relationship": "PartOf",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/PartOf/,/c/en/arm/,/c/en/body/]"
+    }
+  ],
+  "relationships": [
+    "HasA",
+    "RelatedTo",
+    "UsedFor",
+    "PartOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "arm",
+  "single_word_validated": true
+}

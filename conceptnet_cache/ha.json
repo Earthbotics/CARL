@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1758250286.0274644,
+  "edges": [
+    {
+      "target": "hour angle",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/ha/n/wn/astronomy/,/c/en/hour_angle/n/wn/astronomy/]"
+    },
+    {
+      "target": "british",
+      "relationship": "HasContext",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasContext/,/c/en/ha/n/wikt/en_1/,/c/en/british/]"
+    },
+    {
+      "target": "haha",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/ha/,/c/en/haha/]"
+    },
+    {
+      "target": "\u0e41\u0e2b\u0e30",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/ha/,/c/th/\u0e41\u0e2b\u0e30/]"
+    },
+    {
+      "target": "ha",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/ha/,/c/da/ha/]"
+    },
+    {
+      "target": "ha",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/ha/,/c/io/ha/]"
+    },
+    {
+      "target": "hah",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/ha/,/c/en/hah/]"
+    },
+    {
+      "target": "kigoma region",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/ha/n/wikt/en_1/,/c/en/kigoma_region/]"
+    },
+    {
+      "target": "ha",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/ha/,/c/ca/ha/]"
+    },
+    {
+      "target": "underworld",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/ha/n/wikt/en_2/,/c/en/underworld/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "HasContext",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "ha",
+  "single_word_validated": true
+}

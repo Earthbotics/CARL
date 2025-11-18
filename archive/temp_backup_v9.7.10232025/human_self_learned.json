@@ -1,0 +1,126 @@
+{
+    "word": "human",
+    "type": "thing",
+    "first_seen": "2025-08-23T07:44:20.723954",
+    "last_updated": "2025-08-23T07:44:20.723954",
+    "occurrences": 0,
+    "contexts": [],
+    "emotional_history": [],
+    "conceptnet_data": {
+        "has_data": false,
+        "last_lookup": null,
+        "edges": [],
+        "relationships": []
+    },
+    "related_concepts": [],
+    "linked_needs": [],
+    "linked_goals": [],
+    "linked_skills": [],
+    "linked_senses": [],
+    "neucogar_emotional_associations": {
+        "primary": "neutral",
+        "sub_emotion": "calm",
+        "neuro_coordinates": {
+            "dopamine": 0.0,
+            "serotonin": 0.0,
+            "noradrenaline": 0.0
+        },
+        "intensity": 0.0,
+        "triggers": []
+    },
+    "emotional_associations": {},
+    "contextual_usage": [],
+    "semantic_relationships": [],
+    "keywords": [],
+    "values_alignment": {
+        "value_alignments": {},
+        "belief_alignments": {},
+        "conflicts": [],
+        "overall_alignment": 0.0,
+        "acc_activation": 0.0,
+        "recommendation": "Neutral - minimal alignment or conflict"
+    },
+    "beliefs": [],
+    "Learning_Integration": {
+        "concept_learning_system": {
+            "neurological_basis": {
+                "reward_prediction_error": {
+                    "expected_utility": 0.5,
+                    "prediction_error": 0.0,
+                    "learning_rate": 0.1
+                },
+                "attention_mechanism": {
+                    "salience": 0.5,
+                    "focus_level": 0.5
+                },
+                "memory_consolidation": {
+                    "strength": 0.5,
+                    "retrieval_ease": 0.5
+                }
+            },
+            "concept_learning_system": {
+                "pattern_recognition": {
+                    "feature_extraction": [],
+                    "similarity_threshold": 0.5
+                },
+                "categorization": {
+                    "prototype_formation": {
+                        "primary_features": [],
+                        "secondary_features": []
+                    },
+                    "boundary_adjustment": 0.5
+                },
+                "generalization": {
+                    "transfer_learning": {
+                        "related_activities": []
+                    },
+                    "abstraction_level": 0.5
+                }
+            },
+            "learning_principles": {
+                "information_processing": {
+                    "encoding_depth": 0.5,
+                    "retrieval_practice": {
+                        "spaced_repetition": {
+                            "next_review": "",
+                            "review_interval": 0.5
+                        }
+                    }
+                },
+                "motivational_factors": {
+                    "intrinsic_interest": 0.5,
+                    "extrinsic_rewards": 0.5
+                },
+                "metacognitive_awareness": {
+                    "self_monitoring": 0.5,
+                    "strategy_selection": 0.5
+                }
+            }
+        },
+        "concept_progression": {
+            "current_level": "basic_recognition",
+            "level_progress": 0.0,
+            "mastery_threshold": 0.8,
+            "progression_stages": [
+                "basic_recognition",
+                "contextual_understanding",
+                "flexible_application",
+                "creative_synthesis"
+            ]
+        },
+        "adaptive_learning": {
+            "difficulty_adjustment": {
+                "current_challenge": 0.5,
+                "success_rate": 0.5
+            },
+            "personalization": {
+                "learning_style": "general",
+                "preference_adaptation": 0.5
+            }
+        }
+    },
+    "Type": "thing",
+    "IsUsedInNeeds": true,
+    "AssociatedGoals": [],
+    "AssociatedNeeds": []
+}

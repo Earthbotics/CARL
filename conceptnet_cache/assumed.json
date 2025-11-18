@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1756258307.1471577,
+  "edges": [
+    {
+      "target": "fictitious",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/assumed/a/wn/,/c/en/fictitious/a/wn/]"
+    },
+    {
+      "target": "presumed",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/assumed/a/,/c/en/presumed/]"
+    },
+    {
+      "target": "valheellinen",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/assumed/a/,/c/fi/valheellinen/]"
+    },
+    {
+      "target": "simulated",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/assumed/a/,/c/en/simulated/]"
+    },
+    {
+      "target": "\u043f\u0440\u0438\u0441\u0442\u043e\u0440\u0435\u043d",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/assumed/a/,/c/bg/\u043f\u0440\u0438\u0441\u0442\u043e\u0440\u0435\u043d/]"
+    },
+    {
+      "target": "cens\u00e9",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/assumed/a/,/c/fr/cens\u00e9/]"
+    },
+    {
+      "target": "assume",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/assumed/,/c/en/assume/v/]"
+    },
+    {
+      "target": "teko",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/assumed/a/,/c/fi/teko/]"
+    },
+    {
+      "target": "keksitty",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/assumed/a/,/c/fi/keksitty/]"
+    },
+    {
+      "target": "deceive",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/assumed/a/,/c/en/deceive/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "RelatedTo",
+    "FormOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "assumed",
+  "single_word_validated": true
+}

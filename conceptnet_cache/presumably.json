@@ -1,0 +1,72 @@
+{
+  "has_data": true,
+  "last_lookup": 1758329865.2570906,
+  "edges": [
+    {
+      "target": "naravno",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/presumably/r/,/c/sh/naravno/]"
+    },
+    {
+      "target": "presumptively",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/presumably/r/wn/,/c/en/presumptively/r/wn/]"
+    },
+    {
+      "target": "podrazumevati",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/presumably/r/,/c/sh/podrazumevati/]"
+    },
+    {
+      "target": "podrazumijevati",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/presumably/r/,/c/sh/podrazumijevati/]"
+    },
+    {
+      "target": "razumljivo",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/presumably/r/,/c/sh/razumljivo/]"
+    },
+    {
+      "target": "probablemente",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/presumably/r/,/c/es/probablemente/]"
+    },
+    {
+      "target": "\u60f3\u5fc5",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/presumably/r/,/c/zh/\u60f3\u5fc5/]"
+    },
+    {
+      "target": "\u0645\u0646",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/presumably/r/,/c/ar/\u0645\u0646/]"
+    },
+    {
+      "target": "de r\u00e9ir dealraimh",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/presumably/r/,/c/ga/de_r\u00e9ir_dealraimh/]"
+    },
+    {
+      "target": "\u5927\u6982",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/presumably/r/,/c/zh/\u5927\u6982/]"
+    }
+  ],
+  "relationships": [
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "presumably",
+  "single_word_validated": true
+}

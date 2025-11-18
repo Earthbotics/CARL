@@ -1,0 +1,51 @@
+{
+  "has_data": true,
+  "last_lookup": 1761277993.7578392,
+  "edges": [
+    {
+      "target": "verbalised",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/expressed/a/wn/,/c/en/verbalised/a/wn/]"
+    },
+    {
+      "target": "explicit",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/expressed/a/wn/,/c/en/explicit/a/wn/]"
+    },
+    {
+      "target": "express",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/expressed/v/,/c/en/express/]"
+    },
+    {
+      "target": "express",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/expressed/v/,/c/en/express/]"
+    },
+    {
+      "target": "expressed",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/expressed/,/http://en.wiktionary.org/wiki/expressed/]"
+    },
+    {
+      "target": "expressed",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/expressed/,/http://fr.wiktionary.org/wiki/expressed/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "RelatedTo",
+    "FormOf",
+    "ExternalURL"
+  ],
+  "total_edges_found": 6,
+  "concept_queried": "expressed",
+  "single_word_validated": true
+}

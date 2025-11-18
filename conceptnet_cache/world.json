@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1756340018.35643,
+  "edges": [
+    {
+      "target": "round",
+      "relationship": "HasProperty",
+      "weight": 8.0,
+      "uri": "/a/[/r/HasProperty/,/c/en/world/,/c/en/round/]"
+    },
+    {
+      "target": "diverse",
+      "relationship": "HasProperty",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/HasProperty/,/c/en/world/,/c/en/diverse/]"
+    },
+    {
+      "target": "space",
+      "relationship": "AtLocation",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/AtLocation/,/c/en/world/,/c/en/space/]"
+    },
+    {
+      "target": "a galaxy",
+      "relationship": "AtLocation",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/AtLocation/,/c/en/world/,/c/en/galaxy/]"
+    },
+    {
+      "target": "a big place",
+      "relationship": "IsA",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/IsA/,/c/en/world/,/c/en/big_place/]"
+    },
+    {
+      "target": "earth",
+      "relationship": "DefinedAs",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/DefinedAs/,/c/en/world/,/c/en/earth/]"
+    },
+    {
+      "target": "where we live",
+      "relationship": "IsA",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/IsA/,/c/en/world/,/c/en/where_live/]"
+    },
+    {
+      "target": "small",
+      "relationship": "HasProperty",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasProperty/,/c/en/world/,/c/en/small/]"
+    },
+    {
+      "target": "populace",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/world/n/wn/group/,/c/en/populace/n/wn/group/]"
+    },
+    {
+      "target": "universe",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/world/n/wn/object/,/c/en/universe/n/wn/object/]"
+    }
+  ],
+  "relationships": [
+    "HasProperty",
+    "AtLocation",
+    "IsA",
+    "DefinedAs",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "world",
+  "single_word_validated": true
+}

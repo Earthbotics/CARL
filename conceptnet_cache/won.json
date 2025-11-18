@@ -1,0 +1,73 @@
+{
+  "has_data": true,
+  "last_lookup": 1757639125.2563815,
+  "edges": [
+    {
+      "target": "North Korean won",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/won/n/wn/quantity/,/c/en/north_korean_won/n/wn/quantity/]"
+    },
+    {
+      "target": "South Korean won",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/won/n/wn/quantity/,/c/en/south_korean_won/n/wn/quantity/]"
+    },
+    {
+      "target": "won",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/won/n/,/c/fr/won/]"
+    },
+    {
+      "target": "\u0432\u043e\u043d",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/won/n/wikt/en_3/,/c/mk/\u0432\u043e\u043d/]"
+    },
+    {
+      "target": "jeon",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/won/n/wikt/en_3/,/c/en/jeon/]"
+    },
+    {
+      "target": "\u5713",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/won/n/wikt/en_3/,/c/ko/\u5713/]"
+    },
+    {
+      "target": "\u0443\u043e\u043d",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/won/n/wikt/en_3/,/c/kk/\u0443\u043e\u043d/]"
+    },
+    {
+      "target": "jun",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/won/n/wikt/en_3/,/c/en/jun/]"
+    },
+    {
+      "target": "vivre",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/won/v/,/c/fr/vivre/]"
+    },
+    {
+      "target": "\u06cb\u0648\u0646",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/won/n/wikt/en_3/,/c/ug/\u06cb\u0648\u0646/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "won",
+  "single_word_validated": true
+}

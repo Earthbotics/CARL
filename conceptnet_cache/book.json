@@ -1,0 +1,78 @@
+{
+  "has_data": true,
+  "last_lookup": 1756751695.3188155,
+  "edges": [
+    {
+      "target": "learning",
+      "relationship": "UsedFor",
+      "weight": 8.246211251235321,
+      "uri": "/a/[/r/UsedFor/,/c/en/book/,/c/en/learning/]"
+    },
+    {
+      "target": "library",
+      "relationship": "PartOf",
+      "weight": 7.211102550927979,
+      "uri": "/a/[/r/PartOf/,/c/en/book/,/c/en/library/]"
+    },
+    {
+      "target": "a writer",
+      "relationship": "CreatedBy",
+      "weight": 6.928203230275509,
+      "uri": "/a/[/r/CreatedBy/,/c/en/book/,/c/en/writer/]"
+    },
+    {
+      "target": "pages",
+      "relationship": "RelatedTo",
+      "weight": 6.725473960993382,
+      "uri": "/a/[/r/RelatedTo/,/c/en/book/,/c/en/pages/]"
+    },
+    {
+      "target": "a classroom",
+      "relationship": "AtLocation",
+      "weight": 6.32455532033676,
+      "uri": "/a/[/r/AtLocation/,/c/en/book/,/c/en/classroom/]"
+    },
+    {
+      "target": "reading",
+      "relationship": "RelatedTo",
+      "weight": 6.298253726232375,
+      "uri": "/a/[/r/RelatedTo/,/c/en/book/,/c/en/reading/]"
+    },
+    {
+      "target": "the shelf",
+      "relationship": "AtLocation",
+      "weight": 5.291502622129181,
+      "uri": "/a/[/r/AtLocation/,/c/en/book/,/c/en/shelf/]"
+    },
+    {
+      "target": "a bookshelf",
+      "relationship": "AtLocation",
+      "weight": 4.898979485566356,
+      "uri": "/a/[/r/AtLocation/,/c/en/book/,/c/en/bookshelf/]"
+    },
+    {
+      "target": "knowledge",
+      "relationship": "HasA",
+      "weight": 4.47213595499958,
+      "uri": "/a/[/r/HasA/,/c/en/book/,/c/en/knowledge/]"
+    },
+    {
+      "target": "Paper",
+      "relationship": "MadeOf",
+      "weight": 4.47213595499958,
+      "uri": "/a/[/r/MadeOf/,/c/en/book/,/c/en/paper/]"
+    }
+  ],
+  "relationships": [
+    "UsedFor",
+    "PartOf",
+    "CreatedBy",
+    "RelatedTo",
+    "AtLocation",
+    "HasA",
+    "MadeOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "book",
+  "single_word_validated": true
+}

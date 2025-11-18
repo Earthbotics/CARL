@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1758329802.99564,
+  "edges": [
+    {
+      "target": "practical",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/virtual/a/wn/,/c/en/practical/a/wn/]"
+    },
+    {
+      "target": "essential",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/virtual/a/wn/,/c/en/essential/a/wn/]"
+    },
+    {
+      "target": "real",
+      "relationship": "Antonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Antonym/,/c/en/virtual/a/,/c/en/real/]"
+    },
+    {
+      "target": "subclass",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/virtual/a/,/c/en/subclass/]"
+    },
+    {
+      "target": "reality",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/virtual/a/,/c/en/reality/]"
+    },
+    {
+      "target": "quasi",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/virtual/a/,/c/fr/quasi/]"
+    },
+    {
+      "target": "member function",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/virtual/n/,/c/en/member_function/]"
+    },
+    {
+      "target": "particle",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/virtual/a/,/c/en/particle/]"
+    },
+    {
+      "target": "physics",
+      "relationship": "HasContext",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasContext/,/c/en/virtual/a/,/c/en/physics/]"
+    },
+    {
+      "target": "legal",
+      "relationship": "Antonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Antonym/,/c/en/virtual/a/,/c/en/legal/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "SimilarTo",
+    "Antonym",
+    "RelatedTo",
+    "HasContext"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "virtual",
+  "single_word_validated": true
+}

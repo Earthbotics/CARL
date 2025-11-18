@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1757386489.137276,
+  "edges": [
+    {
+      "target": "left-hand",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/left/a/wn/,/c/en/left_hand/a/wn/]"
+    },
+    {
+      "target": "left-hand",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/left/a/wn/,/c/en/left_hand/a/wn/]"
+    },
+    {
+      "target": "hand",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/left/n/wn/body/,/c/en/hand/n/wn/body/]"
+    },
+    {
+      "target": "position",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/left/n/wn/location/,/c/en/position/n/wn/location/]"
+    },
+    {
+      "target": "liberal",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/left/a/wn/,/c/en/liberal/a/wn/]"
+    },
+    {
+      "target": "left-of-center",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/left/a/wn/,/c/en/left_of_center/a/wn/]"
+    },
+    {
+      "target": "leftmost",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/left/a/wn/,/c/en/leftmost/a/wn/]"
+    },
+    {
+      "target": "socialist",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/left/a/wn/,/c/en/socialist/a/wn/]"
+    },
+    {
+      "target": "left field",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/left/n/wn/artifact/,/c/en/left_field/n/wn/artifact/]"
+    },
+    {
+      "target": "larboard",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/left/a/wn/,/c/en/larboard/a/wn/]"
+    }
+  ],
+  "relationships": [
+    "SimilarTo",
+    "Synonym",
+    "IsA",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "left",
+  "single_word_validated": true
+}

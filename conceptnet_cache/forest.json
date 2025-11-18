@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1755967054.9168718,
+  "edges": [
+    {
+      "target": "trees",
+      "relationship": "RelatedTo",
+      "weight": 4.562017097732099,
+      "uri": "/a/[/r/RelatedTo/,/c/en/forest/,/c/en/trees/]"
+    },
+    {
+      "target": "many trees",
+      "relationship": "HasA",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/HasA/,/c/en/forest/,/c/en/many_trees/]"
+    },
+    {
+      "target": "woods",
+      "relationship": "RelatedTo",
+      "weight": 3.3093806066996887,
+      "uri": "/a/[/r/RelatedTo/,/c/en/forest/,/c/en/woods/]"
+    },
+    {
+      "target": "a natural growth area",
+      "relationship": "IsA",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/IsA/,/c/en/forest/,/c/en/natural_growth_area/]"
+    },
+    {
+      "target": "the earth",
+      "relationship": "AtLocation",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/AtLocation/,/c/en/forest/,/c/en/earth/]"
+    },
+    {
+      "target": "wood",
+      "relationship": "RelatedTo",
+      "weight": 2.4141251003210247,
+      "uri": "/a/[/r/RelatedTo/,/c/en/forest/,/c/en/wood/]"
+    },
+    {
+      "target": "many trees",
+      "relationship": "RelatedTo",
+      "weight": 2.366431913239847,
+      "uri": "/a/[/r/RelatedTo/,/c/en/forest/,/c/en/many_trees/]"
+    },
+    {
+      "target": "\u0161uma",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/forest/n/,/c/sh/\u0161uma/]"
+    },
+    {
+      "target": "the countryside",
+      "relationship": "AtLocation",
+      "weight": 2.0,
+      "uri": "/a/[/r/AtLocation/,/c/en/forest/,/c/en/countryside/]"
+    },
+    {
+      "target": "les",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/forest/n/,/c/sh/les/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "HasA",
+    "IsA",
+    "AtLocation",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "forest",
+  "single_word_validated": true
+}

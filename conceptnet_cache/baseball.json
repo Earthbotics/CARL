@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1757720371.8408296,
+  "edges": [
+    {
+      "target": "a sport",
+      "relationship": "IsA",
+      "weight": 22.891046284519195,
+      "uri": "/a/[/r/IsA/,/c/en/baseball/,/c/en/sport/]"
+    },
+    {
+      "target": "a game",
+      "relationship": "IsA",
+      "weight": 7.745966692414834,
+      "uri": "/a/[/r/IsA/,/c/en/baseball/,/c/en/game/]"
+    },
+    {
+      "target": "an american pastime",
+      "relationship": "IsA",
+      "weight": 6.0,
+      "uri": "/a/[/r/IsA/,/c/en/baseball/,/c/en/american_pastime/]"
+    },
+    {
+      "target": "playing baseball",
+      "relationship": "UsedFor",
+      "weight": 4.898979485566356,
+      "uri": "/a/[/r/UsedFor/,/c/en/baseball/,/c/en/playing_baseball/]"
+    },
+    {
+      "target": "an american sport",
+      "relationship": "IsA",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/IsA/,/c/en/baseball/,/c/en/american_sport/]"
+    },
+    {
+      "target": "round",
+      "relationship": "HasProperty",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/HasProperty/,/c/en/baseball/,/c/en/round/]"
+    },
+    {
+      "target": "a game people play",
+      "relationship": "IsA",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/IsA/,/c/en/baseball/,/c/en/game_people_play/]"
+    },
+    {
+      "target": "a park",
+      "relationship": "AtLocation",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/AtLocation/,/c/en/baseball/,/c/en/park/]"
+    },
+    {
+      "target": "baseball equipment",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/baseball/n/wn/artifact/,/c/en/baseball_equipment/n/wn/baseball/]"
+    },
+    {
+      "target": "break a window",
+      "relationship": "UsedFor",
+      "weight": 2.0,
+      "uri": "/a/[/r/UsedFor/,/c/en/baseball/,/c/en/break_window/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "UsedFor",
+    "HasProperty",
+    "AtLocation"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "baseball",
+  "single_word_validated": true
+}

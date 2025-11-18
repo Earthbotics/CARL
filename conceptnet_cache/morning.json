@@ -1,0 +1,72 @@
+{
+  "has_data": true,
+  "last_lookup": 1761658967.1924884,
+  "edges": [
+    {
+      "target": "day",
+      "relationship": "RelatedTo",
+      "weight": 7.286700213402497,
+      "uri": "/a/[/r/RelatedTo/,/c/en/morning/,/c/en/day/]"
+    },
+    {
+      "target": "time",
+      "relationship": "RelatedTo",
+      "weight": 6.655524021442638,
+      "uri": "/a/[/r/RelatedTo/,/c/en/morning/,/c/en/time/]"
+    },
+    {
+      "target": "early",
+      "relationship": "RelatedTo",
+      "weight": 6.4933812455453435,
+      "uri": "/a/[/r/RelatedTo/,/c/en/morning/,/c/en/early/]"
+    },
+    {
+      "target": "sunrise",
+      "relationship": "RelatedTo",
+      "weight": 4.8559242168715935,
+      "uri": "/a/[/r/RelatedTo/,/c/en/morning/,/c/en/sunrise/]"
+    },
+    {
+      "target": "dawn",
+      "relationship": "RelatedTo",
+      "weight": 3.856941793701326,
+      "uri": "/a/[/r/RelatedTo/,/c/en/morning/,/c/en/dawn/]"
+    },
+    {
+      "target": "before",
+      "relationship": "RelatedTo",
+      "weight": 3.7271973384837036,
+      "uri": "/a/[/r/RelatedTo/,/c/en/morning/,/c/en/before/]"
+    },
+    {
+      "target": "early day",
+      "relationship": "RelatedTo",
+      "weight": 3.7191396854649064,
+      "uri": "/a/[/r/RelatedTo/,/c/en/morning/,/c/en/early_day/]"
+    },
+    {
+      "target": "sun",
+      "relationship": "RelatedTo",
+      "weight": 3.3520143197784815,
+      "uri": "/a/[/r/RelatedTo/,/c/en/morning/,/c/en/sun/]"
+    },
+    {
+      "target": "up",
+      "relationship": "RelatedTo",
+      "weight": 2.639696952303426,
+      "uri": "/a/[/r/RelatedTo/,/c/en/morning/,/c/en/up/]"
+    },
+    {
+      "target": "daytime",
+      "relationship": "RelatedTo",
+      "weight": 2.6038433132583076,
+      "uri": "/a/[/r/RelatedTo/,/c/en/morning/,/c/en/daytime/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "morning",
+  "single_word_validated": true
+}

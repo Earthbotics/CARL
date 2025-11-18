@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1757082823.8756225,
+  "edges": [
+    {
+      "target": "practice",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/pattern/n/wn/act/,/c/en/practice/n/wn/act/]"
+    },
+    {
+      "target": "model",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/pattern/v/wn/creation/,/c/en/model/v/wn/creation/]"
+    },
+    {
+      "target": "exemplar",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/pattern/n/wn/cognition/,/c/en/exemplar/n/wn/cognition/]"
+    },
+    {
+      "target": "convention",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/pattern/n/wn/cognition/,/c/en/convention/n/wn/cognition/]"
+    },
+    {
+      "target": "blueprint",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/pattern/n/wn/cognition/,/c/en/blueprint/n/wn/cognition/]"
+    },
+    {
+      "target": "radiation pattern",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/pattern/n/wn/communication/,/c/en/radiation_pattern/n/wn/communication/]"
+    },
+    {
+      "target": "traffic pattern",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/pattern/n/wn/location/,/c/en/traffic_pattern/n/wn/location/]"
+    },
+    {
+      "target": "match",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/pattern/v/wn/stative/,/c/en/match/v/wn/stative/]"
+    },
+    {
+      "target": "design",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/pattern/n/wn/artifact/,/c/en/design/n/wn/artifact/]"
+    },
+    {
+      "target": "form",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/pattern/n/wn/cognition/,/c/en/form/n/wn/cognition/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "IsA",
+    "MannerOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "pattern",
+  "single_word_validated": true
+}

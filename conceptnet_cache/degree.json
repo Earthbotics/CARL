@@ -1,0 +1,72 @@
+{
+  "has_data": true,
+  "last_lookup": 1757386489.7056503,
+  "edges": [
+    {
+      "target": "temperature",
+      "relationship": "RelatedTo",
+      "weight": 7.824065439399135,
+      "uri": "/a/[/r/RelatedTo/,/c/en/degree/,/c/en/temperature/]"
+    },
+    {
+      "target": "measurement",
+      "relationship": "RelatedTo",
+      "weight": 6.093931407556209,
+      "uri": "/a/[/r/RelatedTo/,/c/en/degree/,/c/en/measurement/]"
+    },
+    {
+      "target": "college",
+      "relationship": "RelatedTo",
+      "weight": 5.514707607842867,
+      "uri": "/a/[/r/RelatedTo/,/c/en/degree/,/c/en/college/]"
+    },
+    {
+      "target": "diploma",
+      "relationship": "RelatedTo",
+      "weight": 5.0307057159011,
+      "uri": "/a/[/r/RelatedTo/,/c/en/degree/,/c/en/diploma/]"
+    },
+    {
+      "target": "unit",
+      "relationship": "RelatedTo",
+      "weight": 4.438918787272414,
+      "uri": "/a/[/r/RelatedTo/,/c/en/degree/,/c/en/unit/]"
+    },
+    {
+      "target": "university",
+      "relationship": "RelatedTo",
+      "weight": 4.106093033529562,
+      "uri": "/a/[/r/RelatedTo/,/c/en/degree/,/c/en/university/]"
+    },
+    {
+      "target": "qualification",
+      "relationship": "RelatedTo",
+      "weight": 3.9989998749687405,
+      "uri": "/a/[/r/RelatedTo/,/c/en/degree/,/c/en/qualification/]"
+    },
+    {
+      "target": "measure",
+      "relationship": "RelatedTo",
+      "weight": 3.9207142206490904,
+      "uri": "/a/[/r/RelatedTo/,/c/en/degree/,/c/en/measure/]"
+    },
+    {
+      "target": "certificate",
+      "relationship": "RelatedTo",
+      "weight": 3.8105117766515306,
+      "uri": "/a/[/r/RelatedTo/,/c/en/degree/,/c/en/certificate/]"
+    },
+    {
+      "target": "masters",
+      "relationship": "RelatedTo",
+      "weight": 3.023243291566195,
+      "uri": "/a/[/r/RelatedTo/,/c/en/degree/,/c/en/masters/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "degree",
+  "single_word_validated": true
+}

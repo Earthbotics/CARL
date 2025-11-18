@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1758059061.3551798,
+  "edges": [
+    {
+      "target": "variable",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/unknown/n/wn/communication/,/c/en/variable/n/wn/communication/]"
+    },
+    {
+      "target": "unbekannt",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/unknown/a/,/c/de/unbekannt/]"
+    },
+    {
+      "target": "unbeknownst",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/unknown/a/wn/,/c/en/unbeknownst/a/wn/]"
+    },
+    {
+      "target": "unidentified",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/unknown/a/wn/,/c/en/unidentified/a/wn/]"
+    },
+    {
+      "target": "unheard-of",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/unknown/a/wn/,/c/en/unheard_of/a/wn/]"
+    },
+    {
+      "target": "strange",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/unknown/a/wn/,/c/en/strange/a/wn/]"
+    },
+    {
+      "target": "unfamiliar",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/unknown/a/wn/,/c/en/unfamiliar/a/wn/]"
+    },
+    {
+      "target": "undiagnosed",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/unknown/a/wn/,/c/en/undiagnosed/a/wn/]"
+    },
+    {
+      "target": "undiscovered",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/unknown/a/wn/,/c/en/undiscovered/a/wn/]"
+    },
+    {
+      "target": "unsuspected",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/unknown/a/wn/,/c/en/unsuspected/a/wn/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "Synonym",
+    "SimilarTo",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "unknown",
+  "single_word_validated": true
+}

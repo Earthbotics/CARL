@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1757432598.0566123,
+  "edges": [
+    {
+      "target": "Napoleon",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/nap/n/wn/act/,/c/en/napoleon/n/wn/act/]"
+    },
+    {
+      "target": "sleep",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/nap/v/wn/body/,/c/en/sleep/v/wn/body/]"
+    },
+    {
+      "target": "sleeping",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/nap/n/wn/act/,/c/en/sleeping/n/wn/act/]"
+    },
+    {
+      "target": "sleep",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/nap/n/wn/time/,/c/en/sleep/n/wn/time/]"
+    },
+    {
+      "target": "pile",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/nap/n/wn/artifact/,/c/en/pile/n/wn/artifact/]"
+    },
+    {
+      "target": "dremka",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/nap/n/wikt/en_1/,/c/sh/dremka/]"
+    },
+    {
+      "target": "texture",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/nap/n/wn/attribute/,/c/en/texture/n/wn/attribute/]"
+    },
+    {
+      "target": "...a time of rest",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/nap/,/c/en/time_of_rest/]"
+    },
+    {
+      "target": "flor",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/nap/n/wikt/en_2/,/c/de/flor/]"
+    },
+    {
+      "target": "soft",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/nap/n/wikt/en_2/,/c/en/soft/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "MannerOf",
+    "IsA",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "nap",
+  "single_word_validated": true
+}

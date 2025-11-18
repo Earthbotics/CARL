@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1754710663.1493003,
+  "edges": [
+    {
+      "target": "status",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/position/n/wn/state/,/c/en/status/n/wn/state/]"
+    },
+    {
+      "target": "occupation",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/position/n/wn/act/,/c/en/occupation/n/wn/act/]"
+    },
+    {
+      "target": "sport",
+      "relationship": "HasContext",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasContext/,/c/en/position/n/wn/sport/,/c/en/sport/n/wn/act/]"
+    },
+    {
+      "target": "orientation",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/position/n/wn/cognition/,/c/en/orientation/n/wn/cognition/]"
+    },
+    {
+      "target": "place",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/position/n/wn/communication/,/c/en/place/n/wn/communication/]"
+    },
+    {
+      "target": "bodily property",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/position/n/wn/attribute/,/c/en/bodily_property/n/wn/attribute/]"
+    },
+    {
+      "target": "military position",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/position/n/wn/military/,/c/en/military_position/n/wn/military/]"
+    },
+    {
+      "target": "assumption",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/position/n/wn/act/,/c/en/assumption/n/wn/act/]"
+    },
+    {
+      "target": "attitude",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/position/n/wn/cognition/,/c/en/attitude/n/wn/cognition/]"
+    },
+    {
+      "target": "role",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/position/n/wn/sport/,/c/en/role/n/wn/act/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "IsA",
+    "HasContext"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "position",
+  "single_word_validated": true
+}

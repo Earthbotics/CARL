@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1757090380.0394487,
+  "edges": [
+    {
+      "target": "idea",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/plan/n/wn/cognition/,/c/en/idea/n/wn/cognition/]"
+    },
+    {
+      "target": "think",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/plan/v/wn/cognition/,/c/en/think/v/wn/cognition/]"
+    },
+    {
+      "target": "design",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/plan/n/wn/cognition/,/c/en/design/n/wn/cognition/]"
+    },
+    {
+      "target": "intend",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/plan/v/wn/cognition/,/c/en/intend/v/wn/cognition/]"
+    },
+    {
+      "target": "drawing",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/plan/n/wn/artifact/,/c/en/drawing/n/wn/artifact/]"
+    },
+    {
+      "target": "create by mental act",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/plan/v/wn/creation/,/c/en/create_by_mental_act/v/wn/creation/]"
+    },
+    {
+      "target": "design",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/plan/v/wn/creation/,/c/en/design/v/wn/creation/]"
+    },
+    {
+      "target": "strategy",
+      "relationship": "RelatedTo",
+      "weight": 1.8760000000000003,
+      "uri": "/a/[/r/RelatedTo/,/c/en/plan/,/c/en/strategy/]"
+    },
+    {
+      "target": "blueprint",
+      "relationship": "RelatedTo",
+      "weight": 1.2919999999999998,
+      "uri": "/a/[/r/RelatedTo/,/c/en/plan/,/c/en/blueprint/]"
+    },
+    {
+      "target": "scheme",
+      "relationship": "RelatedTo",
+      "weight": 1.1840000000000002,
+      "uri": "/a/[/r/RelatedTo/,/c/en/plan/,/c/en/scheme/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "MannerOf",
+    "Synonym",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "plan",
+  "single_word_validated": true
+}

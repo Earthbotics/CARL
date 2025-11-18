@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1755319965.6428666,
+  "edges": [
+    {
+      "target": "work",
+      "relationship": "RelatedTo",
+      "weight": 6.080789422435217,
+      "uri": "/a/[/r/RelatedTo/,/c/en/office/,/c/en/work/]"
+    },
+    {
+      "target": "place",
+      "relationship": "RelatedTo",
+      "weight": 4.465870575822815,
+      "uri": "/a/[/r/RelatedTo/,/c/en/office/,/c/en/place/]"
+    },
+    {
+      "target": "work",
+      "relationship": "UsedFor",
+      "weight": 4.0,
+      "uri": "/a/[/r/UsedFor/,/c/en/office/,/c/en/work/]"
+    },
+    {
+      "target": "room",
+      "relationship": "RelatedTo",
+      "weight": 3.7304155264527843,
+      "uri": "/a/[/r/RelatedTo/,/c/en/office/,/c/en/room/]"
+    },
+    {
+      "target": "a office building",
+      "relationship": "AtLocation",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/AtLocation/,/c/en/office/,/c/en/office_building/]"
+    },
+    {
+      "target": "building",
+      "relationship": "RelatedTo",
+      "weight": 3.3220475613693434,
+      "uri": "/a/[/r/RelatedTo/,/c/en/office/,/c/en/building/]"
+    },
+    {
+      "target": "workplace",
+      "relationship": "RelatedTo",
+      "weight": 2.882360144048623,
+      "uri": "/a/[/r/RelatedTo/,/c/en/office/,/c/en/workplace/]"
+    },
+    {
+      "target": "work place",
+      "relationship": "RelatedTo",
+      "weight": 2.6138094804327263,
+      "uri": "/a/[/r/RelatedTo/,/c/en/office/,/c/en/work_place/]"
+    },
+    {
+      "target": "working",
+      "relationship": "RelatedTo",
+      "weight": 2.215400640967678,
+      "uri": "/a/[/r/RelatedTo/,/c/en/office/,/c/en/working/]"
+    },
+    {
+      "target": "state",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/office/n/wn/government/,/c/en/state/n/wn/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "UsedFor",
+    "AtLocation",
+    "IsA"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "office",
+  "single_word_validated": true
+}

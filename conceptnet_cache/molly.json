@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1761757937.032143,
+  "edges": [
+    {
+      "target": "mollie",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/molly/n/wn/animal/,/c/en/mollie/n/wn/animal/]"
+    },
+    {
+      "target": "molly bolt",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/molly/n/wikt/en_1/,/c/en/molly_bolt/]"
+    },
+    {
+      "target": "woman",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/molly/n/wikt/en_1/,/c/en/woman/]"
+    },
+    {
+      "target": "fish",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/molly/n/wikt/en_2/,/c/en/fish/]"
+    },
+    {
+      "target": "mollemoke",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/molly/n/wikt/en_1/,/c/en/mollemoke/]"
+    },
+    {
+      "target": "chimbolo",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/molly/n/wikt/en_2/,/c/es/chimbolo/]"
+    },
+    {
+      "target": "guppy",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/molly/,/c/en/guppy/]"
+    },
+    {
+      "target": "she cat",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/molly/n/wikt/en_1/,/c/en/she_cat/]"
+    },
+    {
+      "target": "molly maguire",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/molly/n/,/c/en/molly_maguire/]"
+    },
+    {
+      "target": "mary",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/molly/n/,/c/en/mary/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "RelatedTo",
+    "FormOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "molly",
+  "single_word_validated": true
+}

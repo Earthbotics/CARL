@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1757522353.8895612,
+  "edges": [
+    {
+      "target": "direction",
+      "relationship": "RelatedTo",
+      "weight": 2.363895090734781,
+      "uri": "/a/[/r/RelatedTo/,/c/en/right/,/c/en/direction/]"
+    },
+    {
+      "target": "correct",
+      "relationship": "RelatedTo",
+      "weight": 2.2882307575941727,
+      "uri": "/a/[/r/RelatedTo/,/c/en/right/,/c/en/correct/]"
+    },
+    {
+      "target": "abstraction",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/right/n/wn/attribute/,/c/en/abstraction/n/wn/cognition/]"
+    },
+    {
+      "target": "change",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/right/v/wn/social/,/c/en/change/v/wn/change/]"
+    },
+    {
+      "target": "opportune",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/right/a/wn/,/c/en/opportune/a/wn/]"
+    },
+    {
+      "target": "right on",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/right/r/wn/,/c/en/right_on/r/wn/]"
+    },
+    {
+      "target": "conservative",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/right/a/wn/,/c/en/conservative/a/wn/]"
+    },
+    {
+      "target": "correct",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/right/v/wn/change/,/c/en/correct/v/wn/change/]"
+    },
+    {
+      "target": "change posture",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/right/v/wn/motion/,/c/en/change_posture/v/wn/motion/]"
+    },
+    {
+      "target": "outside",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/right/a/wn/,/c/en/outside/a/wn/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "IsA",
+    "MannerOf",
+    "SimilarTo",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "right",
+  "single_word_validated": true
+}

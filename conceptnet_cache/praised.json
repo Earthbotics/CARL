@@ -1,0 +1,44 @@
+{
+  "has_data": true,
+  "last_lookup": 1755967289.3173795,
+  "edges": [
+    {
+      "target": "praise",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/praised/,/c/en/praise/v/]"
+    },
+    {
+      "target": "praise",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/praised/v/,/c/en/praise/]"
+    },
+    {
+      "target": "praise",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/praised/v/,/c/en/praise/]"
+    },
+    {
+      "target": "praised",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/praised/,/http://en.wiktionary.org/wiki/praised/]"
+    },
+    {
+      "target": "praised",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/praised/,/http://fr.wiktionary.org/wiki/praised/]"
+    }
+  ],
+  "relationships": [
+    "FormOf",
+    "RelatedTo",
+    "ExternalURL"
+  ],
+  "total_edges_found": 5,
+  "concept_queried": "praised",
+  "single_word_validated": true
+}

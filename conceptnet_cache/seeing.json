@@ -1,0 +1,77 @@
+{
+  "has_data": true,
+  "last_lookup": 1760363551.3364284,
+  "edges": [
+    {
+      "target": "a sense",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/seeing/,/c/en/sense/]"
+    },
+    {
+      "target": "eyesight",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/seeing/n/wn/cognition/,/c/en/eyesight/n/wn/cognition/]"
+    },
+    {
+      "target": "visual perception",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/seeing/n/wn/cognition/,/c/en/visual_perception/n/wn/cognition/]"
+    },
+    {
+      "target": "sighted",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/seeing/a/wn/,/c/en/sighted/a/wn/]"
+    },
+    {
+      "target": "vision",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/seeing/a/wikt/en_1/,/c/en/vision/]"
+    },
+    {
+      "target": "eyesight",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/seeing/n/wikt/en_1/,/c/en/eyesight/]"
+    },
+    {
+      "target": "light",
+      "relationship": "HasPrerequisite",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasPrerequisite/,/c/en/seeing/,/c/en/light/]"
+    },
+    {
+      "target": "mouvement",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/seeing/n/,/c/fr/mouvement/]"
+    },
+    {
+      "target": "terrestre",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/seeing/n/,/c/fr/terrestre/]"
+    },
+    {
+      "target": "slang",
+      "relationship": "HasContext",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasContext/,/c/en/seeing/,/c/en/slang/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "Synonym",
+    "SimilarTo",
+    "RelatedTo",
+    "HasPrerequisite",
+    "HasContext"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "seeing",
+  "single_word_validated": true
+}

@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1757445540.1982152,
+  "edges": [
+    {
+      "target": "reversed",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/turned/a/wn/,/c/en/reversed/a/wn/]"
+    },
+    {
+      "target": "revolved",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/turned/a/wn/,/c/en/revolved/a/wn/]"
+    },
+    {
+      "target": "soured",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/turned/a/wn/,/c/en/soured/a/wn/]"
+    },
+    {
+      "target": "overturned",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/turned/a/wn/,/c/en/overturned/a/wn/]"
+    },
+    {
+      "target": "upside-down",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/turned/a/wn/,/c/en/upside_down/a/wn/]"
+    },
+    {
+      "target": "wrong-side-out",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/turned/a/wn/,/c/en/wrong_side_out/a/wn/]"
+    },
+    {
+      "target": "302476609-a",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/turned/a/wn/,/http://wordnet-rdf.princeton.edu/wn31/302476609-a/]"
+    },
+    {
+      "target": "turn",
+      "relationship": "DerivedFrom",
+      "weight": 1.0,
+      "uri": "/a/[/r/DerivedFrom/,/c/en/turned/,/c/en/turn/]"
+    },
+    {
+      "target": "tables+are+turned-p#Component-3",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/turned/,/http://wordnet-rdf.princeton.edu/wn31/tables+are+turned-p#Component-3/]"
+    },
+    {
+      "target": "302378437-s",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/turned/a/wn/,/http://wordnet-rdf.princeton.edu/wn31/302378437-s/]"
+    }
+  ],
+  "relationships": [
+    "SimilarTo",
+    "ExternalURL",
+    "DerivedFrom"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "turned",
+  "single_word_validated": true
+}

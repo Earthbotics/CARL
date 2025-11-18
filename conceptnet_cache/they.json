@@ -1,0 +1,72 @@
+{
+  "has_data": true,
+  "last_lookup": 1759801086.9762218,
+  "edges": [
+    {
+      "target": "ona",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/they/n/wikt/en_1/,/c/sh/ona/]"
+    },
+    {
+      "target": "oni",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/they/n/wikt/en_1/,/c/sh/oni/]"
+    },
+    {
+      "target": "one",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/they/n/wikt/en_1/,/c/sh/one/]"
+    },
+    {
+      "target": "he or she",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/they/n/,/c/en/he_or_she/]"
+    },
+    {
+      "target": "jie",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/they/n/wikt/en_1/,/c/lt/jie/]"
+    },
+    {
+      "target": "tiuj",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/they/n/wikt/en_1/,/c/eo/tiuj/]"
+    },
+    {
+      "target": "s\u00fau",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/they/n/wikt/en_1/,/c/ha/s\u00fau/]"
+    },
+    {
+      "target": "\u0647\u063a\u0648\u06cc",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/they/n/wikt/en_1/,/c/ps/\u0647\u063a\u0648\u06cc/]"
+    },
+    {
+      "target": "\u0c85\u0cb5\u0cc1\u0c97\u0cb3\u0cc1",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/they/n/wikt/en_1/,/c/kn/\u0c85\u0cb5\u0cc1\u0c97\u0cb3\u0cc1/]"
+    },
+    {
+      "target": "\u0647\u0646",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/they/n/wikt/en_1/,/c/ar/\u0647\u0646/]"
+    }
+  ],
+  "relationships": [
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "they",
+  "single_word_validated": true
+}

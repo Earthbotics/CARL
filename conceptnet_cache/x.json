@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1757528438.755414,
+  "edges": [
+    {
+      "target": "mark the spot",
+      "relationship": "CapableOf",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/CapableOf/,/c/en/x/,/c/en/mark_spot/]"
+    },
+    {
+      "target": "letter",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/x/n/wn/communication/,/c/en/letter/n/wn/communication/]"
+    },
+    {
+      "target": "Adam",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/x/n/wn/artifact/,/c/en/adam/n/wn/artifact/]"
+    },
+    {
+      "target": "10",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/x/a/wn/,/c/en/10/a/wn/]"
+    },
+    {
+      "target": "ten",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/x/n/wn/quantity/,/c/en/ten/n/wn/quantity/]"
+    },
+    {
+      "target": "equal to 10",
+      "relationship": "HasProperty",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasProperty/,/c/en/x/,/c/en/equal_to_10/]"
+    },
+    {
+      "target": "colorim\u00e9trie",
+      "relationship": "HasContext",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasContext/,/c/en/x/n/wikt/fr_2/,/c/fr/colorim\u00e9trie/]"
+    },
+    {
+      "target": "slang",
+      "relationship": "HasContext",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasContext/,/c/en/x/n/wikt/en_3/,/c/en/slang/]"
+    },
+    {
+      "target": "databases",
+      "relationship": "HasContext",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasContext/,/c/en/x/n/wikt/en_8/,/c/en/databases/]"
+    },
+    {
+      "target": "suojatie",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/x/n/wikt/en_6/,/c/fi/suojatie/]"
+    }
+  ],
+  "relationships": [
+    "CapableOf",
+    "IsA",
+    "Synonym",
+    "HasProperty",
+    "HasContext"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "x",
+  "single_word_validated": true
+}

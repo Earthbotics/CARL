@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1759801315.6260273,
+  "edges": [
+    {
+      "target": "skin care",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/facial/n/wn/act/,/c/en/skin_care/n/wn/act/]"
+    },
+    {
+      "target": "beauty treatment",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/facial/n/wn/act/,/c/en/beauty_treatment/n/wn/act/]"
+    },
+    {
+      "target": "facial",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/facial/a/,/c/pt/facial/]"
+    },
+    {
+      "target": "facciale",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/facial/a/,/c/it/facciale/]"
+    },
+    {
+      "target": "face",
+      "relationship": "PartOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/PartOf/,/c/en/facial/n/wn/body/,/c/en/face/n/wn/body/]"
+    },
+    {
+      "target": "facial",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/facial/a/,/c/fr/facial/]"
+    },
+    {
+      "target": "cranial nerve",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/facial/n/wn/body/,/c/en/cranial_nerve/n/wn/body/]"
+    },
+    {
+      "target": "facial",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/facial/a/,/c/es/facial/]"
+    },
+    {
+      "target": "\u04e9\u04a3\u04af",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/facial/a/,/c/ky/\u04e9\u04a3\u04af/]"
+    },
+    {
+      "target": "\u043b\u0438\u0446\u0435\u0432",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/facial/a/,/c/bg/\u043b\u0438\u0446\u0435\u0432/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "Synonym",
+    "PartOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "facial",
+  "single_word_validated": true
+}

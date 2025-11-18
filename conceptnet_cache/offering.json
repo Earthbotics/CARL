@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1757528190.93736,
+  "edges": [
+    {
+      "target": "oblation",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/offering/n/wn/act/,/c/en/oblation/n/wn/act/]"
+    },
+    {
+      "target": "contribution",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/offering/n/wn/possession/,/c/en/contribution/n/wn/possession/]"
+    },
+    {
+      "target": "offer",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/offering/n/wn/communication/,/c/en/offer/n/wn/communication/]"
+    },
+    {
+      "target": "offre",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/offering/n/,/c/fr/offre/]"
+    },
+    {
+      "target": "offer",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/offering/n/,/c/en/offer/]"
+    },
+    {
+      "target": "offer",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/offering/,/c/en/offer/v/]"
+    },
+    {
+      "target": "ofrecemento",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/offering/n/,/c/gl/ofrecemento/]"
+    },
+    {
+      "target": "worshiping",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/offering/n/,/c/en/worshiping/n/]"
+    },
+    {
+      "target": "service",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/offering/n/,/c/en/service/]"
+    },
+    {
+      "target": "uhraaminen",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/offering/n/,/c/fi/uhraaminen/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "IsA",
+    "RelatedTo",
+    "FormOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "offering",
+  "single_word_validated": true
+}

@@ -1,0 +1,78 @@
+{
+  "has_data": true,
+  "last_lookup": 1757632696.3252828,
+  "edges": [
+    {
+      "target": "a number",
+      "relationship": "IsA",
+      "weight": 4.47213595499958,
+      "uri": "/a/[/r/IsA/,/c/en/1/,/c/en/number/]"
+    },
+    {
+      "target": "cardinal",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/1/a/wn/,/c/en/cardinal/a/wn/]"
+    },
+    {
+      "target": "Abstaction",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/1/,/c/en/abstaction/]"
+    },
+    {
+      "target": "a1",
+      "relationship": "FormOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/FormOf/,/c/en/1/a/,/c/en/a1/]"
+    },
+    {
+      "target": "one",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/1/n/wn/quantity/,/c/en/one/n/wn/quantity/]"
+    },
+    {
+      "target": "military",
+      "relationship": "HasContext",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasContext/,/c/en/1/n/,/c/en/military/]"
+    },
+    {
+      "target": "internet",
+      "relationship": "HasContext",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasContext/,/c/en/1/,/c/en/internet/]"
+    },
+    {
+      "target": "one",
+      "relationship": "HasProperty",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasProperty/,/c/en/1/,/c/en/one/]"
+    },
+    {
+      "target": "a higher number than 0",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/1/,/c/en/higher_number_than_0/]"
+    },
+    {
+      "target": "Q199",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/1/n/wp/number/,/http://wikidata.dbpedia.org/resource/Q199/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "SimilarTo",
+    "FormOf",
+    "Synonym",
+    "HasContext",
+    "HasProperty",
+    "ExternalURL"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "1",
+  "single_word_validated": true
+}

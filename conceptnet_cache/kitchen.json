@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1755319080.3705912,
+  "edges": [
+    {
+      "target": "cooking food",
+      "relationship": "UsedFor",
+      "weight": 4.47213595499958,
+      "uri": "/a/[/r/UsedFor/,/c/en/kitchen/,/c/en/cooking_food/]"
+    },
+    {
+      "target": "a room in a house",
+      "relationship": "IsA",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/IsA/,/c/en/kitchen/,/c/en/room_in_house/]"
+    },
+    {
+      "target": "room",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/kitchen/n/wn/artifact/,/c/en/room/n/wn/artifact/]"
+    },
+    {
+      "target": "a resturant",
+      "relationship": "AtLocation",
+      "weight": 2.0,
+      "uri": "/a/[/r/AtLocation/,/c/en/kitchen/,/c/en/resturant/]"
+    },
+    {
+      "target": "cook",
+      "relationship": "UsedFor",
+      "weight": 2.0,
+      "uri": "/a/[/r/UsedFor/,/c/en/kitchen/,/c/en/cook/]"
+    },
+    {
+      "target": "storing food",
+      "relationship": "UsedFor",
+      "weight": 2.0,
+      "uri": "/a/[/r/UsedFor/,/c/en/kitchen/,/c/en/storing_food/]"
+    },
+    {
+      "target": "a friend's house",
+      "relationship": "AtLocation",
+      "weight": 2.0,
+      "uri": "/a/[/r/AtLocation/,/c/en/kitchen/,/c/en/friend's_house/]"
+    },
+    {
+      "target": "kuhinja",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/kitchen/n/,/c/sh/kuhinja/]"
+    },
+    {
+      "target": "a place for food preparation",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/kitchen/,/c/en/place_for_food_preparation/]"
+    },
+    {
+      "target": "dwelling",
+      "relationship": "PartOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/PartOf/,/c/en/kitchen/n/wn/artifact/,/c/en/dwelling/n/wn/artifact/]"
+    }
+  ],
+  "relationships": [
+    "UsedFor",
+    "IsA",
+    "AtLocation",
+    "Synonym",
+    "PartOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "kitchen",
+  "single_word_validated": true
+}

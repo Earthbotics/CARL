@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1755366941.6989212,
+  "edges": [
+    {
+      "target": "math",
+      "relationship": "RelatedTo",
+      "weight": 2.73934298692223,
+      "uri": "/a/[/r/RelatedTo/,/c/en/add/,/c/en/math/]"
+    },
+    {
+      "target": "form",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/add/v/wn/stative/,/c/en/form/v/wn/stative/]"
+    },
+    {
+      "target": "lend",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/add/v/wn/possession/,/c/en/lend/v/wn/possession/]"
+    },
+    {
+      "target": "arithmetic",
+      "relationship": "HasContext",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasContext/,/c/en/add/v/wn/arithmetic/,/c/en/arithmetic/n/wn/mathematics/]"
+    },
+    {
+      "target": "state",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/add/v/wn/communication/,/c/en/state/v/wn/communication/]"
+    },
+    {
+      "target": "calculate",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/add/v/wn/arithmetic/,/c/en/calculate/v/wn/mathematics/]"
+    },
+    {
+      "target": "increase",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/add/v/wn/change/,/c/en/increase/v/wn/change/]"
+    },
+    {
+      "target": "total",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/add/v/wn/communication/,/c/en/total/v/wn/communication/]"
+    },
+    {
+      "target": "attention deficit disorder",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/add/n/wn/state/,/c/en/attention_deficit_disorder/n/wn/state/]"
+    },
+    {
+      "target": "sum",
+      "relationship": "RelatedTo",
+      "weight": 1.685,
+      "uri": "/a/[/r/RelatedTo/,/c/en/add/,/c/en/sum/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "MannerOf",
+    "Synonym",
+    "HasContext"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "add",
+  "single_word_validated": true
+}

@@ -1,0 +1,77 @@
+{
+  "has_data": true,
+  "last_lookup": 1761278269.504873,
+  "edges": [
+    {
+      "target": "employment",
+      "relationship": "RelatedTo",
+      "weight": 2.178990591994376,
+      "uri": "/a/[/r/RelatedTo/,/c/en/job/,/c/en/employment/]"
+    },
+    {
+      "target": "product",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/job/n/wn/artifact/,/c/en/product/n/wn/artifact/]"
+    },
+    {
+      "target": "Hagiographa",
+      "relationship": "PartOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/PartOf/,/c/en/job/n/wn/communication/,/c/en/hagiographa/n/wn/communication/]"
+    },
+    {
+      "target": "problem",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/job/n/wn/state/,/c/en/problem/n/wn/state/]"
+    },
+    {
+      "target": "work",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/job/v/wn/social/,/c/en/work/v/wn/social/]"
+    },
+    {
+      "target": "application",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/job/n/wn/computer_science/,/c/en/application/n/wn/communication/]"
+    },
+    {
+      "target": "Old Testament",
+      "relationship": "PartOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/PartOf/,/c/en/job/n/wn/communication/,/c/en/old_testament/n/wn/communication/]"
+    },
+    {
+      "target": "computer science",
+      "relationship": "HasContext",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasContext/,/c/en/job/n/wn/computer_science/,/c/en/computer_science/n/wn/computer/]"
+    },
+    {
+      "target": "duty",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/job/n/wn/act/,/c/en/duty/n/wn/act/]"
+    },
+    {
+      "target": "occupation",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/job/n/wn/act/,/c/en/occupation/n/wn/act/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "IsA",
+    "PartOf",
+    "Synonym",
+    "MannerOf",
+    "HasContext"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "job",
+  "single_word_validated": true
+}

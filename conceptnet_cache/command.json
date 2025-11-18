@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1754851816.245307,
+  "edges": [
+    {
+      "target": "order",
+      "relationship": "RelatedTo",
+      "weight": 4.323887140062747,
+      "uri": "/a/[/r/RelatedTo/,/c/en/command/,/c/en/order/]"
+    },
+    {
+      "target": "military unit",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/command/n/wn/military/,/c/en/military_unit/n/wn/military/]"
+    },
+    {
+      "target": "speech act",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/command/n/wn/communication/,/c/en/speech_act/n/wn/communication/]"
+    },
+    {
+      "target": "status",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/command/n/wn/state/,/c/en/status/n/wn/state/]"
+    },
+    {
+      "target": "dominate",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/command/v/wn/communication/,/c/en/dominate/v/wn/social/]"
+    },
+    {
+      "target": "military",
+      "relationship": "HasContext",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasContext/,/c/en/command/n/wn/military/,/c/en/military/n/wn/group/]"
+    },
+    {
+      "target": "handiness",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/command/n/wn/attribute/,/c/en/handiness/n/wn/attribute/]"
+    },
+    {
+      "target": "control",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/command/v/wn/social/,/c/en/control/v/wn/social/]"
+    },
+    {
+      "target": "dominate",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/command/v/wn/stative/,/c/en/dominate/v/wn/stative/]"
+    },
+    {
+      "target": "demand",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/command/v/wn/communication/,/c/en/demand/v/wn/communication/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "IsA",
+    "MannerOf",
+    "HasContext",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "command",
+  "single_word_validated": true
+}

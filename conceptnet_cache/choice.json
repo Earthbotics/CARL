@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1756340405.2406006,
+  "edges": [
+    {
+      "target": "a fork in the road",
+      "relationship": "AtLocation",
+      "weight": 4.0,
+      "uri": "/a/[/r/AtLocation/,/c/en/choice/,/c/en/fork_in_road/]"
+    },
+    {
+      "target": "tasty",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/choice/a/wn/,/c/en/tasty/a/wn/]"
+    },
+    {
+      "target": "select",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/choice/a/wn/,/c/en/select/a/wn/]"
+    },
+    {
+      "target": "action",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/choice/n/wn/act/,/c/en/action/n/wn/act/]"
+    },
+    {
+      "target": "option",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/choice/n/wn/cognition/,/c/en/option/n/wn/cognition/]"
+    },
+    {
+      "target": "decision making",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/choice/n/wn/cognition/,/c/en/decision_making/n/wn/cognition/]"
+    },
+    {
+      "target": "\u03b1\u03b9\u03c1\u03b5\u03c3\u03b9\u03c3",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/choice/n/,/c/grc/\u03b1\u03b9\u03c1\u03b5\u03c3\u03b9\u03c3/]"
+    },
+    {
+      "target": "wahl",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/choice/n/,/c/de/wahl/]"
+    },
+    {
+      "target": "delectus",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/choice/n/,/c/la/delectus/]"
+    },
+    {
+      "target": "selection",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/choice/n/,/c/en/selection/]"
+    }
+  ],
+  "relationships": [
+    "AtLocation",
+    "SimilarTo",
+    "Synonym",
+    "IsA",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "choice",
+  "single_word_validated": true
+}

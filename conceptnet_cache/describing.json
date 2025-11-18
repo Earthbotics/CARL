@@ -1,0 +1,69 @@
+{
+  "has_data": true,
+  "last_lookup": 1761758000.518301,
+  "edges": [
+    {
+      "target": "expounding",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/describing/n/,/c/en/expounding/n/]"
+    },
+    {
+      "target": "describe",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/describing/v/,/c/en/describe/]"
+    },
+    {
+      "target": "DescribingSomething",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/describing/n/,/http://sw.opencyc.org/2012/05/10/concept/en/DescribingSomething/]"
+    },
+    {
+      "target": "DescribingAnObject",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/describing/n/opencyc/describing_object/,/http://sw.opencyc.org/2012/05/10/concept/en/DescribingAnObject/]"
+    },
+    {
+      "target": "describe",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/describing/v/,/c/en/describe/]"
+    },
+    {
+      "target": "describing",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/describing/n/opencyc/describing_object/,/c/en/describing/n/]"
+    },
+    {
+      "target": "information transfer",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/describing/n/,/c/en/information_transfer/n/]"
+    },
+    {
+      "target": "describing",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/describing/,/http://en.wiktionary.org/wiki/describing/]"
+    },
+    {
+      "target": "describing",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/describing/,/http://fr.wiktionary.org/wiki/describing/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "FormOf",
+    "ExternalURL",
+    "RelatedTo"
+  ],
+  "total_edges_found": 9,
+  "concept_queried": "describing",
+  "single_word_validated": true
+}

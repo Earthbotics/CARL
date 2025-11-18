@@ -1,0 +1,77 @@
+{
+  "has_data": true,
+  "last_lookup": 1760284679.0972536,
+  "edges": [
+    {
+      "target": "coat",
+      "relationship": "RelatedTo",
+      "weight": 3.3532074197699133,
+      "uri": "/a/[/r/RelatedTo/,/c/en/jacket/,/c/en/coat/]"
+    },
+    {
+      "target": "dress",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/jacket/v/wn/body/,/c/en/dress/v/wn/body/]"
+    },
+    {
+      "target": "shell",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/jacket/n/wn/artifact/,/c/en/shell/n/wn/artifact/]"
+    },
+    {
+      "target": "potato",
+      "relationship": "PartOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/PartOf/,/c/en/jacket/n/wn/food/,/c/en/potato/n/wn/food/]"
+    },
+    {
+      "target": "coat",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/jacket/n/wn/artifact/,/c/en/coat/n/wn/artifact/]"
+    },
+    {
+      "target": "wrapping",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/jacket/n/wn/artifact/,/c/en/wrapping/n/wn/artifact/]"
+    },
+    {
+      "target": "crownwork",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/jacket/n/wn/dentistry/,/c/en/crownwork/n/wn/dentistry/]"
+    },
+    {
+      "target": "jakna",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/jacket/n/,/c/sh/jakna/]"
+    },
+    {
+      "target": "cover",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/jacket/v/wn/contact/,/c/en/cover/v/wn/contact/]"
+    },
+    {
+      "target": "a closet",
+      "relationship": "AtLocation",
+      "weight": 2.0,
+      "uri": "/a/[/r/AtLocation/,/c/en/jacket/,/c/en/closet/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "MannerOf",
+    "IsA",
+    "PartOf",
+    "Synonym",
+    "AtLocation"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "jacket",
+  "single_word_validated": true
+}

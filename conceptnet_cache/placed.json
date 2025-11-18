@@ -1,0 +1,71 @@
+{
+  "has_data": true,
+  "last_lookup": 1756770752.730775,
+  "edges": [
+    {
+      "target": "arranged",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/placed/a/wn/,/c/en/arranged/a/wn/]"
+    },
+    {
+      "target": "situated",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/placed/a/wn/,/c/en/situated/a/wn/]"
+    },
+    {
+      "target": "place",
+      "relationship": "DerivedFrom",
+      "weight": 1.0,
+      "uri": "/a/[/r/DerivedFrom/,/c/en/placed/,/c/en/place/]"
+    },
+    {
+      "target": "place",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/placed/,/c/en/place/v/]"
+    },
+    {
+      "target": "place",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/placed/v/,/c/en/place/]"
+    },
+    {
+      "target": "place",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/placed/v/,/c/en/place/]"
+    },
+    {
+      "target": "301686137-s",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/placed/a/wn/,/http://wordnet-rdf.princeton.edu/wn31/301686137-s/]"
+    },
+    {
+      "target": "placed",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/placed/,/http://fr.wiktionary.org/wiki/placed/]"
+    },
+    {
+      "target": "placed",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/placed/,/http://en.wiktionary.org/wiki/placed/]"
+    }
+  ],
+  "relationships": [
+    "SimilarTo",
+    "Synonym",
+    "DerivedFrom",
+    "FormOf",
+    "RelatedTo",
+    "ExternalURL"
+  ],
+  "total_edges_found": 9,
+  "concept_queried": "placed",
+  "single_word_validated": true
+}

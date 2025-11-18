@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1756251456.8601248,
+  "edges": [
+    {
+      "target": "fly",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/fell/v/wn/motion/,/c/en/fly/v/wn/motion/]"
+    },
+    {
+      "target": "hide",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/fell/n/wn/substance/,/c/en/hide/n/wn/substance/]"
+    },
+    {
+      "target": "seam",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/fell/n/wn/artifact/,/c/en/seam/n/wn/artifact/]"
+    },
+    {
+      "target": "sew",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/fell/v/wn/contact/,/c/en/sew/v/wn/contact/]"
+    },
+    {
+      "target": "killing",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/fell/n/wn/act/,/c/en/killing/n/wn/act/]"
+    },
+    {
+      "target": "roughshod",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/fell/a/wn/,/c/en/roughshod/a/wn/]"
+    },
+    {
+      "target": "descend",
+      "relationship": "Causes",
+      "weight": 2.0,
+      "uri": "/a/[/r/Causes/,/c/en/fell/v/wn/contact/,/c/en/descend/v/wn/motion/]"
+    },
+    {
+      "target": "cut",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/fell/v/wn/contact/,/c/en/cut/v/wn/contact/]"
+    },
+    {
+      "target": "fall",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/fell/,/c/en/fall/v/]"
+    },
+    {
+      "target": "kukkula",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/fell/n/wikt/en_3/,/c/fi/kukkula/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "IsA",
+    "MannerOf",
+    "Causes",
+    "FormOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "fell",
+  "single_word_validated": true
+}

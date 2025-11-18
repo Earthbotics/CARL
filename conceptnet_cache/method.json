@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1757082822.925635,
+  "edges": [
+    {
+      "target": "na\u010din",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/method/n/wikt/en_1/,/c/sh/na\u010din/]"
+    },
+    {
+      "target": "know-how",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/method/n/wn/cognition/,/c/en/know_how/n/wn/cognition/]"
+    },
+    {
+      "target": "method acting",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/method/n/wn/act/,/c/en/method_acting/n/wn/act/]"
+    },
+    {
+      "target": "metod",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/method/n/wikt/en_1/,/c/sh/metod/]"
+    },
+    {
+      "target": "m\u00e9todo",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/method/n/wikt/en_1/,/c/pt/m\u00e9todo/]"
+    },
+    {
+      "target": "metodo",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/method/n/wikt/en_1/,/c/eu/metodo/]"
+    },
+    {
+      "target": "d\u00f2igh",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/method/n/wikt/en_1/,/c/gd/d\u00f2igh/]"
+    },
+    {
+      "target": "met\u00f3da",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/method/n/wikt/en_1/,/c/sk/met\u00f3da/]"
+    },
+    {
+      "target": "\u05de\u05e2\u05d8\u05d0\u05d3",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/method/n/wikt/en_1/,/c/yi/\u05de\u05e2\u05d8\u05d0\u05d3/]"
+    },
+    {
+      "target": "105668113-n",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/method/n/wn/cognition/,/http://wordnet-rdf.princeton.edu/wn31/105668113-n/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "IsA",
+    "ExternalURL"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "method",
+  "single_word_validated": true
+}

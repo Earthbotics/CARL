@@ -1,0 +1,46 @@
+{
+    "name": "seek_chomp",
+    "type": "task",
+    "description": "Look for Chomp toy using vision skills",
+    "priority": 0.8,
+    "status": "pending",
+    "progress": 0.0,
+    "completed": false,
+    "associated_need": "exploration",
+    "associated_goal": "object_recognition",
+    "required_skills": ["look_forward", "look_down", "turn_left", "turn_right"],
+    "actions": [
+        {
+            "action": "look_forward",
+            "description": "Look forward to find Chomp",
+            "expected_result": "Vision: Chomp detected"
+        },
+        {
+            "action": "look_down",
+            "description": "Look down to find Chomp on ground",
+            "expected_result": "Vision: Chomp detected"
+        },
+        {
+            "action": "turn_left",
+            "description": "Turn left to scan different angle",
+            "expected_result": "New viewing angle, potential Chomp detection"
+        },
+        {
+            "action": "turn_right",
+            "description": "Turn right to scan different angle",
+            "expected_result": "New viewing angle, potential Chomp detection"
+        }
+    ],
+    "success_criteria": [
+        "Vision: Chomp detected",
+        "Object recognition successful",
+        "Memory association triggered"
+    ],
+    "created_at": "2025-09-13T15:49:00",
+    "last_updated": "2025-09-13T15:49:00",
+    "execution_context": {
+        "trigger_conditions": ["chomp_mentioned", "object_seeking_need"],
+        "completion_conditions": ["chomp_detected", "object_recognized"],
+        "failure_conditions": ["chomp_not_found", "vision_failed"]
+    }
+}

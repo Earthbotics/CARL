@@ -1,0 +1,77 @@
+{
+  "has_data": true,
+  "last_lookup": 1757689352.8017445,
+  "edges": [
+    {
+      "target": "lots of sand",
+      "relationship": "HasA",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasA/,/c/en/beach/,/c/en/lots_of_sand/]"
+    },
+    {
+      "target": "strun",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/beach/n/,/c/frr/strun/]"
+    },
+    {
+      "target": "\u017ealo",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/beach/n/,/c/sh/\u017ealo/]"
+    },
+    {
+      "target": "land",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/beach/v/wn/motion/,/c/en/land/v/wn/motion/]"
+    },
+    {
+      "target": "pla\u017ea",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/beach/n/,/c/sh/pla\u017ea/]"
+    },
+    {
+      "target": "shore",
+      "relationship": "PartOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/PartOf/,/c/en/beach/n/wn/object/,/c/en/shore/n/wn/ocean/]"
+    },
+    {
+      "target": "geological formation",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/beach/n/wn/object/,/c/en/geological_formation/n/wn/geology/]"
+    },
+    {
+      "target": "\u017eal",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/beach/n/,/c/sh/\u017eal/]"
+    },
+    {
+      "target": "sand",
+      "relationship": "RelatedTo",
+      "weight": 1.052,
+      "uri": "/a/[/r/RelatedTo/,/c/en/beach/,/c/en/sand/]"
+    },
+    {
+      "target": "\u043f\u043b\u0430\u0436",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/beach/n/,/c/bg/\u043f\u043b\u0430\u0436/]"
+    }
+  ],
+  "relationships": [
+    "HasA",
+    "Synonym",
+    "MannerOf",
+    "PartOf",
+    "IsA",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "beach",
+  "single_word_validated": true
+}

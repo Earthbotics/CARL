@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1754837767.8572814,
+  "edges": [
+    {
+      "target": "overlooking",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/commanding/a/wn/,/c/en/overlooking/a/wn/]"
+    },
+    {
+      "target": "bossy",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/commanding/a/,/c/en/bossy/]"
+    },
+    {
+      "target": "\u05e4\u05d5\u05e7\u05d3",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/commanding/a/,/c/he/\u05e4\u05d5\u05e7\u05d3/]"
+    },
+    {
+      "target": "command",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/commanding/v/,/c/en/command/]"
+    },
+    {
+      "target": "command",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/commanding/a/,/c/en/command/]"
+    },
+    {
+      "target": "command",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/commanding/v/,/c/en/command/]"
+    },
+    {
+      "target": "Commanding CommunicationAct",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/commanding/n/,/http://sw.opencyc.org/2012/05/10/concept/en/Commanding_CommunicationAct/]"
+    },
+    {
+      "target": "command",
+      "relationship": "DerivedFrom",
+      "weight": 1.0,
+      "uri": "/a/[/r/DerivedFrom/,/c/en/commanding/,/c/en/command/]"
+    },
+    {
+      "target": "\u043a\u043e\u043c\u0430\u043d\u0434\u0432\u0430\u0449",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/commanding/a/,/c/bg/\u043a\u043e\u043c\u0430\u043d\u0434\u0432\u0430\u0449/]"
+    },
+    {
+      "target": "authoritarian",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/commanding/a/,/c/en/authoritarian/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "RelatedTo",
+    "FormOf",
+    "ExternalURL",
+    "DerivedFrom"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "commanding",
+  "single_word_validated": true
+}

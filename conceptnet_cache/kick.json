@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1755366846.223146,
+  "edges": [
+    {
+      "target": "move",
+      "relationship": "Entails",
+      "weight": 2.0,
+      "uri": "/a/[/r/Entails/,/c/en/kick/v/wn/sport/,/c/en/move/v/wn/motion/]"
+    },
+    {
+      "target": "strike out",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/kick/v/wn/motion/,/c/en/strike_out/v/wn/motion/]"
+    },
+    {
+      "target": "hit",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/kick/v/wn/contact/,/c/en/hit/v/wn/contact/]"
+    },
+    {
+      "target": "bang",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/kick/n/wn/feeling/,/c/en/bang/n/wn/feeling/]"
+    },
+    {
+      "target": "football",
+      "relationship": "HasContext",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasContext/,/c/en/kick/v/wn/football/,/c/en/football/n/wn/act/]"
+    },
+    {
+      "target": "propel",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/kick/v/wn/sport/,/c/en/propel/v/wn/contact/]"
+    },
+    {
+      "target": "blow",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/kick/n/wn/act/,/c/en/blow/n/wn/act/]"
+    },
+    {
+      "target": "score",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/kick/v/wn/football/,/c/en/score/v/wn/competition/]"
+    },
+    {
+      "target": "motion",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/kick/n/wn/act/,/c/en/motion/n/wn/act/]"
+    },
+    {
+      "target": "stimulation",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/kick/n/wn/cognition/,/c/en/stimulation/n/wn/cognition/]"
+    }
+  ],
+  "relationships": [
+    "Entails",
+    "MannerOf",
+    "Synonym",
+    "HasContext",
+    "IsA"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "kick",
+  "single_word_validated": true
+}

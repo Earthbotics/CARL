@@ -1,0 +1,73 @@
+{
+  "has_data": true,
+  "last_lookup": 1756761590.247413,
+  "edges": [
+    {
+      "target": "time",
+      "relationship": "RelatedTo",
+      "weight": 5.735154749437891,
+      "uri": "/a/[/r/RelatedTo/,/c/en/year/,/c/en/time/]"
+    },
+    {
+      "target": "months",
+      "relationship": "RelatedTo",
+      "weight": 5.293014264103205,
+      "uri": "/a/[/r/RelatedTo/,/c/en/year/,/c/en/months/]"
+    },
+    {
+      "target": "twelve",
+      "relationship": "RelatedTo",
+      "weight": 4.485086398275957,
+      "uri": "/a/[/r/RelatedTo/,/c/en/year/,/c/en/twelve/]"
+    },
+    {
+      "target": "twelve months",
+      "relationship": "RelatedTo",
+      "weight": 4.263801121065568,
+      "uri": "/a/[/r/RelatedTo/,/c/en/year/,/c/en/twelve_months/]"
+    },
+    {
+      "target": "annual",
+      "relationship": "RelatedTo",
+      "weight": 3.439767433998991,
+      "uri": "/a/[/r/RelatedTo/,/c/en/year/,/c/en/annual/]"
+    },
+    {
+      "target": "days",
+      "relationship": "RelatedTo",
+      "weight": 3.235428874198906,
+      "uri": "/a/[/r/RelatedTo/,/c/en/year/,/c/en/days/]"
+    },
+    {
+      "target": "calendar",
+      "relationship": "RelatedTo",
+      "weight": 2.521110866265108,
+      "uri": "/a/[/r/RelatedTo/,/c/en/year/,/c/en/calendar/]"
+    },
+    {
+      "target": "measurement",
+      "relationship": "RelatedTo",
+      "weight": 2.451938009004306,
+      "uri": "/a/[/r/RelatedTo/,/c/en/year/,/c/en/measurement/]"
+    },
+    {
+      "target": "class",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/year/n/wn/group/,/c/en/class/n/wn/group/]"
+    },
+    {
+      "target": "twelvemonth",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/year/n/,/c/en/twelvemonth/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "year",
+  "single_word_validated": true
+}

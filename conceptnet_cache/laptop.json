@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1756770852.2339072,
+  "edges": [
+    {
+      "target": "portable computer",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/laptop/n/wn/artifact/,/c/en/portable_computer/n/wn/artifact/]"
+    },
+    {
+      "target": "laptop computer",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/laptop/n/,/c/en/laptop_computer/]"
+    },
+    {
+      "target": "prijenosnik",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/laptop/n/,/c/sh/prijenosnik/]"
+    },
+    {
+      "target": "prenosnik",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/laptop/n/,/c/sh/prenosnik/]"
+    },
+    {
+      "target": "desktop",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/laptop/n/,/c/en/desktop/]"
+    },
+    {
+      "target": "kl\u0113pjdators",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/laptop/n/,/c/lv/kl\u0113pjdators/]"
+    },
+    {
+      "target": "\u09b2\u09cd\u09af\u09be\u09aa\u099f\u09aa",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/laptop/n/,/c/bn/\u09b2\u09cd\u09af\u09be\u09aa\u099f\u09aa/]"
+    },
+    {
+      "target": "laptopi",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/laptop/n/,/c/sq/laptopi/]"
+    },
+    {
+      "target": "tekokomputilo",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/laptop/n/,/c/eo/tekokomputilo/]"
+    },
+    {
+      "target": "s\u00fclearvuti",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/laptop/n/,/c/et/s\u00fclearvuti/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "Synonym",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "laptop",
+  "single_word_validated": true
+}

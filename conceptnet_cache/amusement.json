@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1757294479.7914016,
+  "edges": [
+    {
+      "target": "entertainment",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/amusement/n/,/c/de/entertainment/]"
+    },
+    {
+      "target": "entertainment",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/amusement/n/wn/act/,/c/en/entertainment/n/wn/act/]"
+    },
+    {
+      "target": "amuse",
+      "relationship": "DerivedFrom",
+      "weight": 2.0,
+      "uri": "/a/[/r/DerivedFrom/,/c/en/amusement/,/c/en/amuse/v/]"
+    },
+    {
+      "target": "amusement",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/amusement/n/,/c/fr/amusement/]"
+    },
+    {
+      "target": "delight",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/amusement/n/wn/feeling/,/c/en/delight/n/wn/feeling/]"
+    },
+    {
+      "target": "amusement",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/amusement/n/,/c/fr/amusement/]"
+    },
+    {
+      "target": "huvittuneisuus",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/amusement/n/,/c/fi/huvittuneisuus/]"
+    },
+    {
+      "target": "harakoa",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/amusement/n/,/c/mi/harakoa/]"
+    },
+    {
+      "target": "h\u00e0i h\u01b0\u1edbc",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/amusement/n/,/c/vi/h\u00e0i_h\u01b0\u1edbc/]"
+    },
+    {
+      "target": "distraction",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/amusement/n/,/c/fr/distraction/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "DerivedFrom",
+    "IsA",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "amusement",
+  "single_word_validated": true
+}

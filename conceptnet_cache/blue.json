@@ -1,0 +1,73 @@
+{
+  "has_data": true,
+  "last_lookup": 1754883225.799434,
+  "edges": [
+    {
+      "target": "color",
+      "relationship": "RelatedTo",
+      "weight": 12.297316780501347,
+      "uri": "/a/[/r/RelatedTo/,/c/en/blue/,/c/en/color/]"
+    },
+    {
+      "target": "sky",
+      "relationship": "RelatedTo",
+      "weight": 10.814434797991062,
+      "uri": "/a/[/r/RelatedTo/,/c/en/blue/,/c/en/sky/]"
+    },
+    {
+      "target": "colour",
+      "relationship": "RelatedTo",
+      "weight": 7.290541817999538,
+      "uri": "/a/[/r/RelatedTo/,/c/en/blue/,/c/en/colour/]"
+    },
+    {
+      "target": "a color",
+      "relationship": "IsA",
+      "weight": 6.928203230275509,
+      "uri": "/a/[/r/IsA/,/c/en/blue/,/c/en/color/]"
+    },
+    {
+      "target": "sky color",
+      "relationship": "RelatedTo",
+      "weight": 4.977147777593107,
+      "uri": "/a/[/r/RelatedTo/,/c/en/blue/,/c/en/sky_color/]"
+    },
+    {
+      "target": "a colour",
+      "relationship": "IsA",
+      "weight": 4.47213595499958,
+      "uri": "/a/[/r/IsA/,/c/en/blue/,/c/en/colour/]"
+    },
+    {
+      "target": "ocean",
+      "relationship": "RelatedTo",
+      "weight": 4.3730995872493,
+      "uri": "/a/[/r/RelatedTo/,/c/en/blue/,/c/en/ocean/]"
+    },
+    {
+      "target": "water",
+      "relationship": "RelatedTo",
+      "weight": 4.0358394418014205,
+      "uri": "/a/[/r/RelatedTo/,/c/en/blue/,/c/en/water/]"
+    },
+    {
+      "target": "sea",
+      "relationship": "RelatedTo",
+      "weight": 4.012978943378597,
+      "uri": "/a/[/r/RelatedTo/,/c/en/blue/,/c/en/sea/]"
+    },
+    {
+      "target": "primary",
+      "relationship": "RelatedTo",
+      "weight": 3.939543120718442,
+      "uri": "/a/[/r/RelatedTo/,/c/en/blue/,/c/en/primary/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "IsA"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "blue",
+  "single_word_validated": true
+}

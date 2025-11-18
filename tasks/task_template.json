@@ -1,0 +1,21 @@
+{
+    "name": "",
+    "type": "task",
+    "description": "",
+    "priority": 0.5,
+    "status": "pending",
+    "progress": 0.0,
+    "completed": false,
+    "associated_need": "",
+    "associated_goal": "",
+    "required_skills": [],
+    "actions": [],
+    "success_criteria": [],
+    "created_at": "",
+    "last_updated": "",
+    "execution_context": {
+        "trigger_conditions": [],
+        "completion_conditions": [],
+        "failure_conditions": []
+    }
+}

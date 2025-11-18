@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1756144294.1131265,
+  "edges": [
+    {
+      "target": "storing things in",
+      "relationship": "UsedFor",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/UsedFor/,/c/en/chest/,/c/en/storing_things_in/]"
+    },
+    {
+      "target": "a bedroom",
+      "relationship": "AtLocation",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/AtLocation/,/c/en/chest/,/c/en/bedroom/]"
+    },
+    {
+      "target": "storing things",
+      "relationship": "UsedFor",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/UsedFor/,/c/en/chest/,/c/en/storing_things/]"
+    },
+    {
+      "target": "a place to store jewelry",
+      "relationship": "IsA",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/IsA/,/c/en/chest/,/c/en/place_to_store_jewelry/]"
+    },
+    {
+      "target": "storing clothes",
+      "relationship": "UsedFor",
+      "weight": 2.0,
+      "uri": "/a/[/r/UsedFor/,/c/en/chest/,/c/en/storing_clothes/]"
+    },
+    {
+      "target": "chest of drawers",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/chest/n/wn/artifact/,/c/en/chest_of_drawers/n/wn/artifact/]"
+    },
+    {
+      "target": "\u0161krinja",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/chest/n/wikt/en_1/,/c/sh/\u0161krinja/]"
+    },
+    {
+      "target": "a part of your body",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/chest/,/c/en/part_of_body/]"
+    },
+    {
+      "target": "sanduk",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/chest/n/wikt/en_1/,/c/sh/sanduk/]"
+    },
+    {
+      "target": "storage",
+      "relationship": "UsedFor",
+      "weight": 2.0,
+      "uri": "/a/[/r/UsedFor/,/c/en/chest/,/c/en/storage/]"
+    }
+  ],
+  "relationships": [
+    "UsedFor",
+    "AtLocation",
+    "IsA",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "chest",
+  "single_word_validated": true
+}

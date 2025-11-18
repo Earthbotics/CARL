@@ -1,0 +1,73 @@
+{
+  "has_data": true,
+  "last_lookup": 1760280345.4001274,
+  "edges": [
+    {
+      "target": "acknowledgment",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/thanks/n/wn/communication/,/c/en/acknowledgment/n/wn/communication/]"
+    },
+    {
+      "target": "hvala",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/thanks/,/c/sh/hvala/]"
+    },
+    {
+      "target": "aid",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/thanks/n/wn/act/,/c/en/aid/n/wn/act/]"
+    },
+    {
+      "target": "t\u0259\u015f\u0259kk\u00fcr edir\u0259m",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/thanks/,/c/az/t\u0259\u015f\u0259kk\u00fcr_edir\u0259m/]"
+    },
+    {
+      "target": "grazas",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/thanks/,/c/gl/grazas/]"
+    },
+    {
+      "target": "te\u015fekk\u00fcr ederim",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/thanks/,/c/tr/te\u015fekk\u00fcr_ederim/]"
+    },
+    {
+      "target": "spas",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/thanks/,/c/ku/spas/]"
+    },
+    {
+      "target": "\u010fakujem",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/thanks/,/c/sk/\u010fakujem/]"
+    },
+    {
+      "target": "taing",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/thanks/,/c/gd/taing/]"
+    },
+    {
+      "target": "\u0634\u0643\u0631\u0627",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/thanks/,/c/ar/\u0634\u0643\u0631\u0627/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "thanks",
+  "single_word_validated": true
+}

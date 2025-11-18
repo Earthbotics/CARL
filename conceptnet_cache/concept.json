@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1757813551.3020513,
+  "edges": [
+    {
+      "target": "pojam",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/concept/n/,/c/sh/pojam/]"
+    },
+    {
+      "target": "conceive",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/concept/n/,/c/en/conceive/]"
+    },
+    {
+      "target": "misconceive",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/concept/n/,/c/en/misconceive/]"
+    },
+    {
+      "target": "koncept",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/concept/n/,/c/sh/koncept/]"
+    },
+    {
+      "target": "misconception",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/concept/n/,/c/en/misconception/]"
+    },
+    {
+      "target": "idea",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/concept/n/wn/cognition/,/c/en/idea/n/wn/cognition/]"
+    },
+    {
+      "target": "hugtak",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/concept/n/,/c/is/hugtak/]"
+    },
+    {
+      "target": "\u043a\u043e\u043d\u0446\u0435\u043f\u0446\u0438\u044f",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/concept/n/,/c/ru/\u043a\u043e\u043d\u0446\u0435\u043f\u0446\u0438\u044f/]"
+    },
+    {
+      "target": "concetto",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/concept/n/,/c/it/concetto/]"
+    },
+    {
+      "target": "conceptionary",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/concept/n/,/c/en/conceptionary/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "RelatedTo",
+    "IsA"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "concept",
+  "single_word_validated": true
+}

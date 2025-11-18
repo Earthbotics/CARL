@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1760284735.0322304,
+  "edges": [
+    {
+      "target": "a closet",
+      "relationship": "AtLocation",
+      "weight": 10.392304845413264,
+      "uri": "/a/[/r/AtLocation/,/c/en/coat/,/c/en/closet/]"
+    },
+    {
+      "target": "jacket",
+      "relationship": "RelatedTo",
+      "weight": 7.66994132963219,
+      "uri": "/a/[/r/RelatedTo/,/c/en/coat/,/c/en/jacket/]"
+    },
+    {
+      "target": "winter",
+      "relationship": "RelatedTo",
+      "weight": 5.314132102234569,
+      "uri": "/a/[/r/RelatedTo/,/c/en/coat/,/c/en/winter/]"
+    },
+    {
+      "target": "clothing",
+      "relationship": "RelatedTo",
+      "weight": 5.031500770148008,
+      "uri": "/a/[/r/RelatedTo/,/c/en/coat/,/c/en/clothing/]"
+    },
+    {
+      "target": "keeping warm",
+      "relationship": "UsedFor",
+      "weight": 4.47213595499958,
+      "uri": "/a/[/r/UsedFor/,/c/en/coat/,/c/en/keeping_warm/]"
+    },
+    {
+      "target": "warm",
+      "relationship": "RelatedTo",
+      "weight": 4.183300132670378,
+      "uri": "/a/[/r/RelatedTo/,/c/en/coat/,/c/en/warm/]"
+    },
+    {
+      "target": "outer",
+      "relationship": "RelatedTo",
+      "weight": 3.560337062695048,
+      "uri": "/a/[/r/RelatedTo/,/c/en/coat/,/c/en/outer/]"
+    },
+    {
+      "target": "garment",
+      "relationship": "RelatedTo",
+      "weight": 3.493422390722313,
+      "uri": "/a/[/r/RelatedTo/,/c/en/coat/,/c/en/garment/]"
+    },
+    {
+      "target": "outerwear",
+      "relationship": "RelatedTo",
+      "weight": 3.0166206257996713,
+      "uri": "/a/[/r/RelatedTo/,/c/en/coat/,/c/en/outerwear/]"
+    },
+    {
+      "target": "wardrobe",
+      "relationship": "AtLocation",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/AtLocation/,/c/en/coat/,/c/en/wardrobe/]"
+    }
+  ],
+  "relationships": [
+    "AtLocation",
+    "RelatedTo",
+    "UsedFor"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "coat",
+  "single_word_validated": true
+}

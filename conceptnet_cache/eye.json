@@ -1,0 +1,72 @@
+{
+  "has_data": true,
+  "last_lookup": 1759801176.8314657,
+  "edges": [
+    {
+      "target": "organ",
+      "relationship": "RelatedTo",
+      "weight": 13.167991494529453,
+      "uri": "/a/[/r/RelatedTo/,/c/en/eye/,/c/en/organ/]"
+    },
+    {
+      "target": "seeing",
+      "relationship": "RelatedTo",
+      "weight": 11.239928825397428,
+      "uri": "/a/[/r/RelatedTo/,/c/en/eye/,/c/en/seeing/]"
+    },
+    {
+      "target": "face",
+      "relationship": "RelatedTo",
+      "weight": 9.10296654942772,
+      "uri": "/a/[/r/RelatedTo/,/c/en/eye/,/c/en/face/]"
+    },
+    {
+      "target": "part",
+      "relationship": "RelatedTo",
+      "weight": 8.726511330422943,
+      "uri": "/a/[/r/RelatedTo/,/c/en/eye/,/c/en/part/]"
+    },
+    {
+      "target": "iris",
+      "relationship": "RelatedTo",
+      "weight": 7.6225979823154795,
+      "uri": "/a/[/r/RelatedTo/,/c/en/eye/,/c/en/iris/]"
+    },
+    {
+      "target": "see",
+      "relationship": "RelatedTo",
+      "weight": 7.28999314128621,
+      "uri": "/a/[/r/RelatedTo/,/c/en/eye/,/c/en/see/]"
+    },
+    {
+      "target": "vision",
+      "relationship": "RelatedTo",
+      "weight": 7.26085394426854,
+      "uri": "/a/[/r/RelatedTo/,/c/en/eye/,/c/en/vision/]"
+    },
+    {
+      "target": "pupil",
+      "relationship": "RelatedTo",
+      "weight": 7.2208032794142785,
+      "uri": "/a/[/r/RelatedTo/,/c/en/eye/,/c/en/pupil/]"
+    },
+    {
+      "target": "sight",
+      "relationship": "RelatedTo",
+      "weight": 7.217201673779112,
+      "uri": "/a/[/r/RelatedTo/,/c/en/eye/,/c/en/sight/]"
+    },
+    {
+      "target": "body",
+      "relationship": "RelatedTo",
+      "weight": 6.9466538707495715,
+      "uri": "/a/[/r/RelatedTo/,/c/en/eye/,/c/en/body/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "eye",
+  "single_word_validated": true
+}

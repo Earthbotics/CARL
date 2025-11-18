@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1758073155.7604148,
+  "edges": [
+    {
+      "target": "a lifting device",
+      "relationship": "IsA",
+      "weight": 4.47213595499958,
+      "uri": "/a/[/r/IsA/,/c/en/jack/,/c/en/lifting_device/]"
+    },
+    {
+      "target": "jackfruit",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/jack/n/wn/food/,/c/en/jackfruit/n/wn/food/]"
+    },
+    {
+      "target": "a boy's name",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/jack/,/c/en/boy's_name/]"
+    },
+    {
+      "target": "mariner",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/jack/n/wn/person/,/c/en/mariner/n/wn/person/]"
+    },
+    {
+      "target": "small indefinite quantity",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/jack/n/wn/quantity/,/c/en/small_indefinite_quantity/n/wn/quantity/]"
+    },
+    {
+      "target": "ball",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/jack/n/wn/artifact/,/c/en/ball/n/wn/artifact/]"
+    },
+    {
+      "target": "deal drugs",
+      "relationship": "CapableOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/CapableOf/,/c/en/jack/,/c/en/deal_drugs/]"
+    },
+    {
+      "target": "tool",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/jack/n/wn/artifact/,/c/en/tool/n/wn/artifact/]"
+    },
+    {
+      "target": "jacks",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/jack/n/wn/artifact/,/c/en/jacks/n/wn/artifact/]"
+    },
+    {
+      "target": "lift your car",
+      "relationship": "UsedFor",
+      "weight": 2.0,
+      "uri": "/a/[/r/UsedFor/,/c/en/jack/,/c/en/lift_car/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "Synonym",
+    "CapableOf",
+    "UsedFor"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "jack",
+  "single_word_validated": true
+}

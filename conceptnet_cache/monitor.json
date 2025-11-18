@@ -1,0 +1,77 @@
+{
+  "has_data": true,
+  "last_lookup": 1756770851.891797,
+  "edges": [
+    {
+      "target": "the computer",
+      "relationship": "PartOf",
+      "weight": 6.0,
+      "uri": "/a/[/r/PartOf/,/c/en/monitor/,/c/en/computer/]"
+    },
+    {
+      "target": "the desk",
+      "relationship": "AtLocation",
+      "weight": 4.47213595499958,
+      "uri": "/a/[/r/AtLocation/,/c/en/monitor/,/c/en/desk/]"
+    },
+    {
+      "target": "a computer system",
+      "relationship": "PartOf",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/PartOf/,/c/en/monitor/,/c/en/computer_system/]"
+    },
+    {
+      "target": "a desktop",
+      "relationship": "AtLocation",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/AtLocation/,/c/en/monitor/,/c/en/desktop/]"
+    },
+    {
+      "target": "display images",
+      "relationship": "CapableOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/CapableOf/,/c/en/monitor/,/c/en/display_images/]"
+    },
+    {
+      "target": "proctor",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/monitor/n/wn/person/,/c/en/proctor/n/wn/person/]"
+    },
+    {
+      "target": "electronic equipment",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/monitor/n/wn/artifact/,/c/en/electronic_equipment/n/wn/artifact/]"
+    },
+    {
+      "target": "a internet cafe",
+      "relationship": "AtLocation",
+      "weight": 2.0,
+      "uri": "/a/[/r/AtLocation/,/c/en/monitor/,/c/en/internet_cafe/]"
+    },
+    {
+      "target": "television",
+      "relationship": "PartOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/PartOf/,/c/en/monitor/n/wn/artifact/,/c/en/television/n/wn/television/]"
+    },
+    {
+      "target": "observe",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/monitor/v/wn/perception/,/c/en/observe/v/wn/perception/]"
+    }
+  ],
+  "relationships": [
+    "PartOf",
+    "AtLocation",
+    "CapableOf",
+    "Synonym",
+    "IsA",
+    "MannerOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "monitor",
+  "single_word_validated": true
+}

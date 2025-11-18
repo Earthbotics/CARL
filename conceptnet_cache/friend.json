@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1757432358.047841,
+  "edges": [
+    {
+      "target": "confiding",
+      "relationship": "UsedFor",
+      "weight": 4.0,
+      "uri": "/a/[/r/UsedFor/,/c/en/friend/,/c/en/confiding/]"
+    },
+    {
+      "target": "talk",
+      "relationship": "CapableOf",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/CapableOf/,/c/en/friend/,/c/en/talk/]"
+    },
+    {
+      "target": "companionship",
+      "relationship": "UsedFor",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/UsedFor/,/c/en/friend/,/c/en/companionship/]"
+    },
+    {
+      "target": "buddy",
+      "relationship": "RelatedTo",
+      "weight": 3.348432469081615,
+      "uri": "/a/[/r/RelatedTo/,/c/en/friend/,/c/en/buddy/]"
+    },
+    {
+      "target": "pal",
+      "relationship": "RelatedTo",
+      "weight": 3.1029018676071605,
+      "uri": "/a/[/r/RelatedTo/,/c/en/friend/,/c/en/pal/]"
+    },
+    {
+      "target": "keep a secret",
+      "relationship": "CapableOf",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/CapableOf/,/c/en/friend/,/c/en/keep_secret/]"
+    },
+    {
+      "target": "a friend's wedding",
+      "relationship": "AtLocation",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/AtLocation/,/c/en/friend/,/c/en/friend's_wedding/]"
+    },
+    {
+      "target": "come over",
+      "relationship": "CapableOf",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/CapableOf/,/c/en/friend/,/c/en/come_over/]"
+    },
+    {
+      "target": "person",
+      "relationship": "RelatedTo",
+      "weight": 2.1633307652783937,
+      "uri": "/a/[/r/RelatedTo/,/c/en/friend/,/c/en/person/]"
+    },
+    {
+      "target": "\u0434\u0440\u0443\u0433",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/friend/n/,/c/ru/\u0434\u0440\u0443\u0433/]"
+    }
+  ],
+  "relationships": [
+    "UsedFor",
+    "CapableOf",
+    "RelatedTo",
+    "AtLocation",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "friend",
+  "single_word_validated": true
+}

@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1756603896.854809,
+  "edges": [
+    {
+      "target": "Mind",
+      "relationship": "PartOf",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/PartOf/,/c/en/emotion/,/c/en/mind/]"
+    },
+    {
+      "target": "pleasant",
+      "relationship": "HasProperty",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/HasProperty/,/c/en/emotion/,/c/en/pleasant/]"
+    },
+    {
+      "target": "emocija",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/emotion/n/,/c/sh/emocija/]"
+    },
+    {
+      "target": "\u010duvstvo",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/emotion/n/,/c/sh/\u010duvstvo/]"
+    },
+    {
+      "target": "feeling",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/emotion/n/wn/feeling/,/c/en/feeling/n/wn/]"
+    },
+    {
+      "target": "a feeling",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/emotion/,/c/en/feeling/]"
+    },
+    {
+      "target": "emotie",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/emotion/n/,/c/nl/emotie/]"
+    },
+    {
+      "target": "afecto",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/emotion/n/,/c/es/afecto/]"
+    },
+    {
+      "target": "\u00e9rz\u00e9s",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/emotion/n/,/c/hu/\u00e9rz\u00e9s/]"
+    },
+    {
+      "target": "emuoc\u0117j\u0117",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/emotion/n/,/c/lt/emuoc\u0117j\u0117/]"
+    }
+  ],
+  "relationships": [
+    "PartOf",
+    "HasProperty",
+    "Synonym",
+    "IsA"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "emotion",
+  "single_word_validated": true
+}

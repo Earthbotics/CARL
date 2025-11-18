@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1759722330.1789212,
+  "edges": [
+    {
+      "target": "attribute",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/thing/n/wn/attribute/,/c/en/attribute/n/wn/]"
+    },
+    {
+      "target": "stvar",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/thing/n/,/c/sh/stvar/]"
+    },
+    {
+      "target": "judicial",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/thing/n/,/c/en/judicial/]"
+    },
+    {
+      "target": "ding",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/thing/n/,/c/de/ding/]"
+    },
+    {
+      "target": "situation",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/thing/n/wn/state/,/c/en/situation/n/wn/state/]"
+    },
+    {
+      "target": "action",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/thing/n/wn/act/,/c/en/action/n/wn/act/]"
+    },
+    {
+      "target": "matter",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/thing/n/wn/cognition/,/c/en/matter/n/wn/cognition/]"
+    },
+    {
+      "target": "an object",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/thing/,/c/en/object/]"
+    },
+    {
+      "target": "historical",
+      "relationship": "HasContext",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasContext/,/c/en/thing/n/,/c/en/historical/]"
+    },
+    {
+      "target": "entity",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/thing/n/wn/artifact/,/c/en/entity/n/wn/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "Synonym",
+    "RelatedTo",
+    "HasContext"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "thing",
+  "single_word_validated": true
+}

@@ -1,0 +1,77 @@
+{
+  "has_data": true,
+  "last_lookup": 1758250268.6267653,
+  "edges": [
+    {
+      "target": "tag",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/code/v/wn/contact/,/c/en/tag/v/wn/contact/]"
+    },
+    {
+      "target": "computer science",
+      "relationship": "HasContext",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasContext/,/c/en/code/n/wn/computer_science/,/c/en/computer_science/n/wn/computer/]"
+    },
+    {
+      "target": "encode",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/code/v/wn/communication/,/c/en/encode/v/wn/communication/]"
+    },
+    {
+      "target": "coding system",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/code/n/wn/communication/,/c/en/coding_system/n/wn/communication/]"
+    },
+    {
+      "target": "coding system",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/code/n/wn/computer_science/,/c/en/coding_system/n/wn/communication/]"
+    },
+    {
+      "target": "written communication",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/code/n/wn/communication/,/c/en/written_communication/n/wn/communication/]"
+    },
+    {
+      "target": "lect",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/code/n/wikt/en_1/,/c/en/lect/]"
+    },
+    {
+      "target": "Q922203",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/code/n/wp/law/,/http://wikidata.dbpedia.org/resource/Q922203/]"
+    },
+    {
+      "target": "synecdoche",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/code/n/wikt/en_1/,/c/en/synecdoche/]"
+    },
+    {
+      "target": "201592644-v",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/code/v/wn/contact/,/http://wordnet-rdf.princeton.edu/wn31/201592644-v/]"
+    }
+  ],
+  "relationships": [
+    "MannerOf",
+    "HasContext",
+    "Synonym",
+    "IsA",
+    "RelatedTo",
+    "ExternalURL"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "code",
+  "single_word_validated": true
+}

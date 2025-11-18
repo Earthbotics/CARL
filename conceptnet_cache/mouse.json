@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1761278086.4556167,
+  "edges": [
+    {
+      "target": "a hole in a wall",
+      "relationship": "AtLocation",
+      "weight": 6.32455532033676,
+      "uri": "/a/[/r/AtLocation/,/c/en/mouse/,/c/en/hole_in_wall/]"
+    },
+    {
+      "target": "the garage",
+      "relationship": "AtLocation",
+      "weight": 5.656854249492381,
+      "uri": "/a/[/r/AtLocation/,/c/en/mouse/,/c/en/garage/]"
+    },
+    {
+      "target": "a laboratory",
+      "relationship": "AtLocation",
+      "weight": 5.656854249492381,
+      "uri": "/a/[/r/AtLocation/,/c/en/mouse/,/c/en/laboratory/]"
+    },
+    {
+      "target": "a kitchen",
+      "relationship": "AtLocation",
+      "weight": 5.291502622129181,
+      "uri": "/a/[/r/AtLocation/,/c/en/mouse/,/c/en/kitchen/]"
+    },
+    {
+      "target": "a cupboard",
+      "relationship": "AtLocation",
+      "weight": 5.291502622129181,
+      "uri": "/a/[/r/AtLocation/,/c/en/mouse/,/c/en/cupboard/]"
+    },
+    {
+      "target": "the attic",
+      "relationship": "AtLocation",
+      "weight": 5.291502622129181,
+      "uri": "/a/[/r/AtLocation/,/c/en/mouse/,/c/en/attic/]"
+    },
+    {
+      "target": "a trap",
+      "relationship": "AtLocation",
+      "weight": 4.898979485566356,
+      "uri": "/a/[/r/AtLocation/,/c/en/mouse/,/c/en/trap/]"
+    },
+    {
+      "target": "mammal",
+      "relationship": "IsA",
+      "weight": 4.898979485566356,
+      "uri": "/a/[/r/IsA/,/c/en/mouse/,/c/en/mammal/]"
+    },
+    {
+      "target": "a computer",
+      "relationship": "PartOf",
+      "weight": 4.47213595499958,
+      "uri": "/a/[/r/PartOf/,/c/en/mouse/,/c/en/computer/]"
+    },
+    {
+      "target": "sewer",
+      "relationship": "AtLocation",
+      "weight": 4.47213595499958,
+      "uri": "/a/[/r/AtLocation/,/c/en/mouse/,/c/en/sewer/]"
+    }
+  ],
+  "relationships": [
+    "AtLocation",
+    "IsA",
+    "PartOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "mouse",
+  "single_word_validated": true
+}

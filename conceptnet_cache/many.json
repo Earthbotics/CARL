@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1756792098.8462331,
+  "edges": [
+    {
+      "target": "many another",
+      "relationship": "Synonym",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/Synonym/,/c/en/many/a/wn/,/c/en/many_another/a/wn/]"
+    },
+    {
+      "target": "lot",
+      "relationship": "RelatedTo",
+      "weight": 2.9509320561476837,
+      "uri": "/a/[/r/RelatedTo/,/c/en/many/,/c/en/lot/]"
+    },
+    {
+      "target": "lots",
+      "relationship": "RelatedTo",
+      "weight": 2.172556098240043,
+      "uri": "/a/[/r/RelatedTo/,/c/en/many/,/c/en/lots/]"
+    },
+    {
+      "target": "few",
+      "relationship": "Antonym",
+      "weight": 2.1071307505705477,
+      "uri": "/a/[/r/Antonym/,/c/en/many/,/c/en/few/]"
+    },
+    {
+      "target": "some",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/many/a/wn/,/c/en/some/a/wn/]"
+    },
+    {
+      "target": "mnogi",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/many/,/c/sh/mnogi/]"
+    },
+    {
+      "target": "numerous",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/many/a/wn/,/c/en/numerous/a/wn/]"
+    },
+    {
+      "target": "many another",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/many/a/wn/,/c/en/many_another/a/wn/]"
+    },
+    {
+      "target": "some",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/many/a/wn/,/c/en/some/a/wn/]"
+    },
+    {
+      "target": "galore",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/many/a/wn/,/c/en/galore/a/wn/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "RelatedTo",
+    "Antonym",
+    "SimilarTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "many",
+  "single_word_validated": true
+}

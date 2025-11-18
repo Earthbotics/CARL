@@ -1,0 +1,73 @@
+{
+  "has_data": true,
+  "last_lookup": 1756060381.2451894,
+  "edges": [
+    {
+      "target": "message",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/meaning/n/wn/communication/,/c/en/message/n/wn/communication/]"
+    },
+    {
+      "target": "significant",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/meaning/a/wn/,/c/en/significant/a/wn/]"
+    },
+    {
+      "target": "zna\u010denje",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/meaning/n/wikt/en_1/,/c/sh/zna\u010denje/]"
+    },
+    {
+      "target": "idea",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/meaning/n/wn/cognition/,/c/en/idea/n/wn/cognition/]"
+    },
+    {
+      "target": "jelent\u00e9s",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/meaning/n/wikt/en_1/,/c/hu/jelent\u00e9s/]"
+    },
+    {
+      "target": "sens",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/meaning/n/wikt/en_1/,/c/fr/sens/]"
+    },
+    {
+      "target": "betydning",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/meaning/n/wikt/en_1/,/c/da/betydning/]"
+    },
+    {
+      "target": "\u0a85\u0ab0\u0acd\u0aa5",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/meaning/n/wikt/en_1/,/c/gu/\u0a85\u0ab0\u0acd\u0aa5/]"
+    },
+    {
+      "target": "t\u00e4hendus",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/meaning/n/wikt/en_1/,/c/et/t\u00e4hendus/]"
+    },
+    {
+      "target": "significado",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/meaning/n/wikt/en_1/,/c/pt/significado/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "meaning",
+  "single_word_validated": true
+}

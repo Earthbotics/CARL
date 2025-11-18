@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1755143124.987514,
+  "edges": [
+    {
+      "target": "sutradan",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/tomorrow/r/,/c/sh/sutradan/]"
+    },
+    {
+      "target": "yesterday",
+      "relationship": "Antonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Antonym/,/c/en/tomorrow/r/,/c/en/yesterday/]"
+    },
+    {
+      "target": "future",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/tomorrow/n/wn/time/,/c/en/future/n/wn/time/]"
+    },
+    {
+      "target": "day",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/tomorrow/n/wn/time/,/c/en/day/n/wn/time/]"
+    },
+    {
+      "target": "sutra",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/tomorrow/r/,/c/sh/sutra/]"
+    },
+    {
+      "target": "\u10dd\u10ed\u10e3\u10db\u10d4",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/tomorrow/r/,/c/lzz/\u10dd\u10ed\u10e3\u10db\u10d4/]"
+    },
+    {
+      "target": "today",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/tomorrow/,/c/en/today/]"
+    },
+    {
+      "target": "tomorgen",
+      "relationship": "EtymologicallyDerivedFrom",
+      "weight": 1.0,
+      "uri": "/a/[/r/EtymologicallyDerivedFrom/,/c/en/tomorrow/,/c/ang/tomorgen/]"
+    },
+    {
+      "target": "\u043c\u0430\u0440\u0433\u0430\u0430\u0448",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/tomorrow/r/,/c/mn/\u043c\u0430\u0440\u0433\u0430\u0430\u0448/]"
+    },
+    {
+      "target": "\u0ba8\u0bbe\u0bb3\u0bc8",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/tomorrow/r/,/c/ta/\u0ba8\u0bbe\u0bb3\u0bc8/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "Antonym",
+    "IsA",
+    "RelatedTo",
+    "EtymologicallyDerivedFrom"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "tomorrow",
+  "single_word_validated": true
+}

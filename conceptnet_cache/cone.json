@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1757432466.0443683,
+  "edges": [
+    {
+      "target": "cream",
+      "relationship": "RelatedTo",
+      "weight": 2.9671535181045154,
+      "uri": "/a/[/r/RelatedTo/,/c/en/cone/,/c/en/cream/]"
+    },
+    {
+      "target": "ice",
+      "relationship": "RelatedTo",
+      "weight": 2.8705400188814654,
+      "uri": "/a/[/r/RelatedTo/,/c/en/cone/,/c/en/ice/]"
+    },
+    {
+      "target": "ice cream",
+      "relationship": "RelatedTo",
+      "weight": 2.8705400188814654,
+      "uri": "/a/[/r/RelatedTo/,/c/en/cone/,/c/en/ice_cream/]"
+    },
+    {
+      "target": "shape",
+      "relationship": "RelatedTo",
+      "weight": 2.0049937655763426,
+      "uri": "/a/[/r/RelatedTo/,/c/en/cone/,/c/en/shape/]"
+    },
+    {
+      "target": "horsetail",
+      "relationship": "PartOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/PartOf/,/c/en/cone/n/wn/plant/,/c/en/horsetail/n/wn/plant/]"
+    },
+    {
+      "target": "retina",
+      "relationship": "PartOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/PartOf/,/c/en/cone/n/wn/body/,/c/en/retina/n/wn/body/]"
+    },
+    {
+      "target": "round shape",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/cone/n/wn/shape/,/c/en/round_shape/n/wn/shape/]"
+    },
+    {
+      "target": "reproductive structure",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/cone/n/wn/plant/,/c/en/reproductive_structure/n/wn/plant/]"
+    },
+    {
+      "target": "bevel",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/cone/v/wn/contact/,/c/en/bevel/v/wn/contact/]"
+    },
+    {
+      "target": "artifact",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/cone/n/wn/artifact/,/c/en/artifact/n/wn/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "PartOf",
+    "IsA",
+    "MannerOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "cone",
+  "single_word_validated": true
+}

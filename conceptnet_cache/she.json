@@ -1,0 +1,73 @@
+{
+  "has_data": true,
+  "last_lookup": 1756144377.345867,
+  "edges": [
+    {
+      "target": "ji",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/she/,/c/vo/ji/]"
+    },
+    {
+      "target": "hun",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/she/,/c/da/hun/]"
+    },
+    {
+      "target": "hunn",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/she/,/c/no/hunn/]"
+    },
+    {
+      "target": "ho",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/she/,/c/no/ho/]"
+    },
+    {
+      "target": "hun",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/she/,/c/no/hun/]"
+    },
+    {
+      "target": "ona",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/she/n/,/c/sh/ona/]"
+    },
+    {
+      "target": "female",
+      "relationship": "RelatedTo",
+      "weight": 1.5019999999999998,
+      "uri": "/a/[/r/RelatedTo/,/c/en/she/,/c/en/female/]"
+    },
+    {
+      "target": "her",
+      "relationship": "RelatedTo",
+      "weight": 1.3330000000000002,
+      "uri": "/a/[/r/RelatedTo/,/c/en/she/,/c/en/her/]"
+    },
+    {
+      "target": "\u1793\u17b6\u1784",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/she/n/,/c/km/\u1793\u17b6\u1784/]"
+    },
+    {
+      "target": "ea",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/she/n/,/c/la/ea/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "she",
+  "single_word_validated": true
+}

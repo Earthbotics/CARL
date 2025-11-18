@@ -1,0 +1,78 @@
+{
+  "has_data": true,
+  "last_lookup": 1760910714.2267885,
+  "edges": [
+    {
+      "target": "sound",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/ting/n/wn/event/,/c/en/sound/n/wn/event/]"
+    },
+    {
+      "target": "sound",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/ting/v/wn/perception/,/c/en/sound/v/wn/perception/]"
+    },
+    {
+      "target": "kilahdus",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/ting/n/wikt/en_1/,/c/fi/kilahdus/]"
+    },
+    {
+      "target": "caribbean",
+      "relationship": "HasContext",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasContext/,/c/en/ting/n/wikt/en_3/,/c/en/caribbean/]"
+    },
+    {
+      "target": "\u9f0e",
+      "relationship": "EtymologicallyDerivedFrom",
+      "weight": 1.0,
+      "uri": "/a/[/r/EtymologicallyDerivedFrom/,/c/en/ting/,/c/zh/\u9f0e/]"
+    },
+    {
+      "target": "ding",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/ting/,/c/en/ding/]"
+    },
+    {
+      "target": "thing",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/ting/n/wikt/en_3/,/c/en/thing/]"
+    },
+    {
+      "target": "struck",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/ting/n/wikt/en_1/,/c/en/struck/]"
+    },
+    {
+      "target": "bell",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/ting/n/wikt/en_1/,/c/en/bell/]"
+    },
+    {
+      "target": "temple",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/ting/n/wikt/en_2/,/c/en/temple/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "MannerOf",
+    "Synonym",
+    "HasContext",
+    "EtymologicallyDerivedFrom",
+    "RelatedTo",
+    "FormOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "ting",
+  "single_word_validated": true
+}

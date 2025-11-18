@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1757432176.7064147,
+  "edges": [
+    {
+      "target": "female",
+      "relationship": "RelatedTo",
+      "weight": 6.022624012836928,
+      "uri": "/a/[/r/RelatedTo/,/c/en/girl/,/c/en/female/]"
+    },
+    {
+      "target": "young",
+      "relationship": "RelatedTo",
+      "weight": 5.027524241612367,
+      "uri": "/a/[/r/RelatedTo/,/c/en/girl/,/c/en/young/]"
+    },
+    {
+      "target": "woman",
+      "relationship": "RelatedTo",
+      "weight": 4.275511665286389,
+      "uri": "/a/[/r/RelatedTo/,/c/en/girl/,/c/en/woman/]"
+    },
+    {
+      "target": "boy",
+      "relationship": "DistinctFrom",
+      "weight": 3.5597752738059185,
+      "uri": "/a/[/r/DistinctFrom/,/c/en/girl/,/c/en/boy/]"
+    },
+    {
+      "target": "child",
+      "relationship": "RelatedTo",
+      "weight": 3.0633315197673268,
+      "uri": "/a/[/r/RelatedTo/,/c/en/girl/,/c/en/child/]"
+    },
+    {
+      "target": "person",
+      "relationship": "RelatedTo",
+      "weight": 2.7763285108214415,
+      "uri": "/a/[/r/RelatedTo/,/c/en/girl/,/c/en/person/]"
+    },
+    {
+      "target": "boy",
+      "relationship": "Antonym",
+      "weight": 2.639696952303426,
+      "uri": "/a/[/r/Antonym/,/c/en/girl/,/c/en/boy/]"
+    },
+    {
+      "target": "gender",
+      "relationship": "RelatedTo",
+      "weight": 2.4971984302413777,
+      "uri": "/a/[/r/RelatedTo/,/c/en/girl/,/c/en/gender/]"
+    },
+    {
+      "target": "young woman",
+      "relationship": "RelatedTo",
+      "weight": 2.4955961211702506,
+      "uri": "/a/[/r/RelatedTo/,/c/en/girl/,/c/en/young_woman/]"
+    },
+    {
+      "target": "boy",
+      "relationship": "RelatedTo",
+      "weight": 2.242320226907834,
+      "uri": "/a/[/r/RelatedTo/,/c/en/girl/,/c/en/boy/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "DistinctFrom",
+    "Antonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "girl",
+  "single_word_validated": true
+}

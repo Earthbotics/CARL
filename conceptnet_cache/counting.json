@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1756052459.0564618,
+  "edges": [
+    {
+      "target": "numbers",
+      "relationship": "HasPrerequisite",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasPrerequisite/,/c/en/counting/,/c/en/numbers/]"
+    },
+    {
+      "target": "a numerical system",
+      "relationship": "HasPrerequisite",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasPrerequisite/,/c/en/counting/,/c/en/numerical_system/]"
+    },
+    {
+      "target": "count",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/counting/n/wn/act/,/c/en/count/n/wn/act/]"
+    },
+    {
+      "target": "discontinuous event series",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/counting/n/,/c/en/discontinuous_event_series/n/]"
+    },
+    {
+      "target": "Counting",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/counting/n/,/http://sw.opencyc.org/2012/05/10/concept/en/Counting/]"
+    },
+    {
+      "target": "say\u0131m",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/counting/n/,/c/tr/say\u0131m/]"
+    },
+    {
+      "target": "counting number",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/counting/v/,/c/en/counting_number/]"
+    },
+    {
+      "target": "count",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/counting/v/,/c/en/count/]"
+    },
+    {
+      "target": "z\u00e4hlung",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/counting/n/,/c/de/z\u00e4hlung/]"
+    },
+    {
+      "target": "evaluating",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/counting/n/,/c/en/evaluating/n/]"
+    }
+  ],
+  "relationships": [
+    "HasPrerequisite",
+    "Synonym",
+    "IsA",
+    "ExternalURL",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "counting",
+  "single_word_validated": true
+}

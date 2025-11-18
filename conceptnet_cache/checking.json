@@ -1,0 +1,77 @@
+{
+  "has_data": true,
+  "last_lookup": 1759787545.4816074,
+  "edges": [
+    {
+      "target": "check",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/checking/n/,/c/en/check/]"
+    },
+    {
+      "target": "Checking Evaluating",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/checking/n/,/http://sw.opencyc.org/2012/05/10/concept/en/Checking_Evaluating/]"
+    },
+    {
+      "target": "ice hockey",
+      "relationship": "HasContext",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasContext/,/c/en/checking/n/,/c/en/ice_hockey/]"
+    },
+    {
+      "target": "taklaus",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/checking/n/,/c/fi/taklaus/]"
+    },
+    {
+      "target": "evaluating",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/checking/n/,/c/en/evaluating/n/]"
+    },
+    {
+      "target": "check",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/checking/,/c/en/check/v/]"
+    },
+    {
+      "target": "check",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/checking/v/,/c/en/check/]"
+    },
+    {
+      "target": "check",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/checking/v/,/c/en/check/]"
+    },
+    {
+      "target": "checking",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/checking/,/http://fr.wiktionary.org/wiki/checking/]"
+    },
+    {
+      "target": "checking",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/checking/,/http://en.wiktionary.org/wiki/checking/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "ExternalURL",
+    "HasContext",
+    "Synonym",
+    "IsA",
+    "FormOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "checking",
+  "single_word_validated": true
+}

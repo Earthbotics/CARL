@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1756355272.3595827,
+  "edges": [
+    {
+      "target": "sixties",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/beatles/n/wn/,/c/en/sixties/n/wn/time/]"
+    },
+    {
+      "target": "England",
+      "relationship": "HasContext",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasContext/,/c/en/beatles/n/wn/,/c/en/england/n/wn/location/]"
+    },
+    {
+      "target": "\u0d2c\u0d40\u0d31\u0d4d\u0d31\u0d3f\u0d7d\u0d38\u0d4d",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/beatles/n/,/c/ml/\u0d2c\u0d40\u0d31\u0d4d\u0d31\u0d3f\u0d7d\u0d38\u0d4d/]"
+    },
+    {
+      "target": "beatlarnir",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/beatles/n/,/c/fo/beatlarnir/]"
+    },
+    {
+      "target": "beetles",
+      "relationship": "DerivedFrom",
+      "weight": 1.0,
+      "uri": "/a/[/r/DerivedFrom/,/c/en/beatles/,/c/en/beetles/]"
+    },
+    {
+      "target": "beat",
+      "relationship": "DerivedFrom",
+      "weight": 1.0,
+      "uri": "/a/[/r/DerivedFrom/,/c/en/beatles/,/c/en/beat/]"
+    },
+    {
+      "target": "beatlesi",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/beatles/n/,/c/sh/beatlesi/]"
+    },
+    {
+      "target": "beatles",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/beatles/n/,/c/fr/beatles/]"
+    },
+    {
+      "target": "\u092c\u0940\u091f\u0932\u094d\u0938",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/beatles/n/,/c/hi/\u092c\u0940\u091f\u0932\u094d\u0938/]"
+    },
+    {
+      "target": "108386847-n",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/beatles/n/wn/group/,/http://wordnet-rdf.princeton.edu/wn31/108386847-n/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "HasContext",
+    "Synonym",
+    "DerivedFrom",
+    "ExternalURL"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "beatles",
+  "single_word_validated": true
+}

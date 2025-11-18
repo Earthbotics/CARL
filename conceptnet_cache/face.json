@@ -1,0 +1,73 @@
+{
+  "has_data": true,
+  "last_lookup": 1755883214.8056028,
+  "edges": [
+    {
+      "target": "head",
+      "relationship": "RelatedTo",
+      "weight": 5.891689061720755,
+      "uri": "/a/[/r/RelatedTo/,/c/en/face/,/c/en/head/]"
+    },
+    {
+      "target": "eyes",
+      "relationship": "RelatedTo",
+      "weight": 4.6951038327176535,
+      "uri": "/a/[/r/RelatedTo/,/c/en/face/,/c/en/eyes/]"
+    },
+    {
+      "target": "nose",
+      "relationship": "RelatedTo",
+      "weight": 4.408627904461886,
+      "uri": "/a/[/r/RelatedTo/,/c/en/face/,/c/en/nose/]"
+    },
+    {
+      "target": "front",
+      "relationship": "RelatedTo",
+      "weight": 3.5185224171518357,
+      "uri": "/a/[/r/RelatedTo/,/c/en/face/,/c/en/front/]"
+    },
+    {
+      "target": "part",
+      "relationship": "RelatedTo",
+      "weight": 2.8411265371327623,
+      "uri": "/a/[/r/RelatedTo/,/c/en/face/,/c/en/part/]"
+    },
+    {
+      "target": "body",
+      "relationship": "RelatedTo",
+      "weight": 2.466576574931336,
+      "uri": "/a/[/r/RelatedTo/,/c/en/face/,/c/en/body/]"
+    },
+    {
+      "target": "mouth",
+      "relationship": "RelatedTo",
+      "weight": 2.4478562049270787,
+      "uri": "/a/[/r/RelatedTo/,/c/en/face/,/c/en/mouth/]"
+    },
+    {
+      "target": "body part",
+      "relationship": "RelatedTo",
+      "weight": 2.381596103456671,
+      "uri": "/a/[/r/RelatedTo/,/c/en/face/,/c/en/body_part/]"
+    },
+    {
+      "target": "eyes nose",
+      "relationship": "RelatedTo",
+      "weight": 2.380756182392477,
+      "uri": "/a/[/r/RelatedTo/,/c/en/face/,/c/en/eyes_nose/]"
+    },
+    {
+      "target": "font",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/face/n/wn/communication/,/c/en/font/n/wn/communication/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "face",
+  "single_word_validated": true
+}

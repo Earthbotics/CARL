@@ -1,0 +1,72 @@
+{
+  "has_data": true,
+  "last_lookup": 1755961359.8988702,
+  "edges": [
+    {
+      "target": "red",
+      "relationship": "RelatedTo",
+      "weight": 7.447415659139754,
+      "uri": "/a/[/r/RelatedTo/,/c/en/color/,/c/en/red/]"
+    },
+    {
+      "target": "blue",
+      "relationship": "RelatedTo",
+      "weight": 6.925315877272315,
+      "uri": "/a/[/r/RelatedTo/,/c/en/color/,/c/en/blue/]"
+    },
+    {
+      "target": "green",
+      "relationship": "RelatedTo",
+      "weight": 6.0659706560450815,
+      "uri": "/a/[/r/RelatedTo/,/c/en/color/,/c/en/green/]"
+    },
+    {
+      "target": "rainbow",
+      "relationship": "RelatedTo",
+      "weight": 5.543284225078126,
+      "uri": "/a/[/r/RelatedTo/,/c/en/color/,/c/en/rainbow/]"
+    },
+    {
+      "target": "hue",
+      "relationship": "RelatedTo",
+      "weight": 5.425126726630448,
+      "uri": "/a/[/r/RelatedTo/,/c/en/color/,/c/en/hue/]"
+    },
+    {
+      "target": "yellow",
+      "relationship": "RelatedTo",
+      "weight": 5.149757275833494,
+      "uri": "/a/[/r/RelatedTo/,/c/en/color/,/c/en/yellow/]"
+    },
+    {
+      "target": "orange",
+      "relationship": "RelatedTo",
+      "weight": 3.8105117766515306,
+      "uri": "/a/[/r/RelatedTo/,/c/en/color/,/c/en/orange/]"
+    },
+    {
+      "target": "red blue",
+      "relationship": "RelatedTo",
+      "weight": 3.1616451413781395,
+      "uri": "/a/[/r/RelatedTo/,/c/en/color/,/c/en/red_blue/]"
+    },
+    {
+      "target": "shade",
+      "relationship": "RelatedTo",
+      "weight": 3.0554868679148335,
+      "uri": "/a/[/r/RelatedTo/,/c/en/color/,/c/en/shade/]"
+    },
+    {
+      "target": "paint",
+      "relationship": "RelatedTo",
+      "weight": 2.9037906260610455,
+      "uri": "/a/[/r/RelatedTo/,/c/en/color/,/c/en/paint/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "color",
+  "single_word_validated": true
+}

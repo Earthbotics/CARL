@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1758039717.67096,
+  "edges": [
+    {
+      "target": "search",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/looking/n/wn/act/,/c/en/search/n/wn/act/]"
+    },
+    {
+      "target": "sounding",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/looking/a/wn/,/c/en/sounding/a/wn/]"
+    },
+    {
+      "target": "look",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/looking/n/wn/act/,/c/en/look/n/wn/act/]"
+    },
+    {
+      "target": "look",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/looking/v/,/c/fr/look/]"
+    },
+    {
+      "target": "look",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/looking/,/c/en/look/v/]"
+    },
+    {
+      "target": "glance",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/looking/n/,/c/en/glance/]"
+    },
+    {
+      "target": "look",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/looking/v/,/c/en/look/]"
+    },
+    {
+      "target": "on outside looking in",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/looking/v/,/c/en/on_outside_looking_in/]"
+    },
+    {
+      "target": "cheaper than buying",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/looking/,/c/en/cheaper_than_buying/]"
+    },
+    {
+      "target": "looking glass",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/looking/v/,/c/en/looking_glass/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "Synonym",
+    "RelatedTo",
+    "FormOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "looking",
+  "single_word_validated": true
+}

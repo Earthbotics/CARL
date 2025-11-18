@@ -1,0 +1,50 @@
+{
+  "has_data": true,
+  "last_lookup": 1760316692.166025,
+  "edges": [
+    {
+      "target": "imagin",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/imagining/v/,/c/en/imagin/]"
+    },
+    {
+      "target": "imaginer",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/imagining/n/,/c/fr/imaginer/]"
+    },
+    {
+      "target": "imagine",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/imagining/v/,/c/en/imagine/]"
+    },
+    {
+      "target": "imagine",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/imagining/v/,/c/en/imagine/]"
+    },
+    {
+      "target": "imagining",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/imagining/,/http://en.wiktionary.org/wiki/imagining/]"
+    },
+    {
+      "target": "imagining",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/imagining/,/http://fr.wiktionary.org/wiki/imagining/]"
+    }
+  ],
+  "relationships": [
+    "FormOf",
+    "RelatedTo",
+    "ExternalURL"
+  ],
+  "total_edges_found": 6,
+  "concept_queried": "imagining",
+  "single_word_validated": true
+}

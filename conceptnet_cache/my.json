@@ -1,0 +1,73 @@
+{
+  "has_data": true,
+  "last_lookup": 1760366587.935431,
+  "edges": [
+    {
+      "target": "pronoun",
+      "relationship": "RelatedTo",
+      "weight": 2.6343879744638983,
+      "uri": "/a/[/r/RelatedTo/,/c/en/my/,/c/en/pronoun/]"
+    },
+    {
+      "target": "possessive",
+      "relationship": "RelatedTo",
+      "weight": 2.2009089031579663,
+      "uri": "/a/[/r/RelatedTo/,/c/en/my/,/c/en/possessive/]"
+    },
+    {
+      "target": "mon",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/my/,/c/fr/mon/]"
+    },
+    {
+      "target": "m\u00f3j",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/my/,/c/pl/m\u00f3j/]"
+    },
+    {
+      "target": "m\u016fj",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/my/,/c/cs/m\u016fj/]"
+    },
+    {
+      "target": "mi",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/my/,/c/es/mi/]"
+    },
+    {
+      "target": "moj",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/my/,/c/sh/moj/]"
+    },
+    {
+      "target": "mia",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/my/,/c/eo/mia/]"
+    },
+    {
+      "target": "benim",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/my/,/c/tr/benim/]"
+    },
+    {
+      "target": "mine",
+      "relationship": "RelatedTo",
+      "weight": 1.1440000000000001,
+      "uri": "/a/[/r/RelatedTo/,/c/en/my/,/c/en/mine/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "my",
+  "single_word_validated": true
+}

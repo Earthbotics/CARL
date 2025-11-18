@@ -1,0 +1,77 @@
+{
+  "has_data": true,
+  "last_lookup": 1756002914.265415,
+  "edges": [
+    {
+      "target": "planet",
+      "relationship": "RelatedTo",
+      "weight": 7.979724306014589,
+      "uri": "/a/[/r/RelatedTo/,/c/en/earth/,/c/en/planet/]"
+    },
+    {
+      "target": "spherical",
+      "relationship": "HasProperty",
+      "weight": 6.6332495807108,
+      "uri": "/a/[/r/HasProperty/,/c/en/earth/,/c/en/spherical/]"
+    },
+    {
+      "target": "the solar system",
+      "relationship": "AtLocation",
+      "weight": 5.291502622129181,
+      "uri": "/a/[/r/AtLocation/,/c/en/earth/,/c/en/solar_system/]"
+    },
+    {
+      "target": "the universe",
+      "relationship": "PartOf",
+      "weight": 5.291502622129181,
+      "uri": "/a/[/r/PartOf/,/c/en/earth/,/c/en/universe/]"
+    },
+    {
+      "target": "an atmosphere",
+      "relationship": "HasA",
+      "weight": 5.291502622129181,
+      "uri": "/a/[/r/HasA/,/c/en/earth/,/c/en/atmosphere/]"
+    },
+    {
+      "target": "a molten core",
+      "relationship": "HasA",
+      "weight": 5.291502622129181,
+      "uri": "/a/[/r/HasA/,/c/en/earth/,/c/en/molten_core/]"
+    },
+    {
+      "target": "orbit",
+      "relationship": "AtLocation",
+      "weight": 4.898979485566356,
+      "uri": "/a/[/r/AtLocation/,/c/en/earth/,/c/en/orbit/]"
+    },
+    {
+      "target": "our",
+      "relationship": "RelatedTo",
+      "weight": 4.752262619005814,
+      "uri": "/a/[/r/RelatedTo/,/c/en/earth/,/c/en/our/]"
+    },
+    {
+      "target": "live on",
+      "relationship": "UsedFor",
+      "weight": 4.0,
+      "uri": "/a/[/r/UsedFor/,/c/en/earth/,/c/en/live_on/]"
+    },
+    {
+      "target": "our planet",
+      "relationship": "RelatedTo",
+      "weight": 3.6055512754639896,
+      "uri": "/a/[/r/RelatedTo/,/c/en/earth/,/c/en/our_planet/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "HasProperty",
+    "AtLocation",
+    "PartOf",
+    "HasA",
+    "UsedFor"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "earth",
+  "single_word_validated": true
+}

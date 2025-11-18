@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1759727554.4858527,
+  "edges": [
+    {
+      "target": "many",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/some/a/wn/,/c/en/many/a/wn/]"
+    },
+    {
+      "target": "several",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/some/a/wn/,/c/en/several/a/wn/]"
+    },
+    {
+      "target": "sum",
+      "relationship": "EtymologicallyDerivedFrom",
+      "weight": 2.0,
+      "uri": "/a/[/r/EtymologicallyDerivedFrom/,/c/en/some/,/c/ang/sum/]"
+    },
+    {
+      "target": "both",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/some/a/wn/,/c/en/both/a/wn/]"
+    },
+    {
+      "target": "much",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/some/a/wn/,/c/en/much/a/wn/]"
+    },
+    {
+      "target": "few",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/some/a/wn/,/c/en/few/a/wn/]"
+    },
+    {
+      "target": "approximately",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/some/r/wn/,/c/en/approximately/r/wn/]"
+    },
+    {
+      "target": "whatsoever",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/some/a/wn/,/c/en/whatsoever/a/wn/]"
+    },
+    {
+      "target": "extraordinary",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/some/a/wn/,/c/en/extraordinary/a/wn/]"
+    },
+    {
+      "target": "many",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/some/a/wn/,/c/en/many/a/wn/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "SimilarTo",
+    "EtymologicallyDerivedFrom",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "some",
+  "single_word_validated": true
+}

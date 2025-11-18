@@ -1,0 +1,38 @@
+{
+  "has_data": true,
+  "last_lookup": 1756699080.807347,
+  "edges": [
+    {
+      "target": "capture",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/captured/v/,/c/en/capture/]"
+    },
+    {
+      "target": "capture",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/captured/v/,/c/en/capture/]"
+    },
+    {
+      "target": "captured",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/captured/,/http://fr.wiktionary.org/wiki/captured/]"
+    },
+    {
+      "target": "captured",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/captured/,/http://en.wiktionary.org/wiki/captured/]"
+    }
+  ],
+  "relationships": [
+    "FormOf",
+    "RelatedTo",
+    "ExternalURL"
+  ],
+  "total_edges_found": 4,
+  "concept_queried": "captured",
+  "single_word_validated": true
+}

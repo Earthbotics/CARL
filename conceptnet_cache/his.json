@@ -1,0 +1,73 @@
+{
+  "has_data": true,
+  "last_lookup": 1761757938.0151126,
+  "edges": [
+    {
+      "target": "les siennes",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/his/n/,/c/fr/les_siennes/]"
+    },
+    {
+      "target": "les siens",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/his/n/,/c/fr/les_siens/]"
+    },
+    {
+      "target": "le sien",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/his/n/,/c/fr/le_sien/]"
+    },
+    {
+      "target": "svoj",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/his/,/c/sh/svoj/]"
+    },
+    {
+      "target": "njegov",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/his/,/c/sh/njegov/]"
+    },
+    {
+      "target": "son",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/his/,/c/fr/son/]"
+    },
+    {
+      "target": "sa",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/his/a/,/c/fr/sa/]"
+    },
+    {
+      "target": "son",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/his/a/,/c/fr/son/]"
+    },
+    {
+      "target": "la sienne",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/his/n/,/c/fr/la_sienne/]"
+    },
+    {
+      "target": "her",
+      "relationship": "RelatedTo",
+      "weight": 1.3979999999999997,
+      "uri": "/a/[/r/RelatedTo/,/c/en/his/,/c/en/her/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "his",
+  "single_word_validated": true
+}

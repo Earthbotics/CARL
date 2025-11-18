@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1761714865.8188634,
+  "edges": [
+    {
+      "target": "any city",
+      "relationship": "AtLocation",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/AtLocation/,/c/en/condo/,/c/en/city/]"
+    },
+    {
+      "target": "condominium",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/condo/n/wn/artifact/,/c/en/condominium/n/wn/artifact/]"
+    },
+    {
+      "target": "Chicago",
+      "relationship": "AtLocation",
+      "weight": 1.0,
+      "uri": "/a/[/r/AtLocation/,/c/en/condo/,/c/en/chicago/]"
+    },
+    {
+      "target": "us",
+      "relationship": "HasContext",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasContext/,/c/en/condo/n/,/c/en/us/]"
+    },
+    {
+      "target": "suppliment another house",
+      "relationship": "UsedFor",
+      "weight": 1.0,
+      "uri": "/a/[/r/UsedFor/,/c/en/condo/,/c/en/suppliment_another_house/]"
+    },
+    {
+      "target": "reducing construction costs",
+      "relationship": "UsedFor",
+      "weight": 1.0,
+      "uri": "/a/[/r/UsedFor/,/c/en/condo/,/c/en/reducing_construction_costs/]"
+    },
+    {
+      "target": "suburbia",
+      "relationship": "AtLocation",
+      "weight": 1.0,
+      "uri": "/a/[/r/AtLocation/,/c/en/condo/,/c/en/suburbia/]"
+    },
+    {
+      "target": "purchasing instead of renting",
+      "relationship": "UsedFor",
+      "weight": 1.0,
+      "uri": "/a/[/r/UsedFor/,/c/en/condo/,/c/en/purchasing_instead_of_renting/]"
+    },
+    {
+      "target": "condominium",
+      "relationship": "DerivedFrom",
+      "weight": 1.0,
+      "uri": "/a/[/r/DerivedFrom/,/c/en/condo/,/c/en/condominium/n/]"
+    },
+    {
+      "target": "group",
+      "relationship": "AtLocation",
+      "weight": 1.0,
+      "uri": "/a/[/r/AtLocation/,/c/en/condo/,/c/en/group/]"
+    }
+  ],
+  "relationships": [
+    "AtLocation",
+    "Synonym",
+    "HasContext",
+    "UsedFor",
+    "DerivedFrom"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "condo",
+  "single_word_validated": true
+}

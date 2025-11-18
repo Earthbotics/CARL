@@ -1,0 +1,73 @@
+{
+  "has_data": true,
+  "last_lookup": 1759800664.4954386,
+  "edges": [
+    {
+      "target": "action",
+      "relationship": "RelatedTo",
+      "weight": 4.6121578463881745,
+      "uri": "/a/[/r/RelatedTo/,/c/en/move/,/c/en/action/]"
+    },
+    {
+      "target": "motion",
+      "relationship": "RelatedTo",
+      "weight": 4.464078852350169,
+      "uri": "/a/[/r/RelatedTo/,/c/en/move/,/c/en/motion/]"
+    },
+    {
+      "target": "relocate",
+      "relationship": "RelatedTo",
+      "weight": 4.0556133938037044,
+      "uri": "/a/[/r/RelatedTo/,/c/en/move/,/c/en/relocate/]"
+    },
+    {
+      "target": "change",
+      "relationship": "RelatedTo",
+      "weight": 3.9974992182613374,
+      "uri": "/a/[/r/RelatedTo/,/c/en/move/,/c/en/change/]"
+    },
+    {
+      "target": "still",
+      "relationship": "Antonym",
+      "weight": 3.3226495451672307,
+      "uri": "/a/[/r/Antonym/,/c/en/move/,/c/en/still/]"
+    },
+    {
+      "target": "houses",
+      "relationship": "RelatedTo",
+      "weight": 2.355419283269966,
+      "uri": "/a/[/r/RelatedTo/,/c/en/move/,/c/en/houses/]"
+    },
+    {
+      "target": "changing",
+      "relationship": "RelatedTo",
+      "weight": 2.327230113246217,
+      "uri": "/a/[/r/RelatedTo/,/c/en/move/,/c/en/changing/]"
+    },
+    {
+      "target": "house",
+      "relationship": "RelatedTo",
+      "weight": 2.190890230020665,
+      "uri": "/a/[/r/RelatedTo/,/c/en/move/,/c/en/house/]"
+    },
+    {
+      "target": "stay",
+      "relationship": "Antonym",
+      "weight": 2.068816086557721,
+      "uri": "/a/[/r/Antonym/,/c/en/move/,/c/en/stay/]"
+    },
+    {
+      "target": "go",
+      "relationship": "RelatedTo",
+      "weight": 2.0474374227311563,
+      "uri": "/a/[/r/RelatedTo/,/c/en/move/,/c/en/go/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "Antonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "move",
+  "single_word_validated": true
+}

@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1757634905.781962,
+  "edges": [
+    {
+      "target": "a number",
+      "relationship": "IsA",
+      "weight": 4.47213595499958,
+      "uri": "/a/[/r/IsA/,/c/en/zero/,/c/en/number/]"
+    },
+    {
+      "target": "adjust",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/zero/v/wn/change/,/c/en/adjust/v/wn/change/]"
+    },
+    {
+      "target": "no",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/zero/a/wn/,/c/en/no/a/wn/]"
+    },
+    {
+      "target": "numerical quantity",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/zero/n/wn/cognition/,/c/en/numerical_quantity/n/wn/cognition/]"
+    },
+    {
+      "target": "ordinal",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/zero/a/wn/,/c/en/ordinal/a/wn/]"
+    },
+    {
+      "target": "sight setting",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/zero/n/wn/artifact/,/c/en/sight_setting/n/wn/artifact/]"
+    },
+    {
+      "target": "nula",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/zero/,/c/sh/nula/]"
+    },
+    {
+      "target": "zero",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/zero/,/c/de/zero/]"
+    },
+    {
+      "target": "digit",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/zero/n/wn/quantity/,/c/en/digit/n/wn/quantity/]"
+    },
+    {
+      "target": "nothing",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/zero/n/wn/quantity/,/c/en/nothing/n/wn/quantity/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "MannerOf",
+    "SimilarTo",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "zero",
+  "single_word_validated": true
+}

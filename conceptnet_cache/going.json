@@ -1,0 +1,77 @@
+{
+  "has_data": true,
+  "last_lookup": 1760284898.299728,
+  "edges": [
+    {
+      "target": "active",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/going/a/wn/,/c/en/active/a/wn/]"
+    },
+    {
+      "target": "accomplishment",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/going/n/wn/act/,/c/en/accomplishment/n/wn/act/]"
+    },
+    {
+      "target": "passing",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/going/n/wn/event/,/c/en/passing/n/wn/event/]"
+    },
+    {
+      "target": "departure",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/going/n/wn/act/,/c/en/departure/n/wn/act/]"
+    },
+    {
+      "target": "go",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/going/v/,/c/en/go/]"
+    },
+    {
+      "target": "suitability",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/going/n/wikt/en_2/,/c/en/suitability/]"
+    },
+    {
+      "target": "progress",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/going/n/wikt/en_2/,/c/en/progress/]"
+    },
+    {
+      "target": "AllottingSomething",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/going/n/opencyc/allotting/,/http://sw.opencyc.org/2012/05/10/concept/en/AllottingSomething/]"
+    },
+    {
+      "target": "change of location",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/going/n/opencyc/going_somewhere/,/c/en/change_of_location/n/]"
+    },
+    {
+      "target": "after noun phrase with superlative",
+      "relationship": "HasContext",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasContext/,/c/en/going/a/wikt/en_2/,/c/en/after_noun_phrase_with_superlative/]"
+    }
+  ],
+  "relationships": [
+    "SimilarTo",
+    "IsA",
+    "Synonym",
+    "RelatedTo",
+    "ExternalURL",
+    "HasContext"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "going",
+  "single_word_validated": true
+}

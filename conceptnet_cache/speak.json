@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1755229092.5602236,
+  "edges": [
+    {
+      "target": "communicate",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/speak/v/wn/communication/,/c/en/communicate/v/wn/communication/]"
+    },
+    {
+      "target": "govoriti",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/speak/v/,/c/sh/govoriti/]"
+    },
+    {
+      "target": "think",
+      "relationship": "HasPrerequisite",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasPrerequisite/,/c/en/speak/,/c/en/think/]"
+    },
+    {
+      "target": "spreken",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/speak/v/,/c/nl/spreken/]"
+    },
+    {
+      "target": "address",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/speak/v/wn/communication/,/c/en/address/v/wn/communication/]"
+    },
+    {
+      "target": "sound",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/speak/v/wn/perception/,/c/en/sound/v/wn/perception/]"
+    },
+    {
+      "target": "parler",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/speak/v/,/c/fr/parler/]"
+    },
+    {
+      "target": "talk",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/speak/v/wn/communication/,/c/en/talk/v/wn/communication/]"
+    },
+    {
+      "target": "\u0baa\u0bc7\u0b9a\u0bc1",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/speak/v/,/c/ta/\u0baa\u0bc7\u0b9a\u0bc1/]"
+    },
+    {
+      "target": "avlar",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/speak/v/,/c/lad/avlar/]"
+    }
+  ],
+  "relationships": [
+    "MannerOf",
+    "Synonym",
+    "HasPrerequisite"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "speak",
+  "single_word_validated": true
+}

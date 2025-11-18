@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1756060097.776921,
+  "edges": [
+    {
+      "target": "duga",
+      "relationship": "Synonym",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/Synonym/,/c/en/rainbow/n/,/c/sh/duga/]"
+    },
+    {
+      "target": "bow",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/rainbow/n/wn/object/,/c/en/bow/n/wn/shape/]"
+    },
+    {
+      "target": "arco iris",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/rainbow/n/,/c/es/arco_iris/]"
+    },
+    {
+      "target": "regnbogi",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/rainbow/n/,/c/is/regnbogi/]"
+    },
+    {
+      "target": "promise",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/rainbow/n/wn/cognition/,/c/en/promise/n/wn/cognition/]"
+    },
+    {
+      "target": "sky",
+      "relationship": "PartOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/PartOf/,/c/en/rainbow/n/wn/object/,/c/en/sky/n/wn/object/]"
+    },
+    {
+      "target": "monama",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/rainbow/n/,/c/ln/monama/]"
+    },
+    {
+      "target": "multicoloured",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/rainbow/n/,/c/en/multicoloured/]"
+    },
+    {
+      "target": "sziv\u00e1rv\u00e1ny",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/rainbow/n/,/c/hu/sziv\u00e1rv\u00e1ny/]"
+    },
+    {
+      "target": "\u00e6labogi",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/rainbow/n/,/c/fo/\u00e6labogi/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "IsA",
+    "PartOf",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "rainbow",
+  "single_word_validated": true
+}

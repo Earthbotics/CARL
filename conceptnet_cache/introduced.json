@@ -1,0 +1,57 @@
+{
+  "has_data": true,
+  "last_lookup": 1760909105.7314487,
+  "edges": [
+    {
+      "target": "biology",
+      "relationship": "HasContext",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasContext/,/c/en/introduced/a/,/c/en/biology/]"
+    },
+    {
+      "target": "native",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/introduced/a/,/c/en/native/]"
+    },
+    {
+      "target": "introduce",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/introduced/v/,/c/en/introduce/]"
+    },
+    {
+      "target": "introduce",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/introduced/,/c/en/introduce/v/]"
+    },
+    {
+      "target": "introduce",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/introduced/v/,/c/en/introduce/]"
+    },
+    {
+      "target": "introduced",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/introduced/,/http://en.wiktionary.org/wiki/introduced/]"
+    },
+    {
+      "target": "introduced",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/introduced/,/http://fr.wiktionary.org/wiki/introduced/]"
+    }
+  ],
+  "relationships": [
+    "HasContext",
+    "RelatedTo",
+    "FormOf",
+    "ExternalURL"
+  ],
+  "total_edges_found": 7,
+  "concept_queried": "introduced",
+  "single_word_validated": true
+}

@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1757730034.586222,
+  "edges": [
+    {
+      "target": "Herbert Spencer",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/spencer/n/wn/person/,/c/en/herbert_spencer/n/wn/person/]"
+    },
+    {
+      "target": "barque",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/spencer/n/wikt/en_1/,/c/en/barque/]"
+    },
+    {
+      "target": "south dakota",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/spencer/n/,/c/en/south_dakota/]"
+    },
+    {
+      "target": "historical",
+      "relationship": "HasContext",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasContext/,/c/en/spencer/n/wikt/en_1/,/c/en/historical/]"
+    },
+    {
+      "target": "earldom",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/spencer/n/,/c/en/earldom/]"
+    },
+    {
+      "target": "county seat",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/spencer/n/,/c/en/county_seat/]"
+    },
+    {
+      "target": "massachusetts",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/spencer/n/,/c/en/massachusetts/]"
+    },
+    {
+      "target": "gaffsail",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/spencer/n/wikt/en_1/,/c/en/gaffsail/]"
+    },
+    {
+      "target": "clay county",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/spencer/n/,/c/en/clay_county/]"
+    },
+    {
+      "target": "oklahoma",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/spencer/n/,/c/en/oklahoma/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "RelatedTo",
+    "HasContext"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "spencer",
+  "single_word_validated": true
+}

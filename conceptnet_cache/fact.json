@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1757082822.564541,
+  "edges": [
+    {
+      "target": "truth",
+      "relationship": "RelatedTo",
+      "weight": 3.6469165057620936,
+      "uri": "/a/[/r/RelatedTo/,/c/en/fact/,/c/en/truth/]"
+    },
+    {
+      "target": "true",
+      "relationship": "RelatedTo",
+      "weight": 3.127299154222378,
+      "uri": "/a/[/r/RelatedTo/,/c/en/fact/,/c/en/true/]"
+    },
+    {
+      "target": "a piece of information",
+      "relationship": "IsA",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/IsA/,/c/en/fact/,/c/en/piece_of_information/]"
+    },
+    {
+      "target": "concept",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/fact/n/wn/cognition/,/c/en/concept/n/wn/cognition/]"
+    },
+    {
+      "target": "reality",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/fact/n/wn/state/,/c/en/reality/n/wn/state/]"
+    },
+    {
+      "target": "information",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/fact/n/wn/cognition/,/c/en/information/n/wn/cognition/]"
+    },
+    {
+      "target": "fait",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/fact/n/,/c/fr/fait/]"
+    },
+    {
+      "target": "an undisputable piece of information",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/fact/,/c/en/undisputable_piece_of_information/]"
+    },
+    {
+      "target": "a 4 letter word",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/fact/,/c/en/4_letter_word/]"
+    },
+    {
+      "target": "\u010dinjenica",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/fact/n/,/c/sh/\u010dinjenica/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "IsA",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "fact",
+  "single_word_validated": true
+}

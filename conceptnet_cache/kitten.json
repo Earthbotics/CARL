@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1757522988.1600158,
+  "edges": [
+    {
+      "target": "a lap",
+      "relationship": "AtLocation",
+      "weight": 5.656854249492381,
+      "uri": "/a/[/r/AtLocation/,/c/en/kitten/,/c/en/lap/]"
+    },
+    {
+      "target": "a bed",
+      "relationship": "AtLocation",
+      "weight": 4.898979485566356,
+      "uri": "/a/[/r/AtLocation/,/c/en/kitten/,/c/en/bed/]"
+    },
+    {
+      "target": "cat",
+      "relationship": "RelatedTo",
+      "weight": 4.588681727903996,
+      "uri": "/a/[/r/RelatedTo/,/c/en/kitten/,/c/en/cat/]"
+    },
+    {
+      "target": "a cat",
+      "relationship": "IsA",
+      "weight": 4.47213595499958,
+      "uri": "/a/[/r/IsA/,/c/en/kitten/,/c/en/cat/]"
+    },
+    {
+      "target": "an apartment",
+      "relationship": "AtLocation",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/AtLocation/,/c/en/kitten/,/c/en/apartment/]"
+    },
+    {
+      "target": "a warm place",
+      "relationship": "AtLocation",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/AtLocation/,/c/en/kitten/,/c/en/warm_place/]"
+    },
+    {
+      "target": "the kitchen",
+      "relationship": "AtLocation",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/AtLocation/,/c/en/kitten/,/c/en/kitchen/]"
+    },
+    {
+      "target": "petshop",
+      "relationship": "AtLocation",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/AtLocation/,/c/en/kitten/,/c/en/petshop/]"
+    },
+    {
+      "target": "baby",
+      "relationship": "RelatedTo",
+      "weight": 2.5892083732291615,
+      "uri": "/a/[/r/RelatedTo/,/c/en/kitten/,/c/en/baby/]"
+    },
+    {
+      "target": "ma\u010de",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/kitten/n/,/c/sh/ma\u010de/]"
+    }
+  ],
+  "relationships": [
+    "AtLocation",
+    "RelatedTo",
+    "IsA",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "kitten",
+  "single_word_validated": true
+}

@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1756303429.479489,
+  "edges": [
+    {
+      "target": "avowal",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/affirmative/n/wn/communication/,/c/en/avowal/n/wn/communication/]"
+    },
+    {
+      "target": "positive",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/affirmative/a/wn/,/c/en/positive/a/wn/]"
+    },
+    {
+      "target": "approbative",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/affirmative/a/wn/,/c/en/approbative/a/wn/]"
+    },
+    {
+      "target": "assentient",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/affirmative/a/wn/,/c/en/assentient/a/wn/]"
+    },
+    {
+      "target": "favorable",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/affirmative/a/wn/,/c/en/favorable/a/wn/]"
+    },
+    {
+      "target": "positive",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/affirmative/a/wn/,/c/en/positive/a/wn/]"
+    },
+    {
+      "target": "term",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/affirmative/a/,/c/en/term/]"
+    },
+    {
+      "target": "\u0443\u0442\u0432\u044a\u0440\u0434\u0438\u0442\u0435\u043b\u0435\u043d",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/affirmative/a/,/c/bg/\u0443\u0442\u0432\u044a\u0440\u0434\u0438\u0442\u0435\u043b\u0435\u043d/]"
+    },
+    {
+      "target": "affirmatif",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/affirmative/n/,/c/fr/affirmatif/]"
+    },
+    {
+      "target": "afirmativo",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/affirmative/a/,/c/pt/afirmativo/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "SimilarTo",
+    "Synonym",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "affirmative",
+  "single_word_validated": true
+}

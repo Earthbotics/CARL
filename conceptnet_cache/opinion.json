@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1757730118.5970032,
+  "edges": [
+    {
+      "target": "separate a group",
+      "relationship": "CapableOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/CapableOf/,/c/en/opinion/,/c/en/separate_group/]"
+    },
+    {
+      "target": "public opinion",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/opinion/n/wn/cognition/,/c/en/public_opinion/n/wn/cognition/]"
+    },
+    {
+      "target": "mnenje",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/opinion/n/,/c/sh/mnenje/]"
+    },
+    {
+      "target": "legal document",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/opinion/n/wn/law/,/c/en/legal_document/n/wn/law/]"
+    },
+    {
+      "target": "mi\u0161ljenje",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/opinion/n/,/c/sh/mi\u0161ljenje/]"
+    },
+    {
+      "target": "judgment",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/opinion/n/wn/law/,/c/en/judgment/n/wn/law/]"
+    },
+    {
+      "target": "the newspaper",
+      "relationship": "AtLocation",
+      "weight": 2.0,
+      "uri": "/a/[/r/AtLocation/,/c/en/opinion/,/c/en/newspaper/]"
+    },
+    {
+      "target": "belief",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/opinion/n/wn/cognition/,/c/en/belief/n/wn/cognition/]"
+    },
+    {
+      "target": "impression",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/opinion/n/wn/cognition/,/c/en/impression/n/wn/cognition/]"
+    },
+    {
+      "target": "message",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/opinion/n/wn/communication/,/c/en/message/n/wn/communication/]"
+    }
+  ],
+  "relationships": [
+    "CapableOf",
+    "Synonym",
+    "IsA",
+    "AtLocation"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "opinion",
+  "single_word_validated": true
+}

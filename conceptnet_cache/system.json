@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1756763383.6590126,
+  "edges": [
+    {
+      "target": "live body",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/system/n/wn/body/,/c/en/live_body/n/wn/body/]"
+    },
+    {
+      "target": "arrangement",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/system/n/wn/cognition/,/c/en/arrangement/n/wn/cognition/]"
+    },
+    {
+      "target": "substance",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/system/n/wn/physical_chemistry/,/c/en/substance/n/wn/]"
+    },
+    {
+      "target": "group",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/system/n/wn/group/,/c/en/group/n/wn/]"
+    },
+    {
+      "target": "body part",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/system/n/wn/body/,/c/en/body_part/n/wn/anatomy/]"
+    },
+    {
+      "target": "plan of action",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/system/n/wn/cognition/,/c/en/plan_of_action/n/wn/cognition/]"
+    },
+    {
+      "target": "method",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/system/n/wn/cognition/,/c/en/method/n/wn/cognition/]"
+    },
+    {
+      "target": "physical chemistry",
+      "relationship": "HasContext",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasContext/,/c/en/system/n/wn/physical_chemistry/,/c/en/physical_chemistry/n/wn/cognition/]"
+    },
+    {
+      "target": "instrumentality",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/system/n/wn/artifact/,/c/en/instrumentality/n/wn/artifact/]"
+    },
+    {
+      "target": "sustav",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/system/n/,/c/sh/sustav/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "Synonym",
+    "HasContext"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "system",
+  "single_word_validated": true
+}

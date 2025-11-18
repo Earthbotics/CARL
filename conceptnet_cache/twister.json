@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1758073158.8527038,
+  "edges": [
+    {
+      "target": "cruller",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/twister/n/wn/food/,/c/en/cruller/n/wn/food/]"
+    },
+    {
+      "target": "tornado",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/twister/n/wn/phenomenon/,/c/en/tornado/n/wn/phenomenon/]"
+    },
+    {
+      "target": "party game",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/twister/n/,/c/en/party_game/]"
+    },
+    {
+      "target": "billiards",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/twister/n/,/c/en/billiards/]"
+    },
+    {
+      "target": "occupation",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/twister/n/,/c/en/occupation/]"
+    },
+    {
+      "target": "dust devil",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/twister/n/,/c/en/dust_devil/]"
+    },
+    {
+      "target": "british",
+      "relationship": "HasContext",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasContext/,/c/en/twister/n/,/c/en/british/]"
+    },
+    {
+      "target": "villain",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/twister/n/,/c/en/villain/]"
+    },
+    {
+      "target": "tornade",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/twister/n/,/c/fr/tornade/]"
+    },
+    {
+      "target": "horseback",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/twister/n/,/c/en/horseback/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "RelatedTo",
+    "HasContext"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "twister",
+  "single_word_validated": true
+}

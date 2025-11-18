@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1757528888.9013855,
+  "edges": [
+    {
+      "target": "amid",
+      "relationship": "RelatedTo",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/RelatedTo/,/c/en/mid/,/c/en/amid/]"
+    },
+    {
+      "target": "middle",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/mid/a/wn/,/c/en/middle/a/wn/]"
+    },
+    {
+      "target": "midday",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/mid/,/c/en/midday/]"
+    },
+    {
+      "target": "central",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/mid/a/,/c/fr/central/]"
+    },
+    {
+      "target": "middle",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/mid/n/wikt/en_3/,/c/en/middle/]"
+    },
+    {
+      "target": "keski",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/mid/,/c/fi/keski/]"
+    },
+    {
+      "target": "midden",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/mid/,/c/nl/midden/]"
+    },
+    {
+      "target": "linguistics",
+      "relationship": "HasContext",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasContext/,/c/en/mid/a/wikt/en_2/,/c/en/linguistics/]"
+    },
+    {
+      "target": "computing",
+      "relationship": "HasContext",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasContext/,/c/en/mid/n/,/c/en/computing/]"
+    },
+    {
+      "target": "mitjan",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/mid/,/c/ca/mitjan/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "SimilarTo",
+    "Synonym",
+    "HasContext"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "mid",
+  "single_word_validated": true
+}

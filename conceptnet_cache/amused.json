@@ -1,0 +1,69 @@
+{
+  "has_data": true,
+  "last_lookup": 1757795306.3433414,
+  "edges": [
+    {
+      "target": "entertained",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/amused/a/wn/,/c/en/entertained/a/wn/]"
+    },
+    {
+      "target": "amuse",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/amused/v/,/c/en/amuse/]"
+    },
+    {
+      "target": "huvittunut",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/amused/a/,/c/fi/huvittunut/]"
+    },
+    {
+      "target": "road",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/amused/a/,/c/sv/road/]"
+    },
+    {
+      "target": "amuse",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/amused/v/,/c/en/amuse/]"
+    },
+    {
+      "target": "amusement",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/amused/a/,/c/en/amusement/]"
+    },
+    {
+      "target": "amuse",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/amused/,/c/en/amuse/v/]"
+    },
+    {
+      "target": "amused",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/amused/,/http://fr.wiktionary.org/wiki/amused/]"
+    },
+    {
+      "target": "amused",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/amused/,/http://en.wiktionary.org/wiki/amused/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "FormOf",
+    "RelatedTo",
+    "ExternalURL"
+  ],
+  "total_edges_found": 9,
+  "concept_queried": "amused",
+  "single_word_validated": true
+}

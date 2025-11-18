@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1756776523.11277,
+  "edges": [
+    {
+      "target": "entertain",
+      "relationship": "UsedFor",
+      "weight": 6.0,
+      "uri": "/a/[/r/UsedFor/,/c/en/show/,/c/en/entertain/]"
+    },
+    {
+      "target": "entertainment",
+      "relationship": "UsedFor",
+      "weight": 4.0,
+      "uri": "/a/[/r/UsedFor/,/c/en/show/,/c/en/entertainment/]"
+    },
+    {
+      "target": "a theatre",
+      "relationship": "AtLocation",
+      "weight": 4.0,
+      "uri": "/a/[/r/AtLocation/,/c/en/show/,/c/en/theatre/]"
+    },
+    {
+      "target": "an audience",
+      "relationship": "UsedFor",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/UsedFor/,/c/en/show/,/c/en/audience/]"
+    },
+    {
+      "target": "a television",
+      "relationship": "AtLocation",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/AtLocation/,/c/en/show/,/c/en/television/]"
+    },
+    {
+      "target": "express",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/show/v/wn/communication/,/c/en/express/v/wn/communication/]"
+    },
+    {
+      "target": "appearance",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/show/n/wn/act/,/c/en/appearance/n/wn/act/]"
+    },
+    {
+      "target": "usher",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/show/v/wn/motion/,/c/en/usher/v/wn/motion/]"
+    },
+    {
+      "target": "prove",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/show/v/wn/cognition/,/c/en/prove/v/wn/cognition/]"
+    },
+    {
+      "target": "race",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/show/v/wn/competition/,/c/en/race/v/wn/competition/]"
+    }
+  ],
+  "relationships": [
+    "UsedFor",
+    "AtLocation",
+    "Synonym",
+    "MannerOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "show",
+  "single_word_validated": true
+}

@@ -1,0 +1,69 @@
+{
+  "has_data": true,
+  "last_lookup": 1757473420.948555,
+  "edges": [
+    {
+      "target": "meow",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/miaow/n/wn/event/,/c/en/meow/n/wn/event/]"
+    },
+    {
+      "target": "miaou",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/miaow/v/wn/communication/,/c/en/miaou/v/wn/communication/]"
+    },
+    {
+      "target": "miaou",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/miaow/n/,/c/fr/miaou/]"
+    },
+    {
+      "target": "miauler",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/miaow/v/,/c/fr/miauler/]"
+    },
+    {
+      "target": "meow",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/miaow/,/c/en/meow/n/]"
+    },
+    {
+      "target": "meow",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/miaow/n/,/c/en/meow/]"
+    },
+    {
+      "target": "meow",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/miaow/v/,/c/en/meow/]"
+    },
+    {
+      "target": "miaow",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/miaow/,/http://fr.wiktionary.org/wiki/miaow/]"
+    },
+    {
+      "target": "miaow",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/miaow/,/http://en.wiktionary.org/wiki/miaow/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "RelatedTo",
+    "FormOf",
+    "ExternalURL"
+  ],
+  "total_edges_found": 9,
+  "concept_queried": "miaow",
+  "single_word_validated": true
+}

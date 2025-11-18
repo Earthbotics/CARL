@@ -1,0 +1,77 @@
+{
+  "has_data": true,
+  "last_lookup": 1761621856.916796,
+  "edges": [
+    {
+      "target": "is a container",
+      "relationship": "CapableOf",
+      "weight": 4.0,
+      "uri": "/a/[/r/CapableOf/,/c/en/a/,/c/en/container/]"
+    },
+    {
+      "target": "the alphabet",
+      "relationship": "PartOf",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/PartOf/,/c/en/a/,/c/en/alphabet/]"
+    },
+    {
+      "target": "anno",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/a/r/,/c/en/anno/]"
+    },
+    {
+      "target": "answer",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/a/n/,/c/en/answer/]"
+    },
+    {
+      "target": "a",
+      "relationship": "EtymologicallyDerivedFrom",
+      "weight": 2.0,
+      "uri": "/a/[/r/EtymologicallyDerivedFrom/,/c/en/a/,/c/enm/a/]"
+    },
+    {
+      "target": "vitamin A",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/a/n/wn/substance/,/c/en/vitamin/n/wn/substance/]"
+    },
+    {
+      "target": "apprentice",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/a/n/,/c/en/apprentice/]"
+    },
+    {
+      "target": "grade",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/a/n/,/c/en/grade/]"
+    },
+    {
+      "target": "anterior",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/a/a/,/c/en/anterior/]"
+    },
+    {
+      "target": "chemistry",
+      "relationship": "HasContext",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasContext/,/c/en/a/,/c/en/chemistry/]"
+    }
+  ],
+  "relationships": [
+    "CapableOf",
+    "PartOf",
+    "RelatedTo",
+    "EtymologicallyDerivedFrom",
+    "Synonym",
+    "HasContext"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "a",
+  "single_word_validated": true
+}

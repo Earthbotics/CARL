@@ -1,0 +1,58 @@
+{
+  "has_data": true,
+  "last_lookup": 1756604461.381939,
+  "edges": [
+    {
+      "target": "power",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/powering/v/,/c/en/power/]"
+    },
+    {
+      "target": "use of devices",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/powering/n/,/c/en/use_of_devices/n/]"
+    },
+    {
+      "target": "power",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/powering/v/,/c/en/power/]"
+    },
+    {
+      "target": "PoweringADevice",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/powering/n/,/http://sw.opencyc.org/2012/05/10/concept/en/PoweringADevice/]"
+    },
+    {
+      "target": "power",
+      "relationship": "DerivedFrom",
+      "weight": 1.0,
+      "uri": "/a/[/r/DerivedFrom/,/c/en/powering/,/c/en/power/]"
+    },
+    {
+      "target": "powering",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/powering/,/http://fr.wiktionary.org/wiki/powering/]"
+    },
+    {
+      "target": "powering",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/powering/,/http://en.wiktionary.org/wiki/powering/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "IsA",
+    "FormOf",
+    "ExternalURL",
+    "DerivedFrom"
+  ],
+  "total_edges_found": 7,
+  "concept_queried": "powering",
+  "single_word_validated": true
+}

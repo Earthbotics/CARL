@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1756443440.7496934,
+  "edges": [
+    {
+      "target": "a mythical beast",
+      "relationship": "IsA",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/IsA/,/c/en/dragon/,/c/en/mythical_beast/]"
+    },
+    {
+      "target": "breathe fire",
+      "relationship": "CapableOf",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/CapableOf/,/c/en/dragon/,/c/en/breathe_fire/]"
+    },
+    {
+      "target": "a mythological reptilian monster",
+      "relationship": "IsA",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/IsA/,/c/en/dragon/,/c/en/mythological_reptilian_monster/]"
+    },
+    {
+      "target": "zmaj",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/dragon/,/c/sh/zmaj/]"
+    },
+    {
+      "target": "unpleasant woman",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/dragon/n/wn/person/,/c/en/unpleasant_woman/n/wn/person/]"
+    },
+    {
+      "target": "Draco",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/dragon/n/wn/object/,/c/en/draco/n/wn/object/]"
+    },
+    {
+      "target": "a\u017edaja",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/dragon/,/c/sh/a\u017edaja/]"
+    },
+    {
+      "target": "zmajica",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/dragon/,/c/sh/zmajica/]"
+    },
+    {
+      "target": "zmajevi",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/dragon/,/c/sh/zmajevi/]"
+    },
+    {
+      "target": "mythical monster",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/dragon/n/wn/person/,/c/en/mythical_monster/n/wn/person/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "CapableOf",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "dragon",
+  "single_word_validated": true
+}

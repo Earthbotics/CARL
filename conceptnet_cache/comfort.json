@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1757094416.88902,
+  "edges": [
+    {
+      "target": "a home",
+      "relationship": "AtLocation",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/AtLocation/,/c/en/comfort/,/c/en/home/]"
+    },
+    {
+      "target": "aid",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/comfort/n/wn/act/,/c/en/aid/n/wn/act/]"
+    },
+    {
+      "target": "gratification",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/comfort/n/wn/state/,/c/en/gratification/n/wn/state/]"
+    },
+    {
+      "target": "pleasure",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/comfort/n/wn/feeling/,/c/en/pleasure/n/wn/feeling/]"
+    },
+    {
+      "target": "a friend's house",
+      "relationship": "AtLocation",
+      "weight": 2.0,
+      "uri": "/a/[/r/AtLocation/,/c/en/comfort/,/c/en/friend's_house/]"
+    },
+    {
+      "target": "a good feeling",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/comfort/,/c/en/good_feeling/]"
+    },
+    {
+      "target": "consolation",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/comfort/n/wn/act/,/c/en/consolation/n/wn/act/]"
+    },
+    {
+      "target": "quilt",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/comfort/n/wn/artifact/,/c/en/quilt/n/wn/artifact/]"
+    },
+    {
+      "target": "condition",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/comfort/n/wn/state/,/c/en/condition/n/wn/state/]"
+    },
+    {
+      "target": "relieve",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/comfort/v/wn/body/,/c/en/relieve/v/wn/body/]"
+    }
+  ],
+  "relationships": [
+    "AtLocation",
+    "IsA",
+    "Synonym",
+    "MannerOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "comfort",
+  "single_word_validated": true
+}

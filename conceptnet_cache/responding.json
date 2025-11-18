@@ -1,0 +1,44 @@
+{
+  "has_data": true,
+  "last_lookup": 1757802143.7390742,
+  "edges": [
+    {
+      "target": "response",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/responding/n/,/c/en/response/]"
+    },
+    {
+      "target": "respond",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/responding/v/,/c/en/respond/]"
+    },
+    {
+      "target": "respond",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/responding/v/,/c/en/respond/]"
+    },
+    {
+      "target": "responding",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/responding/,/http://fr.wiktionary.org/wiki/responding/]"
+    },
+    {
+      "target": "responding",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/responding/,/http://en.wiktionary.org/wiki/responding/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "FormOf",
+    "ExternalURL"
+  ],
+  "total_edges_found": 5,
+  "concept_queried": "responding",
+  "single_word_validated": true
+}

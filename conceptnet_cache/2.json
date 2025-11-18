@@ -1,0 +1,77 @@
+{
+  "has_data": true,
+  "last_lookup": 1754928945.069699,
+  "edges": [
+    {
+      "target": "cardinal",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/2/a/wn/,/c/en/cardinal/a/wn/]"
+    },
+    {
+      "target": "two",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/2/n/wn/quantity/,/c/en/two/n/wn/quantity/]"
+    },
+    {
+      "target": "2",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/2/,/http://dbpedia.org/resource/OS/2/]"
+    },
+    {
+      "target": "a number",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/2/,/c/en/number/]"
+    },
+    {
+      "target": "Q688185",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/2/,/http://wikidata.dbpedia.org/resource/Q688185/]"
+    },
+    {
+      "target": "character",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/2/,/c/de/character/]"
+    },
+    {
+      "target": "4",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/2/,/c/en/4/]"
+    },
+    {
+      "target": "text messaging",
+      "relationship": "HasContext",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasContext/,/c/en/2/,/c/en/text_messaging/]"
+    },
+    {
+      "target": "historical",
+      "relationship": "HasContext",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasContext/,/c/en/2/n/,/c/en/historical/]"
+    },
+    {
+      "target": "Q284518",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/2/,/http://wikidata.dbpedia.org/resource/Q284518/]"
+    }
+  ],
+  "relationships": [
+    "SimilarTo",
+    "Synonym",
+    "ExternalURL",
+    "IsA",
+    "RelatedTo",
+    "HasContext"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "2",
+  "single_word_validated": true
+}

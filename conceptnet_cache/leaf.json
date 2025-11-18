@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1755319150.2215333,
+  "edges": [
+    {
+      "target": "tree",
+      "relationship": "RelatedTo",
+      "weight": 5.96523260233832,
+      "uri": "/a/[/r/RelatedTo/,/c/en/leaf/,/c/en/tree/]"
+    },
+    {
+      "target": "a tree",
+      "relationship": "PartOf",
+      "weight": 5.656854249492381,
+      "uri": "/a/[/r/PartOf/,/c/en/leaf/,/c/en/tree/]"
+    },
+    {
+      "target": "a tree",
+      "relationship": "AtLocation",
+      "weight": 4.47213595499958,
+      "uri": "/a/[/r/AtLocation/,/c/en/leaf/,/c/en/tree/]"
+    },
+    {
+      "target": "green",
+      "relationship": "RelatedTo",
+      "weight": 4.201428328556849,
+      "uri": "/a/[/r/RelatedTo/,/c/en/leaf/,/c/en/green/]"
+    },
+    {
+      "target": "trees",
+      "relationship": "AtLocation",
+      "weight": 4.0,
+      "uri": "/a/[/r/AtLocation/,/c/en/leaf/,/c/en/trees/]"
+    },
+    {
+      "target": "part",
+      "relationship": "RelatedTo",
+      "weight": 3.9176523582370093,
+      "uri": "/a/[/r/RelatedTo/,/c/en/leaf/,/c/en/part/]"
+    },
+    {
+      "target": "fall from a tree",
+      "relationship": "CapableOf",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/CapableOf/,/c/en/leaf/,/c/en/fall_from_tree/]"
+    },
+    {
+      "target": "plant",
+      "relationship": "RelatedTo",
+      "weight": 3.011976095522672,
+      "uri": "/a/[/r/RelatedTo/,/c/en/leaf/,/c/en/plant/]"
+    },
+    {
+      "target": "photosynthesis",
+      "relationship": "UsedFor",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/UsedFor/,/c/en/leaf/,/c/en/photosynthesis/]"
+    },
+    {
+      "target": "trees",
+      "relationship": "RelatedTo",
+      "weight": 2.7371518043396854,
+      "uri": "/a/[/r/RelatedTo/,/c/en/leaf/,/c/en/trees/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "PartOf",
+    "AtLocation",
+    "CapableOf",
+    "UsedFor"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "leaf",
+  "single_word_validated": true
+}

@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1756776346.7366765,
+  "edges": [
+    {
+      "target": "online",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/online/a/,/c/de/online/]"
+    },
+    {
+      "target": "on-line",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/online/a/wn/transportation/,/c/en/on_line/a/wn/transportation/]"
+    },
+    {
+      "target": "current",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/online/a/wn/,/c/en/current/a/wn/]"
+    },
+    {
+      "target": "on-line",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/online/a/wn/computer_science/,/c/en/on_line/a/wn/computer_science/]"
+    },
+    {
+      "target": "generator",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/online/a/,/c/en/generator/]"
+    },
+    {
+      "target": "grid",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/online/a/,/c/en/grid/]"
+    },
+    {
+      "target": "\u7db2\u4e0a",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/online/a/,/c/zh/\u7db2\u4e0a/]"
+    },
+    {
+      "target": "come online",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/online/r/,/c/en/come_online/]"
+    },
+    {
+      "target": "interreta",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/online/a/,/c/eo/interreta/]"
+    },
+    {
+      "target": "instantan\u00e9ment",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/online/a/,/c/fr/instantan\u00e9ment/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "SimilarTo",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "online",
+  "single_word_validated": true
+}

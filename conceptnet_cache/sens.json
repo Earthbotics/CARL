@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1754663830.4615664,
+  "edges": [
+    {
+      "target": "sen",
+      "relationship": "FormOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/FormOf/,/c/en/sens/n/,/c/en/sen/]"
+    },
+    {
+      "target": "pot",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/sens/n/wn/artifact/,/c/en/pot/n/wn/artifact/]"
+    },
+    {
+      "target": "g\u00e9ographie",
+      "relationship": "HasContext",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasContext/,/c/en/sens/n/,/c/fr/g\u00e9ographie/]"
+    },
+    {
+      "target": "burgundy",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/sens/n/,/c/en/burgundy/]"
+    },
+    {
+      "target": "france",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/sens/n/,/c/en/france/]"
+    },
+    {
+      "target": "senators",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/sens/n/,/c/en/senators/]"
+    },
+    {
+      "target": "Sens",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/sens/,/http://fr.wiktionary.org/wiki/Sens/]"
+    },
+    {
+      "target": "sens",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/sens/,/http://en.wiktionary.org/wiki/sens/]"
+    },
+    {
+      "target": "Sens",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/sens/,/http://en.wiktionary.org/wiki/Sens/]"
+    },
+    {
+      "target": "Sens.",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/sens/,/http://en.wiktionary.org/wiki/Sens./]"
+    }
+  ],
+  "relationships": [
+    "FormOf",
+    "Synonym",
+    "HasContext",
+    "RelatedTo",
+    "ExternalURL"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "sens",
+  "single_word_validated": true
+}

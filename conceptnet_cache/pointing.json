@@ -1,0 +1,77 @@
+{
+  "has_data": true,
+  "last_lookup": 1755145809.234223,
+  "edges": [
+    {
+      "target": "jointoiement",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/pointing/n/,/c/fr/jointoiement/]"
+    },
+    {
+      "target": "art",
+      "relationship": "HasContext",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasContext/,/c/en/pointing/n/,/c/en/art/]"
+    },
+    {
+      "target": "gesturing",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/pointing/n/,/c/en/gesturing/n/]"
+    },
+    {
+      "target": "brick",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/pointing/n/,/c/en/brick/]"
+    },
+    {
+      "target": "point",
+      "relationship": "DerivedFrom",
+      "weight": 1.0,
+      "uri": "/a/[/r/DerivedFrom/,/c/en/pointing/,/c/en/point/]"
+    },
+    {
+      "target": "PointingAFinger",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/pointing/n/,/http://sw.opencyc.org/2012/05/10/concept/en/PointingAFinger/]"
+    },
+    {
+      "target": "mortar",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/pointing/n/,/c/en/mortar/]"
+    },
+    {
+      "target": "ma\u00e7onnerie",
+      "relationship": "HasContext",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasContext/,/c/en/pointing/n/,/c/fr/ma\u00e7onnerie/]"
+    },
+    {
+      "target": "point",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/pointing/v/,/c/en/point/]"
+    },
+    {
+      "target": "point",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/pointing/v/,/c/en/point/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "HasContext",
+    "IsA",
+    "DerivedFrom",
+    "ExternalURL",
+    "FormOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "pointing",
+  "single_word_validated": true
+}

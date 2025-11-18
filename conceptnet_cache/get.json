@@ -1,0 +1,77 @@
+{
+  "has_data": true,
+  "last_lookup": 1754011294.8578863,
+  "edges": [
+    {
+      "target": "ask for it",
+      "relationship": "HasPrerequisite",
+      "weight": 4.898979485566356,
+      "uri": "/a/[/r/HasPrerequisite/,/c/en/get/,/c/en/ask_for/]"
+    },
+    {
+      "target": "reach for it",
+      "relationship": "HasPrerequisite",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/HasPrerequisite/,/c/en/get/,/c/en/reach_for/]"
+    },
+    {
+      "target": "receive",
+      "relationship": "RelatedTo",
+      "weight": 3.1755314515841278,
+      "uri": "/a/[/r/RelatedTo/,/c/en/get/,/c/en/receive/]"
+    },
+    {
+      "target": "acquire",
+      "relationship": "RelatedTo",
+      "weight": 2.6548069609672194,
+      "uri": "/a/[/r/RelatedTo/,/c/en/get/,/c/en/acquire/]"
+    },
+    {
+      "target": "obtain",
+      "relationship": "RelatedTo",
+      "weight": 2.3698101189757796,
+      "uri": "/a/[/r/RelatedTo/,/c/en/get/,/c/en/obtain/]"
+    },
+    {
+      "target": "have it",
+      "relationship": "MotivatedByGoal",
+      "weight": 2.0,
+      "uri": "/a/[/r/MotivatedByGoal/,/c/en/get/,/c/en/have/]"
+    },
+    {
+      "target": "communicate",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/get/v/wn/communication/,/c/en/communicate/v/wn/communication/]"
+    },
+    {
+      "target": "commerce",
+      "relationship": "HasContext",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasContext/,/c/en/get/v/wn/commerce/,/c/en/commerce/n/wn/act/]"
+    },
+    {
+      "target": "drive",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/get/v/wn/communication/,/c/en/drive/v/wn/communication/]"
+    },
+    {
+      "target": "get down",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/get/v/wn/change/,/c/en/get_down/v/wn/change/]"
+    }
+  ],
+  "relationships": [
+    "HasPrerequisite",
+    "RelatedTo",
+    "MotivatedByGoal",
+    "MannerOf",
+    "HasContext",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "get",
+  "single_word_validated": true
+}

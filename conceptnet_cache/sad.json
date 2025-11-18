@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1754629881.768147,
+  "edges": [
+    {
+      "target": "crying",
+      "relationship": "HasSubevent",
+      "weight": 4.47213595499958,
+      "uri": "/a/[/r/HasSubevent/,/c/en/sad/,/c/en/crying/]"
+    },
+    {
+      "target": "cry",
+      "relationship": "HasSubevent",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/HasSubevent/,/c/en/sad/,/c/en/cry/]"
+    },
+    {
+      "target": "sorrowful",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/sad/a/wn/,/c/en/sorrowful/a/wn/]"
+    },
+    {
+      "target": "melancholic",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/sad/a/wn/,/c/en/melancholic/a/wn/]"
+    },
+    {
+      "target": "distressing",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/sad/a/wn/,/c/en/distressing/a/wn/]"
+    },
+    {
+      "target": "heavyhearted",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/sad/a/wn/,/c/en/heavyhearted/a/wn/]"
+    },
+    {
+      "target": "comfort a friend",
+      "relationship": "CausesDesire",
+      "weight": 2.0,
+      "uri": "/a/[/r/CausesDesire/,/c/en/sad/,/c/en/comfort_friend/]"
+    },
+    {
+      "target": "mournful",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/sad/a/wn/,/c/en/mournful/a/wn/]"
+    },
+    {
+      "target": "tragical",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/sad/a/wn/,/c/en/tragical/a/wn/]"
+    },
+    {
+      "target": "tragicomical",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/sad/a/wn/,/c/en/tragicomical/a/wn/]"
+    }
+  ],
+  "relationships": [
+    "HasSubevent",
+    "SimilarTo",
+    "Synonym",
+    "CausesDesire"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "sad",
+  "single_word_validated": true
+}

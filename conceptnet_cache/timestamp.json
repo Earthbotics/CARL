@@ -1,0 +1,73 @@
+{
+  "has_data": true,
+  "last_lookup": 1756256833.7778387,
+  "edges": [
+    {
+      "target": "\u062e\u062a\u0645 \u0632\u0645\u0646\u064a",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/timestamp/n/,/c/ar/\u062e\u062a\u0645_\u0632\u0645\u0646\u064a/]"
+    },
+    {
+      "target": "horodatage",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/timestamp/n/,/c/fr/horodatage/]"
+    },
+    {
+      "target": "zaman damgas\u0131",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/timestamp/n/,/c/tr/zaman_damgas\u0131/]"
+    },
+    {
+      "target": "occur",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/timestamp/n/,/c/en/occur/]"
+    },
+    {
+      "target": "zeitstempel",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/timestamp/n/,/c/de/zeitstempel/]"
+    },
+    {
+      "target": "\u010dasov\u00e1 zna\u010dka",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/timestamp/n/,/c/cs/\u010dasov\u00e1_zna\u010dka/]"
+    },
+    {
+      "target": "\u30bf\u30a4\u30e0\u30b9\u30bf\u30f3\u30d7",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/timestamp/n/,/c/ja/\u30bf\u30a4\u30e0\u30b9\u30bf\u30f3\u30d7/]"
+    },
+    {
+      "target": "date",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/timestamp/n/,/c/en/date/]"
+    },
+    {
+      "target": "\u0219tampil\u0103 de timp",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/timestamp/n/,/c/ro/\u0219tampil\u0103_de_timp/]"
+    },
+    {
+      "target": "aikaleima",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/timestamp/n/,/c/fi/aikaleima/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "timestamp",
+  "single_word_validated": true
+}

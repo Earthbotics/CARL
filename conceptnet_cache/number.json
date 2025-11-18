@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1756265829.2795293,
+  "edges": [
+    {
+      "target": "digit",
+      "relationship": "RelatedTo",
+      "weight": 4.905914797466422,
+      "uri": "/a/[/r/RelatedTo/,/c/en/number/,/c/en/digit/]"
+    },
+    {
+      "target": "a phone book",
+      "relationship": "AtLocation",
+      "weight": 4.898979485566356,
+      "uri": "/a/[/r/AtLocation/,/c/en/number/,/c/en/phone_book/]"
+    },
+    {
+      "target": "counting",
+      "relationship": "RelatedTo",
+      "weight": 4.571651780264984,
+      "uri": "/a/[/r/RelatedTo/,/c/en/number/,/c/en/counting/]"
+    },
+    {
+      "target": "two",
+      "relationship": "RelatedTo",
+      "weight": 4.259107887809371,
+      "uri": "/a/[/r/RelatedTo/,/c/en/number/,/c/en/two/]"
+    },
+    {
+      "target": "math",
+      "relationship": "RelatedTo",
+      "weight": 3.55696499842211,
+      "uri": "/a/[/r/RelatedTo/,/c/en/number/,/c/en/math/]"
+    },
+    {
+      "target": "three",
+      "relationship": "RelatedTo",
+      "weight": 3.493422390722313,
+      "uri": "/a/[/r/RelatedTo/,/c/en/number/,/c/en/three/]"
+    },
+    {
+      "target": "no",
+      "relationship": "RelatedTo",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/RelatedTo/,/c/en/number/n/wikt/en_1/,/c/en/no/]"
+    },
+    {
+      "target": "a social security number",
+      "relationship": "AtLocation",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/AtLocation/,/c/en/number/,/c/en/social_security_number/]"
+    },
+    {
+      "target": "one two",
+      "relationship": "RelatedTo",
+      "weight": 3.398234835911138,
+      "uri": "/a/[/r/RelatedTo/,/c/en/number/,/c/en/one_two/]"
+    },
+    {
+      "target": "represent order",
+      "relationship": "UsedFor",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/UsedFor/,/c/en/number/,/c/en/represent_order/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "AtLocation",
+    "UsedFor"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "number",
+  "single_word_validated": true
+}

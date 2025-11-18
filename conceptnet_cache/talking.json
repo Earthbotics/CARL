@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1761493402.9590118,
+  "edges": [
+    {
+      "target": "a dry mouth",
+      "relationship": "Causes",
+      "weight": 4.898979485566356,
+      "uri": "/a/[/r/Causes/,/c/en/talking/,/c/en/dry_mouth/]"
+    },
+    {
+      "target": "a sore throat",
+      "relationship": "Causes",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/Causes/,/c/en/talking/,/c/en/sore_throat/]"
+    },
+    {
+      "target": "a mouth",
+      "relationship": "HasPrerequisite",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/HasPrerequisite/,/c/en/talking/,/c/en/mouth/]"
+    },
+    {
+      "target": "laughing",
+      "relationship": "HasSubevent",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasSubevent/,/c/en/talking/,/c/en/laughing/]"
+    },
+    {
+      "target": "you sneeze",
+      "relationship": "HasSubevent",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasSubevent/,/c/en/talking/,/c/en/sneeze/]"
+    },
+    {
+      "target": "a conversation",
+      "relationship": "Causes",
+      "weight": 2.0,
+      "uri": "/a/[/r/Causes/,/c/en/talking/,/c/en/conversation/]"
+    },
+    {
+      "target": "language",
+      "relationship": "HasPrerequisite",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasPrerequisite/,/c/en/talking/,/c/en/language/]"
+    },
+    {
+      "target": "speech",
+      "relationship": "UsedFor",
+      "weight": 2.0,
+      "uri": "/a/[/r/UsedFor/,/c/en/talking/,/c/en/speech/]"
+    },
+    {
+      "target": "a voice",
+      "relationship": "HasPrerequisite",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasPrerequisite/,/c/en/talking/,/c/en/voice/]"
+    },
+    {
+      "target": "stutter",
+      "relationship": "HasSubevent",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasSubevent/,/c/en/talking/,/c/en/stutter/]"
+    }
+  ],
+  "relationships": [
+    "Causes",
+    "HasPrerequisite",
+    "HasSubevent",
+    "UsedFor"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "talking",
+  "single_word_validated": true
+}

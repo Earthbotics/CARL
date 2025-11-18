@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1755877840.735064,
+  "edges": [
+    {
+      "target": "place",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/placing/,/c/en/place/v/]"
+    },
+    {
+      "target": "placed",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/placing/n/,/c/en/placed/]"
+    },
+    {
+      "target": "placement",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/placing/n/,/c/en/placement/]"
+    },
+    {
+      "target": "place",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/placing/v/,/c/en/place/]"
+    },
+    {
+      "target": "race",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/placing/n/,/c/en/race/]"
+    },
+    {
+      "target": "position",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/placing/n/,/c/en/position/]"
+    },
+    {
+      "target": "place",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/placing/v/,/c/en/place/]"
+    },
+    {
+      "target": "ordering",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/placing/n/,/c/en/ordering/n/]"
+    },
+    {
+      "target": "AssigningAgentToRole",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/placing/n/,/http://sw.opencyc.org/2012/05/10/concept/en/AssigningAgentToRole/]"
+    },
+    {
+      "target": "placing",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/placing/,/http://en.wiktionary.org/wiki/placing/]"
+    }
+  ],
+  "relationships": [
+    "FormOf",
+    "RelatedTo",
+    "IsA",
+    "ExternalURL"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "placing",
+  "single_word_validated": true
+}

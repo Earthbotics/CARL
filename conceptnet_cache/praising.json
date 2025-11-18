@@ -1,0 +1,70 @@
+{
+  "has_data": true,
+  "last_lookup": 1754011171.3869493,
+  "edges": [
+    {
+      "target": "laudatory",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/praising/a/wn/,/c/en/laudatory/a/wn/]"
+    },
+    {
+      "target": "a form of positive reinforcement",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/praising/,/c/en/form_of_positive_reinforcement/]"
+    },
+    {
+      "target": "praise",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/praising/v/,/c/en/praise/]"
+    },
+    {
+      "target": "single communication act",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/praising/n/,/c/en/single_communication_act/n/]"
+    },
+    {
+      "target": "PraisingSomeone",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/praising/n/,/http://sw.opencyc.org/2012/05/10/concept/en/PraisingSomeone/]"
+    },
+    {
+      "target": "praise",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/praising/,/c/en/praise/v/]"
+    },
+    {
+      "target": "praise",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/praising/v/,/c/en/praise/]"
+    },
+    {
+      "target": "praising",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/praising/,/http://fr.wiktionary.org/wiki/praising/]"
+    },
+    {
+      "target": "praising",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/praising/,/http://en.wiktionary.org/wiki/praising/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "IsA",
+    "RelatedTo",
+    "ExternalURL",
+    "FormOf"
+  ],
+  "total_edges_found": 9,
+  "concept_queried": "praising",
+  "single_word_validated": true
+}

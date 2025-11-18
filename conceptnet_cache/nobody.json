@@ -1,0 +1,73 @@
+{
+  "has_data": true,
+  "last_lookup": 1755143126.2166114,
+  "edges": [
+    {
+      "target": "niemand",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/nobody/n/,/c/de/niemand/]"
+    },
+    {
+      "target": "cipher",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/nobody/n/wn/person/,/c/en/cipher/n/wn/person/]"
+    },
+    {
+      "target": "no one",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/nobody/n/,/c/en/no_one/]"
+    },
+    {
+      "target": "ning\u00fa",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/nobody/n/,/c/ca/ning\u00fa/]"
+    },
+    {
+      "target": "everybody",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/nobody/n/,/c/en/everybody/]"
+    },
+    {
+      "target": "negation",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/nobody/n/,/c/en/negation/]"
+    },
+    {
+      "target": "n\u00edmand",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/nobody/n/,/c/hu/n\u00edmand/]"
+    },
+    {
+      "target": "niko",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/nobody/n/,/c/sh/niko/]"
+    },
+    {
+      "target": "uomo da niente",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/nobody/n/,/c/it/uomo_da_niente/]"
+    },
+    {
+      "target": "moins que rien",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/nobody/n/,/c/fr/moins_que_rien/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "nobody",
+  "single_word_validated": true
+}

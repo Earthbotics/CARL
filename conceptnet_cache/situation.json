@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1757082824.2228718,
+  "edges": [
+    {
+      "target": "described as desperate",
+      "relationship": "ReceivesAction",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/ReceivesAction/,/c/en/situation/,/c/en/described_as_desperate/]"
+    },
+    {
+      "target": "difficulty",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/situation/n/wn/state/,/c/en/difficulty/n/wn/state/]"
+    },
+    {
+      "target": "go South",
+      "relationship": "CapableOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/CapableOf/,/c/en/situation/,/c/en/go_south/]"
+    },
+    {
+      "target": "turn bad",
+      "relationship": "CapableOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/CapableOf/,/c/en/situation/,/c/en/turn_bad/]"
+    },
+    {
+      "target": "site",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/situation/n/wn/location/,/c/en/site/n/wn/location/]"
+    },
+    {
+      "target": "condition",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/situation/n/wn/state/,/c/en/condition/n/wn/state/]"
+    },
+    {
+      "target": "anger a human",
+      "relationship": "CapableOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/CapableOf/,/c/en/situation/,/c/en/anger_human/]"
+    },
+    {
+      "target": "state",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/situation/n/wn/state/,/c/en/state/n/wn/]"
+    },
+    {
+      "target": "position",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/situation/n/wn/act/,/c/en/position/n/wn/act/]"
+    },
+    {
+      "target": "get interesting",
+      "relationship": "CapableOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/CapableOf/,/c/en/situation/,/c/en/get_interesting/]"
+    }
+  ],
+  "relationships": [
+    "ReceivesAction",
+    "IsA",
+    "CapableOf",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "situation",
+  "single_word_validated": true
+}

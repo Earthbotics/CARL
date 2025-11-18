@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1754020327.9118462,
+  "edges": [
+    {
+      "target": "bark",
+      "relationship": "CapableOf",
+      "weight": 16.0,
+      "uri": "/a/[/r/CapableOf/,/c/en/dog/,/c/en/bark/]"
+    },
+    {
+      "target": "guard your house",
+      "relationship": "CapableOf",
+      "weight": 10.392304845413264,
+      "uri": "/a/[/r/CapableOf/,/c/en/dog/,/c/en/guard_house/]"
+    },
+    {
+      "target": "pet",
+      "relationship": "RelatedTo",
+      "weight": 9.82975075981075,
+      "uri": "/a/[/r/RelatedTo/,/c/en/dog/,/c/en/pet/]"
+    },
+    {
+      "target": "animal",
+      "relationship": "RelatedTo",
+      "weight": 9.410419756844005,
+      "uri": "/a/[/r/RelatedTo/,/c/en/dog/,/c/en/animal/]"
+    },
+    {
+      "target": "a kennel",
+      "relationship": "AtLocation",
+      "weight": 9.38083151964686,
+      "uri": "/a/[/r/AtLocation/,/c/en/dog/,/c/en/kennel/]"
+    },
+    {
+      "target": "canine",
+      "relationship": "RelatedTo",
+      "weight": 7.625745865159683,
+      "uri": "/a/[/r/RelatedTo/,/c/en/dog/,/c/en/canine/]"
+    },
+    {
+      "target": "be a pet",
+      "relationship": "CapableOf",
+      "weight": 7.483314773547882,
+      "uri": "/a/[/r/CapableOf/,/c/en/dog/,/c/en/pet/]"
+    },
+    {
+      "target": "a loyal friend",
+      "relationship": "IsA",
+      "weight": 6.6332495807108,
+      "uri": "/a/[/r/IsA/,/c/en/dog/,/c/en/loyal_friend/]"
+    },
+    {
+      "target": "companionship",
+      "relationship": "UsedFor",
+      "weight": 6.32455532033676,
+      "uri": "/a/[/r/UsedFor/,/c/en/dog/,/c/en/companionship/]"
+    },
+    {
+      "target": "run",
+      "relationship": "CapableOf",
+      "weight": 6.0,
+      "uri": "/a/[/r/CapableOf/,/c/en/dog/,/c/en/run/]"
+    }
+  ],
+  "relationships": [
+    "CapableOf",
+    "RelatedTo",
+    "AtLocation",
+    "IsA",
+    "UsedFor"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "dog",
+  "single_word_validated": true
+}

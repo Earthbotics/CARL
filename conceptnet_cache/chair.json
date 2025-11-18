@@ -1,0 +1,73 @@
+{
+  "has_data": true,
+  "last_lookup": 1756699060.6967018,
+  "edges": [
+    {
+      "target": "the office",
+      "relationship": "AtLocation",
+      "weight": 8.48528137423857,
+      "uri": "/a/[/r/AtLocation/,/c/en/chair/,/c/en/office/]"
+    },
+    {
+      "target": "sitting",
+      "relationship": "RelatedTo",
+      "weight": 7.795126682742238,
+      "uri": "/a/[/r/RelatedTo/,/c/en/chair/,/c/en/sitting/]"
+    },
+    {
+      "target": "seat",
+      "relationship": "RelatedTo",
+      "weight": 6.779380502671316,
+      "uri": "/a/[/r/RelatedTo/,/c/en/chair/,/c/en/seat/]"
+    },
+    {
+      "target": "a desk",
+      "relationship": "AtLocation",
+      "weight": 6.6332495807108,
+      "uri": "/a/[/r/AtLocation/,/c/en/chair/,/c/en/desk/]"
+    },
+    {
+      "target": "furniture",
+      "relationship": "RelatedTo",
+      "weight": 6.460959681038105,
+      "uri": "/a/[/r/RelatedTo/,/c/en/chair/,/c/en/furniture/]"
+    },
+    {
+      "target": "sit",
+      "relationship": "RelatedTo",
+      "weight": 5.279393904606853,
+      "uri": "/a/[/r/RelatedTo/,/c/en/chair/,/c/en/sit/]"
+    },
+    {
+      "target": "table",
+      "relationship": "RelatedTo",
+      "weight": 4.23461922727416,
+      "uri": "/a/[/r/RelatedTo/,/c/en/chair/,/c/en/table/]"
+    },
+    {
+      "target": "legs",
+      "relationship": "RelatedTo",
+      "weight": 4.07578213352971,
+      "uri": "/a/[/r/RelatedTo/,/c/en/chair/,/c/en/legs/]"
+    },
+    {
+      "target": "a cubicle",
+      "relationship": "AtLocation",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/AtLocation/,/c/en/chair/,/c/en/cubicle/]"
+    },
+    {
+      "target": "the porch",
+      "relationship": "AtLocation",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/AtLocation/,/c/en/chair/,/c/en/porch/]"
+    }
+  ],
+  "relationships": [
+    "AtLocation",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "chair",
+  "single_word_validated": true
+}

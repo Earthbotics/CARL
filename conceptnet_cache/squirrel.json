@@ -1,0 +1,72 @@
+{
+  "has_data": true,
+  "last_lookup": 1755745719.6649547,
+  "edges": [
+    {
+      "target": "animal",
+      "relationship": "RelatedTo",
+      "weight": 12.835263924049244,
+      "uri": "/a/[/r/RelatedTo/,/c/en/squirrel/,/c/en/animal/]"
+    },
+    {
+      "target": "rodent",
+      "relationship": "RelatedTo",
+      "weight": 12.830744327590665,
+      "uri": "/a/[/r/RelatedTo/,/c/en/squirrel/,/c/en/rodent/]"
+    },
+    {
+      "target": "tail",
+      "relationship": "RelatedTo",
+      "weight": 11.52631771208828,
+      "uri": "/a/[/r/RelatedTo/,/c/en/squirrel/,/c/en/tail/]"
+    },
+    {
+      "target": "tree",
+      "relationship": "RelatedTo",
+      "weight": 10.85743984556212,
+      "uri": "/a/[/r/RelatedTo/,/c/en/squirrel/,/c/en/tree/]"
+    },
+    {
+      "target": "nuts",
+      "relationship": "RelatedTo",
+      "weight": 9.631614610230208,
+      "uri": "/a/[/r/RelatedTo/,/c/en/squirrel/,/c/en/nuts/]"
+    },
+    {
+      "target": "rat",
+      "relationship": "RelatedTo",
+      "weight": 9.265203721451568,
+      "uri": "/a/[/r/RelatedTo/,/c/en/squirrel/,/c/en/rat/]"
+    },
+    {
+      "target": "bushy",
+      "relationship": "RelatedTo",
+      "weight": 8.517980981429814,
+      "uri": "/a/[/r/RelatedTo/,/c/en/squirrel/,/c/en/bushy/]"
+    },
+    {
+      "target": "furry",
+      "relationship": "RelatedTo",
+      "weight": 7.7526769570258764,
+      "uri": "/a/[/r/RelatedTo/,/c/en/squirrel/,/c/en/furry/]"
+    },
+    {
+      "target": "nut",
+      "relationship": "RelatedTo",
+      "weight": 7.737441437581289,
+      "uri": "/a/[/r/RelatedTo/,/c/en/squirrel/,/c/en/nut/]"
+    },
+    {
+      "target": "bushy tail",
+      "relationship": "RelatedTo",
+      "weight": 7.51132478328557,
+      "uri": "/a/[/r/RelatedTo/,/c/en/squirrel/,/c/en/bushy_tail/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "squirrel",
+  "single_word_validated": true
+}

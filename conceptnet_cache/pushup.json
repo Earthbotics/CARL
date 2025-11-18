@@ -1,0 +1,38 @@
+{
+  "has_data": true,
+  "last_lookup": 1761621655.5231254,
+  "edges": [
+    {
+      "target": "arm exercise",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/pushup/n/wn/act/,/c/en/arm_exercise/n/wn/act/]"
+    },
+    {
+      "target": "100630558-n",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/pushup/n/wn/act/,/http://wordnet-rdf.princeton.edu/wn31/100630558-n/]"
+    },
+    {
+      "target": "push up",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/pushup/n/,/c/en/push_up/]"
+    },
+    {
+      "target": "pushup",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/pushup/,/http://en.wiktionary.org/wiki/pushup/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "ExternalURL",
+    "FormOf"
+  ],
+  "total_edges_found": 4,
+  "concept_queried": "pushup",
+  "single_word_validated": true
+}

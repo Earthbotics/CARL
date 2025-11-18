@@ -1,0 +1,46 @@
+{
+  "current_state": {
+    "pending_action": "describe_chomp",
+    "expected_answer": "confirmation",
+    "context": {},
+    "created_at": "2025-08-23T21:22:56.982403",
+    "last_updated": "2025-08-23T21:22:56.982403"
+  },
+  "state_history": [
+    {
+      "pending_action": "describe_chomp",
+      "expected_answer": "confirmation",
+      "context": {},
+      "created_at": "2025-08-23T21:22:56.980147",
+      "last_updated": "2025-08-23T21:22:56.981212"
+    },
+    {
+      "pending_action": "tell_joke",
+      "expected_answer": "confirmation",
+      "context": {},
+      "created_at": "2025-08-23T21:22:56.981212",
+      "last_updated": "2025-08-23T21:22:56.982403"
+    },
+    {
+      "pending_action": "describe_chomp",
+      "expected_answer": "confirmation",
+      "context": {},
+      "created_at": "2025-08-23T21:22:56.982403",
+      "last_updated": "2025-08-23T21:22:56.982403"
+    },
+    {
+      "pending_action": "describe_chomp",
+      "expected_answer": "confirmation",
+      "context": {},
+      "created_at": "2025-08-23T21:22:56.982403",
+      "last_updated": "2025-08-23T21:22:56.982403"
+    }
+  ],
+  "registered_actions": [
+    "describe_chomp",
+    "tell_joke",
+    "recall_memory",
+    "imagine_scene"
+  ],
+  "saved_at": "2025-08-23T21:22:56.983410"
+}

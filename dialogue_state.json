@@ -1,0 +1,17 @@
+{
+  "current_state": {
+    "pending_action": null,
+    "expected_answer": null,
+    "context": {},
+    "created_at": "2025-08-24 06:42:26.484741",
+    "last_updated": "2025-08-24 06:42:26.484741"
+  },
+  "state_history": [],
+  "registered_actions": [
+    "describe_chomp",
+    "tell_joke",
+    "recall_memory",
+    "imagine_scene"
+  ],
+  "saved_at": "2025-08-24 06:42:26.484741"
+}

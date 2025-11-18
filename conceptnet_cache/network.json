@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1756612737.9168096,
+  "edges": [
+    {
+      "target": "broadcasting",
+      "relationship": "HasContext",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasContext/,/c/en/network/n/wn/broadcasting/,/c/en/broadcasting/n/wn/communication/]"
+    },
+    {
+      "target": "communicate",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/network/v/wn/computer_science/,/c/en/communicate/v/wn/communication/]"
+    },
+    {
+      "target": "system",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/network/n/wn/artifact/,/c/en/system/n/wn/artifact/]"
+    },
+    {
+      "target": "net",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/network/n/wn/artifact/,/c/en/net/n/wn/artifact/]"
+    },
+    {
+      "target": "communication system",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/network/n/wn/broadcasting/,/c/en/communication_system/n/wn/artifact/]"
+    },
+    {
+      "target": "electronics",
+      "relationship": "HasContext",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasContext/,/c/en/network/n/wn/electronics/,/c/en/electronics/n/wn/cognition/]"
+    },
+    {
+      "target": "computer science",
+      "relationship": "HasContext",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasContext/,/c/en/network/v/wn/computer_science/,/c/en/computer_science/n/wn/computer/]"
+    },
+    {
+      "target": "system",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/network/n/wn/group/,/c/en/system/n/wn/group/]"
+    },
+    {
+      "target": "system",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/network/n/wn/electronics/,/c/en/system/n/wn/artifact/]"
+    },
+    {
+      "target": "tissus",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/network/n/,/c/fr/tissus/]"
+    }
+  ],
+  "relationships": [
+    "HasContext",
+    "MannerOf",
+    "IsA",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "network",
+  "single_word_validated": true
+}

@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1760489510.9298768,
+  "edges": [
+    {
+      "target": "shape",
+      "relationship": "RelatedTo",
+      "weight": 2.8934408582170814,
+      "uri": "/a/[/r/RelatedTo/,/c/en/figure/,/c/en/shape/]"
+    },
+    {
+      "target": "number",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/figure/n/wn/attribute/,/c/en/number/n/wn/attribute/]"
+    },
+    {
+      "target": "human body",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/figure/n/wn/body/,/c/en/human_body/n/wn/body/]"
+    },
+    {
+      "target": "model",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/figure/n/wn/artifact/,/c/en/model/n/wn/artifact/]"
+    },
+    {
+      "target": "digit",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/figure/n/wn/quantity/,/c/en/digit/n/wn/quantity/]"
+    },
+    {
+      "target": "name",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/figure/n/wn/person/,/c/en/name/n/wn/person/]"
+    },
+    {
+      "target": "maneuver",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/figure/n/wn/act/,/c/en/maneuver/n/wn/act/]"
+    },
+    {
+      "target": "calculate",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/figure/v/wn/cognition/,/c/en/calculate/v/wn/cognition/]"
+    },
+    {
+      "target": "trope",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/figure/n/wn/communication/,/c/en/trope/n/wn/communication/]"
+    },
+    {
+      "target": "percept",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/figure/n/wn/cognition/,/c/en/percept/n/wn/cognition/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "Synonym",
+    "IsA"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "figure",
+  "single_word_validated": true
+}

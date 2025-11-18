@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1756265923.5074468,
+  "edges": [
+    {
+      "target": "party",
+      "relationship": "HasSubevent",
+      "weight": 4.47213595499958,
+      "uri": "/a/[/r/HasSubevent/,/c/en/celebrating/,/c/en/party/]"
+    },
+    {
+      "target": "having sex",
+      "relationship": "HasSubevent",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/HasSubevent/,/c/en/celebrating/,/c/en/having_sex/]"
+    },
+    {
+      "target": "fun",
+      "relationship": "UsedFor",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/UsedFor/,/c/en/celebrating/,/c/en/fun/]"
+    },
+    {
+      "target": "one to be drunk",
+      "relationship": "Causes",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/Causes/,/c/en/celebrating/,/c/en/one_to_drunk/]"
+    },
+    {
+      "target": "drink too much",
+      "relationship": "HasSubevent",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/HasSubevent/,/c/en/celebrating/,/c/en/drink_too_much/]"
+    },
+    {
+      "target": "joy",
+      "relationship": "Causes",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/Causes/,/c/en/celebrating/,/c/en/joy/]"
+    },
+    {
+      "target": "50 year anniversary",
+      "relationship": "UsedFor",
+      "weight": 2.0,
+      "uri": "/a/[/r/UsedFor/,/c/en/celebrating/,/c/en/50_year_anniversary/]"
+    },
+    {
+      "target": "drinking alcohol",
+      "relationship": "HasSubevent",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasSubevent/,/c/en/celebrating/,/c/en/drinking_alcohol/]"
+    },
+    {
+      "target": "people cheer",
+      "relationship": "HasSubevent",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasSubevent/,/c/en/celebrating/,/c/en/people_cheer/]"
+    },
+    {
+      "target": "partying",
+      "relationship": "UsedFor",
+      "weight": 2.0,
+      "uri": "/a/[/r/UsedFor/,/c/en/celebrating/,/c/en/partying/]"
+    }
+  ],
+  "relationships": [
+    "HasSubevent",
+    "UsedFor",
+    "Causes"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "celebrating",
+  "single_word_validated": true
+}

@@ -1,0 +1,72 @@
+{
+  "has_data": true,
+  "last_lookup": 1757528784.87633,
+  "edges": [
+    {
+      "target": "direction",
+      "relationship": "RelatedTo",
+      "weight": 4.785812365732697,
+      "uri": "/a/[/r/RelatedTo/,/c/en/turn/,/c/en/direction/]"
+    },
+    {
+      "target": "left",
+      "relationship": "RelatedTo",
+      "weight": 4.731173216021582,
+      "uri": "/a/[/r/RelatedTo/,/c/en/turn/,/c/en/left/]"
+    },
+    {
+      "target": "right",
+      "relationship": "RelatedTo",
+      "weight": 4.428543778715527,
+      "uri": "/a/[/r/RelatedTo/,/c/en/turn/,/c/en/right/]"
+    },
+    {
+      "target": "movement",
+      "relationship": "RelatedTo",
+      "weight": 3.6474648730316783,
+      "uri": "/a/[/r/RelatedTo/,/c/en/turn/,/c/en/movement/]"
+    },
+    {
+      "target": "change",
+      "relationship": "RelatedTo",
+      "weight": 3.533270439691817,
+      "uri": "/a/[/r/RelatedTo/,/c/en/turn/,/c/en/change/]"
+    },
+    {
+      "target": "rotate",
+      "relationship": "RelatedTo",
+      "weight": 3.293630216038224,
+      "uri": "/a/[/r/RelatedTo/,/c/en/turn/,/c/en/rotate/]"
+    },
+    {
+      "target": "go",
+      "relationship": "RelatedTo",
+      "weight": 3.1029018676071605,
+      "uri": "/a/[/r/RelatedTo/,/c/en/turn/,/c/en/go/]"
+    },
+    {
+      "target": "twist",
+      "relationship": "RelatedTo",
+      "weight": 2.9779187362988946,
+      "uri": "/a/[/r/RelatedTo/,/c/en/turn/,/c/en/twist/]"
+    },
+    {
+      "target": "change direction",
+      "relationship": "RelatedTo",
+      "weight": 2.7070278905101812,
+      "uri": "/a/[/r/RelatedTo/,/c/en/turn/,/c/en/change_direction/]"
+    },
+    {
+      "target": "left right",
+      "relationship": "RelatedTo",
+      "weight": 2.5892083732291615,
+      "uri": "/a/[/r/RelatedTo/,/c/en/turn/,/c/en/left_right/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "turn",
+  "single_word_validated": true
+}

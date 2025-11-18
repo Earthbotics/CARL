@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1759771701.4783201,
+  "edges": [
+    {
+      "target": "exploiter",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/user/n/wn/person/,/c/en/exploiter/n/wn/person/]"
+    },
+    {
+      "target": "person",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/user/n/wn/person/,/c/en/person/n/wn/]"
+    },
+    {
+      "target": "korisnik",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/user/n/,/c/sh/korisnik/]"
+    },
+    {
+      "target": "drug user",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/user/n/wn/person/,/c/en/drug_user/n/wn/person/]"
+    },
+    {
+      "target": "mine a database",
+      "relationship": "CapableOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/CapableOf/,/c/en/user/,/c/en/mine_database/]"
+    },
+    {
+      "target": "use",
+      "relationship": "DerivedFrom",
+      "weight": 1.0,
+      "uri": "/a/[/r/DerivedFrom/,/c/en/user/,/c/en/use/v/]"
+    },
+    {
+      "target": "\u0645\u0633\u062a\u0639\u0645\u0644",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/user/n/,/c/ar/\u0645\u0633\u062a\u0639\u0645\u0644/]"
+    },
+    {
+      "target": "uiser",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/user/n/,/c/sco/uiser/]"
+    },
+    {
+      "target": "k\u00e4ytt\u00e4j\u00e4",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/user/n/,/c/fi/k\u00e4ytt\u00e4j\u00e4/]"
+    },
+    {
+      "target": "consumator",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/user/n/,/c/ro/consumator/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "IsA",
+    "CapableOf",
+    "DerivedFrom"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "user",
+  "single_word_validated": true
+}

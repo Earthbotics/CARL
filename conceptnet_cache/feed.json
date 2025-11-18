@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1754928572.3598194,
+  "edges": [
+    {
+      "target": "food",
+      "relationship": "RelatedTo",
+      "weight": 4.1245605826560485,
+      "uri": "/a/[/r/RelatedTo/,/c/en/feed/,/c/en/food/]"
+    },
+    {
+      "target": "eat",
+      "relationship": "RelatedTo",
+      "weight": 2.5526456863419176,
+      "uri": "/a/[/r/RelatedTo/,/c/en/feed/,/c/en/eat/]"
+    },
+    {
+      "target": "give",
+      "relationship": "RelatedTo",
+      "weight": 2.325510696599782,
+      "uri": "/a/[/r/RelatedTo/,/c/en/feed/,/c/en/give/]"
+    },
+    {
+      "target": "give food",
+      "relationship": "RelatedTo",
+      "weight": 2.0668817092422103,
+      "uri": "/a/[/r/RelatedTo/,/c/en/feed/,/c/en/give_food/]"
+    },
+    {
+      "target": "fertilize",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/feed/v/wn/farming/,/c/en/fertilize/v/wn/farming/]"
+    },
+    {
+      "target": "consume",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/feed/v/wn/consumption/,/c/en/consume/v/wn/consumption/]"
+    },
+    {
+      "target": "eat",
+      "relationship": "Causes",
+      "weight": 2.0,
+      "uri": "/a/[/r/Causes/,/c/en/feed/v/wn/consumption/,/c/en/eat/v/wn/consumption/]"
+    },
+    {
+      "target": "run",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/feed/v/wn/motion/,/c/en/run/v/wn/motion/]"
+    },
+    {
+      "target": "food",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/feed/n/wn/food/,/c/en/food/n/wn/]"
+    },
+    {
+      "target": "provide",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/feed/v/wn/consumption/,/c/en/provide/v/wn/consumption/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "Synonym",
+    "MannerOf",
+    "Causes",
+    "IsA"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "feed",
+  "single_word_validated": true
+}

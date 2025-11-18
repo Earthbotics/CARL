@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1757528786.6797557,
+  "edges": [
+    {
+      "target": "pronoun",
+      "relationship": "RelatedTo",
+      "weight": 4.262862887778588,
+      "uri": "/a/[/r/RelatedTo/,/c/en/it/,/c/en/pronoun/]"
+    },
+    {
+      "target": "thereto",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/it/r/wn/,/c/en/thereto/r/wn/]"
+    },
+    {
+      "target": "information technology",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/it/n/wn/cognition/,/c/en/information_technology/n/wn/cognition/]"
+    },
+    {
+      "target": "ono",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/it/n/wikt/en_1/,/c/sh/ono/]"
+    },
+    {
+      "target": "a thing",
+      "relationship": "RelatedTo",
+      "weight": 1.2799999999999998,
+      "uri": "/a/[/r/RelatedTo/,/c/en/it/,/c/en/thing/]"
+    },
+    {
+      "target": "technology",
+      "relationship": "RelatedTo",
+      "weight": 1.255,
+      "uri": "/a/[/r/RelatedTo/,/c/en/it/,/c/en/technology/]"
+    },
+    {
+      "target": "object",
+      "relationship": "RelatedTo",
+      "weight": 1.1929999999999996,
+      "uri": "/a/[/r/RelatedTo/,/c/en/it/,/c/en/object/]"
+    },
+    {
+      "target": "she",
+      "relationship": "DistinctFrom",
+      "weight": 1.15,
+      "uri": "/a/[/r/DistinctFrom/,/c/en/it/,/c/en/she/]"
+    },
+    {
+      "target": "first",
+      "relationship": "RelatedTo",
+      "weight": 1.104,
+      "uri": "/a/[/r/RelatedTo/,/c/en/it/,/c/en/first/]"
+    },
+    {
+      "target": "\u057f\u057f",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/it/n/,/c/hy/\u057f\u057f/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "Synonym",
+    "DistinctFrom"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "it",
+  "single_word_validated": true
+}

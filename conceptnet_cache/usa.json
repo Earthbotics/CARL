@@ -1,0 +1,73 @@
+{
+  "has_data": true,
+  "last_lookup": 1754837614.0725174,
+  "edges": [
+    {
+      "target": "country",
+      "relationship": "IsA",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/IsA/,/c/en/usa/,/c/en/country/]"
+    },
+    {
+      "target": "United States",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/usa/n/wn/location/,/c/en/united_states/n/wn/location/]"
+    },
+    {
+      "target": "us",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/usa/n/,/c/en/us/]"
+    },
+    {
+      "target": "sad",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/usa/n/,/c/sh/sad/]"
+    },
+    {
+      "target": "United States Army",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/usa/n/wn/military/,/c/en/united_states_army/n/wn/military/]"
+    },
+    {
+      "target": "amerika",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/usa/n/,/c/sh/amerika/]"
+    },
+    {
+      "target": "\u0430\u049b\u0448",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/usa/n/,/c/kk/\u0430\u049b\u0448/]"
+    },
+    {
+      "target": "usa",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/usa/n/,/c/sv/usa/]"
+    },
+    {
+      "target": "\u00e9ua",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/usa/n/,/c/fr/\u00e9ua/]"
+    },
+    {
+      "target": "u.s of",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/usa/n/,/c/en/u.s_of/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "usa",
+  "single_word_validated": true
+}

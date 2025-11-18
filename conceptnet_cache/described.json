@@ -1,0 +1,51 @@
+{
+  "has_data": true,
+  "last_lookup": 1756761533.33863,
+  "edges": [
+    {
+      "target": "delineated",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/described/a/wn/,/c/en/delineated/a/wn/]"
+    },
+    {
+      "target": "describe",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/described/v/,/c/en/describe/]"
+    },
+    {
+      "target": "describe",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/described/v/,/c/en/describe/]"
+    },
+    {
+      "target": "301719740-s",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/described/a/wn/,/http://wordnet-rdf.princeton.edu/wn31/301719740-s/]"
+    },
+    {
+      "target": "described",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/described/,/http://fr.wiktionary.org/wiki/described/]"
+    },
+    {
+      "target": "described",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/described/,/http://en.wiktionary.org/wiki/described/]"
+    }
+  ],
+  "relationships": [
+    "SimilarTo",
+    "FormOf",
+    "RelatedTo",
+    "ExternalURL"
+  ],
+  "total_edges_found": 6,
+  "concept_queried": "described",
+  "single_word_validated": true
+}

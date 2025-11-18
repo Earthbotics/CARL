@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1757082774.0840466,
+  "edges": [
+    {
+      "target": "an action",
+      "relationship": "IsA",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/IsA/,/c/en/activity/,/c/en/action/]"
+    },
+    {
+      "target": "action",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/activity/n/wn/state/,/c/en/action/n/wn/state/]"
+    },
+    {
+      "target": "natural process",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/activity/n/wn/process/,/c/en/natural_process/n/wn/process/]"
+    },
+    {
+      "target": "chemistry",
+      "relationship": "HasContext",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasContext/,/c/en/activity/n/wn/chemistry/,/c/en/chemistry/n/wn/cognition/]"
+    },
+    {
+      "target": "actividad",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/activity/n/,/c/es/actividad/]"
+    },
+    {
+      "target": "bodily process",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/activity/n/wn/process/,/c/en/bodily_process/n/wn/process/]"
+    },
+    {
+      "target": "activeness",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/activity/n/wn/attribute/,/c/en/activeness/n/wn/attribute/]"
+    },
+    {
+      "target": "capability",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/activity/n/wn/chemistry/,/c/en/capability/n/wn/state/]"
+    },
+    {
+      "target": "act",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/activity/n/wn/act/,/c/en/act/n/wn/]"
+    },
+    {
+      "target": "activit\u00e9",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/activity/n/,/c/fr/activit\u00e9/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "Synonym",
+    "HasContext"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "activity",
+  "single_word_validated": true
+}

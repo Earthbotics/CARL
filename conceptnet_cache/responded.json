@@ -1,0 +1,38 @@
+{
+  "has_data": true,
+  "last_lookup": 1755316633.1807635,
+  "edges": [
+    {
+      "target": "respond",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/responded/v/,/c/en/respond/]"
+    },
+    {
+      "target": "respond",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/responded/v/,/c/en/respond/]"
+    },
+    {
+      "target": "responded",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/responded/,/http://en.wiktionary.org/wiki/responded/]"
+    },
+    {
+      "target": "responded",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/responded/,/http://fr.wiktionary.org/wiki/responded/]"
+    }
+  ],
+  "relationships": [
+    "FormOf",
+    "RelatedTo",
+    "ExternalURL"
+  ],
+  "total_edges_found": 4,
+  "concept_queried": "responded",
+  "single_word_validated": true
+}

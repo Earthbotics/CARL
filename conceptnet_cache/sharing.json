@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1754264878.631039,
+  "edges": [
+    {
+      "target": "unselfish",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/sharing/a/wn/,/c/en/unselfish/a/wn/]"
+    },
+    {
+      "target": "mutuality",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/sharing/n/wn/linkdef/,/c/en/mutuality/n/wn/linkdef/]"
+    },
+    {
+      "target": "distribution",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/sharing/n/wn/act/,/c/en/distribution/n/wn/act/]"
+    },
+    {
+      "target": "communion",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/sharing/n/wn/communication/,/c/en/communion/n/wn/communication/]"
+    },
+    {
+      "target": "113865983-n",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/sharing/n/wn/linkdef/,/http://wordnet-rdf.princeton.edu/wn31/113865983-n/]"
+    },
+    {
+      "target": "transfer of user rights",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/sharing/n/,/c/en/transfer_of_user_rights/n/opencyc/gaining_user_rights/]"
+    },
+    {
+      "target": "teilung",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/sharing/n/,/c/de/teilung/]"
+    },
+    {
+      "target": "share",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/sharing/,/c/en/share/v/]"
+    },
+    {
+      "target": "providing",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/sharing/n/,/c/en/providing/n/]"
+    },
+    {
+      "target": "share",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/sharing/v/,/c/en/share/]"
+    }
+  ],
+  "relationships": [
+    "SimilarTo",
+    "IsA",
+    "Synonym",
+    "ExternalURL",
+    "FormOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "sharing",
+  "single_word_validated": true
+}

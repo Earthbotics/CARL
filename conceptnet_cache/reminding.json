@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1758152666.4622254,
+  "edges": [
+    {
+      "target": "helping",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/reminding/n/,/c/en/helping/n/opencyc/helping_agent/]"
+    },
+    {
+      "target": "remind",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/reminding/v/,/c/en/remind/]"
+    },
+    {
+      "target": "remind",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/reminding/,/c/en/remind/v/]"
+    },
+    {
+      "target": "remind",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/reminding/v/,/c/en/remind/]"
+    },
+    {
+      "target": "Reminding",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/reminding/n/,/http://sw.opencyc.org/2012/05/10/concept/en/Reminding/]"
+    },
+    {
+      "target": "trying to facilitating thinkings",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/reminding/n/,/c/en/trying_to_facilitating_thinkings/n/]"
+    },
+    {
+      "target": "remind",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/reminding/n/,/c/en/remind/]"
+    },
+    {
+      "target": "communicating",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/reminding/n/,/c/en/communicating/n/]"
+    },
+    {
+      "target": "reminding",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/reminding/,/http://fr.wiktionary.org/wiki/reminding/]"
+    },
+    {
+      "target": "reminding",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/reminding/,/http://en.wiktionary.org/wiki/reminding/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "RelatedTo",
+    "FormOf",
+    "ExternalURL"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "reminding",
+  "single_word_validated": true
+}

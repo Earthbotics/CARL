@@ -1,0 +1,57 @@
+{
+  "has_data": true,
+  "last_lookup": 1760366790.0052621,
+  "edges": [
+    {
+      "target": "identify",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/identifying/v/,/c/en/identify/]"
+    },
+    {
+      "target": "Identifying",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/identifying/n/,/http://sw.opencyc.org/2012/05/10/concept/en/Identifying/]"
+    },
+    {
+      "target": "thinking",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/identifying/n/,/c/en/thinking/n/]"
+    },
+    {
+      "target": "identify",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/identifying/v/,/c/en/identify/]"
+    },
+    {
+      "target": "identification",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/identifying/n/,/c/en/identification/]"
+    },
+    {
+      "target": "identifying",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/identifying/,/http://en.wiktionary.org/wiki/identifying/]"
+    },
+    {
+      "target": "identifying",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/identifying/,/http://fr.wiktionary.org/wiki/identifying/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "ExternalURL",
+    "IsA",
+    "FormOf"
+  ],
+  "total_edges_found": 7,
+  "concept_queried": "identifying",
+  "single_word_validated": true
+}

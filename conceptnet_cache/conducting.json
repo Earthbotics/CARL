@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1755737215.4125166,
+  "edges": [
+    {
+      "target": "management",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/conducting/n/wn/act/,/c/en/management/n/wn/act/]"
+    },
+    {
+      "target": "administration",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/conducting/n/wn/act/,/c/en/administration/n/wn/commercial_enterprise/]"
+    },
+    {
+      "target": "conduct",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/conducting/v/,/c/en/conduct/]"
+    },
+    {
+      "target": "intelligent agent activity",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/conducting/n/opencyc/musical_conducting/,/c/en/intelligent_agent_activity/n/]"
+    },
+    {
+      "target": "visual communication",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/conducting/n/opencyc/musical_conducting/,/c/en/visual_communication/n/opencyc/visual_communicating/]"
+    },
+    {
+      "target": "performing art",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/conducting/n/opencyc/musical_conducting/,/c/en/performing_art/n/]"
+    },
+    {
+      "target": "101136081-n",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/conducting/n/wn/act/,/http://wordnet-rdf.princeton.edu/wn31/101136081-n/]"
+    },
+    {
+      "target": "101138586-n",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/conducting/n/wn/act/,/http://wordnet-rdf.princeton.edu/wn31/101138586-n/]"
+    },
+    {
+      "target": "complete translation",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/conducting/n/opencyc/fluid_flow_complete/,/c/en/complete_translation/n/]"
+    },
+    {
+      "target": "conduct",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/conducting/v/,/c/en/conduct/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "FormOf",
+    "ExternalURL",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "conducting",
+  "single_word_validated": true
+}

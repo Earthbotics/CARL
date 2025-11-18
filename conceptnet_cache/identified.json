@@ -1,0 +1,78 @@
+{
+  "has_data": true,
+  "last_lookup": 1754004268.324654,
+  "edges": [
+    {
+      "target": "known",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/identified/a/wn/,/c/en/known/a/wn/]"
+    },
+    {
+      "target": "Q925322",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/identified/,/http://wikidata.dbpedia.org/resource/Q925322/]"
+    },
+    {
+      "target": "301379134-s",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/identified/a/wn/,/http://wordnet-rdf.princeton.edu/wn31/301379134-s/]"
+    },
+    {
+      "target": "identify",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/identified/v/,/c/en/identify/]"
+    },
+    {
+      "target": "Identified",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/identified/,/http://dbpedia.org/resource/Identified/]"
+    },
+    {
+      "target": "identify",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/identified/v/,/c/en/identify/]"
+    },
+    {
+      "target": "identified",
+      "relationship": "Synonym",
+      "weight": 0.5,
+      "uri": "/a/[/r/Synonym/,/c/en/identified/,/c/en/identified/]"
+    },
+    {
+      "target": "album",
+      "relationship": "IsA",
+      "weight": 0.5,
+      "uri": "/a/[/r/IsA/,/c/en/identified/,/c/en/album/n/]"
+    },
+    {
+      "target": "dance pop",
+      "relationship": "genre",
+      "weight": 0.5,
+      "uri": "/a/[/r/dbpedia/genre/,/c/en/identified/,/c/en/dance_pop/]"
+    },
+    {
+      "target": "contemporary r b",
+      "relationship": "genre",
+      "weight": 0.5,
+      "uri": "/a/[/r/dbpedia/genre/,/c/en/identified/,/c/en/contemporary_r_b/]"
+    }
+  ],
+  "relationships": [
+    "SimilarTo",
+    "ExternalURL",
+    "RelatedTo",
+    "FormOf",
+    "Synonym",
+    "IsA",
+    "genre"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "identified",
+  "single_word_validated": true
+}

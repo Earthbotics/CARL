@@ -1,0 +1,132 @@
+{
+  "chomp": [
+    {
+      "concept": "chomp_and_count_dino",
+      "relationship": "specific",
+      "created": "2025-08-14T09:51:08.875732",
+      "strength": 1.0,
+      "last_updated": "2025-08-14T09:51:21.410508"
+    }
+  ],
+  "chomp_and_count_dino": [
+    {
+      "concept": "chomp",
+      "relationship": "general",
+      "created": "2025-08-14T09:51:08.875732",
+      "strength": 1.0,
+      "last_updated": "2025-08-14T09:51:21.411513"
+    },
+    {
+      "concept": "dino",
+      "relationship": "general",
+      "created": "2025-08-14T09:51:08.877567",
+      "strength": 1.0,
+      "last_updated": "2025-08-14T09:51:21.412677"
+    },
+    {
+      "concept": "dinosaur",
+      "relationship": "general",
+      "created": "2025-08-14T09:51:08.879051",
+      "strength": 1.0,
+      "last_updated": "2025-08-14T09:51:21.415027"
+    },
+    {
+      "concept": "toy",
+      "relationship": "general",
+      "created": "2025-08-14T09:51:08.880442",
+      "strength": 1.0,
+      "last_updated": "2025-08-14T09:51:21.416257"
+    },
+    {
+      "concept": "vtech",
+      "relationship": "general",
+      "created": "2025-08-14T09:51:08.882498",
+      "strength": 1.0,
+      "last_updated": "2025-08-14T09:51:21.418364"
+    },
+    {
+      "concept": "educational",
+      "relationship": "general",
+      "created": "2025-08-14T09:51:08.883742",
+      "strength": 1.0,
+      "last_updated": "2025-08-14T09:51:21.419684"
+    },
+    {
+      "concept": "counting",
+      "relationship": "general",
+      "created": "2025-08-14T09:51:08.884765",
+      "strength": 1.0,
+      "last_updated": "2025-08-14T09:51:21.421113"
+    },
+    {
+      "concept": "food",
+      "relationship": "general",
+      "created": "2025-08-14T09:51:08.886934",
+      "strength": 1.0,
+      "last_updated": "2025-08-14T09:51:21.422508"
+    }
+  ],
+  "dino": [
+    {
+      "concept": "chomp_and_count_dino",
+      "relationship": "specific",
+      "created": "2025-08-14T09:51:08.877064",
+      "strength": 1.0,
+      "last_updated": "2025-08-14T09:51:21.412677"
+    }
+  ],
+  "dinosaur": [
+    {
+      "concept": "chomp_and_count_dino",
+      "relationship": "specific",
+      "created": "2025-08-14T09:51:08.877567",
+      "strength": 1.0,
+      "last_updated": "2025-08-14T09:51:21.413984"
+    }
+  ],
+  "toy": [
+    {
+      "concept": "chomp_and_count_dino",
+      "relationship": "specific",
+      "created": "2025-08-14T09:51:08.879051",
+      "strength": 1.0,
+      "last_updated": "2025-08-14T09:51:21.415027"
+    }
+  ],
+  "vtech": [
+    {
+      "concept": "chomp_and_count_dino",
+      "relationship": "specific",
+      "created": "2025-08-14T09:51:08.881464",
+      "strength": 1.0,
+      "last_updated": "2025-08-14T09:51:21.417343"
+    }
+  ],
+  "educational": [
+    {
+      "concept": "chomp_and_count_dino",
+      "relationship": "specific",
+      "created": "2025-08-14T09:51:08.882498",
+      "strength": 1.0,
+      "last_updated": "2025-08-14T09:51:21.418364"
+    }
+  ],
+  "counting": [
+    {
+      "concept": "chomp_and_count_dino",
+      "relationship": "specific",
+      "created": "2025-08-14T09:51:08.884765",
+      "strength": 1.0,
+      "last_updated": "2025-08-14T09:51:21.419684"
+    }
+  ],
+  "food": [
+    {
+      "concept": "chomp_and_count_dino",
+      "relationship": "specific",
+      "created": "2025-08-14T09:51:08.885789",
+      "strength": 1.0,
+      "last_updated": "2025-08-14T09:51:21.421113"
+    }
+  ]
+}

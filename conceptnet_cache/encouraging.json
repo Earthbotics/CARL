@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1756771144.8761706,
+  "edges": [
+    {
+      "target": "reassuring",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/encouraging/a/wn/,/c/en/reassuring/a/wn/]"
+    },
+    {
+      "target": "promotive",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/encouraging/a/wn/,/c/en/promotive/a/wn/]"
+    },
+    {
+      "target": "exhortative",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/encouraging/a/wn/,/c/en/exhortative/a/wn/]"
+    },
+    {
+      "target": "encouragement",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/encouraging/a/,/c/en/encouragement/]"
+    },
+    {
+      "target": "supporting",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/encouraging/a/wn/,/c/en/supporting/a/wn/]"
+    },
+    {
+      "target": "inspiriting",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/encouraging/a/wn/,/c/en/inspiriting/a/wn/]"
+    },
+    {
+      "target": "rallying",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/encouraging/a/wn/,/c/en/rallying/a/wn/]"
+    },
+    {
+      "target": "hopeful",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/encouraging/a/wn/,/c/en/hopeful/a/wn/]"
+    },
+    {
+      "target": "courage",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/encouraging/a/,/c/en/courage/]"
+    },
+    {
+      "target": "helpful",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/encouraging/a/wn/,/c/en/helpful/a/wn/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "SimilarTo",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "encouraging",
+  "single_word_validated": true
+}

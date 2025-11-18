@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1757445538.916775,
+  "edges": [
+    {
+      "target": "music",
+      "relationship": "RelatedTo",
+      "weight": 5.633116366630463,
+      "uri": "/a/[/r/RelatedTo/,/c/en/note/,/c/en/music/]"
+    },
+    {
+      "target": "musical",
+      "relationship": "RelatedTo",
+      "weight": 5.255853879247405,
+      "uri": "/a/[/r/RelatedTo/,/c/en/note/,/c/en/musical/]"
+    },
+    {
+      "target": "message",
+      "relationship": "RelatedTo",
+      "weight": 4.688283267892417,
+      "uri": "/a/[/r/RelatedTo/,/c/en/note/,/c/en/message/]"
+    },
+    {
+      "target": "paper",
+      "relationship": "RelatedTo",
+      "weight": 4.586065852122056,
+      "uri": "/a/[/r/RelatedTo/,/c/en/note/,/c/en/paper/]"
+    },
+    {
+      "target": "memo",
+      "relationship": "RelatedTo",
+      "weight": 4.178516483155236,
+      "uri": "/a/[/r/RelatedTo/,/c/en/note/,/c/en/memo/]"
+    },
+    {
+      "target": "writing",
+      "relationship": "RelatedTo",
+      "weight": 3.737913856685303,
+      "uri": "/a/[/r/RelatedTo/,/c/en/note/,/c/en/writing/]"
+    },
+    {
+      "target": "small",
+      "relationship": "RelatedTo",
+      "weight": 3.5871994647635637,
+      "uri": "/a/[/r/RelatedTo/,/c/en/note/,/c/en/small/]"
+    },
+    {
+      "target": "short",
+      "relationship": "RelatedTo",
+      "weight": 3.544573317058063,
+      "uri": "/a/[/r/RelatedTo/,/c/en/note/,/c/en/short/]"
+    },
+    {
+      "target": "music",
+      "relationship": "PartOf",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/PartOf/,/c/en/note/,/c/en/music/]"
+    },
+    {
+      "target": "communication",
+      "relationship": "UsedFor",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/UsedFor/,/c/en/note/,/c/en/communication/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "PartOf",
+    "UsedFor"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "note",
+  "single_word_validated": true
+}

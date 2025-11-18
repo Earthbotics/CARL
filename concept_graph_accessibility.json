@@ -1,0 +1,4606 @@
+{
+  "nodes": {
+    "chomp_and_count_dino": {
+      "concept": "chomp_and_count_dino",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:19:12.956181",
+      "associated_concepts": [],
+      "accessibility_score": 0.0,
+      "context_history": []
+    },
+    "concept_template": {
+      "concept": "concept_template",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:19:12.956181",
+      "associated_concepts": [],
+      "accessibility_score": 0.0,
+      "context_history": []
+    },
+    "dance": {
+      "concept": "dance",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:19:12.956181",
+      "associated_concepts": [],
+      "accessibility_score": 0.0,
+      "context_history": []
+    },
+    "hello": {
+      "concept": "hello",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:19:12.956181",
+      "associated_concepts": [],
+      "accessibility_score": 0.0,
+      "context_history": []
+    },
+    "human": {
+      "concept": "human",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:19:12.956181",
+      "associated_concepts": [],
+      "accessibility_score": 0.0,
+      "context_history": []
+    },
+    "music": {
+      "concept": "music",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:19:12.956181",
+      "associated_concepts": [],
+      "accessibility_score": 0.0,
+      "context_history": []
+    },
+    "robot": {
+      "concept": "robot",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:19:12.956181",
+      "associated_concepts": [],
+      "accessibility_score": 0.0,
+      "context_history": []
+    },
+    "toy": {
+      "concept": "toy",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:19:12.956181",
+      "associated_concepts": [],
+      "accessibility_score": 0.0,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_19_12.888833": {
+      "concept": "thought_2025-11-16T21_19_12.888833",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:19:12.956181",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "sit": {
+      "concept": "sit",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:19:12.956181",
+      "associated_concepts": [
+        "thought_2025-11-16T21_19_12.888833",
+        "thought_2025-11-16T21_19_14.152793",
+        "thought_2025-11-16T21_19_18.869874",
+        "thought_2025-11-16T21_19_23.333640",
+        "thought_2025-11-16T21_20_14.271503",
+        "thought_2025-11-16T21_20_15.478560",
+        "thought_2025-11-16T21_20_16.663943",
+        "thought_2025-11-16T21_20_17.316835",
+        "thought_2025-11-16T21_20_27.264372",
+        "thought_2025-11-16T21_20_37.756376",
+        "thought_2025-11-16T21_20_39.013289",
+        "thought_2025-11-16T21_20_40.279095",
+        "thought_2025-11-16T21_20_44.312358",
+        "thought_2025-11-16T21_20_44.977650",
+        "thought_2025-11-16T21_20_50.628755",
+        "thought_2025-11-16T21_20_53.740512",
+        "thought_2025-11-16T21_20_58.015508",
+        "thought_2025-11-16T21_21_03.201254",
+        "thought_2025-11-16T21_21_04.390840",
+        "thought_2025-11-16T21_21_18.516434",
+        "thought_2025-11-16T21_21_19.748642",
+        "thought_2025-11-16T21_22_02.024084",
+        "thought_2025-11-16T21_22_02.700453",
+        "thought_2025-11-16T21_22_03.938071",
+        "thought_2025-11-16T21_22_05.129549",
+        "thought_2025-11-16T21_22_06.866585",
+        "thought_2025-11-16T21_22_08.053030",
+        "thought_2025-11-16T21_22_10.884600",
+        "thought_2025-11-16T21_22_15.882713",
+        "thought_2025-11-16T21_22_18.845888",
+        "thought_2025-11-16T21_22_20.044491",
+        "thought_2025-11-16T21_22_25.234591",
+        "thought_2025-11-16T21_22_34.865576",
+        "thought_2025-11-16T21_22_35.511890",
+        "thought_2025-11-16T21_22_36.775491",
+        "thought_2025-11-16T21_22_38.516767",
+        "thought_2025-11-16T21_22_40.901255",
+        "thought_2025-11-16T21_22_42.087128",
+        "thought_2025-11-16T21_22_47.376684",
+        "thought_2025-11-16T21_22_48.568731",
+        "thought_2025-11-16T21_22_51.094399",
+        "thought_2025-11-16T21_22_56.618082",
+        "thought_2025-11-16T21_22_59.545782",
+        "thought_2025-11-16T21_23_02.604997",
+        "thought_2025-11-16T21_23_03.778359",
+        "thought_2025-11-16T21_23_46.186253",
+        "thought_2025-11-16T21_23_52.445816",
+        "thought_2025-11-16T21_23_59.908951",
+        "thought_2025-11-16T21_24_02.855170",
+        "thought_2025-11-16T21_24_13.418039",
+        "thought_2025-11-16T21_24_25.057128",
+        "thought_2025-11-16T21_25_02.724686",
+        "thought_2025-11-16T21_25_10.631103",
+        "thought_2025-11-16T21_25_12.338698",
+        "thought_2025-11-16T21_25_14.072252",
+        "thought_2025-11-16T21_25_14.712606",
+        "thought_2025-11-16T21_25_15.915991",
+        "thought_2025-11-16T21_25_16.555274",
+        "thought_2025-11-16T21_25_19.562281",
+        "thought_2025-11-16T21_25_28.844764",
+        "thought_2025-11-16T21_25_36.391440",
+        "thought_2025-11-16T21_26_23.362478",
+        "thought_2025-11-16T21_26_25.140795",
+        "thought_2025-11-16T21_26_29.882236",
+        "thought_2025-11-16T21_26_32.729937",
+        "thought_2025-11-16T21_26_36.188910",
+        "thought_2025-11-16T21_26_46.774707",
+        "thought_2025-11-16T21_27_12.960531",
+        "thought_2025-11-16T21_27_16.429774",
+        "thought_2025-11-16T21_27_32.920361",
+        "thought_2025-11-16T21_27_36.410870",
+        "thought_2025-11-16T21_27_37.050509",
+        "thought_2025-11-16T21_27_47.134522",
+        "thought_2025-11-16T21_27_47.790781",
+        "thought_2025-11-16T21_28_23.408461",
+        "thought_2025-11-16T21_28_32.052923",
+        "thought_2025-11-16T21_28_34.382981",
+        "thought_2025-11-16T21_28_39.840088",
+        "thought_2025-11-16T21_28_43.266470",
+        "thought_2025-11-16T21_28_46.335601",
+        "thought_2025-11-16T21_28_51.540414",
+        "thought_2025-11-16T21_28_52.851411",
+        "thought_2025-11-16T21_30_28.257074",
+        "thought_2025-11-16T21_30_30.582670",
+        "thought_2025-11-16T21_30_36.349512",
+        "thought_2025-11-16T21_30_38.086707",
+        "thought_2025-11-16T21_30_42.149517",
+        "thought_2025-11-16T21_30_49.580511",
+        "thought_2025-11-16T21_30_52.393254",
+        "thought_2025-11-16T21_30_53.583216",
+        "thought_2025-11-16T21_30_55.397740",
+        "thought_2025-11-16T21_30_58.506097",
+        "thought_2025-11-16T21_31_04.342549",
+        "thought_2025-11-16T21_31_11.264324",
+        "thought_2025-11-16T21_31_11.926750",
+        "thought_2025-11-16T21_31_51.094222",
+        "thought_2025-11-16T21_31_51.706029",
+        "thought_2025-11-16T21_31_54.129629",
+        "thought_2025-11-16T21_32_06.094423",
+        "thought_2025-11-16T21_32_08.495981",
+        "thought_2025-11-16T21_32_10.322833",
+        "thought_2025-11-16T21_32_10.988581",
+        "thought_2025-11-16T21_34_04.391722",
+        "thought_2025-11-16T21_34_10.624289",
+        "thought_2025-11-16T21_35_01.053930",
+        "thought_2025-11-16T21_35_01.744058",
+        "thought_2025-11-16T21_35_05.139260",
+        "thought_2025-11-16T21_35_08.557478",
+        "thought_2025-11-16T21_35_14.430576",
+        "thought_2025-11-16T21_35_18.985252",
+        "thought_2025-11-16T21_35_19.631719",
+        "thought_2025-11-16T21_35_21.944032",
+        "thought_2025-11-16T21_35_23.147264",
+        "thought_2025-11-16T21_35_27.081770",
+        "thought_2025-11-16T21_35_32.941561",
+        "thought_2025-11-16T21_36_26.781679",
+        "thought_2025-11-16T21_36_27.425972",
+        "thought_2025-11-16T21_36_38.079746",
+        "thought_2025-11-16T21_36_41.602861",
+        "thought_2025-11-16T21_37_24.687500",
+        "thought_2025-11-16T21_37_30.306997",
+        "thought_2025-11-16T21_37_30.959880",
+        "thought_2025-11-16T21_37_31.607443",
+        "thought_2025-11-16T21_37_32.240656",
+        "thought_2025-11-16T21_37_34.087612",
+        "thought_2025-11-16T21_38_29.641940",
+        "thought_2025-11-16T21_38_30.867818",
+        "thought_2025-11-16T21_38_34.316386",
+        "thought_2025-11-16T21_38_36.616669",
+        "thought_2025-11-16T21_38_38.435529",
+        "thought_2025-11-16T21_38_39.631319"
+      ],
+      "accessibility_score": 1.0,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_19_14.152793": {
+      "concept": "thought_2025-11-16T21_19_14.152793",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:19:14.212314",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_19_18.869874": {
+      "concept": "thought_2025-11-16T21_19_18.869874",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:19:18.913759",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_19_23.333640": {
+      "concept": "thought_2025-11-16T21_19_23.333640",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:19:23.374339",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_20_14.271503": {
+      "concept": "thought_2025-11-16T21_20_14.271503",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:20:14.323353",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_20_15.478560": {
+      "concept": "thought_2025-11-16T21_20_15.478560",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:20:15.531275",
+      "associated_concepts": [
+        "reaction_amazed",
+        "sit"
+      ],
+      "accessibility_score": 0.2,
+      "context_history": []
+    },
+    "reaction_amazed": {
+      "concept": "reaction_amazed",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:20:15.531275",
+      "associated_concepts": [
+        "thought_2025-11-16T21_20_15.478560",
+        "thought_2025-11-16T21_20_16.663943",
+        "thought_2025-11-16T21_20_17.316835",
+        "thought_2025-11-16T21_20_24.971179",
+        "thought_2025-11-16T21_20_44.977650",
+        "thought_2025-11-16T21_21_04.390840",
+        "thought_2025-11-16T21_22_25.234591",
+        "thought_2025-11-16T21_23_46.186253",
+        "thought_2025-11-16T21_25_02.724686",
+        "thought_2025-11-16T21_25_15.915991",
+        "thought_2025-11-16T21_25_19.562281",
+        "thought_2025-11-16T21_25_28.844764",
+        "thought_2025-11-16T21_26_29.882236",
+        "thought_2025-11-16T21_27_24.927530",
+        "thought_2025-11-16T21_27_47.134522",
+        "thought_2025-11-16T21_28_23.408461",
+        "thought_2025-11-16T21_28_32.052923",
+        "thought_2025-11-16T21_30_36.349512",
+        "thought_2025-11-16T21_31_11.264324",
+        "thought_2025-11-16T21_32_08.495981",
+        "thought_2025-11-16T21_34_58.038003",
+        "thought_2025-11-16T21_35_08.557478",
+        "thought_2025-11-16T21_35_27.081770",
+        "thought_2025-11-16T21_35_32.941561",
+        "thought_2025-11-16T21_36_15.952753",
+        "thought_2025-11-16T21_37_32.240656",
+        "thought_2025-11-16T21_37_34.087612",
+        "thought_2025-11-16T21_38_29.641940",
+        "thought_2025-11-16T21_38_36.616669"
+      ],
+      "accessibility_score": 1.0,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_20_16.663943": {
+      "concept": "thought_2025-11-16T21_20_16.663943",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:20:16.722054",
+      "associated_concepts": [
+        "reaction_amazed",
+        "sit"
+      ],
+      "accessibility_score": 0.2,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_20_17.316835": {
+      "concept": "thought_2025-11-16T21_20_17.316835",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:20:17.362778",
+      "associated_concepts": [
+        "reaction_amazed",
+        "sit"
+      ],
+      "accessibility_score": 0.2,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_20_24.971179": {
+      "concept": "thought_2025-11-16T21_20_24.971179",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:20:25.016673",
+      "associated_concepts": [
+        "reaction_amazed"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_20_27.264372": {
+      "concept": "thought_2025-11-16T21_20_27.264372",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:20:27.309222",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_20_37.756376": {
+      "concept": "thought_2025-11-16T21_20_37.756376",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:20:37.801946",
+      "associated_concepts": [
+        "sit",
+        "thinking"
+      ],
+      "accessibility_score": 0.2,
+      "context_history": []
+    },
+    "thinking": {
+      "concept": "thinking",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:20:37.802943",
+      "associated_concepts": [
+        "thought_2025-11-16T21_20_37.756376",
+        "thought_2025-11-16T21_20_39.013289",
+        "thought_2025-11-16T21_22_20.044491",
+        "thought_2025-11-16T21_22_40.901255",
+        "thought_2025-11-16T21_22_48.568731",
+        "thought_2025-11-16T21_22_59.545782",
+        "thought_2025-11-16T21_23_03.778359",
+        "thought_2025-11-16T21_25_12.338698",
+        "thought_2025-11-16T21_26_23.362478",
+        "thought_2025-11-16T21_28_34.382981",
+        "thought_2025-11-16T21_28_39.840088",
+        "thought_2025-11-16T21_28_43.266470",
+        "thought_2025-11-16T21_31_51.706029",
+        "thought_2025-11-16T21_31_54.129629",
+        "thought_2025-11-16T21_35_14.430576"
+      ],
+      "accessibility_score": 1.0,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_20_39.013289": {
+      "concept": "thought_2025-11-16T21_20_39.013289",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:20:39.065996",
+      "associated_concepts": [
+        "sit",
+        "thinking"
+      ],
+      "accessibility_score": 0.2,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_20_40.279095": {
+      "concept": "thought_2025-11-16T21_20_40.279095",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:20:40.330642",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_20_43.681473": {
+      "concept": "thought_2025-11-16T21_20_43.681473",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:20:43.726379",
+      "associated_concepts": [
+        "fly"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "fly": {
+      "concept": "fly",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:20:43.726379",
+      "associated_concepts": [
+        "thought_2025-11-16T21_20_43.681473",
+        "thought_2025-11-16T21_21_13.975814",
+        "thought_2025-11-16T21_22_52.302435",
+        "thought_2025-11-16T21_22_54.658330",
+        "thought_2025-11-16T21_26_47.444560",
+        "thought_2025-11-16T21_28_43.923765",
+        "thought_2025-11-16T21_31_03.710313",
+        "thought_2025-11-16T21_36_13.506652"
+      ],
+      "accessibility_score": 0.8,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_20_44.312358": {
+      "concept": "thought_2025-11-16T21_20_44.312358",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:20:44.359469",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_20_44.977650": {
+      "concept": "thought_2025-11-16T21_20_44.977650",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:20:45.026663",
+      "associated_concepts": [
+        "reaction_amazed",
+        "sit"
+      ],
+      "accessibility_score": 0.2,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_20_50.628755": {
+      "concept": "thought_2025-11-16T21_20_50.628755",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:20:50.680016",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_20_53.740512": {
+      "concept": "thought_2025-11-16T21_20_53.740512",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:20:53.787548",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_20_58.015508": {
+      "concept": "thought_2025-11-16T21_20_58.015508",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:20:58.066332",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_20_58.639174": {
+      "concept": "thought_2025-11-16T21_20_58.639174",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:20:58.690680",
+      "associated_concepts": [
+        "reaction_ecstatic"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "reaction_ecstatic": {
+      "concept": "reaction_ecstatic",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:20:58.690680",
+      "associated_concepts": [
+        "thought_2025-11-16T21_20_58.639174",
+        "thought_2025-11-16T21_22_26.459809",
+        "thought_2025-11-16T21_25_18.888287",
+        "thought_2025-11-16T21_25_32.948929",
+        "thought_2025-11-16T21_26_18.039918",
+        "thought_2025-11-16T21_27_45.391313",
+        "thought_2025-11-16T21_27_48.974769",
+        "thought_2025-11-16T21_28_37.900002",
+        "thought_2025-11-16T21_28_38.573704",
+        "thought_2025-11-16T21_30_34.058347",
+        "thought_2025-11-16T21_30_44.994989"
+      ],
+      "accessibility_score": 1.0,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_21_03.201254": {
+      "concept": "thought_2025-11-16T21_21_03.201254",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:21:03.259724",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_21_04.390840": {
+      "concept": "thought_2025-11-16T21_21_04.390840",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:21:04.440588",
+      "associated_concepts": [
+        "reaction_amazed",
+        "sit"
+      ],
+      "accessibility_score": 0.2,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_21_13.975814": {
+      "concept": "thought_2025-11-16T21_21_13.975814",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:21:14.026515",
+      "associated_concepts": [
+        "fly"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_21_18.516434": {
+      "concept": "thought_2025-11-16T21_21_18.516434",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:21:18.564100",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_21_19.748642": {
+      "concept": "thought_2025-11-16T21_21_19.748642",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:21:19.816756",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_22_02.024084": {
+      "concept": "thought_2025-11-16T21_22_02.024084",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:22:02.096409",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_22_02.700453": {
+      "concept": "thought_2025-11-16T21_22_02.700453",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:22:02.761832",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_22_03.938071": {
+      "concept": "thought_2025-11-16T21_22_03.938071",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:22:03.990627",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_22_05.129549": {
+      "concept": "thought_2025-11-16T21_22_05.129549",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:22:05.181825",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_22_06.866585": {
+      "concept": "thought_2025-11-16T21_22_06.866585",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:22:06.916576",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_22_08.053030": {
+      "concept": "thought_2025-11-16T21_22_08.053030",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:22:08.103172",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_22_10.884600": {
+      "concept": "thought_2025-11-16T21_22_10.884600",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:22:10.935631",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_22_15.882713": {
+      "concept": "thought_2025-11-16T21_22_15.882713",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:22:15.943675",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_22_18.845888": {
+      "concept": "thought_2025-11-16T21_22_18.845888",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:22:18.902275",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_22_20.044491": {
+      "concept": "thought_2025-11-16T21_22_20.044491",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:22:20.106544",
+      "associated_concepts": [
+        "sit",
+        "thinking"
+      ],
+      "accessibility_score": 0.2,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_22_25.234591": {
+      "concept": "thought_2025-11-16T21_22_25.234591",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:22:25.309380",
+      "associated_concepts": [
+        "reaction_amazed",
+        "sit"
+      ],
+      "accessibility_score": 0.2,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_22_26.459809": {
+      "concept": "thought_2025-11-16T21_22_26.459809",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:22:26.499937",
+      "associated_concepts": [
+        "reaction_ecstatic"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_22_34.865576": {
+      "concept": "thought_2025-11-16T21_22_34.865576",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:22:34.912462",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_22_35.511890": {
+      "concept": "thought_2025-11-16T21_22_35.511890",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:22:35.583880",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_22_36.775491": {
+      "concept": "thought_2025-11-16T21_22_36.775491",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:22:36.829943",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_22_38.516767": {
+      "concept": "thought_2025-11-16T21_22_38.516767",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:22:38.570386",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_22_40.901255": {
+      "concept": "thought_2025-11-16T21_22_40.901255",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:22:40.953533",
+      "associated_concepts": [
+        "sit",
+        "thinking"
+      ],
+      "accessibility_score": 0.2,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_22_42.087128": {
+      "concept": "thought_2025-11-16T21_22_42.087128",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:22:42.168867",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_22_47.376684": {
+      "concept": "thought_2025-11-16T21_22_47.376684",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:22:47.427726",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_22_48.568731": {
+      "concept": "thought_2025-11-16T21_22_48.568731",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:22:48.623470",
+      "associated_concepts": [
+        "sit",
+        "thinking"
+      ],
+      "accessibility_score": 0.2,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_22_51.094399": {
+      "concept": "thought_2025-11-16T21_22_51.094399",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:22:51.143169",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_22_52.302435": {
+      "concept": "thought_2025-11-16T21_22_52.302435",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:22:52.375909",
+      "associated_concepts": [
+        "fly"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_22_54.658330": {
+      "concept": "thought_2025-11-16T21_22_54.658330",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:22:54.710665",
+      "associated_concepts": [
+        "fly"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_22_56.618082": {
+      "concept": "thought_2025-11-16T21_22_56.618082",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:22:56.669073",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_22_59.545782": {
+      "concept": "thought_2025-11-16T21_22_59.545782",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:22:59.596816",
+      "associated_concepts": [
+        "sit",
+        "thinking"
+      ],
+      "accessibility_score": 0.2,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_23_02.604997": {
+      "concept": "thought_2025-11-16T21_23_02.604997",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:23:02.646829",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_23_03.778359": {
+      "concept": "thought_2025-11-16T21_23_03.778359",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:23:03.826617",
+      "associated_concepts": [
+        "sit",
+        "thinking"
+      ],
+      "accessibility_score": 0.2,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_23_46.186253": {
+      "concept": "thought_2025-11-16T21_23_46.186253",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:23:46.237588",
+      "associated_concepts": [
+        "reaction_amazed",
+        "sit"
+      ],
+      "accessibility_score": 0.2,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_23_52.445816": {
+      "concept": "thought_2025-11-16T21_23_52.445816",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:23:52.503645",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_23_59.908951": {
+      "concept": "thought_2025-11-16T21_23_59.908951",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:23:59.961148",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_24_02.855170": {
+      "concept": "thought_2025-11-16T21_24_02.855170",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:24:02.904180",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_24_13.418039": {
+      "concept": "thought_2025-11-16T21_24_13.418039",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:24:13.468721",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_24_25.057128": {
+      "concept": "thought_2025-11-16T21_24_25.057128",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:24:25.111730",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_25_02.724686": {
+      "concept": "thought_2025-11-16T21_25_02.724686",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:25:02.791442",
+      "associated_concepts": [
+        "reaction_amazed",
+        "sit"
+      ],
+      "accessibility_score": 0.2,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_25_10.631103": {
+      "concept": "thought_2025-11-16T21_25_10.631103",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:25:10.684143",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_25_12.338698": {
+      "concept": "thought_2025-11-16T21_25_12.338698",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:25:12.387644",
+      "associated_concepts": [
+        "sit",
+        "thinking"
+      ],
+      "accessibility_score": 0.2,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_25_14.072252": {
+      "concept": "thought_2025-11-16T21_25_14.072252",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:25:14.128500",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_25_14.712606": {
+      "concept": "thought_2025-11-16T21_25_14.712606",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:25:14.767474",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_25_15.915991": {
+      "concept": "thought_2025-11-16T21_25_15.915991",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:25:15.975736",
+      "associated_concepts": [
+        "reaction_amazed",
+        "sit"
+      ],
+      "accessibility_score": 0.2,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_25_16.555274": {
+      "concept": "thought_2025-11-16T21_25_16.555274",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:25:16.615905",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_25_18.888287": {
+      "concept": "thought_2025-11-16T21_25_18.888287",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:25:18.948914",
+      "associated_concepts": [
+        "reaction_ecstatic"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_25_19.562281": {
+      "concept": "thought_2025-11-16T21_25_19.562281",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:25:19.613845",
+      "associated_concepts": [
+        "reaction_amazed",
+        "sit"
+      ],
+      "accessibility_score": 0.2,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_25_28.844764": {
+      "concept": "thought_2025-11-16T21_25_28.844764",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:25:28.896868",
+      "associated_concepts": [
+        "reaction_amazed",
+        "sit"
+      ],
+      "accessibility_score": 0.2,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_25_32.948929": {
+      "concept": "thought_2025-11-16T21_25_32.948929",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:25:33.001175",
+      "associated_concepts": [
+        "reaction_ecstatic"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_25_36.391440": {
+      "concept": "thought_2025-11-16T21_25_36.391440",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:25:36.445263",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_26_18.039918": {
+      "concept": "thought_2025-11-16T21_26_18.039918",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:26:18.120113",
+      "associated_concepts": [
+        "reaction_ecstatic"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_26_23.362478": {
+      "concept": "thought_2025-11-16T21_26_23.362478",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:26:23.423289",
+      "associated_concepts": [
+        "sit",
+        "thinking"
+      ],
+      "accessibility_score": 0.2,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_26_25.140795": {
+      "concept": "thought_2025-11-16T21_26_25.140795",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:26:25.208471",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_26_29.882236": {
+      "concept": "thought_2025-11-16T21_26_29.882236",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:26:29.942701",
+      "associated_concepts": [
+        "reaction_amazed",
+        "sit"
+      ],
+      "accessibility_score": 0.2,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_26_32.729937": {
+      "concept": "thought_2025-11-16T21_26_32.729937",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:26:32.794742",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_26_36.188910": {
+      "concept": "thought_2025-11-16T21_26_36.188910",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:26:36.242298",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_26_46.774707": {
+      "concept": "thought_2025-11-16T21_26_46.774707",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:26:46.853073",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_26_47.444560": {
+      "concept": "thought_2025-11-16T21_26_47.444560",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:26:47.491451",
+      "associated_concepts": [
+        "fly"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_27_12.960531": {
+      "concept": "thought_2025-11-16T21_27_12.960531",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:27:13.055107",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_27_16.429774": {
+      "concept": "thought_2025-11-16T21_27_16.429774",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:27:16.474893",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_27_24.927530": {
+      "concept": "thought_2025-11-16T21_27_24.927530",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:27:24.988393",
+      "associated_concepts": [
+        "reaction_amazed"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_27_32.920361": {
+      "concept": "thought_2025-11-16T21_27_32.920361",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:27:32.975407",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_27_36.410870": {
+      "concept": "thought_2025-11-16T21_27_36.410870",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:27:36.467625",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_27_37.050509": {
+      "concept": "thought_2025-11-16T21_27_37.050509",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:27:37.110335",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_27_45.391313": {
+      "concept": "thought_2025-11-16T21_27_45.391313",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:27:45.452724",
+      "associated_concepts": [
+        "reaction_ecstatic"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_27_47.134522": {
+      "concept": "thought_2025-11-16T21_27_47.134522",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:27:47.190583",
+      "associated_concepts": [
+        "reaction_amazed",
+        "sit"
+      ],
+      "accessibility_score": 0.2,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_27_47.790781": {
+      "concept": "thought_2025-11-16T21_27_47.790781",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:27:47.848509",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_27_48.974769": {
+      "concept": "thought_2025-11-16T21_27_48.974769",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:27:49.035068",
+      "associated_concepts": [
+        "reaction_ecstatic"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_28_23.408461": {
+      "concept": "thought_2025-11-16T21_28_23.408461",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:28:23.484407",
+      "associated_concepts": [
+        "reaction_amazed",
+        "sit"
+      ],
+      "accessibility_score": 0.2,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_28_32.052923": {
+      "concept": "thought_2025-11-16T21_28_32.052923",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:28:32.115360",
+      "associated_concepts": [
+        "reaction_amazed",
+        "sit"
+      ],
+      "accessibility_score": 0.2,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_28_34.382981": {
+      "concept": "thought_2025-11-16T21_28_34.382981",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:28:34.444632",
+      "associated_concepts": [
+        "sit",
+        "thinking"
+      ],
+      "accessibility_score": 0.2,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_28_37.900002": {
+      "concept": "thought_2025-11-16T21_28_37.900002",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:28:37.977606",
+      "associated_concepts": [
+        "reaction_ecstatic"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_28_38.573704": {
+      "concept": "thought_2025-11-16T21_28_38.573704",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:28:38.680053",
+      "associated_concepts": [
+        "reaction_ecstatic"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_28_39.840088": {
+      "concept": "thought_2025-11-16T21_28_39.840088",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:28:39.900972",
+      "associated_concepts": [
+        "sit",
+        "thinking"
+      ],
+      "accessibility_score": 0.2,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_28_43.266470": {
+      "concept": "thought_2025-11-16T21_28_43.266470",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:28:43.339869",
+      "associated_concepts": [
+        "sit",
+        "thinking"
+      ],
+      "accessibility_score": 0.2,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_28_43.923765": {
+      "concept": "thought_2025-11-16T21_28_43.923765",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:28:43.985488",
+      "associated_concepts": [
+        "fly"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_28_46.335601": {
+      "concept": "thought_2025-11-16T21_28_46.335601",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:28:46.389847",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_28_51.540414": {
+      "concept": "thought_2025-11-16T21_28_51.540414",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:28:51.607756",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_28_52.851411": {
+      "concept": "thought_2025-11-16T21_28_52.851411",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:28:52.916710",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_30_28.257074": {
+      "concept": "thought_2025-11-16T21_30_28.257074",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:30:28.331370",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_30_30.582670": {
+      "concept": "thought_2025-11-16T21_30_30.582670",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:30:30.645370",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_30_34.058347": {
+      "concept": "thought_2025-11-16T21_30_34.058347",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:30:34.120673",
+      "associated_concepts": [
+        "reaction_ecstatic"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_30_36.349512": {
+      "concept": "thought_2025-11-16T21_30_36.349512",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:30:36.410868",
+      "associated_concepts": [
+        "reaction_amazed",
+        "sit"
+      ],
+      "accessibility_score": 0.2,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_30_38.086707": {
+      "concept": "thought_2025-11-16T21_30_38.086707",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:30:38.149531",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_30_42.149517": {
+      "concept": "thought_2025-11-16T21_30_42.149517",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:30:42.211819",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_30_44.994989": {
+      "concept": "thought_2025-11-16T21_30_44.994989",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:30:45.056934",
+      "associated_concepts": [
+        "reaction_ecstatic"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_30_49.580511": {
+      "concept": "thought_2025-11-16T21_30_49.580511",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:30:49.638842",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_30_52.393254": {
+      "concept": "thought_2025-11-16T21_30_52.393254",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:30:52.464441",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_30_53.583216": {
+      "concept": "thought_2025-11-16T21_30_53.583216",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:30:53.637830",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_30_55.397740": {
+      "concept": "thought_2025-11-16T21_30_55.397740",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:30:55.458317",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_30_58.506097": {
+      "concept": "thought_2025-11-16T21_30_58.506097",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:30:58.571780",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_31_03.710313": {
+      "concept": "thought_2025-11-16T21_31_03.710313",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:31:03.776852",
+      "associated_concepts": [
+        "fly"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_31_04.342549": {
+      "concept": "thought_2025-11-16T21_31_04.342549",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:31:04.406025",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_31_11.264324": {
+      "concept": "thought_2025-11-16T21_31_11.264324",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:31:11.338524",
+      "associated_concepts": [
+        "reaction_amazed",
+        "sit"
+      ],
+      "accessibility_score": 0.2,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_31_11.926750": {
+      "concept": "thought_2025-11-16T21_31_11.926750",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:31:11.995754",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_31_51.094222": {
+      "concept": "thought_2025-11-16T21_31_51.094222",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:31:51.152438",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_31_51.706029": {
+      "concept": "thought_2025-11-16T21_31_51.706029",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:31:51.769081",
+      "associated_concepts": [
+        "sit",
+        "thinking"
+      ],
+      "accessibility_score": 0.2,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_31_54.129629": {
+      "concept": "thought_2025-11-16T21_31_54.129629",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:31:54.188629",
+      "associated_concepts": [
+        "sit",
+        "thinking"
+      ],
+      "accessibility_score": 0.2,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_32_06.094423": {
+      "concept": "thought_2025-11-16T21_32_06.094423",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:32:06.161365",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_32_08.495981": {
+      "concept": "thought_2025-11-16T21_32_08.495981",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:32:08.561049",
+      "associated_concepts": [
+        "reaction_amazed",
+        "sit"
+      ],
+      "accessibility_score": 0.2,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_32_10.322833": {
+      "concept": "thought_2025-11-16T21_32_10.322833",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:32:10.378917",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_32_10.988581": {
+      "concept": "thought_2025-11-16T21_32_10.988581",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:32:11.052307",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_34_04.391722": {
+      "concept": "thought_2025-11-16T21_34_04.391722",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:34:04.447059",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_34_10.624289": {
+      "concept": "thought_2025-11-16T21_34_10.624289",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:34:10.688480",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_34_58.038003": {
+      "concept": "thought_2025-11-16T21_34_58.038003",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:34:58.112468",
+      "associated_concepts": [
+        "reaction_amazed"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_35_01.053930": {
+      "concept": "thought_2025-11-16T21_35_01.053930",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:35:01.143122",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_35_01.744058": {
+      "concept": "thought_2025-11-16T21_35_01.744058",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:35:01.814145",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_35_05.139260": {
+      "concept": "thought_2025-11-16T21_35_05.139260",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:35:05.225965",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_35_08.557478": {
+      "concept": "thought_2025-11-16T21_35_08.557478",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:35:08.622310",
+      "associated_concepts": [
+        "reaction_amazed",
+        "sit"
+      ],
+      "accessibility_score": 0.2,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_35_14.430576": {
+      "concept": "thought_2025-11-16T21_35_14.430576",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:35:14.485969",
+      "associated_concepts": [
+        "sit",
+        "thinking"
+      ],
+      "accessibility_score": 0.2,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_35_18.985252": {
+      "concept": "thought_2025-11-16T21_35_18.985252",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:35:19.059739",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_35_19.631719": {
+      "concept": "thought_2025-11-16T21_35_19.631719",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:35:19.709563",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_35_21.944032": {
+      "concept": "thought_2025-11-16T21_35_21.944032",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:35:22.005612",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_35_23.147264": {
+      "concept": "thought_2025-11-16T21_35_23.147264",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:35:23.231950",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_35_27.081770": {
+      "concept": "thought_2025-11-16T21_35_27.081770",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:35:27.149329",
+      "associated_concepts": [
+        "reaction_amazed",
+        "sit"
+      ],
+      "accessibility_score": 0.2,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_35_32.941561": {
+      "concept": "thought_2025-11-16T21_35_32.941561",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:35:33.000314",
+      "associated_concepts": [
+        "reaction_amazed",
+        "sit"
+      ],
+      "accessibility_score": 0.2,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_36_13.506652": {
+      "concept": "thought_2025-11-16T21_36_13.506652",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:36:13.605512",
+      "associated_concepts": [
+        "fly"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_36_15.952753": {
+      "concept": "thought_2025-11-16T21_36_15.952753",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:36:16.014877",
+      "associated_concepts": [
+        "reaction_amazed"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_36_26.781679": {
+      "concept": "thought_2025-11-16T21_36_26.781679",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:36:26.842690",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_36_27.425972": {
+      "concept": "thought_2025-11-16T21_36_27.425972",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:36:27.502975",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_36_38.079746": {
+      "concept": "thought_2025-11-16T21_36_38.079746",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:36:38.160072",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_36_41.602861": {
+      "concept": "thought_2025-11-16T21_36_41.602861",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:36:41.686062",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_37_24.687500": {
+      "concept": "thought_2025-11-16T21_37_24.687500",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:37:24.754479",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_37_30.306997": {
+      "concept": "thought_2025-11-16T21_37_30.306997",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:37:30.388039",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_37_30.959880": {
+      "concept": "thought_2025-11-16T21_37_30.959880",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:37:31.026524",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_37_31.607443": {
+      "concept": "thought_2025-11-16T21_37_31.607443",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:37:31.666951",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_37_32.240656": {
+      "concept": "thought_2025-11-16T21_37_32.240656",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:37:32.312258",
+      "associated_concepts": [
+        "reaction_amazed",
+        "sit"
+      ],
+      "accessibility_score": 0.2,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_37_34.087612": {
+      "concept": "thought_2025-11-16T21_37_34.087612",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:37:34.156497",
+      "associated_concepts": [
+        "reaction_amazed",
+        "sit"
+      ],
+      "accessibility_score": 0.2,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_38_29.641940": {
+      "concept": "thought_2025-11-16T21_38_29.641940",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:38:29.716357",
+      "associated_concepts": [
+        "reaction_amazed",
+        "sit"
+      ],
+      "accessibility_score": 0.2,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_38_30.867818": {
+      "concept": "thought_2025-11-16T21_38_30.867818",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:38:30.936560",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_38_34.316386": {
+      "concept": "thought_2025-11-16T21_38_34.316386",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:38:34.387689",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_38_36.616669": {
+      "concept": "thought_2025-11-16T21_38_36.616669",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:38:36.685273",
+      "associated_concepts": [
+        "reaction_amazed",
+        "sit"
+      ],
+      "accessibility_score": 0.2,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_38_38.435529": {
+      "concept": "thought_2025-11-16T21_38_38.435529",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:38:38.498315",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    },
+    "thought_2025-11-16T21_38_39.631319": {
+      "concept": "thought_2025-11-16T21_38_39.631319",
+      "activation_level": 0.0,
+      "last_activated": "2025-11-16T21:38:39.693713",
+      "associated_concepts": [
+        "sit"
+      ],
+      "accessibility_score": 0.1,
+      "context_history": []
+    }
+  },
+  "edges": {
+    "thought_2025-11-16T21_19_12.888833_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_19_12.888833",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:19:12.956181"
+      ],
+      "created_at": "2025-11-16T21:19:12.956181",
+      "last_updated": "2025-11-16T21:19:12.956181",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_19_14.152793_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_19_14.152793",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:19:14.212314"
+      ],
+      "created_at": "2025-11-16T21:19:14.212314",
+      "last_updated": "2025-11-16T21:19:14.212314",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_19_18.869874_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_19_18.869874",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:19:18.913759"
+      ],
+      "created_at": "2025-11-16T21:19:18.913759",
+      "last_updated": "2025-11-16T21:19:18.913759",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_19_23.333640_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_19_23.333640",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:19:23.374339"
+      ],
+      "created_at": "2025-11-16T21:19:23.374339",
+      "last_updated": "2025-11-16T21:19:23.374339",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_20_14.271503_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_20_14.271503",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:20:14.323353"
+      ],
+      "created_at": "2025-11-16T21:20:14.323353",
+      "last_updated": "2025-11-16T21:20:14.323353",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_20_15.478560_reaction_amazed_related_to_skill": {
+      "source": "thought_2025-11-16T21_20_15.478560",
+      "target": "reaction_amazed",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:20:15.531275"
+      ],
+      "created_at": "2025-11-16T21:20:15.531275",
+      "last_updated": "2025-11-16T21:20:15.531275",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_20_15.478560_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_20_15.478560",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:20:15.531275"
+      ],
+      "created_at": "2025-11-16T21:20:15.531275",
+      "last_updated": "2025-11-16T21:20:15.531275",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_20_16.663943_reaction_amazed_related_to_skill": {
+      "source": "thought_2025-11-16T21_20_16.663943",
+      "target": "reaction_amazed",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:20:16.722054"
+      ],
+      "created_at": "2025-11-16T21:20:16.722054",
+      "last_updated": "2025-11-16T21:20:16.722054",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_20_16.663943_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_20_16.663943",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:20:16.723052"
+      ],
+      "created_at": "2025-11-16T21:20:16.723052",
+      "last_updated": "2025-11-16T21:20:16.723052",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_20_17.316835_reaction_amazed_related_to_skill": {
+      "source": "thought_2025-11-16T21_20_17.316835",
+      "target": "reaction_amazed",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:20:17.362778"
+      ],
+      "created_at": "2025-11-16T21:20:17.362778",
+      "last_updated": "2025-11-16T21:20:17.362778",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_20_17.316835_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_20_17.316835",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:20:17.362778"
+      ],
+      "created_at": "2025-11-16T21:20:17.362778",
+      "last_updated": "2025-11-16T21:20:17.362778",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_20_24.971179_reaction_amazed_related_to_skill": {
+      "source": "thought_2025-11-16T21_20_24.971179",
+      "target": "reaction_amazed",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:20:25.016673"
+      ],
+      "created_at": "2025-11-16T21:20:25.016673",
+      "last_updated": "2025-11-16T21:20:25.016673",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_20_27.264372_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_20_27.264372",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:20:27.309222"
+      ],
+      "created_at": "2025-11-16T21:20:27.309222",
+      "last_updated": "2025-11-16T21:20:27.309222",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_20_37.756376_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_20_37.756376",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:20:37.801946"
+      ],
+      "created_at": "2025-11-16T21:20:37.801946",
+      "last_updated": "2025-11-16T21:20:37.801946",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_20_37.756376_thinking_related_to_skill": {
+      "source": "thought_2025-11-16T21_20_37.756376",
+      "target": "thinking",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:20:37.801946"
+      ],
+      "created_at": "2025-11-16T21:20:37.802943",
+      "last_updated": "2025-11-16T21:20:37.802943",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_20_39.013289_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_20_39.013289",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:20:39.065996"
+      ],
+      "created_at": "2025-11-16T21:20:39.065996",
+      "last_updated": "2025-11-16T21:20:39.065996",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_20_39.013289_thinking_related_to_skill": {
+      "source": "thought_2025-11-16T21_20_39.013289",
+      "target": "thinking",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:20:39.065996"
+      ],
+      "created_at": "2025-11-16T21:20:39.065996",
+      "last_updated": "2025-11-16T21:20:39.065996",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_20_40.279095_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_20_40.279095",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:20:40.330642"
+      ],
+      "created_at": "2025-11-16T21:20:40.330642",
+      "last_updated": "2025-11-16T21:20:40.330642",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_20_43.681473_fly_related_to_skill": {
+      "source": "thought_2025-11-16T21_20_43.681473",
+      "target": "fly",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:20:43.726379"
+      ],
+      "created_at": "2025-11-16T21:20:43.726379",
+      "last_updated": "2025-11-16T21:20:43.726379",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_20_44.312358_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_20_44.312358",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:20:44.359469"
+      ],
+      "created_at": "2025-11-16T21:20:44.359469",
+      "last_updated": "2025-11-16T21:20:44.359469",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_20_44.977650_reaction_amazed_related_to_skill": {
+      "source": "thought_2025-11-16T21_20_44.977650",
+      "target": "reaction_amazed",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:20:45.026663"
+      ],
+      "created_at": "2025-11-16T21:20:45.026663",
+      "last_updated": "2025-11-16T21:20:45.026663",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_20_44.977650_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_20_44.977650",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:20:45.026663"
+      ],
+      "created_at": "2025-11-16T21:20:45.026663",
+      "last_updated": "2025-11-16T21:20:45.026663",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_20_50.628755_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_20_50.628755",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:20:50.680016"
+      ],
+      "created_at": "2025-11-16T21:20:50.680016",
+      "last_updated": "2025-11-16T21:20:50.680016",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_20_53.740512_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_20_53.740512",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:20:53.786545"
+      ],
+      "created_at": "2025-11-16T21:20:53.786545",
+      "last_updated": "2025-11-16T21:20:53.786545",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_20_58.015508_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_20_58.015508",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:20:58.066332"
+      ],
+      "created_at": "2025-11-16T21:20:58.066332",
+      "last_updated": "2025-11-16T21:20:58.066332",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_20_58.639174_reaction_ecstatic_related_to_skill": {
+      "source": "thought_2025-11-16T21_20_58.639174",
+      "target": "reaction_ecstatic",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:20:58.690680"
+      ],
+      "created_at": "2025-11-16T21:20:58.690680",
+      "last_updated": "2025-11-16T21:20:58.690680",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_21_03.201254_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_21_03.201254",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:21:03.259724"
+      ],
+      "created_at": "2025-11-16T21:21:03.259724",
+      "last_updated": "2025-11-16T21:21:03.259724",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_21_04.390840_reaction_amazed_related_to_skill": {
+      "source": "thought_2025-11-16T21_21_04.390840",
+      "target": "reaction_amazed",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:21:04.439370"
+      ],
+      "created_at": "2025-11-16T21:21:04.439370",
+      "last_updated": "2025-11-16T21:21:04.439370",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_21_04.390840_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_21_04.390840",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:21:04.440588"
+      ],
+      "created_at": "2025-11-16T21:21:04.440588",
+      "last_updated": "2025-11-16T21:21:04.440588",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_21_13.975814_fly_related_to_skill": {
+      "source": "thought_2025-11-16T21_21_13.975814",
+      "target": "fly",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:21:14.026515"
+      ],
+      "created_at": "2025-11-16T21:21:14.026515",
+      "last_updated": "2025-11-16T21:21:14.026515",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_21_18.516434_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_21_18.516434",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:21:18.564100"
+      ],
+      "created_at": "2025-11-16T21:21:18.564100",
+      "last_updated": "2025-11-16T21:21:18.564100",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_21_19.748642_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_21_19.748642",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:21:19.816756"
+      ],
+      "created_at": "2025-11-16T21:21:19.816756",
+      "last_updated": "2025-11-16T21:21:19.816756",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_22_02.024084_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_22_02.024084",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:22:02.096409"
+      ],
+      "created_at": "2025-11-16T21:22:02.096409",
+      "last_updated": "2025-11-16T21:22:02.096409",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_22_02.700453_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_22_02.700453",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:22:02.761832"
+      ],
+      "created_at": "2025-11-16T21:22:02.761832",
+      "last_updated": "2025-11-16T21:22:02.761832",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_22_03.938071_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_22_03.938071",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:22:03.989605"
+      ],
+      "created_at": "2025-11-16T21:22:03.989605",
+      "last_updated": "2025-11-16T21:22:03.989605",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_22_05.129549_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_22_05.129549",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:22:05.181825"
+      ],
+      "created_at": "2025-11-16T21:22:05.181825",
+      "last_updated": "2025-11-16T21:22:05.181825",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_22_06.866585_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_22_06.866585",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:22:06.916576"
+      ],
+      "created_at": "2025-11-16T21:22:06.916576",
+      "last_updated": "2025-11-16T21:22:06.916576",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_22_08.053030_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_22_08.053030",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:22:08.103172"
+      ],
+      "created_at": "2025-11-16T21:22:08.103172",
+      "last_updated": "2025-11-16T21:22:08.103172",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_22_10.884600_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_22_10.884600",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:22:10.935631"
+      ],
+      "created_at": "2025-11-16T21:22:10.935631",
+      "last_updated": "2025-11-16T21:22:10.935631",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_22_15.882713_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_22_15.882713",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:22:15.943675"
+      ],
+      "created_at": "2025-11-16T21:22:15.943675",
+      "last_updated": "2025-11-16T21:22:15.943675",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_22_18.845888_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_22_18.845888",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:22:18.901237"
+      ],
+      "created_at": "2025-11-16T21:22:18.901237",
+      "last_updated": "2025-11-16T21:22:18.901237",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_22_20.044491_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_22_20.044491",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:22:20.106544"
+      ],
+      "created_at": "2025-11-16T21:22:20.106544",
+      "last_updated": "2025-11-16T21:22:20.106544",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_22_20.044491_thinking_related_to_skill": {
+      "source": "thought_2025-11-16T21_22_20.044491",
+      "target": "thinking",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:22:20.107553"
+      ],
+      "created_at": "2025-11-16T21:22:20.107553",
+      "last_updated": "2025-11-16T21:22:20.107553",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_22_25.234591_reaction_amazed_related_to_skill": {
+      "source": "thought_2025-11-16T21_22_25.234591",
+      "target": "reaction_amazed",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:22:25.308055"
+      ],
+      "created_at": "2025-11-16T21:22:25.308055",
+      "last_updated": "2025-11-16T21:22:25.308055",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_22_25.234591_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_22_25.234591",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:22:25.309380"
+      ],
+      "created_at": "2025-11-16T21:22:25.309380",
+      "last_updated": "2025-11-16T21:22:25.309380",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_22_26.459809_reaction_ecstatic_related_to_skill": {
+      "source": "thought_2025-11-16T21_22_26.459809",
+      "target": "reaction_ecstatic",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:22:26.499937"
+      ],
+      "created_at": "2025-11-16T21:22:26.499937",
+      "last_updated": "2025-11-16T21:22:26.499937",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_22_34.865576_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_22_34.865576",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:22:34.912462"
+      ],
+      "created_at": "2025-11-16T21:22:34.912462",
+      "last_updated": "2025-11-16T21:22:34.912462",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_22_35.511890_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_22_35.511890",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:22:35.582445"
+      ],
+      "created_at": "2025-11-16T21:22:35.582445",
+      "last_updated": "2025-11-16T21:22:35.582445",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_22_36.775491_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_22_36.775491",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:22:36.828899"
+      ],
+      "created_at": "2025-11-16T21:22:36.828899",
+      "last_updated": "2025-11-16T21:22:36.828899",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_22_38.516767_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_22_38.516767",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:22:38.570386"
+      ],
+      "created_at": "2025-11-16T21:22:38.570386",
+      "last_updated": "2025-11-16T21:22:38.570386",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_22_40.901255_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_22_40.901255",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:22:40.953533"
+      ],
+      "created_at": "2025-11-16T21:22:40.953533",
+      "last_updated": "2025-11-16T21:22:40.953533",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_22_40.901255_thinking_related_to_skill": {
+      "source": "thought_2025-11-16T21_22_40.901255",
+      "target": "thinking",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:22:40.953533"
+      ],
+      "created_at": "2025-11-16T21:22:40.953533",
+      "last_updated": "2025-11-16T21:22:40.953533",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_22_42.087128_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_22_42.087128",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:22:42.168867"
+      ],
+      "created_at": "2025-11-16T21:22:42.168867",
+      "last_updated": "2025-11-16T21:22:42.168867",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_22_47.376684_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_22_47.376684",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:22:47.427726"
+      ],
+      "created_at": "2025-11-16T21:22:47.427726",
+      "last_updated": "2025-11-16T21:22:47.427726",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_22_48.568731_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_22_48.568731",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:22:48.622084"
+      ],
+      "created_at": "2025-11-16T21:22:48.622084",
+      "last_updated": "2025-11-16T21:22:48.622084",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_22_48.568731_thinking_related_to_skill": {
+      "source": "thought_2025-11-16T21_22_48.568731",
+      "target": "thinking",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:22:48.623470"
+      ],
+      "created_at": "2025-11-16T21:22:48.623470",
+      "last_updated": "2025-11-16T21:22:48.623470",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_22_51.094399_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_22_51.094399",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:22:51.142166"
+      ],
+      "created_at": "2025-11-16T21:22:51.142166",
+      "last_updated": "2025-11-16T21:22:51.142166",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_22_52.302435_fly_related_to_skill": {
+      "source": "thought_2025-11-16T21_22_52.302435",
+      "target": "fly",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:22:52.374910"
+      ],
+      "created_at": "2025-11-16T21:22:52.374910",
+      "last_updated": "2025-11-16T21:22:52.374910",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_22_54.658330_fly_related_to_skill": {
+      "source": "thought_2025-11-16T21_22_54.658330",
+      "target": "fly",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:22:54.709667"
+      ],
+      "created_at": "2025-11-16T21:22:54.709667",
+      "last_updated": "2025-11-16T21:22:54.709667",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_22_56.618082_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_22_56.618082",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:22:56.669073"
+      ],
+      "created_at": "2025-11-16T21:22:56.669073",
+      "last_updated": "2025-11-16T21:22:56.669073",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_22_59.545782_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_22_59.545782",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:22:59.595813"
+      ],
+      "created_at": "2025-11-16T21:22:59.595813",
+      "last_updated": "2025-11-16T21:22:59.595813",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_22_59.545782_thinking_related_to_skill": {
+      "source": "thought_2025-11-16T21_22_59.545782",
+      "target": "thinking",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:22:59.596816"
+      ],
+      "created_at": "2025-11-16T21:22:59.596816",
+      "last_updated": "2025-11-16T21:22:59.596816",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_23_02.604997_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_23_02.604997",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:23:02.645605"
+      ],
+      "created_at": "2025-11-16T21:23:02.645605",
+      "last_updated": "2025-11-16T21:23:02.645605",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_23_03.778359_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_23_03.778359",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:23:03.826617"
+      ],
+      "created_at": "2025-11-16T21:23:03.826617",
+      "last_updated": "2025-11-16T21:23:03.826617",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_23_03.778359_thinking_related_to_skill": {
+      "source": "thought_2025-11-16T21_23_03.778359",
+      "target": "thinking",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:23:03.827615"
+      ],
+      "created_at": "2025-11-16T21:23:03.827615",
+      "last_updated": "2025-11-16T21:23:03.827615",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_23_46.186253_reaction_amazed_related_to_skill": {
+      "source": "thought_2025-11-16T21_23_46.186253",
+      "target": "reaction_amazed",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:23:46.236579"
+      ],
+      "created_at": "2025-11-16T21:23:46.236579",
+      "last_updated": "2025-11-16T21:23:46.236579",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_23_46.186253_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_23_46.186253",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:23:46.237588"
+      ],
+      "created_at": "2025-11-16T21:23:46.237588",
+      "last_updated": "2025-11-16T21:23:46.237588",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_23_52.445816_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_23_52.445816",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:23:52.502640"
+      ],
+      "created_at": "2025-11-16T21:23:52.502640",
+      "last_updated": "2025-11-16T21:23:52.502640",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_23_59.908951_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_23_59.908951",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:23:59.961148"
+      ],
+      "created_at": "2025-11-16T21:23:59.961148",
+      "last_updated": "2025-11-16T21:23:59.961148",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_24_02.855170_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_24_02.855170",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:24:02.904180"
+      ],
+      "created_at": "2025-11-16T21:24:02.904180",
+      "last_updated": "2025-11-16T21:24:02.904180",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_24_13.418039_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_24_13.418039",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:24:13.467430"
+      ],
+      "created_at": "2025-11-16T21:24:13.467430",
+      "last_updated": "2025-11-16T21:24:13.467430",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_24_25.057128_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_24_25.057128",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:24:25.111730"
+      ],
+      "created_at": "2025-11-16T21:24:25.111730",
+      "last_updated": "2025-11-16T21:24:25.111730",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_25_02.724686_reaction_amazed_related_to_skill": {
+      "source": "thought_2025-11-16T21_25_02.724686",
+      "target": "reaction_amazed",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:25:02.791442"
+      ],
+      "created_at": "2025-11-16T21:25:02.791442",
+      "last_updated": "2025-11-16T21:25:02.791442",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_25_02.724686_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_25_02.724686",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:25:02.791442"
+      ],
+      "created_at": "2025-11-16T21:25:02.791442",
+      "last_updated": "2025-11-16T21:25:02.791442",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_25_10.631103_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_25_10.631103",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:25:10.683140"
+      ],
+      "created_at": "2025-11-16T21:25:10.683140",
+      "last_updated": "2025-11-16T21:25:10.683140",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_25_12.338698_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_25_12.338698",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:25:12.386146"
+      ],
+      "created_at": "2025-11-16T21:25:12.386146",
+      "last_updated": "2025-11-16T21:25:12.386146",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_25_12.338698_thinking_related_to_skill": {
+      "source": "thought_2025-11-16T21_25_12.338698",
+      "target": "thinking",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:25:12.387644"
+      ],
+      "created_at": "2025-11-16T21:25:12.387644",
+      "last_updated": "2025-11-16T21:25:12.387644",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_25_14.072252_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_25_14.072252",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:25:14.127496"
+      ],
+      "created_at": "2025-11-16T21:25:14.127496",
+      "last_updated": "2025-11-16T21:25:14.127496",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_25_14.712606_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_25_14.712606",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:25:14.766467"
+      ],
+      "created_at": "2025-11-16T21:25:14.766467",
+      "last_updated": "2025-11-16T21:25:14.766467",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_25_15.915991_reaction_amazed_related_to_skill": {
+      "source": "thought_2025-11-16T21_25_15.915991",
+      "target": "reaction_amazed",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:25:15.974575"
+      ],
+      "created_at": "2025-11-16T21:25:15.974575",
+      "last_updated": "2025-11-16T21:25:15.974575",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_25_15.915991_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_25_15.915991",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:25:15.975736"
+      ],
+      "created_at": "2025-11-16T21:25:15.975736",
+      "last_updated": "2025-11-16T21:25:15.975736",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_25_16.555274_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_25_16.555274",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:25:16.614679"
+      ],
+      "created_at": "2025-11-16T21:25:16.614679",
+      "last_updated": "2025-11-16T21:25:16.614679",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_25_18.888287_reaction_ecstatic_related_to_skill": {
+      "source": "thought_2025-11-16T21_25_18.888287",
+      "target": "reaction_ecstatic",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:25:18.947910"
+      ],
+      "created_at": "2025-11-16T21:25:18.947910",
+      "last_updated": "2025-11-16T21:25:18.947910",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_25_19.562281_reaction_amazed_related_to_skill": {
+      "source": "thought_2025-11-16T21_25_19.562281",
+      "target": "reaction_amazed",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:25:19.613845"
+      ],
+      "created_at": "2025-11-16T21:25:19.613845",
+      "last_updated": "2025-11-16T21:25:19.613845",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_25_19.562281_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_25_19.562281",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:25:19.614871"
+      ],
+      "created_at": "2025-11-16T21:25:19.614871",
+      "last_updated": "2025-11-16T21:25:19.614871",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_25_28.844764_reaction_amazed_related_to_skill": {
+      "source": "thought_2025-11-16T21_25_28.844764",
+      "target": "reaction_amazed",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:25:28.895856"
+      ],
+      "created_at": "2025-11-16T21:25:28.895856",
+      "last_updated": "2025-11-16T21:25:28.895856",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_25_28.844764_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_25_28.844764",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:25:28.896868"
+      ],
+      "created_at": "2025-11-16T21:25:28.896868",
+      "last_updated": "2025-11-16T21:25:28.896868",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_25_32.948929_reaction_ecstatic_related_to_skill": {
+      "source": "thought_2025-11-16T21_25_32.948929",
+      "target": "reaction_ecstatic",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:25:33.001175"
+      ],
+      "created_at": "2025-11-16T21:25:33.001175",
+      "last_updated": "2025-11-16T21:25:33.001175",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_25_36.391440_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_25_36.391440",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:25:36.444249"
+      ],
+      "created_at": "2025-11-16T21:25:36.444249",
+      "last_updated": "2025-11-16T21:25:36.444249",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_26_18.039918_reaction_ecstatic_related_to_skill": {
+      "source": "thought_2025-11-16T21_26_18.039918",
+      "target": "reaction_ecstatic",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:26:18.119116"
+      ],
+      "created_at": "2025-11-16T21:26:18.119116",
+      "last_updated": "2025-11-16T21:26:18.119116",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_26_23.362478_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_26_23.362478",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:26:23.422172"
+      ],
+      "created_at": "2025-11-16T21:26:23.422172",
+      "last_updated": "2025-11-16T21:26:23.422172",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_26_23.362478_thinking_related_to_skill": {
+      "source": "thought_2025-11-16T21_26_23.362478",
+      "target": "thinking",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:26:23.423289"
+      ],
+      "created_at": "2025-11-16T21:26:23.423289",
+      "last_updated": "2025-11-16T21:26:23.423289",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_26_25.140795_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_26_25.140795",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:26:25.207333"
+      ],
+      "created_at": "2025-11-16T21:26:25.207333",
+      "last_updated": "2025-11-16T21:26:25.207333",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_26_29.882236_reaction_amazed_related_to_skill": {
+      "source": "thought_2025-11-16T21_26_29.882236",
+      "target": "reaction_amazed",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:26:29.940652"
+      ],
+      "created_at": "2025-11-16T21:26:29.940652",
+      "last_updated": "2025-11-16T21:26:29.940652",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_26_29.882236_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_26_29.882236",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:26:29.942701"
+      ],
+      "created_at": "2025-11-16T21:26:29.942701",
+      "last_updated": "2025-11-16T21:26:29.942701",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_26_32.729937_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_26_32.729937",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:26:32.793733"
+      ],
+      "created_at": "2025-11-16T21:26:32.793733",
+      "last_updated": "2025-11-16T21:26:32.793733",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_26_36.188910_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_26_36.188910",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:26:36.240762"
+      ],
+      "created_at": "2025-11-16T21:26:36.240762",
+      "last_updated": "2025-11-16T21:26:36.240762",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_26_46.774707_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_26_46.774707",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:26:46.851594"
+      ],
+      "created_at": "2025-11-16T21:26:46.851594",
+      "last_updated": "2025-11-16T21:26:46.851594",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_26_47.444560_fly_related_to_skill": {
+      "source": "thought_2025-11-16T21_26_47.444560",
+      "target": "fly",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:26:47.490229"
+      ],
+      "created_at": "2025-11-16T21:26:47.490229",
+      "last_updated": "2025-11-16T21:26:47.490229",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_27_12.960531_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_27_12.960531",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:27:13.053642"
+      ],
+      "created_at": "2025-11-16T21:27:13.053642",
+      "last_updated": "2025-11-16T21:27:13.053642",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_27_16.429774_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_27_16.429774",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:27:16.474893"
+      ],
+      "created_at": "2025-11-16T21:27:16.474893",
+      "last_updated": "2025-11-16T21:27:16.474893",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_27_24.927530_reaction_amazed_related_to_skill": {
+      "source": "thought_2025-11-16T21_27_24.927530",
+      "target": "reaction_amazed",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:27:24.987390"
+      ],
+      "created_at": "2025-11-16T21:27:24.987390",
+      "last_updated": "2025-11-16T21:27:24.987390",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_27_32.920361_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_27_32.920361",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:27:32.973387"
+      ],
+      "created_at": "2025-11-16T21:27:32.973387",
+      "last_updated": "2025-11-16T21:27:32.973387",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_27_36.410870_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_27_36.410870",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:27:36.466619"
+      ],
+      "created_at": "2025-11-16T21:27:36.466619",
+      "last_updated": "2025-11-16T21:27:36.466619",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_27_37.050509_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_27_37.050509",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:27:37.109328"
+      ],
+      "created_at": "2025-11-16T21:27:37.109328",
+      "last_updated": "2025-11-16T21:27:37.109328",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_27_45.391313_reaction_ecstatic_related_to_skill": {
+      "source": "thought_2025-11-16T21_27_45.391313",
+      "target": "reaction_ecstatic",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:27:45.450641"
+      ],
+      "created_at": "2025-11-16T21:27:45.450641",
+      "last_updated": "2025-11-16T21:27:45.450641",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_27_47.134522_reaction_amazed_related_to_skill": {
+      "source": "thought_2025-11-16T21_27_47.134522",
+      "target": "reaction_amazed",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:27:47.189491"
+      ],
+      "created_at": "2025-11-16T21:27:47.189491",
+      "last_updated": "2025-11-16T21:27:47.189491",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_27_47.134522_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_27_47.134522",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:27:47.191602"
+      ],
+      "created_at": "2025-11-16T21:27:47.191602",
+      "last_updated": "2025-11-16T21:27:47.191602",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_27_47.790781_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_27_47.790781",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:27:47.846165"
+      ],
+      "created_at": "2025-11-16T21:27:47.846165",
+      "last_updated": "2025-11-16T21:27:47.846165",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_27_48.974769_reaction_ecstatic_related_to_skill": {
+      "source": "thought_2025-11-16T21_27_48.974769",
+      "target": "reaction_ecstatic",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:27:49.033075"
+      ],
+      "created_at": "2025-11-16T21:27:49.033075",
+      "last_updated": "2025-11-16T21:27:49.033075",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_28_23.408461_reaction_amazed_related_to_skill": {
+      "source": "thought_2025-11-16T21_28_23.408461",
+      "target": "reaction_amazed",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:28:23.481970"
+      ],
+      "created_at": "2025-11-16T21:28:23.481970",
+      "last_updated": "2025-11-16T21:28:23.481970",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_28_23.408461_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_28_23.408461",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:28:23.484407"
+      ],
+      "created_at": "2025-11-16T21:28:23.484407",
+      "last_updated": "2025-11-16T21:28:23.484407",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_28_32.052923_reaction_amazed_related_to_skill": {
+      "source": "thought_2025-11-16T21_28_32.052923",
+      "target": "reaction_amazed",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:28:32.113994"
+      ],
+      "created_at": "2025-11-16T21:28:32.113994",
+      "last_updated": "2025-11-16T21:28:32.113994",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_28_32.052923_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_28_32.052923",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:28:32.115360"
+      ],
+      "created_at": "2025-11-16T21:28:32.115360",
+      "last_updated": "2025-11-16T21:28:32.115360",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_28_34.382981_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_28_34.382981",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:28:34.442616"
+      ],
+      "created_at": "2025-11-16T21:28:34.442616",
+      "last_updated": "2025-11-16T21:28:34.442616",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_28_34.382981_thinking_related_to_skill": {
+      "source": "thought_2025-11-16T21_28_34.382981",
+      "target": "thinking",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:28:34.444632"
+      ],
+      "created_at": "2025-11-16T21:28:34.444632",
+      "last_updated": "2025-11-16T21:28:34.444632",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_28_37.900002_reaction_ecstatic_related_to_skill": {
+      "source": "thought_2025-11-16T21_28_37.900002",
+      "target": "reaction_ecstatic",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:28:37.976561"
+      ],
+      "created_at": "2025-11-16T21:28:37.976561",
+      "last_updated": "2025-11-16T21:28:37.976561",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_28_38.573704_reaction_ecstatic_related_to_skill": {
+      "source": "thought_2025-11-16T21_28_38.573704",
+      "target": "reaction_ecstatic",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:28:38.677572"
+      ],
+      "created_at": "2025-11-16T21:28:38.677572",
+      "last_updated": "2025-11-16T21:28:38.677572",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_28_39.840088_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_28_39.840088",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:28:39.899878"
+      ],
+      "created_at": "2025-11-16T21:28:39.899878",
+      "last_updated": "2025-11-16T21:28:39.899878",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_28_39.840088_thinking_related_to_skill": {
+      "source": "thought_2025-11-16T21_28_39.840088",
+      "target": "thinking",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:28:39.900972"
+      ],
+      "created_at": "2025-11-16T21:28:39.900972",
+      "last_updated": "2025-11-16T21:28:39.900972",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_28_43.266470_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_28_43.266470",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:28:43.337877"
+      ],
+      "created_at": "2025-11-16T21:28:43.337877",
+      "last_updated": "2025-11-16T21:28:43.337877",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_28_43.266470_thinking_related_to_skill": {
+      "source": "thought_2025-11-16T21_28_43.266470",
+      "target": "thinking",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:28:43.339869"
+      ],
+      "created_at": "2025-11-16T21:28:43.339869",
+      "last_updated": "2025-11-16T21:28:43.339869",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_28_43.923765_fly_related_to_skill": {
+      "source": "thought_2025-11-16T21_28_43.923765",
+      "target": "fly",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:28:43.983477"
+      ],
+      "created_at": "2025-11-16T21:28:43.983477",
+      "last_updated": "2025-11-16T21:28:43.983477",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_28_46.335601_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_28_46.335601",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:28:46.387585"
+      ],
+      "created_at": "2025-11-16T21:28:46.388594",
+      "last_updated": "2025-11-16T21:28:46.388594",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_28_51.540414_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_28_51.540414",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:28:51.605602"
+      ],
+      "created_at": "2025-11-16T21:28:51.605602",
+      "last_updated": "2025-11-16T21:28:51.605602",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_28_52.851411_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_28_52.851411",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:28:52.914716"
+      ],
+      "created_at": "2025-11-16T21:28:52.914716",
+      "last_updated": "2025-11-16T21:28:52.914716",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_30_28.257074_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_30_28.257074",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:30:28.328025"
+      ],
+      "created_at": "2025-11-16T21:30:28.328025",
+      "last_updated": "2025-11-16T21:30:28.328025",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_30_30.582670_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_30_30.582670",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:30:30.644371"
+      ],
+      "created_at": "2025-11-16T21:30:30.644371",
+      "last_updated": "2025-11-16T21:30:30.644371",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_30_34.058347_reaction_ecstatic_related_to_skill": {
+      "source": "thought_2025-11-16T21_30_34.058347",
+      "target": "reaction_ecstatic",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:30:34.118298"
+      ],
+      "created_at": "2025-11-16T21:30:34.118298",
+      "last_updated": "2025-11-16T21:30:34.118298",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_30_36.349512_reaction_amazed_related_to_skill": {
+      "source": "thought_2025-11-16T21_30_36.349512",
+      "target": "reaction_amazed",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:30:36.409380"
+      ],
+      "created_at": "2025-11-16T21:30:36.409380",
+      "last_updated": "2025-11-16T21:30:36.409380",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_30_36.349512_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_30_36.349512",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:30:36.411876"
+      ],
+      "created_at": "2025-11-16T21:30:36.411876",
+      "last_updated": "2025-11-16T21:30:36.411876",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_30_38.086707_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_30_38.086707",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:30:38.147009"
+      ],
+      "created_at": "2025-11-16T21:30:38.147009",
+      "last_updated": "2025-11-16T21:30:38.147009",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_30_42.149517_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_30_42.149517",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:30:42.209825"
+      ],
+      "created_at": "2025-11-16T21:30:42.209825",
+      "last_updated": "2025-11-16T21:30:42.209825",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_30_44.994989_reaction_ecstatic_related_to_skill": {
+      "source": "thought_2025-11-16T21_30_44.994989",
+      "target": "reaction_ecstatic",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:30:45.055595"
+      ],
+      "created_at": "2025-11-16T21:30:45.055595",
+      "last_updated": "2025-11-16T21:30:45.055595",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_30_49.580511_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_30_49.580511",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:30:49.636837"
+      ],
+      "created_at": "2025-11-16T21:30:49.636837",
+      "last_updated": "2025-11-16T21:30:49.636837",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_30_52.393254_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_30_52.393254",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:30:52.462347"
+      ],
+      "created_at": "2025-11-16T21:30:52.462347",
+      "last_updated": "2025-11-16T21:30:52.462347",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_30_53.583216_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_30_53.583216",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:30:53.634807"
+      ],
+      "created_at": "2025-11-16T21:30:53.634807",
+      "last_updated": "2025-11-16T21:30:53.634807",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_30_55.397740_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_30_55.397740",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:30:55.455463"
+      ],
+      "created_at": "2025-11-16T21:30:55.455463",
+      "last_updated": "2025-11-16T21:30:55.455463",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_30_58.506097_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_30_58.506097",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:30:58.569489"
+      ],
+      "created_at": "2025-11-16T21:30:58.569489",
+      "last_updated": "2025-11-16T21:30:58.569489",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_31_03.710313_fly_related_to_skill": {
+      "source": "thought_2025-11-16T21_31_03.710313",
+      "target": "fly",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:31:03.774838"
+      ],
+      "created_at": "2025-11-16T21:31:03.774838",
+      "last_updated": "2025-11-16T21:31:03.774838",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_31_04.342549_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_31_04.342549",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:31:04.404988"
+      ],
+      "created_at": "2025-11-16T21:31:04.404988",
+      "last_updated": "2025-11-16T21:31:04.404988",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_31_11.264324_reaction_amazed_related_to_skill": {
+      "source": "thought_2025-11-16T21_31_11.264324",
+      "target": "reaction_amazed",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:31:11.335336"
+      ],
+      "created_at": "2025-11-16T21:31:11.335336",
+      "last_updated": "2025-11-16T21:31:11.335336",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_31_11.264324_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_31_11.264324",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:31:11.338524"
+      ],
+      "created_at": "2025-11-16T21:31:11.338524",
+      "last_updated": "2025-11-16T21:31:11.338524",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_31_11.926750_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_31_11.926750",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:31:11.993675"
+      ],
+      "created_at": "2025-11-16T21:31:11.993675",
+      "last_updated": "2025-11-16T21:31:11.993675",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_31_51.094222_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_31_51.094222",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:31:51.150285"
+      ],
+      "created_at": "2025-11-16T21:31:51.150285",
+      "last_updated": "2025-11-16T21:31:51.150285",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_31_51.706029_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_31_51.706029",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:31:51.767025"
+      ],
+      "created_at": "2025-11-16T21:31:51.767025",
+      "last_updated": "2025-11-16T21:31:51.767025",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_31_51.706029_thinking_related_to_skill": {
+      "source": "thought_2025-11-16T21_31_51.706029",
+      "target": "thinking",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:31:51.769081"
+      ],
+      "created_at": "2025-11-16T21:31:51.769081",
+      "last_updated": "2025-11-16T21:31:51.769081",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_31_54.129629_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_31_54.129629",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:31:54.186106"
+      ],
+      "created_at": "2025-11-16T21:31:54.186106",
+      "last_updated": "2025-11-16T21:31:54.186106",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_31_54.129629_thinking_related_to_skill": {
+      "source": "thought_2025-11-16T21_31_54.129629",
+      "target": "thinking",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:31:54.188629"
+      ],
+      "created_at": "2025-11-16T21:31:54.188629",
+      "last_updated": "2025-11-16T21:31:54.188629",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_32_06.094423_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_32_06.094423",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:32:06.158104"
+      ],
+      "created_at": "2025-11-16T21:32:06.158104",
+      "last_updated": "2025-11-16T21:32:06.158104",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_32_08.495981_reaction_amazed_related_to_skill": {
+      "source": "thought_2025-11-16T21_32_08.495981",
+      "target": "reaction_amazed",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:32:08.557664"
+      ],
+      "created_at": "2025-11-16T21:32:08.557664",
+      "last_updated": "2025-11-16T21:32:08.557664",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_32_08.495981_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_32_08.495981",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:32:08.562047"
+      ],
+      "created_at": "2025-11-16T21:32:08.562047",
+      "last_updated": "2025-11-16T21:32:08.562047",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_32_10.322833_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_32_10.322833",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:32:10.375699"
+      ],
+      "created_at": "2025-11-16T21:32:10.375699",
+      "last_updated": "2025-11-16T21:32:10.375699",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_32_10.988581_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_32_10.988581",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:32:11.048263"
+      ],
+      "created_at": "2025-11-16T21:32:11.048263",
+      "last_updated": "2025-11-16T21:32:11.048263",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_34_04.391722_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_34_04.391722",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:34:04.443487"
+      ],
+      "created_at": "2025-11-16T21:34:04.443487",
+      "last_updated": "2025-11-16T21:34:04.443487",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_34_10.624289_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_34_10.624289",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:34:10.685973"
+      ],
+      "created_at": "2025-11-16T21:34:10.685973",
+      "last_updated": "2025-11-16T21:34:10.685973",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_34_58.038003_reaction_amazed_related_to_skill": {
+      "source": "thought_2025-11-16T21_34_58.038003",
+      "target": "reaction_amazed",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:34:58.109331"
+      ],
+      "created_at": "2025-11-16T21:34:58.109331",
+      "last_updated": "2025-11-16T21:34:58.109331",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_35_01.053930_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_35_01.053930",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:35:01.139939"
+      ],
+      "created_at": "2025-11-16T21:35:01.139939",
+      "last_updated": "2025-11-16T21:35:01.139939",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_35_01.744058_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_35_01.744058",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:35:01.811130"
+      ],
+      "created_at": "2025-11-16T21:35:01.811130",
+      "last_updated": "2025-11-16T21:35:01.811130",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_35_05.139260_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_35_05.139260",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:35:05.221657"
+      ],
+      "created_at": "2025-11-16T21:35:05.221657",
+      "last_updated": "2025-11-16T21:35:05.221657",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_35_08.557478_reaction_amazed_related_to_skill": {
+      "source": "thought_2025-11-16T21_35_08.557478",
+      "target": "reaction_amazed",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:35:08.619319"
+      ],
+      "created_at": "2025-11-16T21:35:08.619319",
+      "last_updated": "2025-11-16T21:35:08.619319",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_35_08.557478_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_35_08.557478",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:35:08.623307"
+      ],
+      "created_at": "2025-11-16T21:35:08.623307",
+      "last_updated": "2025-11-16T21:35:08.623307",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_35_14.430576_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_35_14.430576",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:35:14.483918"
+      ],
+      "created_at": "2025-11-16T21:35:14.483918",
+      "last_updated": "2025-11-16T21:35:14.483918",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_35_14.430576_thinking_related_to_skill": {
+      "source": "thought_2025-11-16T21_35_14.430576",
+      "target": "thinking",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:35:14.485969"
+      ],
+      "created_at": "2025-11-16T21:35:14.485969",
+      "last_updated": "2025-11-16T21:35:14.485969",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_35_18.985252_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_35_18.985252",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:35:19.056548"
+      ],
+      "created_at": "2025-11-16T21:35:19.056548",
+      "last_updated": "2025-11-16T21:35:19.056548",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_35_19.631719_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_35_19.631719",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:35:19.704735"
+      ],
+      "created_at": "2025-11-16T21:35:19.704735",
+      "last_updated": "2025-11-16T21:35:19.704735",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_35_21.944032_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_35_21.944032",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:35:22.003139"
+      ],
+      "created_at": "2025-11-16T21:35:22.003139",
+      "last_updated": "2025-11-16T21:35:22.003139",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_35_23.147264_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_35_23.147264",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:35:23.227902"
+      ],
+      "created_at": "2025-11-16T21:35:23.227902",
+      "last_updated": "2025-11-16T21:35:23.227902",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_35_27.081770_reaction_amazed_related_to_skill": {
+      "source": "thought_2025-11-16T21_35_27.081770",
+      "target": "reaction_amazed",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:35:27.146333"
+      ],
+      "created_at": "2025-11-16T21:35:27.146333",
+      "last_updated": "2025-11-16T21:35:27.146333",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_35_27.081770_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_35_27.081770",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:35:27.149329"
+      ],
+      "created_at": "2025-11-16T21:35:27.149329",
+      "last_updated": "2025-11-16T21:35:27.149329",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_35_32.941561_reaction_amazed_related_to_skill": {
+      "source": "thought_2025-11-16T21_35_32.941561",
+      "target": "reaction_amazed",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:35:32.997036"
+      ],
+      "created_at": "2025-11-16T21:35:32.997036",
+      "last_updated": "2025-11-16T21:35:32.997036",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_35_32.941561_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_35_32.941561",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:35:33.001319"
+      ],
+      "created_at": "2025-11-16T21:35:33.001319",
+      "last_updated": "2025-11-16T21:35:33.001319",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_36_13.506652_fly_related_to_skill": {
+      "source": "thought_2025-11-16T21_36_13.506652",
+      "target": "fly",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:36:13.599918"
+      ],
+      "created_at": "2025-11-16T21:36:13.599918",
+      "last_updated": "2025-11-16T21:36:13.599918",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_36_15.952753_reaction_amazed_related_to_skill": {
+      "source": "thought_2025-11-16T21_36_15.952753",
+      "target": "reaction_amazed",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:36:16.012470"
+      ],
+      "created_at": "2025-11-16T21:36:16.012470",
+      "last_updated": "2025-11-16T21:36:16.012470",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_36_26.781679_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_36_26.781679",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:36:26.839523"
+      ],
+      "created_at": "2025-11-16T21:36:26.839523",
+      "last_updated": "2025-11-16T21:36:26.839523",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_36_27.425972_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_36_27.425972",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:36:27.499599"
+      ],
+      "created_at": "2025-11-16T21:36:27.499599",
+      "last_updated": "2025-11-16T21:36:27.499599",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_36_38.079746_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_36_38.079746",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:36:38.156490"
+      ],
+      "created_at": "2025-11-16T21:36:38.156490",
+      "last_updated": "2025-11-16T21:36:38.156490",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_36_41.602861_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_36_41.602861",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:36:41.682051"
+      ],
+      "created_at": "2025-11-16T21:36:41.682051",
+      "last_updated": "2025-11-16T21:36:41.682051",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_37_24.687500_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_37_24.687500",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:37:24.750875"
+      ],
+      "created_at": "2025-11-16T21:37:24.750875",
+      "last_updated": "2025-11-16T21:37:24.750875",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_37_30.306997_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_37_30.306997",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:37:30.384308"
+      ],
+      "created_at": "2025-11-16T21:37:30.384308",
+      "last_updated": "2025-11-16T21:37:30.384308",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_37_30.959880_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_37_30.959880",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:37:31.023380"
+      ],
+      "created_at": "2025-11-16T21:37:31.023380",
+      "last_updated": "2025-11-16T21:37:31.023380",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_37_31.607443_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_37_31.607443",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:37:31.663633"
+      ],
+      "created_at": "2025-11-16T21:37:31.663633",
+      "last_updated": "2025-11-16T21:37:31.663633",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_37_32.240656_reaction_amazed_related_to_skill": {
+      "source": "thought_2025-11-16T21_37_32.240656",
+      "target": "reaction_amazed",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:37:32.308864"
+      ],
+      "created_at": "2025-11-16T21:37:32.308864",
+      "last_updated": "2025-11-16T21:37:32.308864",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_37_32.240656_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_37_32.240656",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:37:32.312258"
+      ],
+      "created_at": "2025-11-16T21:37:32.312258",
+      "last_updated": "2025-11-16T21:37:32.312258",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_37_34.087612_reaction_amazed_related_to_skill": {
+      "source": "thought_2025-11-16T21_37_34.087612",
+      "target": "reaction_amazed",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:37:34.151975"
+      ],
+      "created_at": "2025-11-16T21:37:34.151975",
+      "last_updated": "2025-11-16T21:37:34.151975",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_37_34.087612_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_37_34.087612",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:37:34.156497"
+      ],
+      "created_at": "2025-11-16T21:37:34.156497",
+      "last_updated": "2025-11-16T21:37:34.156497",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_38_29.641940_reaction_amazed_related_to_skill": {
+      "source": "thought_2025-11-16T21_38_29.641940",
+      "target": "reaction_amazed",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:38:29.712368"
+      ],
+      "created_at": "2025-11-16T21:38:29.712368",
+      "last_updated": "2025-11-16T21:38:29.712368",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_38_29.641940_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_38_29.641940",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:38:29.716357"
+      ],
+      "created_at": "2025-11-16T21:38:29.716357",
+      "last_updated": "2025-11-16T21:38:29.716357",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_38_30.867818_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_38_30.867818",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:38:30.933168"
+      ],
+      "created_at": "2025-11-16T21:38:30.933168",
+      "last_updated": "2025-11-16T21:38:30.933168",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_38_34.316386_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_38_34.316386",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:38:34.384051"
+      ],
+      "created_at": "2025-11-16T21:38:34.384051",
+      "last_updated": "2025-11-16T21:38:34.384051",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_38_36.616669_reaction_amazed_related_to_skill": {
+      "source": "thought_2025-11-16T21_38_36.616669",
+      "target": "reaction_amazed",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:38:36.681259"
+      ],
+      "created_at": "2025-11-16T21:38:36.681259",
+      "last_updated": "2025-11-16T21:38:36.681259",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_38_36.616669_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_38_36.616669",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:38:36.685273"
+      ],
+      "created_at": "2025-11-16T21:38:36.685273",
+      "last_updated": "2025-11-16T21:38:36.685273",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_38_38.435529_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_38_38.435529",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:38:38.493723"
+      ],
+      "created_at": "2025-11-16T21:38:38.493723",
+      "last_updated": "2025-11-16T21:38:38.493723",
+      "metadata": {
+        "source": "event_update"
+      }
+    },
+    "thought_2025-11-16T21_38_39.631319_sit_related_to_skill": {
+      "source": "thought_2025-11-16T21_38_39.631319",
+      "target": "sit",
+      "edge_type": "related_to_skill",
+      "weight": 0.8999999999999999,
+      "evidence": [
+        "Event update: 2025-11-16T21:38:39.689723"
+      ],
+      "created_at": "2025-11-16T21:38:39.689723",
+      "last_updated": "2025-11-16T21:38:39.689723",
+      "metadata": {
+        "source": "event_update"
+      }
+    }
+  },
+  "last_updated": "2025-11-16T21:44:24.229524"
+}

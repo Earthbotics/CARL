@@ -1,0 +1,73 @@
+{
+  "has_data": true,
+  "last_lookup": 1762019843.924792,
+  "edges": [
+    {
+      "target": "movement",
+      "relationship": "RelatedTo",
+      "weight": 10.506569373491995,
+      "uri": "/a/[/r/RelatedTo/,/c/en/dance/,/c/en/movement/]"
+    },
+    {
+      "target": "music",
+      "relationship": "RelatedTo",
+      "weight": 9.202390993649423,
+      "uri": "/a/[/r/RelatedTo/,/c/en/dance/,/c/en/music/]"
+    },
+    {
+      "target": "ballet",
+      "relationship": "RelatedTo",
+      "weight": 5.8470505385194,
+      "uri": "/a/[/r/RelatedTo/,/c/en/dance/,/c/en/ballet/]"
+    },
+    {
+      "target": "turn on some music",
+      "relationship": "HasPrerequisite",
+      "weight": 5.656854249492381,
+      "uri": "/a/[/r/HasPrerequisite/,/c/en/dance/,/c/en/turn_on_music/]"
+    },
+    {
+      "target": "waltz",
+      "relationship": "RelatedTo",
+      "weight": 5.56524932056058,
+      "uri": "/a/[/r/RelatedTo/,/c/en/dance/,/c/en/waltz/]"
+    },
+    {
+      "target": "moving",
+      "relationship": "RelatedTo",
+      "weight": 5.540397097681717,
+      "uri": "/a/[/r/RelatedTo/,/c/en/dance/,/c/en/moving/]"
+    },
+    {
+      "target": "musical",
+      "relationship": "RelatedTo",
+      "weight": 4.796248534010722,
+      "uri": "/a/[/r/RelatedTo/,/c/en/dance/,/c/en/musical/]"
+    },
+    {
+      "target": "activity",
+      "relationship": "RelatedTo",
+      "weight": 4.575587393985607,
+      "uri": "/a/[/r/RelatedTo/,/c/en/dance/,/c/en/activity/]"
+    },
+    {
+      "target": "move",
+      "relationship": "RelatedTo",
+      "weight": 4.222795282748146,
+      "uri": "/a/[/r/RelatedTo/,/c/en/dance/,/c/en/move/]"
+    },
+    {
+      "target": "ballroom",
+      "relationship": "RelatedTo",
+      "weight": 4.215210552273754,
+      "uri": "/a/[/r/RelatedTo/,/c/en/dance/,/c/en/ballroom/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "HasPrerequisite"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "dance",
+  "single_word_validated": true
+}

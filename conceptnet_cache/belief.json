@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1757050790.3929374,
+  "edges": [
+    {
+      "target": "faith",
+      "relationship": "RelatedTo",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/RelatedTo/,/c/en/belief/n/,/c/en/faith/]"
+    },
+    {
+      "target": "a subjective sense of knowledge",
+      "relationship": "IsA",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/IsA/,/c/en/belief/,/c/en/subjective_sense_of_knowledge/]"
+    },
+    {
+      "target": "verovanje",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/belief/n/,/c/sh/verovanje/]"
+    },
+    {
+      "target": "vera",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/belief/n/,/c/sh/vera/]"
+    },
+    {
+      "target": "believe",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/belief/n/,/c/en/believe/]"
+    },
+    {
+      "target": "impression",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/belief/n/wn/cognition/,/c/en/impression/n/wn/cognition/]"
+    },
+    {
+      "target": "vjerovanje",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/belief/n/,/c/sh/vjerovanje/]"
+    },
+    {
+      "target": "croyance",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/belief/n/,/c/fr/croyance/]"
+    },
+    {
+      "target": "include fantasy",
+      "relationship": "CapableOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/CapableOf/,/c/en/belief/,/c/en/include_fantasy/]"
+    },
+    {
+      "target": "vjera",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/belief/n/,/c/sh/vjera/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "IsA",
+    "Synonym",
+    "CapableOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "belief",
+  "single_word_validated": true
+}

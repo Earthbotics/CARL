@@ -1,0 +1,73 @@
+{
+  "has_data": true,
+  "last_lookup": 1756438544.9417622,
+  "edges": [
+    {
+      "target": "sleep",
+      "relationship": "RelatedTo",
+      "weight": 7.246240404513227,
+      "uri": "/a/[/r/RelatedTo/,/c/en/rest/,/c/en/sleep/]"
+    },
+    {
+      "target": "nap",
+      "relationship": "RelatedTo",
+      "weight": 5.784116181405764,
+      "uri": "/a/[/r/RelatedTo/,/c/en/rest/,/c/en/nap/]"
+    },
+    {
+      "target": "break",
+      "relationship": "RelatedTo",
+      "weight": 5.313379338989454,
+      "uri": "/a/[/r/RelatedTo/,/c/en/rest/,/c/en/break/]"
+    },
+    {
+      "target": "lie down",
+      "relationship": "HasPrerequisite",
+      "weight": 5.291502622129181,
+      "uri": "/a/[/r/HasPrerequisite/,/c/en/rest/,/c/en/lie_down/]"
+    },
+    {
+      "target": "relax",
+      "relationship": "RelatedTo",
+      "weight": 5.039841267341661,
+      "uri": "/a/[/r/RelatedTo/,/c/en/rest/,/c/en/relax/]"
+    },
+    {
+      "target": "relax",
+      "relationship": "HasPrerequisite",
+      "weight": 4.898979485566356,
+      "uri": "/a/[/r/HasPrerequisite/,/c/en/rest/,/c/en/relax/]"
+    },
+    {
+      "target": "lay down",
+      "relationship": "HasPrerequisite",
+      "weight": 4.47213595499958,
+      "uri": "/a/[/r/HasPrerequisite/,/c/en/rest/,/c/en/lay_down/]"
+    },
+    {
+      "target": "relaxation",
+      "relationship": "RelatedTo",
+      "weight": 4.459596394293995,
+      "uri": "/a/[/r/RelatedTo/,/c/en/rest/,/c/en/relaxation/]"
+    },
+    {
+      "target": "sleep",
+      "relationship": "HasPrerequisite",
+      "weight": 4.0,
+      "uri": "/a/[/r/HasPrerequisite/,/c/en/rest/,/c/en/sleep/]"
+    },
+    {
+      "target": "sleeping",
+      "relationship": "RelatedTo",
+      "weight": 3.75552925697564,
+      "uri": "/a/[/r/RelatedTo/,/c/en/rest/,/c/en/sleeping/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "HasPrerequisite"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "rest",
+  "single_word_validated": true
+}

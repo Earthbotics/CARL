@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1756524708.7483885,
+  "edges": [
+    {
+      "target": "the cupboard",
+      "relationship": "AtLocation",
+      "weight": 7.211102550927979,
+      "uri": "/a/[/r/AtLocation/,/c/en/bowl/,/c/en/cupboard/]"
+    },
+    {
+      "target": "stadium",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/bowl/n/wn/artifact/,/c/en/stadium/n/wn/artifact/]"
+    },
+    {
+      "target": "hold spice",
+      "relationship": "UsedFor",
+      "weight": 2.0,
+      "uri": "/a/[/r/UsedFor/,/c/en/bowl/,/c/en/hold_spice/]"
+    },
+    {
+      "target": "cricket",
+      "relationship": "HasContext",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasContext/,/c/en/bowl/v/wn/cricket/,/c/en/cricket/n/wn/act/]"
+    },
+    {
+      "target": "hold grapes",
+      "relationship": "UsedFor",
+      "weight": 2.0,
+      "uri": "/a/[/r/UsedFor/,/c/en/bowl/,/c/en/hold_grapes/]"
+    },
+    {
+      "target": "hold cereal",
+      "relationship": "UsedFor",
+      "weight": 2.0,
+      "uri": "/a/[/r/UsedFor/,/c/en/bowl/,/c/en/hold_cereal/]"
+    },
+    {
+      "target": "hold mush",
+      "relationship": "UsedFor",
+      "weight": 2.0,
+      "uri": "/a/[/r/UsedFor/,/c/en/bowl/,/c/en/hold_mush/]"
+    },
+    {
+      "target": "serve",
+      "relationship": "UsedFor",
+      "weight": 2.0,
+      "uri": "/a/[/r/UsedFor/,/c/en/bowl/n/wn/artifact/,/c/en/serve/v/wn/consumption/]"
+    },
+    {
+      "target": "hold sugar",
+      "relationship": "UsedFor",
+      "weight": 2.0,
+      "uri": "/a/[/r/UsedFor/,/c/en/bowl/,/c/en/hold_sugar/]"
+    },
+    {
+      "target": "hold broth",
+      "relationship": "UsedFor",
+      "weight": 2.0,
+      "uri": "/a/[/r/UsedFor/,/c/en/bowl/,/c/en/hold_broth/]"
+    }
+  ],
+  "relationships": [
+    "AtLocation",
+    "Synonym",
+    "UsedFor",
+    "HasContext"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "bowl",
+  "single_word_validated": true
+}

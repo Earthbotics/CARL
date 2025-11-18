@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1756007009.1318846,
+  "edges": [
+    {
+      "target": "creative",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/imaginative/a/wn/,/c/en/creative/a/wn/]"
+    },
+    {
+      "target": "mielikuvitusrikas",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/imaginative/a/,/c/fi/mielikuvitusrikas/]"
+    },
+    {
+      "target": "\u03b5\u03c5\u03c6\u03b1\u03bd\u03c4\u03b1\u03c3\u03c4\u03bf\u03c3",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/imaginative/a/,/c/el/\u03b5\u03c5\u03c6\u03b1\u03bd\u03c4\u03b1\u03c3\u03c4\u03bf\u03c3/]"
+    },
+    {
+      "target": "creative",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/imaginative/a/,/c/en/creative/]"
+    },
+    {
+      "target": "imaginatiu",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/imaginative/a/,/c/ca/imaginatiu/]"
+    },
+    {
+      "target": "300646885-s",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/imaginative/a/wn/,/http://wordnet-rdf.princeton.edu/wn31/300646885-s/]"
+    },
+    {
+      "target": "fanciful",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/imaginative/a/,/c/en/fanciful/]"
+    },
+    {
+      "target": "imaginativo",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/imaginative/a/,/c/es/imaginativo/]"
+    },
+    {
+      "target": "mac meanmnach",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/imaginative/a/,/c/gd/mac_meanmnach/]"
+    },
+    {
+      "target": "imaginativo",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/imaginative/a/,/c/pt/imaginativo/]"
+    }
+  ],
+  "relationships": [
+    "SimilarTo",
+    "Synonym",
+    "RelatedTo",
+    "ExternalURL"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "imaginative",
+  "single_word_validated": true
+}

@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1754928018.8677812,
+  "edges": [
+    {
+      "target": "motivation",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/motivation/n/,/c/fr/motivation/]"
+    },
+    {
+      "target": "act",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/motivation/n/wn/act/,/c/en/act/n/wn/]"
+    },
+    {
+      "target": "motivacija",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/motivation/n/,/c/sh/motivacija/]"
+    },
+    {
+      "target": "psychological feature",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/motivation/n/wn/,/c/en/psychological_feature/n/wn/]"
+    },
+    {
+      "target": "condition",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/motivation/n/wn/state/,/c/en/condition/n/wn/state/]"
+    },
+    {
+      "target": "motivate",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/motivation/n/,/c/en/motivate/]"
+    },
+    {
+      "target": "motive",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/motivation/n/,/c/fr/motive/]"
+    },
+    {
+      "target": "incentive",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/motivation/n/,/c/de/incentive/]"
+    },
+    {
+      "target": "motiva\u021bie",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/motivation/n/,/c/ro/motiva\u021bie/]"
+    },
+    {
+      "target": "\ub3d9\uae30",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/motivation/n/,/c/ko/\ub3d9\uae30/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "IsA",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "motivation",
+  "single_word_validated": true
+}

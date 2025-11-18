@@ -1,0 +1,77 @@
+{
+  "has_data": true,
+  "last_lookup": 1755129522.668728,
+  "edges": [
+    {
+      "target": "learn",
+      "relationship": "Causes",
+      "weight": 2.0,
+      "uri": "/a/[/r/Causes/,/c/en/teach/v/wn/communication/,/c/en/learn/v/wn/cognition/]"
+    },
+    {
+      "target": "habituate",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/teach/v/wn/change/,/c/en/habituate/v/wn/change/]"
+    },
+    {
+      "target": "Edward Thatch",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/teach/n/wn/person/,/c/en/edward_thatch/n/wn/person/]"
+    },
+    {
+      "target": "inform",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/teach/v/wn/communication/,/c/en/inform/v/wn/communication/]"
+    },
+    {
+      "target": "enseigner",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/teach/v/,/c/fr/enseigner/]"
+    },
+    {
+      "target": "200830768-v",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/teach/v/wn/communication/,/http://wordnet-rdf.princeton.edu/wn31/200830768-v/]"
+    },
+    {
+      "target": "addoceo",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/teach/v/wikt/en_1/,/c/la/addoceo/]"
+    },
+    {
+      "target": "t\u00e6can",
+      "relationship": "EtymologicallyDerivedFrom",
+      "weight": 1.0,
+      "uri": "/a/[/r/EtymologicallyDerivedFrom/,/c/en/teach/,/c/ang/t\u00e6can/]"
+    },
+    {
+      "target": "yol g\u00f6stermek",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/teach/v/wikt/en_1/,/c/tr/yol_g\u00f6stermek/]"
+    },
+    {
+      "target": "ray m\u0131snayen",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/teach/v/wikt/en_1/,/c/zza/ray_m\u0131snayen/]"
+    }
+  ],
+  "relationships": [
+    "Causes",
+    "MannerOf",
+    "Synonym",
+    "RelatedTo",
+    "ExternalURL",
+    "EtymologicallyDerivedFrom"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "teach",
+  "single_word_validated": true
+}

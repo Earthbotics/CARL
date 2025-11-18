@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1761692600.4637845,
+  "edges": [
+    {
+      "target": "gathering",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/meeting/n/wn/group/,/c/en/gathering/n/wn/group/]"
+    },
+    {
+      "target": "merging",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/meeting/n/wn/act/,/c/en/merging/n/wn/act/]"
+    },
+    {
+      "target": "confluence",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/meeting/n/wn/river/,/c/en/confluence/n/wn/river/]"
+    },
+    {
+      "target": "convergence",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/meeting/n/wn/event/,/c/en/convergence/n/wn/event/]"
+    },
+    {
+      "target": "assembly",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/meeting/n/wn/act/,/c/en/assembly/n/wn/act/]"
+    },
+    {
+      "target": "social gathering",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/meeting/n/wn/group/,/c/en/social_gathering/n/wn/group/]"
+    },
+    {
+      "target": "gathering",
+      "relationship": "RelatedTo",
+      "weight": 1.4530000000000003,
+      "uri": "/a/[/r/RelatedTo/,/c/en/meeting/,/c/en/gathering/]"
+    },
+    {
+      "target": "religious",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/meeting/n/,/c/en/religious/]"
+    },
+    {
+      "target": "108327319-n",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/meeting/n/wn/group/,/http://wordnet-rdf.princeton.edu/wn31/108327319-n/]"
+    },
+    {
+      "target": "us",
+      "relationship": "HasContext",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasContext/,/c/en/meeting/n/,/c/en/us/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "Synonym",
+    "RelatedTo",
+    "ExternalURL",
+    "HasContext"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "meeting",
+  "single_word_validated": true
+}

@@ -1,0 +1,73 @@
+{
+  "has_data": true,
+  "last_lookup": 1756701533.2710648,
+  "edges": [
+    {
+      "target": "pronoun",
+      "relationship": "RelatedTo",
+      "weight": 5.282423686150137,
+      "uri": "/a/[/r/RelatedTo/,/c/en/he/,/c/en/pronoun/]"
+    },
+    {
+      "target": "male",
+      "relationship": "RelatedTo",
+      "weight": 4.384974344280705,
+      "uri": "/a/[/r/RelatedTo/,/c/en/he/,/c/en/male/]"
+    },
+    {
+      "target": "han",
+      "relationship": "Synonym",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/Synonym/,/c/en/he/,/c/no/han/]"
+    },
+    {
+      "target": "han",
+      "relationship": "Synonym",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/Synonym/,/c/en/he/,/c/da/han/]"
+    },
+    {
+      "target": "han",
+      "relationship": "Synonym",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/Synonym/,/c/en/he/,/c/sv/han/]"
+    },
+    {
+      "target": "man",
+      "relationship": "RelatedTo",
+      "weight": 2.6130442016927304,
+      "uri": "/a/[/r/RelatedTo/,/c/en/he/,/c/en/man/]"
+    },
+    {
+      "target": "male pronoun",
+      "relationship": "RelatedTo",
+      "weight": 2.0918890983988616,
+      "uri": "/a/[/r/RelatedTo/,/c/en/he/,/c/en/male_pronoun/]"
+    },
+    {
+      "target": "gender",
+      "relationship": "RelatedTo",
+      "weight": 2.0851858430365393,
+      "uri": "/a/[/r/RelatedTo/,/c/en/he/,/c/en/gender/]"
+    },
+    {
+      "target": "helium",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/he/n/wn/substance/,/c/en/helium/n/wn/substance/]"
+    },
+    {
+      "target": "on",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/he/,/c/sh/on/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "he",
+  "single_word_validated": true
+}

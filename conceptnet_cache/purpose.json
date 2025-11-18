@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1757802327.1875992,
+  "edges": [
+    {
+      "target": "reason",
+      "relationship": "RelatedTo",
+      "weight": 3.8115613598629103,
+      "uri": "/a/[/r/RelatedTo/,/c/en/purpose/,/c/en/reason/]"
+    },
+    {
+      "target": "goal",
+      "relationship": "RelatedTo",
+      "weight": 2.2369622258768693,
+      "uri": "/a/[/r/RelatedTo/,/c/en/purpose/,/c/en/goal/]"
+    },
+    {
+      "target": "function",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/purpose/n/wn/attribute/,/c/en/function/n/wn/attribute/]"
+    },
+    {
+      "target": "cilj",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/purpose/,/c/sh/cilj/]"
+    },
+    {
+      "target": "decide",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/purpose/v/wn/cognition/,/c/en/decide/v/wn/cognition/]"
+    },
+    {
+      "target": "svrha",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/purpose/,/c/sh/svrha/]"
+    },
+    {
+      "target": "determination",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/purpose/n/wn/attribute/,/c/en/determination/n/wn/attribute/]"
+    },
+    {
+      "target": "aim",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/purpose/v/wn/cognition/,/c/en/aim/v/wn/cognition/]"
+    },
+    {
+      "target": "goal",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/purpose/n/wn/cognition/,/c/en/goal/n/wn/cognition/]"
+    },
+    {
+      "target": "meaning",
+      "relationship": "RelatedTo",
+      "weight": 1.508,
+      "uri": "/a/[/r/RelatedTo/,/c/en/purpose/,/c/en/meaning/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "Synonym",
+    "MannerOf",
+    "IsA"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "purpose",
+  "single_word_validated": true
+}

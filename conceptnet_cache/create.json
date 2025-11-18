@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1759722585.3868282,
+  "edges": [
+    {
+      "target": "make",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/create/v/wn/creation/,/c/en/make/v/wn/creation/]"
+    },
+    {
+      "target": "appoint",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/create/v/wn/social/,/c/en/appoint/v/wn/social/]"
+    },
+    {
+      "target": "stvarati",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/create/v/,/c/sh/stvarati/]"
+    },
+    {
+      "target": "stvoriti",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/create/v/,/c/sh/stvoriti/]"
+    },
+    {
+      "target": "make new ideas",
+      "relationship": "HasSubevent",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasSubevent/,/c/en/create/,/c/en/make_new_ideas/]"
+    },
+    {
+      "target": "make",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/create/v/wn/creation/,/c/en/make/v/wn/creation/]"
+    },
+    {
+      "target": "act",
+      "relationship": "MannerOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/MannerOf/,/c/en/create/v/wn/creation/,/c/en/act/v/wn/social/]"
+    },
+    {
+      "target": "produce",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/create/v/wn/creation/,/c/en/produce/v/wn/creation/]"
+    },
+    {
+      "target": "cr\u00e9er",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/create/v/,/c/fr/cr\u00e9er/]"
+    },
+    {
+      "target": "te\u015fekk\u00fcl ettirmek",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/create/v/,/c/tr/te\u015fekk\u00fcl_ettirmek/]"
+    }
+  ],
+  "relationships": [
+    "MannerOf",
+    "Synonym",
+    "HasSubevent",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "create",
+  "single_word_validated": true
+}

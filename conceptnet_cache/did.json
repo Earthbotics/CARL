@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1755146701.7728677,
+  "edges": [
+    {
+      "target": "do",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/did/,/c/en/do/v/]"
+    },
+    {
+      "target": "psychiatry",
+      "relationship": "HasContext",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasContext/,/c/en/did/n/,/c/en/psychiatry/]"
+    },
+    {
+      "target": "do",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/did/v/,/c/en/do/]"
+    },
+    {
+      "target": "direct inward dialing",
+      "relationship": "DerivedFrom",
+      "weight": 1.0,
+      "uri": "/a/[/r/DerivedFrom/,/c/en/did/,/c/en/direct_inward_dialing/n/]"
+    },
+    {
+      "target": "s\u00e9lection directe de poste suppl\u00e9mentaire",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/did/n/,/c/fr/s\u00e9lection_directe_de_poste_suppl\u00e9mentaire/]"
+    },
+    {
+      "target": "do",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/did/v/,/c/en/do/]"
+    },
+    {
+      "target": "DID",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/did/,/http://fr.wiktionary.org/wiki/DID/]"
+    },
+    {
+      "target": "did",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/did/,/http://en.wiktionary.org/wiki/did/]"
+    },
+    {
+      "target": "did",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/did/,/http://fr.wiktionary.org/wiki/did/]"
+    },
+    {
+      "target": "DID",
+      "relationship": "ExternalURL",
+      "weight": 0.25,
+      "uri": "/a/[/r/ExternalURL/,/c/en/did/,/http://en.wiktionary.org/wiki/DID/]"
+    }
+  ],
+  "relationships": [
+    "FormOf",
+    "HasContext",
+    "RelatedTo",
+    "DerivedFrom",
+    "ExternalURL"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "did",
+  "single_word_validated": true
+}

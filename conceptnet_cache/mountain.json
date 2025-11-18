@@ -1,0 +1,73 @@
+{
+  "has_data": true,
+  "last_lookup": 1757730371.824318,
+  "edges": [
+    {
+      "target": "hill",
+      "relationship": "RelatedTo",
+      "weight": 9.74207370121988,
+      "uri": "/a/[/r/RelatedTo/,/c/en/mountain/,/c/en/hill/]"
+    },
+    {
+      "target": "big",
+      "relationship": "RelatedTo",
+      "weight": 5.743169856446874,
+      "uri": "/a/[/r/RelatedTo/,/c/en/mountain/,/c/en/big/]"
+    },
+    {
+      "target": "climbing",
+      "relationship": "UsedFor",
+      "weight": 4.898979485566356,
+      "uri": "/a/[/r/UsedFor/,/c/en/mountain/,/c/en/climbing/]"
+    },
+    {
+      "target": "big hill",
+      "relationship": "RelatedTo",
+      "weight": 4.347413023856832,
+      "uri": "/a/[/r/RelatedTo/,/c/en/mountain/,/c/en/big_hill/]"
+    },
+    {
+      "target": "large",
+      "relationship": "RelatedTo",
+      "weight": 4.077744474583958,
+      "uri": "/a/[/r/RelatedTo/,/c/en/mountain/,/c/en/large/]"
+    },
+    {
+      "target": "peak",
+      "relationship": "RelatedTo",
+      "weight": 3.859015418471401,
+      "uri": "/a/[/r/RelatedTo/,/c/en/mountain/,/c/en/peak/]"
+    },
+    {
+      "target": "high",
+      "relationship": "RelatedTo",
+      "weight": 3.8434359627812196,
+      "uri": "/a/[/r/RelatedTo/,/c/en/mountain/,/c/en/high/]"
+    },
+    {
+      "target": "rock",
+      "relationship": "RelatedTo",
+      "weight": 3.690528417449187,
+      "uri": "/a/[/r/RelatedTo/,/c/en/mountain/,/c/en/rock/]"
+    },
+    {
+      "target": "tall",
+      "relationship": "RelatedTo",
+      "weight": 3.6480131578710076,
+      "uri": "/a/[/r/RelatedTo/,/c/en/mountain/,/c/en/tall/]"
+    },
+    {
+      "target": "large hill",
+      "relationship": "RelatedTo",
+      "weight": 3.5048537772637527,
+      "uri": "/a/[/r/RelatedTo/,/c/en/mountain/,/c/en/large_hill/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "UsedFor"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "mountain",
+  "single_word_validated": true
+}

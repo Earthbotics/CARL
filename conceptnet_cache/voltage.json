@@ -1,0 +1,75 @@
+{
+  "has_data": true,
+  "last_lookup": 1754929077.2983444,
+  "edges": [
+    {
+      "target": "a measure of electricity",
+      "relationship": "IsA",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/IsA/,/c/en/voltage/,/c/en/measure_of_electricity/]"
+    },
+    {
+      "target": "electric potential",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/voltage/n/wn/phenomenon/,/c/en/electric_potential/n/wn/phenomenon/]"
+    },
+    {
+      "target": "electrical pressure",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/voltage/,/c/en/electrical_pressure/]"
+    },
+    {
+      "target": "napon",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/voltage/n/,/c/sh/napon/]"
+    },
+    {
+      "target": "electrical phenomenon",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/voltage/n/wn/phenomenon/,/c/en/electrical_phenomenon/n/wn/phenomenon/]"
+    },
+    {
+      "target": "volt",
+      "relationship": "DerivedFrom",
+      "weight": 1.0,
+      "uri": "/a/[/r/DerivedFrom/,/c/en/voltage/,/c/en/volt/n/wikt/en_1/]"
+    },
+    {
+      "target": "point",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/voltage/n/,/c/en/point/]"
+    },
+    {
+      "target": "tension",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/voltage/n/,/c/sq/tension/]"
+    },
+    {
+      "target": "spenning",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/voltage/n/,/c/no/spenning/]"
+    },
+    {
+      "target": "electrical quantity",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/voltage/n/,/c/en/electrical_quantity/n/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "Synonym",
+    "DerivedFrom",
+    "RelatedTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "voltage",
+  "single_word_validated": true
+}

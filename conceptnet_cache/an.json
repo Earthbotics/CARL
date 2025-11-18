@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1760489455.8277962,
+  "edges": [
+    {
+      "target": "a",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/an/,/c/en/a/]"
+    },
+    {
+      "target": "yek",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/an/,/c/ku/yek/]"
+    },
+    {
+      "target": "un",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/an/,/c/it/un/]"
+    },
+    {
+      "target": "a",
+      "relationship": "FormOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/FormOf/,/c/en/an/,/c/en/a/]"
+    },
+    {
+      "target": "Associate in Nursing",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/an/n/wn/communication/,/c/en/associate_in_nursing/n/wn/communication/]"
+    },
+    {
+      "target": "and",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/an/,/c/en/and/]"
+    },
+    {
+      "target": "\u2d00",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/an/n/wikt/en_3/,/c/en/\u2d00/]"
+    },
+    {
+      "target": "article",
+      "relationship": "RelatedTo",
+      "weight": 1.7640000000000002,
+      "uri": "/a/[/r/RelatedTo/,/c/en/an/,/c/en/article/]"
+    },
+    {
+      "target": "ano",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/an/,/c/pt/ano/]"
+    },
+    {
+      "target": "un",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/an/,/c/fr/un/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "Synonym",
+    "FormOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "an",
+  "single_word_validated": true
+}

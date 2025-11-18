@@ -1,0 +1,73 @@
+{
+  "has_data": true,
+  "last_lookup": 1757730119.9793935,
+  "edges": [
+    {
+      "target": "intimate",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/personal/a/wn/,/c/en/intimate/a/wn/]"
+    },
+    {
+      "target": "individual",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/personal/a/wn/,/c/en/individual/a/wn/]"
+    },
+    {
+      "target": "person-to-person",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/personal/a/wn/,/c/en/person_to_person/a/wn/]"
+    },
+    {
+      "target": "face-to-face",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/personal/a/wn/,/c/en/face_to_face/a/wn/]"
+    },
+    {
+      "target": "ain",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/personal/a/wn/,/c/en/ain/a/wn/]"
+    },
+    {
+      "target": "physical",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/personal/a/wn/,/c/en/physical/a/wn/]"
+    },
+    {
+      "target": "in the flesh",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/personal/a/wn/,/c/en/in_flesh/a/wn/]"
+    },
+    {
+      "target": "ad hominem",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/personal/a/wn/,/c/en/ad_hominem/a/wn/]"
+    },
+    {
+      "target": "news article",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/personal/n/wn/communication/,/c/en/news_article/n/wn/communication/]"
+    },
+    {
+      "target": "individualised",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/personal/a/wn/,/c/en/individualised/a/wn/]"
+    }
+  ],
+  "relationships": [
+    "SimilarTo",
+    "IsA"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "personal",
+  "single_word_validated": true
+}

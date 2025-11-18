@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1761621856.1862276,
+  "edges": [
+    {
+      "target": "you are scared",
+      "relationship": "MotivatedByGoal",
+      "weight": 2.0,
+      "uri": "/a/[/r/MotivatedByGoal/,/c/en/jump/,/c/en/scared/]"
+    },
+    {
+      "target": "descent",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/jump/n/wn/act/,/c/en/descent/n/wn/act/]"
+    },
+    {
+      "target": "leap out",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/jump/v/wn/stative/,/c/en/leap_out/v/wn/stative/]"
+    },
+    {
+      "target": "skakati",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/jump/v/wikt/en_1/,/c/sh/skakati/]"
+    },
+    {
+      "target": "startle",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/jump/n/wn/act/,/c/en/startle/n/wn/act/]"
+    },
+    {
+      "target": "alternate",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/jump/v/wn/change/,/c/en/alternate/v/wn/change/]"
+    },
+    {
+      "target": "jumpstart",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/jump/v/wn/motion/,/c/en/jumpstart/v/wn/motion/]"
+    },
+    {
+      "target": "sko\u010diti",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/jump/v/wikt/en_1/,/c/sh/sko\u010diti/]"
+    },
+    {
+      "target": "parachute",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/jump/v/wn/motion/,/c/en/parachute/v/wn/motion/]"
+    },
+    {
+      "target": "transition",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/jump/n/wn/communication/,/c/en/transition/n/wn/communication/]"
+    }
+  ],
+  "relationships": [
+    "MotivatedByGoal",
+    "IsA",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "jump",
+  "single_word_validated": true
+}

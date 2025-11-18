@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1756340507.5441053,
+  "edges": [
+    {
+      "target": "a tool",
+      "relationship": "IsA",
+      "weight": 10.583005244258363,
+      "uri": "/a/[/r/IsA/,/c/en/saw/,/c/en/tool/]"
+    },
+    {
+      "target": "Cutting things such as wood",
+      "relationship": "UsedFor",
+      "weight": 6.0,
+      "uri": "/a/[/r/UsedFor/,/c/en/saw/,/c/en/cutting_things_such_as_wood/]"
+    },
+    {
+      "target": "cutting wood",
+      "relationship": "UsedFor",
+      "weight": 4.898979485566356,
+      "uri": "/a/[/r/UsedFor/,/c/en/saw/,/c/en/cutting_wood/]"
+    },
+    {
+      "target": "sawing",
+      "relationship": "UsedFor",
+      "weight": 2.0,
+      "uri": "/a/[/r/UsedFor/,/c/en/saw/,/c/en/sawing/]"
+    },
+    {
+      "target": "\u017eaga",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/saw/n/wikt/en_1/,/c/sh/\u017eaga/]"
+    },
+    {
+      "target": "testera",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/saw/n/wikt/en_1/,/c/sh/testera/]"
+    },
+    {
+      "target": "cut wood",
+      "relationship": "UsedFor",
+      "weight": 2.0,
+      "uri": "/a/[/r/UsedFor/,/c/en/saw/,/c/en/cut_wood/]"
+    },
+    {
+      "target": "power saw",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/saw/n/wn/artifact/,/c/en/power_saw/n/wn/artifact/]"
+    },
+    {
+      "target": "hand tool",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/saw/n/wn/artifact/,/c/en/hand_tool/n/wn/artifact/]"
+    },
+    {
+      "target": "pila",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/saw/n/wikt/en_1/,/c/sh/pila/]"
+    }
+  ],
+  "relationships": [
+    "IsA",
+    "UsedFor",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "saw",
+  "single_word_validated": true
+}

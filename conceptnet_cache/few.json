@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1756792100.0444005,
+  "edges": [
+    {
+      "target": "many",
+      "relationship": "DistinctFrom",
+      "weight": 3.7491332331620333,
+      "uri": "/a/[/r/DistinctFrom/,/c/en/few/,/c/en/many/]"
+    },
+    {
+      "target": "little",
+      "relationship": "RelatedTo",
+      "weight": 2.6457513110645907,
+      "uri": "/a/[/r/RelatedTo/,/c/en/few/,/c/en/little/]"
+    },
+    {
+      "target": "many",
+      "relationship": "Antonym",
+      "weight": 2.437211521390788,
+      "uri": "/a/[/r/Antonym/,/c/en/few/,/c/en/many/]"
+    },
+    {
+      "target": "number",
+      "relationship": "RelatedTo",
+      "weight": 2.28910462845192,
+      "uri": "/a/[/r/RelatedTo/,/c/en/few/,/c/en/number/]"
+    },
+    {
+      "target": "\u043d\u0435\u0431\u0430\u0433\u0430\u0442\u043e",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/few/,/c/uk/\u043d\u0435\u0431\u0430\u0433\u0430\u0442\u043e/]"
+    },
+    {
+      "target": "hardly a",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/few/a/wn/,/c/en/hardly/a/wn/]"
+    },
+    {
+      "target": "niewiele",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/few/,/c/pl/niewiele/]"
+    },
+    {
+      "target": "a couple of",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/few/a/wn/,/c/en/couple_of/a/wn/]"
+    },
+    {
+      "target": "\u043c\u0430\u043b\u043a\u0443",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/few/,/c/mk/\u043c\u0430\u043b\u043a\u0443/]"
+    },
+    {
+      "target": "some",
+      "relationship": "RelatedTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/few/a/wn/,/c/en/some/a/wn/]"
+    }
+  ],
+  "relationships": [
+    "DistinctFrom",
+    "RelatedTo",
+    "Antonym",
+    "Synonym",
+    "SimilarTo"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "few",
+  "single_word_validated": true
+}

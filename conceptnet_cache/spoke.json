@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1754014818.6618307,
+  "edges": [
+    {
+      "target": "cartwheel",
+      "relationship": "PartOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/PartOf/,/c/en/spoke/n/wn/artifact/,/c/en/cartwheel/n/wn/artifact/]"
+    },
+    {
+      "target": "wagon wheel",
+      "relationship": "PartOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/PartOf/,/c/en/spoke/n/wn/artifact/,/c/en/wagon_wheel/n/wn/artifact/]"
+    },
+    {
+      "target": "support",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/spoke/n/wn/artifact/,/c/en/support/n/wn/artifact/]"
+    },
+    {
+      "target": "bicycle wheel",
+      "relationship": "PartOf",
+      "weight": 2.0,
+      "uri": "/a/[/r/PartOf/,/c/en/spoke/n/wn/artifact/,/c/en/bicycle_wheel/n/wn/artifact/]"
+    },
+    {
+      "target": "rundle",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/spoke/n/wn/artifact/,/c/en/rundle/n/wn/artifact/]"
+    },
+    {
+      "target": "speak",
+      "relationship": "RelatedTo",
+      "weight": 1.2649999999999997,
+      "uri": "/a/[/r/RelatedTo/,/c/en/spoke/,/c/en/speak/]"
+    },
+    {
+      "target": "wheel",
+      "relationship": "RelatedTo",
+      "weight": 1.097,
+      "uri": "/a/[/r/RelatedTo/,/c/en/spoke/,/c/en/wheel/]"
+    },
+    {
+      "target": "speak",
+      "relationship": "FormOf",
+      "weight": 1.0,
+      "uri": "/a/[/r/FormOf/,/c/en/spoke/,/c/en/speak/v/]"
+    },
+    {
+      "target": "radi",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/spoke/n/wikt/en_1/,/c/ca/radi/]"
+    },
+    {
+      "target": "speiche",
+      "relationship": "Synonym",
+      "weight": 1.0,
+      "uri": "/a/[/r/Synonym/,/c/en/spoke/n/wikt/en_1/,/c/de/speiche/]"
+    }
+  ],
+  "relationships": [
+    "PartOf",
+    "IsA",
+    "Synonym",
+    "RelatedTo",
+    "FormOf"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "spoke",
+  "single_word_validated": true
+}

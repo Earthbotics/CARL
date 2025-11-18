@@ -1,0 +1,76 @@
+{
+  "has_data": true,
+  "last_lookup": 1760280287.8766065,
+  "edges": [
+    {
+      "target": "a plate",
+      "relationship": "AtLocation",
+      "weight": 3.4641016151377544,
+      "uri": "/a/[/r/AtLocation/,/c/en/steak/,/c/en/plate/]"
+    },
+    {
+      "target": "meat",
+      "relationship": "RelatedTo",
+      "weight": 2.963781368454832,
+      "uri": "/a/[/r/RelatedTo/,/c/en/steak/,/c/en/meat/]"
+    },
+    {
+      "target": "meat",
+      "relationship": "IsA",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/IsA/,/c/en/steak/,/c/en/meat/]"
+    },
+    {
+      "target": "the freezer",
+      "relationship": "AtLocation",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/AtLocation/,/c/en/steak/,/c/en/freezer/]"
+    },
+    {
+      "target": "one cut of meat",
+      "relationship": "HasProperty",
+      "weight": 2.82842712474619,
+      "uri": "/a/[/r/HasProperty/,/c/en/steak/,/c/en/one_cut_of_meat/]"
+    },
+    {
+      "target": "cut",
+      "relationship": "ReceivesAction",
+      "weight": 2.0,
+      "uri": "/a/[/r/ReceivesAction/,/c/en/steak/,/c/en/cut/]"
+    },
+    {
+      "target": "a food",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/steak/,/c/en/food/]"
+    },
+    {
+      "target": "cut",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/steak/n/wn/food/,/c/en/cut/n/wn/food/]"
+    },
+    {
+      "target": "delicious",
+      "relationship": "HasProperty",
+      "weight": 2.0,
+      "uri": "/a/[/r/HasProperty/,/c/en/steak/,/c/en/delicious/]"
+    },
+    {
+      "target": "the grill",
+      "relationship": "AtLocation",
+      "weight": 2.0,
+      "uri": "/a/[/r/AtLocation/,/c/en/steak/,/c/en/grill/]"
+    }
+  ],
+  "relationships": [
+    "AtLocation",
+    "RelatedTo",
+    "IsA",
+    "HasProperty",
+    "ReceivesAction"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "steak",
+  "single_word_validated": true
+}

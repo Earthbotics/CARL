@@ -1,0 +1,79 @@
+{
+  "has_data": true,
+  "last_lookup": 1755044932.7088418,
+  "edges": [
+    {
+      "target": "zero",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/0/n/wn/quantity/,/c/en/zero/n/wn/quantity/]"
+    },
+    {
+      "target": "cardinal",
+      "relationship": "SimilarTo",
+      "weight": 2.0,
+      "uri": "/a/[/r/SimilarTo/,/c/en/0/a/wn/,/c/en/cardinal/a/wn/]"
+    },
+    {
+      "target": "302193771-s",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/0/a/wn/,/http://wordnet-rdf.princeton.edu/wn31/302193771-s/]"
+    },
+    {
+      "target": "off",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/0/n/,/c/fr/off/]"
+    },
+    {
+      "target": "number zero",
+      "relationship": "DefinedAs",
+      "weight": 1.0,
+      "uri": "/a/[/r/DefinedAs/,/c/en/0/,/c/en/number_zero/]"
+    },
+    {
+      "target": "pronounced zero",
+      "relationship": "HasProperty",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasProperty/,/c/en/0/,/c/en/pronounced_zero/]"
+    },
+    {
+      "target": "low",
+      "relationship": "RelatedTo",
+      "weight": 1.0,
+      "uri": "/a/[/r/RelatedTo/,/c/en/0/n/,/c/en/low/]"
+    },
+    {
+      "target": "character",
+      "relationship": "IsA",
+      "weight": 1.0,
+      "uri": "/a/[/r/IsA/,/c/en/0/,/c/de/character/]"
+    },
+    {
+      "target": "Q204",
+      "relationship": "ExternalURL",
+      "weight": 1.0,
+      "uri": "/a/[/r/ExternalURL/,/c/en/0/n/wp/number/,/http://wikidata.dbpedia.org/resource/Q204/]"
+    },
+    {
+      "target": "electrical engineering",
+      "relationship": "HasContext",
+      "weight": 1.0,
+      "uri": "/a/[/r/HasContext/,/c/en/0/n/,/c/en/electrical_engineering/]"
+    }
+  ],
+  "relationships": [
+    "Synonym",
+    "SimilarTo",
+    "ExternalURL",
+    "RelatedTo",
+    "DefinedAs",
+    "HasProperty",
+    "IsA",
+    "HasContext"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "0",
+  "single_word_validated": true
+}

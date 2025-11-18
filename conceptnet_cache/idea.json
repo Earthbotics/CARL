@@ -1,0 +1,74 @@
+{
+  "has_data": true,
+  "last_lookup": 1756251811.524937,
+  "edges": [
+    {
+      "target": "thought",
+      "relationship": "RelatedTo",
+      "weight": 6.008993260106056,
+      "uri": "/a/[/r/RelatedTo/,/c/en/idea/,/c/en/thought/]"
+    },
+    {
+      "target": "bulb",
+      "relationship": "RelatedTo",
+      "weight": 2.6168683574073803,
+      "uri": "/a/[/r/RelatedTo/,/c/en/idea/,/c/en/bulb/]"
+    },
+    {
+      "target": "light",
+      "relationship": "RelatedTo",
+      "weight": 2.340939982143925,
+      "uri": "/a/[/r/RelatedTo/,/c/en/idea/,/c/en/light/]"
+    },
+    {
+      "target": "light bulb",
+      "relationship": "RelatedTo",
+      "weight": 2.340939982143925,
+      "uri": "/a/[/r/RelatedTo/,/c/en/idea/,/c/en/light_bulb/]"
+    },
+    {
+      "target": "concept",
+      "relationship": "RelatedTo",
+      "weight": 2.0755722102591374,
+      "uri": "/a/[/r/RelatedTo/,/c/en/idea/,/c/en/concept/]"
+    },
+    {
+      "target": "opinion",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/idea/n/wn/cognition/,/c/en/opinion/n/wn/cognition/]"
+    },
+    {
+      "target": "content",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/idea/n/wn/cognition/,/c/en/content/n/wn/cognition/]"
+    },
+    {
+      "target": "mind",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/idea/n/wn/cognition/,/c/en/mind/n/wn/cognition/]"
+    },
+    {
+      "target": "a central meaning, purpose or concept",
+      "relationship": "IsA",
+      "weight": 2.0,
+      "uri": "/a/[/r/IsA/,/c/en/idea/,/c/en/central_meaning_purpose_or_concept/]"
+    },
+    {
+      "target": "estimate",
+      "relationship": "Synonym",
+      "weight": 2.0,
+      "uri": "/a/[/r/Synonym/,/c/en/idea/n/wn/cognition/,/c/en/estimate/n/wn/cognition/]"
+    }
+  ],
+  "relationships": [
+    "RelatedTo",
+    "IsA",
+    "Synonym"
+  ],
+  "total_edges_found": 10,
+  "concept_queried": "idea",
+  "single_word_validated": true
+}
