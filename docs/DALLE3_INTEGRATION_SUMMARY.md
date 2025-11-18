@@ -142,7 +142,7 @@ The system automatically reads the OpenAI API key from:
 ### Current Configuration:
 ```ini
 [settings]
-openaiapikey = sk-c3fqLoX6YHlK0anrMMsrQy7LMmV3Hdt8z5v1IETK
+openaiapikey = sk-c3fqLoX6ZZZZZZZZZZZZZZZZZZZZZZZZZZ
 ```
 
 ## 📁 Files Modified/Created
