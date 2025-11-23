@@ -1,0 +1,69 @@
+# reaction_amazed - ARC Script for EZ-Robot JD
+
+# === Initialization: Set initial positions first ===
+Servo(D0, 90)     # Head center
+Servo(D1, 100)    # Neck upright
+Servo(D2, 1)      # Shoulder-Right
+Servo(D3, 180)    # Shoulder-Left
+Servo(D4, 150)    # Upper Arm-Left
+Servo(D5, 120)    # Lower Arm-Left
+Servo(D6, 90)     # Hand-Left
+Servo(D7, 30)     # Upper Arm-Right
+Servo(D8, 60)     # Lower Arm-Right
+Servo(D9, 90)     # Hand-Right
+Servo(D12, 90)    # Upper Leg-Left
+Servo(D13, 90)    # Knee-Left
+Servo(D14, 90)    # Foot-Left
+Servo(D16, 90)    # Upper Leg-Right
+Servo(D17, 90)    # Knee-Right
+Servo(D18, 90)    # Foot-Right
+Sleep(300)
+
+# === Set Speeds ===
+ServoSpeed(D0, 3)
+ServoSpeed(D1, 3)
+ServoSpeed(D2, 2)
+ServoSpeed(D3, 2)
+ServoSpeed(D4, 2)
+ServoSpeed(D5, 2)
+ServoSpeed(D6, 2)
+ServoSpeed(D7, 2)
+ServoSpeed(D8, 2)
+ServoSpeed(D9, 2)
+ServoSpeed(D12, 2)
+ServoSpeed(D13, 2)
+ServoSpeed(D14, 2)
+ServoSpeed(D16, 2)
+ServoSpeed(D17, 2)
+ServoSpeed(D18, 2)
+
+# === REACT: AMAZED POSE ===
+Servo(D1, 70)     # Head tilt upward
+Servo(D2, 50)     # Right shoulder up
+Servo(D3, 130)    # Left shoulder up
+Servo(D4, 75)     # Upper Arm-Left raised
+Servo(D5, 45)     # Lower Arm-Left folded toward head
+Servo(D6, 40)     # Hand-Left near head
+Servo(D7, 105)    # Upper Arm-Right raised
+Servo(D8, 145)    # Lower Arm-Right folded toward head
+Servo(D9, 140)    # Hand-Right near head
+Servo(D12, 100)   # Lean back left leg slightly
+Servo(D16, 75)    # Lean back right leg slightly
+Sleep(1200)
+
+# === HOLD POSE ===
+Sleep(1000)
+
+# === RETURN TO NEUTRAL ===
+Servo(D1, 100)
+Servo(D2, 1)
+Servo(D3, 180)
+Servo(D4, 150)
+Servo(D5, 120)
+Servo(D6, 90)
+Servo(D7, 30)
+Servo(D8, 60)
+Servo(D9, 90)
+Servo(D12, 90)
+Servo(D16, 90)
+Sleep(800)

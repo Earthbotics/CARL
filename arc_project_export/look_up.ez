@@ -1,0 +1,16 @@
+# Move CARL's head to the left
+
+# Adjust the port and values as needed for your servo setup.
+# Assume D1 is used for head horizontal servo
+
+# Start by enabling the servo on D1
+Servo(D1, 90)  # center position (optional)
+
+# Move left
+Servo(D1, 40)  # lower value turns the head left on most servo setups
+
+# Optionally, wait a few seconds
+#Sleep(1000)
+
+# Return to center (optional)
+#Servo(D1, 90)

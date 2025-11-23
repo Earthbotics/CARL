@@ -1,0 +1,15 @@
+# speech_answer - ARC Script
+
+Servo(D0, 90)
+Servo(D1, 90)   # Neck down
+Sleep(300)
+
+Servo(D1, 100)  # Nod up
+Sleep(300)
+
+Servo(D1, 90)   # Nod down
+Sleep(300)
+
+# Reset
+Servo(D1, 100)
+Sleep(300)

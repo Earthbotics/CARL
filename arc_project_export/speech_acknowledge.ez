@@ -1,0 +1,20 @@
+# speech_acknowledge - ARC Script
+
+Servo(D1, 90)   # Nod down
+Sleep(200)
+Servo(D1, 100)  # Nod up
+Sleep(200)
+
+Servo(D7, 40)   # Right arm wave
+Servo(D8, 80)
+Servo(D9, 40)
+Sleep(300)
+Servo(D9, 150)
+Sleep(300)
+
+# Reset
+Servo(D7, 30)
+Servo(D8, 60)
+Servo(D9, 90)
+Servo(D1, 100)
+Sleep(400)

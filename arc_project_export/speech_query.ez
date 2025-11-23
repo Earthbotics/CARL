@@ -1,0 +1,20 @@
+# speech_query - ARC Script
+
+Servo(D0, 70)   # Head tilt left
+Servo(D1, 85)   # Neck lowered
+Servo(D4, 130)  # Left arm raised slightly
+Servo(D5, 90)   # Left forearm bent
+Servo(D6, 40)   # Left hand open palm-up
+Sleep(500)
+
+# Gentle nod
+Servo(D0, 75)
+Sleep(400)
+
+# Reset
+Servo(D0, 90)
+Servo(D1, 100)
+Servo(D4, 150)
+Servo(D5, 120)
+Servo(D6, 90)
+Sleep(400)

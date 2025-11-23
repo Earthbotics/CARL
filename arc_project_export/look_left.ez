@@ -1,0 +1,7 @@
+# Move CARL's head to the left
+# Direction	D0 Value
+#     Right	0–89
+#     Center	90
+#     Left	91–180
+Servo(D0, 140)    # Turn left (lower number = left on most setups)
+Sleep(1000)

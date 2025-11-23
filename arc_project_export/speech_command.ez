@@ -1,0 +1,14 @@
+# speech_command - ARC Script
+
+Servo(D0, 85)   # Head aligned
+Servo(D7, 20)   # Right arm forward
+Servo(D8, 40)   # Right forearm extended
+Servo(D9, 30)   # Right hand pointed
+Sleep(600)
+
+# Reset
+Servo(D7, 30)
+Servo(D8, 60)
+Servo(D9, 90)
+Servo(D0, 90)
+Sleep(400)

@@ -1,0 +1,90 @@
+# reaction_ecstatic - ARC Script for EZ-Robot JD
+
+# === Initialization ===
+Servo(D0, 90)     # Head center
+Servo(D1, 100)    # Neck upright
+Servo(D2, 1)      # Shoulder-Right
+Servo(D3, 180)    # Shoulder-Left
+Servo(D4, 150)    # Upper Arm-Left
+Servo(D5, 120)    # Lower Arm-Left
+Servo(D6, 90)     # Hand-Left
+Servo(D7, 30)     # Upper Arm-Right
+Servo(D8, 60)     # Lower Arm-Right
+Servo(D9, 90)     # Hand-Right
+Servo(D12, 90)    # Upper Leg-Left
+Servo(D13, 90)    # Knee-Left
+Servo(D14, 90)    # Foot-Left
+Servo(D16, 90)    # Upper Leg-Right
+Servo(D17, 90)    # Knee-Right
+Servo(D18, 90)    # Foot-Right
+Sleep(300)
+
+# === Servo Speeds (for smooth and excited pacing) ===
+ServoSpeed(D0, 3)
+ServoSpeed(D1, 3)
+ServoSpeed(D2, 2)
+ServoSpeed(D3, 2)
+ServoSpeed(D4, 2)
+ServoSpeed(D5, 2)
+ServoSpeed(D6, 2)
+ServoSpeed(D7, 2)
+ServoSpeed(D8, 2)
+ServoSpeed(D9, 2)
+ServoSpeed(D12, 4)
+ServoSpeed(D13, 4)
+ServoSpeed(D14, 4)
+ServoSpeed(D16, 4)
+ServoSpeed(D17, 4)
+ServoSpeed(D18, 4)
+
+# === ECSTATIC REACTION ===
+
+# Frame 1: Raise arms, lift head, open hands
+Servo(D1, 70)     # Neck up (joyful head tilt)
+Servo(D2, 45)     # Right shoulder up
+Servo(D3, 135)    # Left shoulder up
+Servo(D4, 70)     # Upper Arm-Left up
+Servo(D5, 30)     # Lower Arm-Left extended up
+Servo(D6, 40)     # Hand open
+Servo(D7, 110)    # Upper Arm-Right up
+Servo(D8, 150)    # Lower Arm-Right extended up
+Servo(D9, 140)    # Hand open
+Servo(D12, 80)    # Lean left leg back
+Servo(D16, 80)    # Lean right leg back
+Sleep(1000)
+
+# Frame 2: Joyful bounce (slight leg retraction)
+Servo(D13, 70)    # Left knee bend
+Servo(D17, 70)    # Right knee bend
+Sleep(300)
+
+Servo(D13, 90)    # Reset knee
+Servo(D17, 90)
+Sleep(300)
+
+# Frame 3: Second bounce and arm pulse
+Servo(D4, 60)
+Servo(D5, 40)
+Servo(D7, 120)
+Servo(D8, 140)
+Servo(D13, 70)
+Servo(D17, 70)
+Sleep(300)
+
+Servo(D13, 90)
+Servo(D17, 90)
+Sleep(500)
+
+# Return to neutral
+Servo(D1, 100)
+Servo(D2, 1)
+Servo(D3, 180)
+Servo(D4, 150)
+Servo(D5, 120)
+Servo(D6, 90)
+Servo(D7, 30)
+Servo(D8, 60)
+Servo(D9, 90)
+Servo(D12, 90)
+Servo(D16, 90)
+Sleep(1000)

@@ -1,0 +1,32 @@
+# speech_promise - ARC Script (Hand to chest, small nod)
+
+# === Neutral baseline ===
+Servo(D0, 90)     # Head center
+Servo(D1, 100)    # Neck upright
+Servo(D4, 150)    # Upper Arm-Left neutral
+Servo(D5, 120)    # Lower Arm-Left neutral
+Servo(D6, 90)     # Left hand neutral
+Sleep(300)
+
+# === Motion: left hand to chest ===
+ServoSpeed(D4, 3)
+ServoSpeed(D5, 3)
+ServoSpeed(D6, 3)
+
+Servo(D4, 100)    # Shoulder rotates inward across torso
+Servo(D5, 40)     # Elbow bends sharply to bring hand across
+Servo(D6, 70)     # Hand rotated inward toward chest
+Sleep(600)
+
+# === Small nod ===
+Servo(D1, 90)     # Neck down
+Sleep(300)
+Servo(D1, 100)    # Neck back up
+Sleep(300)
+
+# === Reset ===
+Servo(D4, 150)    # Upper Arm-Left back to neutral
+Servo(D5, 120)    # Lower Arm-Left back to neutral
+Servo(D6, 90)     # Hand neutral
+Servo(D1, 100)    # Neck upright
+Sleep(400)

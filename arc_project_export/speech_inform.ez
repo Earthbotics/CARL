@@ -1,0 +1,18 @@
+# speech_inform - ARC Script
+
+Servo(D0, 90)   # Head center
+Servo(D1, 95)   # Neck upright
+Servo(D7, 40)   # Right arm forward
+Servo(D8, 70)   # Right forearm open
+Servo(D9, 30)   # Right hand open (palm out)
+Sleep(500)
+
+Servo(D0, 100)  # Slight head nod
+Sleep(400)
+
+# Reset
+Servo(D7, 30)
+Servo(D8, 60)
+Servo(D9, 90)
+Servo(D0, 90)
+Sleep(400)
